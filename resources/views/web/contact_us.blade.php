@@ -1,6 +1,13 @@
 @extends('layouts.app')
 @section('title', 'Contact Us | Vulcanus')
 
+<style>
+    .detail a {
+        color: #282828;
+        text-decoration: none;
+    }
+</style>
+
 @section('content')
     <div id="contact">
         <div class="container">
@@ -24,21 +31,21 @@
                 <div class="one-third column">
                     <div class="icon-contact">&#xf015;</div>
                     <div class="detail">
-                        <p>100 Biscayne Blvd. (North) 21st Floor New World Tower Miami, Florida 33148</p>
+                        <p>Unit 1 25/F Shanghai Commercial Bank Tower, <br>
+                            12 Queen's Road Central, Hong Kong
+                        </p>
                     </div>
                 </div>
                 <div class="one-third column">
                     <div class="icon-contact">&#xf095;</div>
                     <div class="detail">
-                        <p>(305) 555-4446</p>
-                        <p>(305) 555-4457</p>
+                        <a href="tel:+852 5808 6078">+852 5808 6078</a>
                     </div>
                 </div>
                 <div class="one-third column">
                     <div class="icon-contact">&#xf003;</div>
                     <div class="detail">
-                        <p>general: office@yoursite.com</p>
-                        <p>support: support@example.com</p>
+                        <a href="mailto:contactus@wgaml.com">contactus@wgaml.com</a>
                     </div>
                 </div>
             </div>
@@ -75,6 +82,5 @@
                 </div>
             </div>
         </div>
-
     </div>
 @endsection

@@ -1,20 +1,32 @@
-<div class="footer">
+<style>
+    .link-top a {
+        color: #B5B5B5;
+    }
+
+    .link-top a:hover {
+        color: #D35400;
+    }
+</style>
+
+<div class="header">
     <div class="container">
         <div class="sixteen columns">
             <a href="#home" class="scroll"><img src="images/logo.png" alt="" /></a>
         </div>
+        <hr>
         <div class="sixteen columns">
-            <p><span>© Vulcan - a HTML 5 template with serious impact. Created by</span> IG Design</p>
-        </div>
-        <div class="sixteen columns">
-            <div class="social-bottom">
-                <ul class="bottom-social">
-                    <li class="icon-bottom"><a href="#">&#xf099;</a></li>
-                    <li class="icon-bottom"><a href="#">&#xf09a;</a></li>
-                    <li class="icon-bottom"><a href="#">&#xf09b;</a></li>
-                    <li class="icon-bottom"><a href="#">&#xf0d5;</a></li>
-                </ul>
+            <div class="border-top d-flex justify-content-around pt-4">
+                <div>
+                    <a href="" class="text-light">Private Banking</a>
+                </div>
+                <div>
+                    <a href="" class="text-light">Investment Management</a>
+                </div>
+                <div>
+                    <a href="" class="text-light">Investor Services</a>
+                </div>
             </div>
         </div>
+
     </div>
 </div>
