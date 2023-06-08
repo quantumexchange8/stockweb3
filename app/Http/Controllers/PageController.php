@@ -93,6 +93,123 @@ class PageController extends Controller
         return view('web.careers.what-we-look-for.undergraduate_internships');
     }
 
+    // Investment Management
+    public function listingInvestmentManagement() {
+        return view('web.investment-management.listing');
+    }
+    // Investment Management > Fixed Income
+    public function listingFixedIncome() {
+        return view('web.investment-management.fixed-income.listing');
+    }
+    public function taxExemptFixedIncomeStrategy() {
+        return view('web.investment-management.fixed-income.tax_exempt_fixed_income_strategy');
+    }
+    public function taxableFixedIncomeStrategies() {
+        return view('web.investment-management.fixed-income.taxable_fixed_income_strategies');
+    }
+    public function usTipsStrategy() {
+        return view('web.investment-management.fixed-income.us_tips_strategy');
+    }
+    // Investment Management > Open Account
+    public function listingOpenAccount() {
+        return view('web.investment-management.open-account.listing');
+    }
+    // Investment Management > Public Equity
+    public function listingPublicEquity() {
+        return view('web.investment-management.public-equity.listing');
+    }
+    public function globalEquity() {
+        return view('web.investment-management.public-equity.global_equity');
+    }
+    public function usLargeCapEquity() {
+        return view('web.investment-management.public-equity.us_large_cap_equity');
+    }
+    public function usSmallAndMidCapEquity() {
+        return view('web.investment-management.public-equity.us_small_and_mid_cap_equity');
+    }
+
+    // Investor Services
+    public function listingInvestorServices() {
+        return view('web.investor-services.listing');
+    }
+    // Investor Services > Custody and Fund Services
+    public function listingCustodyAndFundServices() {
+        return view('web.investor-services.custody-and-fund-services.listing');
+    }
+    public function collateralManagementCustody() {
+        return view('web.investor-services.custody-and-fund-services.collateral_management');
+    }
+    public function custody() {
+        return view('web.investor-services.custody-and-fund-services.custody');
+    }
+    public function depositaryAndTrustee() {
+        return view('web.investor-services.custody-and-fund-services.depositary_and_trustee');
+    }
+    public function fundAccounting() {
+        return view('web.investor-services.custody-and-fund-services.fund_accounting');
+    }
+    public function fundAdministration() {
+        return view('web.investor-services.custody-and-fund-services.fund_administration');
+    }
+    public function fundOrderAndCustody() {
+        return view('web.investor-services.custody-and-fund-services.fund_order_and_custody');
+    }
+    public function globalTax() {
+        return view('web.investor-services.custody-and-fund-services.global_tax');
+    }
+    public function transferAgency() {
+        return view('web.investor-services.custody-and-fund-services.transfer_agency');
+    }
+    // Investor Services > Investment Operations and Technology Solutions
+    public function listingInvestmentOperationsAndTechnologySolutions() {
+        return view('web.investor-services.investment-operations-and-technology-solutions.listing');
+    }
+    public function middleOfficeOutsourcing() {
+        return view('web.investor-services.investment-operations-and-technology-solutions.middle_office_outsourcing');
+    }
+    public function technologyServices() {
+        return view('web.investor-services.investment-operations-and-technology-solutions.technology_services');
+    }
+    // Investor Services > Investment Operations and Technology Solutions > Middle Office Outsourcing
+    public function collateralManagementInvestment() {
+        return view('web.investor-services.investment-operations-and-technology-solutions.middle-office-outsourcing.collateral_management');
+    }
+    public function hostedOperationsAndReporting() {
+        return view('web.investor-services.investment-operations-and-technology-solutions.middle-office-outsourcing.hosted_operations_and_reporting');
+    }
+    public function investmentAccountingAndEnterpriseDataSupport() {
+        return view('web.investor-services.investment-operations-and-technology-solutions.middle-office-outsourcing.investment_accounting_and_enterprise_data_support');
+    }
+    public function targetedTechnologySolutionsViaInfomediary() {
+        return view('web.investor-services.investment-operations-and-technology-solutions.middle-office-outsourcing.targeted_technology_solutions_via_infomediary');
+    }
+    // Investor Services > Investment Operations and Technology Solutions > Technology Services
+    // Investor Services > Markets
+    // Investor Services > Markets > Foreign Exchange
+    // Investor Services > Markets > Securities Lending
+    // Investor Services > Specialist Expertise
+    // Investor Services > Specialist Expertise > Alternative Funds
+    // Investor Services > Specialist Expertise > Cross-border Funds
+
+    // Private Banking
+    // Private Banking > Corporate Advisory and Banking
+    // Private Banking > Private Equity
+    // Private Banking > Private Wealth Management
+
+    // Contact Us
+    public function contactUs() {
+        return view('web.contact-us.contact_us');
+    }
+    public function officeLocation() {
+        return view('web.contact-us.office_location');
+    }
+    public function subscriptionPage() {
+        return view('web.contact-us.subscription_page');
+    }
+    public function unsubscribePage() {
+        return view('web.contact-us.unsubscribe_page');
+    }
+
     // Our Firm
     public function listingOurFirm() {
         return view('web.our-firm.listing');
@@ -111,19 +228,5 @@ class PageController extends Controller
     }
     public function thePartnership() {
         return view('web.our-firm.the_partnership');
-    }
-
-    // Contact Us
-    public function contactUs() {
-        return view('web.contact-us.contact_us');
-    }
-    public function officeLocation() {
-        return view('web.contact-us.office_location');
-    }
-    public function subscriptionPage() {
-        return view('web.contact-us.subscription_page');
-    }
-    public function unsubscribePage() {
-        return view('web.contact-us.unsubscribe_page');
     }
 }
