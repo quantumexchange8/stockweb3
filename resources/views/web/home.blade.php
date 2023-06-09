@@ -203,10 +203,6 @@
             </div>
         </article>
 
-        @include('web.private-banking.listing')
-
-
-
         <article id="services" class="off">
             <div class="container">
                 <div class="sixteen columns">
