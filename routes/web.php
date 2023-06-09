@@ -154,7 +154,7 @@ Route::controller(PageController::class)->prefix('investor-services/markets/fore
 });
     // Investor Services > Markets > Securities Lending
 Route::controller(PageController::class)->prefix('investor-services/markets/securities-lending')->as('web.investor-services.markets.securities-lending.')->group(function () {
-    Route::get('/waml_securities_lending_execution_policy', 'wamlSecuritiesLendingExecutionPolicy')->name('waml_securities_lending_execution_policy');
+    Route::get('/waml-securities-lending-execution-policy', 'wamlSecuritiesLendingExecutionPolicy')->name('waml_securities_lending_execution_policy');
 });
     // Investor Services > Specialist Expertise
 Route::controller(PageController::class)->prefix('investor-services/specialist-expertise')->as('web.investor-services.specialist-expertise.')->group(function () {
@@ -178,10 +178,10 @@ Route::controller(PageController::class)->prefix('investor-services/specialist-e
     // Investor Services > Specialist Expertise > Cross-border Funds
 Route::controller(PageController::class)->prefix('investor-services/specialist-expertise/cross-border-funds')->as('web.investor-services.specialist-expertise.cross-border-funds.')->group(function () {
     Route::get('/dublin', 'dublin')->name('dublin');
-    Route::get('/global_service_model', 'globalServiceModel')->name('global_service_model');
-    Route::get('/greater_china', 'greaterChina')->name('greater_china');
+    Route::get('/global-service-model', 'globalServiceModel')->name('global_service_model');
+    Route::get('/greater-china', 'greaterChina')->name('greater_china');
     Route::get('/japan', 'japan')->name('japan');
-    Route::get('/latin_america', 'latinAmerica')->name('latin_america');
+    Route::get('/latin-america', 'latinAmerica')->name('latin_america');
     Route::get('/luxembourg', 'luxembourg')->name('luxembourg');
 });
     // Private Banking
