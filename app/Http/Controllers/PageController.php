@@ -1,7 +1,6 @@
 <?php
 
 namespace App\Http\Controllers;
-
 use Illuminate\Http\Request;
 
 class PageController extends Controller
@@ -9,6 +8,40 @@ class PageController extends Controller
     public function home() {
         return view('web.home');
     }
+    // Our Firm
+    public function listingOurFirm() {
+        return view('web.our-firm.listing');
+    }
+    public function ourMissionAndProfile() {
+        return view('web.our-firm.our_mission_and_profile');
+    }
+    public function philanthropy() {
+        return view('web.our-firm.philanthropy');
+    }
+    public function policiesAndDisclosures() {
+        return view('web.our-firm.policies_and_disclosures');
+    }
+    public function sustainability() {
+        return view('web.our-firm.sustainability');
+    }
+    public function thePartnership() {
+        return view('web.our-firm.the_partnership');
+    }
+
+    // Contact Us
+    public function contactUs() {
+        return view('web.contact-us.contact_us');
+    }
+    public function officeLocation() {
+        return view('web.contact-us.office_location');
+    }
+    public function subscriptionPage() {
+        return view('web.contact-us.subscription_page');
+    }
+    public function unsubscribePage() {
+        return view('web.contact-us.unsubscribe_page');
+    }
+
     // Careers
     public function lifeHere() {
         return view('web.careers.life_here');
@@ -29,10 +62,10 @@ class PageController extends Controller
     public function cares() {
         return view('web.careers.life-here.cares');
     }
-    public function core_values() {
+    public function coreValues() {
         return view('web.careers.life-here.core_values');
     }
-    public function our_culture() {
+    public function ourCulture() {
         return view('web.careers.life-here.our_culture');
     }
     // Careers > Life Here > Affinity Network Community
@@ -111,8 +144,8 @@ class PageController extends Controller
         return view('web.investment-management.fixed-income.us_tips_strategy');
     }
     // Investment Management > Open Account
-    public function listingOpenAccount() {
-        return view('web.investment-management.open-account.listing');
+    public function openAccount() {
+        return view('web.investment-management.open_account');
     }
     // Investment Management > Public Equity
     public function listingPublicEquity() {
@@ -203,14 +236,17 @@ class PageController extends Controller
     public function currencyHedging() {
         return view('web.investor-services.markets.currency_hedging');
     }
-    public function infofx() {
-        return view('web.investor-services.markets.infofx');
+    public function foreignExchange() {
+        return view('web.investor-services.markets.foreign_exchange');
     }
-    public function securities_lending() {
-        return view('web.investor-services.markets.securities_lending');
+    public function infoFx() {
+        return view('web.investor-services.markets.infofx');
     }
     public function securitiesLending() {
         return view('web.investor-services.markets.securities_lending');
+    }
+    public function marketIntelligence() {
+        return view('web.investor-services.markets.market_intelligence');
     }
     // Investor Services > Markets > Foreign Exchange
     public function fxDisclosureStatement() {
@@ -345,37 +381,4 @@ class PageController extends Controller
         return view('web.private-banking.private-wealth-management.wealth_planning');
     }
 
-    // Contact Us
-    public function contactUs() {
-        return view('web.contact-us.contact_us');
-    }
-    public function officeLocation() {
-        return view('web.contact-us.office_location');
-    }
-    public function subscriptionPage() {
-        return view('web.contact-us.subscription_page');
-    }
-    public function unsubscribePage() {
-        return view('web.contact-us.unsubscribe_page');
-    }
-
-    // Our Firm
-    public function listingOurFirm() {
-        return view('web.our-firm.listing');
-    }
-    public function ourMissionAndProfile() {
-        return view('web.our-firm.our_mission_and_profile');
-    }
-    public function philanthropy() {
-        return view('web.our-firm.philanthropy');
-    }
-    public function policiesAndDisclosures() {
-        return view('web.our-firm.policies_and_disclosures');
-    }
-    public function sustainability() {
-        return view('web.our-firm.sustainability');
-    }
-    public function thePartnership() {
-        return view('web.our-firm.the_partnership');
-    }
 }
