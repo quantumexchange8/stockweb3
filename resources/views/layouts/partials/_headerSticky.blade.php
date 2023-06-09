@@ -17,7 +17,7 @@
             <a href="#blog">Sustainability</a>
         </li>
         <li>
-            <a href="{{ route('web.contact-us') }}">Contact Us</a>
+            <a href="{{ route('web.contact-us.contact_us') }}">Contact Us</a>
         </li>
     </ul>
 </div>
