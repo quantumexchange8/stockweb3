@@ -1,7 +1,7 @@
 <div class="footer">
     <div class="container">
         <div class="sixteen columns">
-            <a href="#home" class="scroll"><img src="images/logo.png" alt="" /></a>
+            <a href="{{ route('web.home') }}"><img src="{{ asset('images/logo.png') }}" alt="" /></a>
         </div>
         <div class="sixteen columns">
             <p><span>© Vulcan - a HTML 5 template with serious impact. Created by</span> IG Design</p>

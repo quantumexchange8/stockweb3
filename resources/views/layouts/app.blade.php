@@ -15,7 +15,7 @@
 <body>
     <!-- Primary Page Layout -->
     <div id="preloader"></div>
-
+    @include('layouts.partials._headerSticky')
     @yield('content')
 
     <!-- Modals -->
@@ -23,6 +23,7 @@
 
     <!-- Switch Panel -->
     @include('layouts.partials._switchPanel')
+
 
     <!-- JAVASCRIPT -->
     @stack('custom-scripts')

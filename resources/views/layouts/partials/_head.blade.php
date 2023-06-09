@@ -1,3 +1,4 @@
+<meta name="keywords" content="">
 <meta name="description" content="">
 <meta name="author" content="">
 
@@ -5,9 +6,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
 <!-- CSS -->
-@if (request()->is('/'))
-    @include('layouts.partials._headAnimated')
-@endif
+{{-- @if (request()->is('/')) --}}
+{{-- @include('layouts.partials._headAnimated') --}}
+{{-- @elseif (request()->is('private-banking/*') || request()->is('investment-management/*') || request()->is('investor-services/*')) --}}
+{{-- @include('layouts.partials._head3dmenu') --}}
+{{-- @elseif (request()->is('private-banking') || request()->is('investment-management') || request()->is('investor-services')) --}}
+@include('layouts.partials._headSlider')
+{{-- @endif --}}
 
 <!-- Colors -->
 <link rel="alternate stylesheet" type="text/css" href="{{ asset('css/colors/color-orange.css') }}" title="orange">
