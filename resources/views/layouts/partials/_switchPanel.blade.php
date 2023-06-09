@@ -14,20 +14,9 @@
                     style="background-color:#f1c40f"></a></li>
         </ul>
         <div class="clear"></div>
-        {{-- <p>Page Templates:</p>
-        <div class="home-options">
-            <a href="http://ivang-design.com/vulcan/slider/">Multi-Page Slider</a>
-            <a href="http://ivang-design.com/vulcan/video/">Multi-Page Video</a>
-            <a href="http://ivang-design.com/vulcan/videoop/">One-Page Video</a>
-            <a href="http://ivang-design.com/vulcan/animated/">Animated Layout</a>
-            <a href="http://ivang-design.com/vulcan/animated2/">Animated Layout 2</a>
-            <a href="http://ivang-design.com/vulcan/parallax/">Parallax Version</a>
-            <a href="http://ivang-design.com/vulcan/showcaseslider/">Showcase Slider</a>
-            <a href="http://ivang-design.com/vulcan/splash/">Splash Intro</a>
-            <a href="http://ivang-design.com/vulcan/rotatingwords/">Rotating Words</a>
-        </div> --}}
+
         <div id="hide">
-            <img src="images/close.png" alt="" />
+            <img src="{{ asset('images/close.png') }}" alt="" />
         </div>
     </div>
 </div>

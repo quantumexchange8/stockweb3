@@ -1,10 +1,10 @@
 
-
 //Preloader
 
 	$(window).load(function() {
 		$("#preloader").delay(350).fadeOut("slow");
 	})
+
 
 
 jQuery(function($) {
@@ -51,63 +51,13 @@ $(document).ready(function(){"use strict";
 	});
 
 
+//Home Slider
 
+			$(function() {
 
-//Home text rotator
+				Slider.init();
 
-$(".rotator > div:gt(0)").hide();
-setInterval(function() {
-  $('.rotator > div:first')
-    .fadeOut(0)
-    .next()
-    .fadeIn(1000)
-    .end()
-    .appendTo('.rotator');
-},  3000);
-
-
-
-
-
-//Home Background Slider
-
-        $(function(){
-
-            $.mbBgndGallery.buildGallery({
-                containment:"#home",
-                timer:4000,
-                effTimer:700,
-                controls:"#controls",
-                grayScale:false,
-                shuffle:false,
-                preserveWidth:false,
-                effect:"slideDown",
-				effect:{enter:{top:"-100%",opacity:1},exit:{top:0,opacity:0}, enterTiming:"ease-in", exitTiming:"ease-in"},
-
-                // If your server allow directory listing you can use:
-                // (however this doesn't work locally on your computer)
-
-                //folderPath:"testImage/",
-
-                // else:
-
-                 images:[
-                 "images/1.jpg",
-                 "images/2.jpg",
-                 "images/3.jpg"
-                 ],
-
-                onStart:function(){},
-                onPause:function(){},
-                onPlay:function(opt){},
-                onChange:function(opt,idx){},
-                onNext:function(opt){},
-                onPrev:function(opt){}
-            });
-
-
-        });
-
+			});
 
 
 //Navigation

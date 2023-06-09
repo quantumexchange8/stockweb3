@@ -2,22 +2,22 @@
     <div class="logo"></div>
     <ul class="slimmenu">
         <li>
-            <a href="https://client.wgaml.com/" class="scroll">Client Login</a>
+            <a href="#home" class="scroll">home</a>
         </li>
         <li>
-            <a href="{{ route('web.home') }}">Home</a>
+            <a href="#about" class="scroll">about</a>
         </li>
         <li>
-            <a href="#services">Our Firm</a>
+            <a href="#services" class="scroll">services</a>
         </li>
         <li>
-            <a href="#folio">Careers</a>
+            <a href="#folio" class="scroll">portfolio</a>
         </li>
         <li>
-            <a href="#blog">Sustainability</a>
+            <a href="#blog" class="scroll">blog</a>
         </li>
         <li>
-            <a href="{{ route('web.contact-us.contact_us') }}">Contact Us</a>
+            <a href="#contact" class="scroll">contact</a>
         </li>
     </ul>
 </div>
