@@ -35,7 +35,7 @@
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;long-term perspective <br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;discipline and patience <br><br>
 
-            Learn about how we integrate <a href="" style="text-decoration: underline;">environmental,
+            Learn about how we integrate <a href="javascript:goTo('esgApproach')" style="text-decoration: underline;">environmental,
                 social
                 and governance (ESG) considerations</a> within our
             bottom-up investment approach.
@@ -48,18 +48,18 @@
             <img src="{{ asset('images/gallery/8.jpg') }}" alt="" />
         </div>
         <div class="eight columns">
-            <h6><a href="{{ route('web.investment-management.public-equity.listing') }}">Public Equity</a></h6>
+            <h6><a href="javascript:goTo('publicEquity')">Public Equity</a></h6>
             <p>Wingate’s public equity strategies seek to generate attractive long-term investment returns over
                 full
                 market cycles with an emphasis on capital preservation.</p>
             <div class="blog-tag" style="padding-top: 10px;">
-                <a href="#">U.S. Large Cap Equity</a>
-                <a href="#">U.S. Small & Mid-Cap Equity</a>
-                <a href="#">Global Equity</a>
+                <a href="javascript:goTo('usLargeCapEquity')">U.S. Large Cap Equity</a>
+                <a href="javascript:goTo('usSmallAndMidCapEquity')">U.S. Small & Mid-Cap Equity</a>
+                <a href="javascript:goTo('globalEquity')">Global Equity</a>
             </div>
             <div class="clear"></div>
             <div class="link-blog">
-                <div class="cl-effect-14"><a href="{{ route('web.investment-management.public-equity.listing') }}">read
+                <div class="cl-effect-14"><a href="javascript:goTo('publicEquity')">read
                         more</a>
                 </div>
             </div>
@@ -74,17 +74,17 @@
             </ul>
         </div>
         <div class="eight columns">
-            <h6><a href="{{ route('web.investment-management.fixed-income.listing') }}">Fixed Income</a></h6>
+            <h6><a href="javascript:goTo('fixedIncome')">Fixed Income</a></h6>
             <p>We offer taxable, tax-exempt, and inflation-indexed strategies that utilize our unique investment
                 philosophy and valuation methodology that seeks to generate long-term, peer-leading returns.</p>
             <div class="blog-tag">
-                <a href="#">Taxable Fixed Income Strategies</a>
-                <a href="#">U.S. TIPS Strategy</a>
-                <a href="#">Tax-Exempt Fixed Income Strategy</a>
+                <a href="javascript:goTo('taxableFixedIncomeStrategies')">Taxable Fixed Income Strategies</a>
+                <a href="javascript:goTo('usTipsStrategy')">U.S. TIPS Strategy</a>
+                <a href="javascript:goTo('taxExemptFixedIncomeStrategy')">Tax-Exempt Fixed Income Strategy</a>
             </div>
             <div class="clear"></div>
             <div class="link-blog">
-                <div class="cl-effect-14"><a href="{{ route('web.investment-management.fixed-income.listing') }}">read
+                <div class="cl-effect-14"><a href="javascript:goTo('fixedIncome')">read
                         more</a>
                 </div>
             </div>
@@ -97,13 +97,13 @@
             <img src="{{ asset('images/gallery/8.jpg') }}" alt="" />
         </div>
         <div class="eight columns">
-            <h6><a href="{{ route('web.investment-management.open_account') }}">Open Account</a></h6>
+            <h6><a href="javascript:goTo('openAccount')">Open Account</a></h6>
             <div class="blog-tag" style="padding-top: 10px;">
                 {{-- <a href="#">Investment Profile</a> --}}
             </div>
             <div class="clear"></div>
             <div class="link-blog">
-                <div class="cl-effect-14"><a href="{{ route('web.investment-management.open_account') }}">read
+                <div class="cl-effect-14"><a href="javascript:goTo('openAccount')">read
                         more</a>
                 </div>
             </div>

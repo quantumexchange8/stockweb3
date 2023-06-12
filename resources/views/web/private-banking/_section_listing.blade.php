@@ -36,12 +36,12 @@
                 and
                 exemplary service.</p>
             <div class="blog-tag" style="padding-top: 10px;">
-                <a href="#">Investment Advisory</a>
-                <a href="#">Trust Services</a>
-                <a href="#">Wealth Planning</a>
-                <a href="#">Private Client Lending</a>
-                <a href="#">Philanthropic Advisory</a>
-                <a href="#">Center for Women & Wealth</a>
+                <a href="javascript:goTo('investmentAdvisory')">Investment Advisory</a>
+                <a href="javascript:goTo('trustServices')">Trust Services</a>
+                <a href="javascript:goTo('wealthPlanning')">Wealth Planning</a>
+                <a href="javascript:goTo('privateClientLending')">Private Client Lending</a>
+                <a href="javascript:goTo('philanthropicAdvisory')">Philanthropic Advisory</a>
+                <a href="javascript:goTo('centerForWomenAndWealth')">Center for Women & Wealth</a>
             </div>
             <div class="clear"></div>
             <div class="link-blog">
@@ -64,9 +64,9 @@
                 to
                 help owners accomplish both their business and personal goals.</p>
             <div class="blog-tag">
-                <a href="#">Corporate Advisory</a>
-                <a href="#">Center for Family Business</a>
-                <a href="#">Corporate Banking</a>
+                <a href="javascript:goTo('corporateAdvisory')">Corporate Advisory</a>
+                <a href="javascript:goTo('centerForFamilyBusiness')">Center for Family Business</a>
+                <a href="javascript:goTo('corporateBanking')">Corporate Banking</a>
             </div>
             <div class="clear"></div>
             <div class="link-blog">
@@ -88,9 +88,10 @@
                 talented management teams and owner-operators by providing customized junior capital solutions.
             </p>
             <div class="blog-tag" style="padding-top: 10px;">
-                <a href="#">Investment Profile</a>
-                <a href="#">Select Portfolio Companies</a>
-                <a href="#">Investment Strategy & Transaction Types</a>
+                <a href="javascript:goTo('aboutWingate')">About Wingate</a>
+                <a href="javascript:goTo('investmentProfile')">Investment Profile</a>
+                <a href="javascript:goTo('selectPortfolioCompanies')">Select Portfolio Companies</a>
+                <a href="javascript:goTo('investmentStrategyAndTransactionTypes')">Investment Strategy & Transaction Types</a>
             </div>
             <div class="clear"></div>
             <div class="link-blog">

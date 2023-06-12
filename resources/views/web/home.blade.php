@@ -303,6 +303,51 @@
         @include('web.investment-management._section_listing')
         @include('layouts.partials._footer')
     </article>
+    <!-- Investment Management > Public Equity -->
+    <article id="publicEquity" class="off" style="text-align: left;">
+        @include('web.investment-management.public_equity')
+        @include('layouts.partials._footer')
+    </article>
+    <!-- Investment Management > Public Equity > * x 3 -->
+    <article id="globalEquity" class="off" style="text-align: left;">
+        @include('web.investment-management.public-equity.global_equity')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="usLargeCapEquity" class="off" style="text-align: left;">
+        @include('web.investment-management.public-equity.us_large_cap_equity')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="usSmallAndMidCapEquity" class="off" style="text-align: left;">
+        @include('web.investment-management.public-equity.us_small_and_mid_cap_equity')
+        @include('layouts.partials._footer')
+    </article>
+    <!-- Investment Management > Fixed Income -->
+    <article id="fixedIncome" class="off" style="text-align: left;">
+        @include('web.investment-management.fixed_income')
+        @include('layouts.partials._footer')
+    </article>
+    <!-- Investment Management > Fixed Income > * x 3 -->
+    <article id="taxExemptFixedIncomeStrategy" class="off" style="text-align: left;">
+        @include('web.investment-management.fixed-income.tax_exempt_fixed_income_strategy')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="taxableFixedIncomeStrategies" class="off" style="text-align: left;">
+        @include('web.investment-management.fixed-income.taxable_fixed_income_strategies')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="usTipsStrategy" class="off" style="text-align: left;">
+        @include('web.investment-management.fixed-income.us_tips_strategy')
+        @include('layouts.partials._footer')
+    </article>
+    <!-- Investment Management > Open Account -->
+    <article id="openAccount" class="off" style="text-align: left;">
+        @include('web.investment-management.open_account')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="openAccount" class="off" style="text-align: left;">
+        @include('web.investment-management.esg_approach')
+        @include('layouts.partials._footer')
+    </article>
 
     <!-- Investor Services -->
     <article id="investorServices" class="off" style="text-align: left;">

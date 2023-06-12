@@ -2,8 +2,8 @@
     <div class="sixteen columns">
         <span>
             <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('privateBanking')">Private Banking</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Private Wealth Management</strong>
+            <a href="javascript:goTo('investmentManagement')">Investment Management</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>Public Equity</strong>
         </span>
     </div>
     <br><br>
@@ -11,10 +11,10 @@
 </div>
 <div class="container">
     <div class="five columns">
-        @include('web.private-banking._sidebar')
+        @include('web.investment-management._sidebar')
     </div>
     <div class="eleven columns">
-        <h1>Private Wealth Management</h1>
+        <h1>Public Equity</h1>
         <p style="padding-top: 10px;">At Wingate, our purpose is straightforward: to protect and grow your wealth.* Our
             approach to doing so is
             what sets us apart. We start with a deeply rooted investment culture and combine that with insightful
@@ -49,19 +49,6 @@
                     </div>
                 </div>
             </div>
-            <div class="card" style="padding: 5px;">
-                <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;"><a href="javascript:goTo('investmentAdvisory')">Private Client
-                            Lending</a></h6>
-                    <p>We offer you and your family flexible, secured lending in the form of personal loans and lines of
-                        credit.
-                    </p>
-                    <div class="clear"></div>
-                    <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('investmentAdvisory')">read more</a></div>
-                    </div>
-                </div>
-            </div>
         </div>
         <div class="five columns">
             <div class="card" style="padding: 5px;">
@@ -71,31 +58,6 @@
                     <p>Our highly experienced wealth planners partner with you and your advisors on trust and estate,
                         tax,
                         and financial planning matters to help you meet your personal and financial goals.
-                    </p>
-                    <div class="clear"></div>
-                    <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('investmentAdvisory')">read more</a></div>
-                    </div>
-                </div>
-            </div>
-            <div class="card" style="padding: 5px;">
-                <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;"><a href="javascript:goTo('wealthPlanning')">Trust Services</a></h6>
-                    <p>The core of our offering is our expertise in acting as a trustee or executor for you and your
-                        family.
-                    </p>
-                    <div class="clear"></div>
-                    <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('investmentAdvisory')">read more</a></div>
-                    </div>
-                </div>
-            </div>
-            <div class="card" style="padding: 5px;">
-                <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;"><a href="javascript:goTo('wealthPlanning')">Center for Women &
-                            Wealth</a></h6>
-                    <p>Investment, planning, and philanthropic resources for women seeking to make prudent investment
-                        decisions about their wealth.
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">

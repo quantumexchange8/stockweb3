@@ -220,7 +220,47 @@ $('ul.slimmenu').slimmenu(
 					},
 					"investmentManagement" : {
 						"background" : "",
-						"index" : 3
+						"index" : 4
+					},
+					"publicEquity" : {
+						"background" : "",
+						"index" : 4.1
+					},
+					"usLargeCapEquity" : {
+						"background" : "",
+						"index" : 4.11
+					},
+					"globalEquity" : {
+						"background" : "",
+						"index" : 4.12
+					},
+					"usSmallAndMidCapEquity" : {
+						"background" : "",
+						"index" : 4.13
+					},
+					"fixedIncome" : {
+						"background" : "",
+						"index" : 4.14
+					},
+					"taxableFixedIncomeStrategies" : {
+						"background" : "",
+						"index" : 4.15
+					},
+					"taxExemptFixedIncomeStrategy" : {
+						"background" : "",
+						"index" : 4.16
+					},
+					"usTipsStrategy" : {
+						"background" : "",
+						"index" : 4.17
+					},
+					"openAccount" : {
+						"background" : "",
+						"index" : 4.18
+					},
+					"esgApproach" : {
+						"background" : "",
+						"index" : 4.19
 					},
 					"investorServices" : {
 						"background" : "",
