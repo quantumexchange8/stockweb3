@@ -189,80 +189,113 @@
     <!-- Private Banking > Private Wealth Management -->
     <article id="privateWealthManagement" class="off" style="text-align: left;">
         @include('web.private-banking.private_wealth_management')
+        @include('layouts.partials._footer')
     </article>
     <!-- Private Banking > Private Wealth Management > * x 6 -->
     <article id="investmentAdvisory" class="off" style="text-align: left;">
         @include('web.private-banking.private-wealth-management.investment_advisory')
+        @include('layouts.partials._footer')
     </article>
     <article id="wealthPlanning" class="off" style="text-align: left;">
         @include('web.private-banking.private-wealth-management.wealth_planning')
+        @include('layouts.partials._footer')
     </article>
     <article id="philanthropicAdvisory" class="off" style="text-align: left;">
         @include('web.private-banking.private-wealth-management.philanthropic_advisory')
+        @include('layouts.partials._footer')
     </article>
     <article id="trustServices" class="off" style="text-align: left;">
         @include('web.private-banking.private-wealth-management.trust_services')
+        @include('layouts.partials._footer')
     </article>
     <article id="privateClientLending" class="off" style="text-align: left;">
         @include('web.private-banking.private-wealth-management.private_client_lending')
+        @include('layouts.partials._footer')
     </article>
     <article id="centerForWomenAndWealth" class="off" style="text-align: left;">
         @include('web.private-banking.private-wealth-management.center_for_women_and_wealth')
+        @include('layouts.partials._footer')
     </article>
     <article id="conversationsOnWomenWealthAndLeadership" class="off" style="text-align: left;">
         @include('web.private-banking.private-wealth-management.conversations_on_women_wealth_and_leadership')
+        @include('layouts.partials._footer')
     </article>
 
 
     <!-- Private Banking > Corporate Advisory & Banking -->
     <article id="corporateAdvisoryAndBanking" class="off" style="text-align: left;">
         @include('web.private-banking.corporate_advisory_and_banking')
+        @include('layouts.partials._footer')
     </article>
     <!-- Private Banking > Corporate Advisory & Banking > * x 3 -->
     <article id="corporateAdvisory" class="off" style="text-align: left;">
         @include('web.private-banking.corporate-advisory-and-banking.corporate_advisory')
+        @include('layouts.partials._footer')
     </article>
     <article id="corporateBanking" class="off" style="text-align: left;">
         @include('web.private-banking.corporate-advisory-and-banking.corporate_banking')
+        @include('layouts.partials._footer')
     </article>
     <article id="centerForFamilyBusiness" class="off" style="text-align: left;">
         @include('web.private-banking.corporate-advisory-and-banking.center_for_family_business')
+        @include('layouts.partials._footer')
     </article>
     <!-- Private Banking > Corporate Advisory & Banking > Center For Family Business > * x 8 -->
     <article id="definingLegacyAndTheFutureOfTheBusiness" class="off" style="text-align: left;">
+        @include('web.private-banking.corporate-advisory-and-banking.center.defining')
+        @include('layouts.partials._footer')
     </article>
     <article id="buildingASupportTeam" class="off" style="text-align: left;">
+        @include('web.private-banking.corporate-advisory-and-banking.center.building')
+        @include('layouts.partials._footer')
     </article>
     <article id="successionPlanningManagementAndOwnership" class="off" style="text-align: left;">
+        @include('web.private-banking.corporate-advisory-and-banking.center.succession')
+        @include('layouts.partials._footer')
     </article>
     <article id="capitalPolicies" class="off" style="text-align: left;">
+        @include('web.private-banking.corporate-advisory-and-banking.center.capital')
+        @include('layouts.partials._footer')
     </article>
     <article id="employmentPolicies" class="off" style="text-align: left;">
+        @include('web.private-banking.corporate-advisory-and-banking.center.employment')
+        @include('layouts.partials._footer')
     </article>
     <article id="governanceAndCommunications" class="off" style="text-align: left;">
+        @include('web.private-banking.corporate-advisory-and-banking.center.governance')
+        @include('layouts.partials._footer')
     </article>
     <article id="distributionsAndFamilyLiquidity" class="off" style="text-align: left;">
+        @include('web.private-banking.corporate-advisory-and-banking.center.distributions')
+        @include('layouts.partials._footer')
     </article>
     <article id="balancingCompetingInterests" class="off" style="text-align: left;">
+        @include('web.private-banking.corporate-advisory-and-banking.center.balancing')
+        @include('layouts.partials._footer')
     </article>
 
 
     <!-- Private Banking > Private Equity -->
     <article id="privateEquity" class="off" style="text-align: left;">
         @include('web.private-banking.private_equity')
+        @include('layouts.partials._footer')
     </article>
     <!-- Private Banking > Private Equity > * x 4 -->
     <article id="aboutWingate" class="off" style="text-align: left;">
         @include('web.private-banking.private-equity.about_wingate')
+        @include('layouts.partials._footer')
     </article>
     <article id="investmentProfile" class="off" style="text-align: left;">
         @include('web.private-banking.private-equity.invest_profile')
+        @include('layouts.partials._footer')
     </article>
     <article id="investmentStrategyAndTransactionTypes" class="off" style="text-align: left;">
         @include('web.private-banking.private-equity.investment_strategy_and_transaction_types')
+        @include('layouts.partials._footer')
     </article>
     <article id="selectPortfolioCompanies" class="off" style="text-align: left;">
         @include('web.private-banking.private-equity.select_portfolio_companies')
+        @include('layouts.partials._footer')
     </article>
 
     <!-- Investment Management -->

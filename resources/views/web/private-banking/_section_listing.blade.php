@@ -58,7 +58,7 @@
             </ul>
         </div>
         <div class="eight columns">
-            <h6><a href="{{ route('web.private-banking.corporate_advisory_and_banking') }}">Corporate Advisory
+            <h6><a href="javascript:goTo('corporateAdvisoryAndBanking')">Corporate Advisory
                     & Banking</a></h6>
             <p>We offer objective corporate finance advice and capital to substantial privately held businesses
                 to
@@ -71,7 +71,7 @@
             <div class="clear"></div>
             <div class="link-blog">
                 <div class="cl-effect-14"><a
-                        href="{{ route('web.private-banking.corporate_advisory_and_banking') }}">read more</a>
+                        href="javascript:goTo('corporateAdvisoryAndBanking')">read more</a>
                 </div>
             </div>
         </div>
@@ -83,7 +83,7 @@
             <img src="{{ asset('images/gallery/8.jpg') }}" alt="" />
         </div>
         <div class="eight columns">
-            <h6><a href="{{ route('web.private-banking.private_equity') }}">Private Equity</a></h6>
+            <h6><a href="javascript:goTo('privateEquity')">Private Equity</a></h6>
             <p>As active investors in lower middle-market private equity, we look to partner with and support
                 talented management teams and owner-operators by providing customized junior capital solutions.
             </p>
@@ -94,7 +94,7 @@
             </div>
             <div class="clear"></div>
             <div class="link-blog">
-                <div class="cl-effect-14"><a href="">read more</a></div>
+                <div class="cl-effect-14"><a href="javascript:goTo('privateEquity')">read more</a></div>
             </div>
         </div>
     </div>

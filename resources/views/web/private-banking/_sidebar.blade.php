@@ -85,14 +85,14 @@
                 <li><a href="javascript:goTo('corporateBanking')">Corporate Banking</a></li>
                 <li><a href="javascript:goTo('centerForFamilyBusiness')">Center For Family Business</a></li>
                 <ul>
-                    <li><a href="javascript:goTo('conversationsOnWomenWealthAndLeadership')">Defining Legacy and the Future of the Business</a></li>
-                    <li><a href="javascript:goTo('conversationsOnWomenWealthAndLeadership')">Building a Support Team</a></li>
-                    <li><a href="javascript:goTo('conversationsOnWomenWealthAndLeadership')">Succession Planning – Management and Ownership</a></li>
-                    <li><a href="javascript:goTo('conversationsOnWomenWealthAndLeadership')">Capital Policies</a></li>
-                    <li><a href="javascript:goTo('conversationsOnWomenWealthAndLeadership')">Employment Policies</a></li>
-                    <li><a href="javascript:goTo('conversationsOnWomenWealthAndLeadership')">Governance and Communications</a></li>
-                    <li><a href="javascript:goTo('conversationsOnWomenWealthAndLeadership')">Distributions and Family Liquidity</a></li>
-                    <li><a href="javascript:goTo('conversationsOnWomenWealthAndLeadership')">Balancing Competing Interests</a></li>
+                    <li><a href="javascript:goTo('definingLegacyAndTheFutureOfTheBusiness')">Defining Legacy and the Future of the Business</a></li>
+                    <li><a href="javascript:goTo('buildingASupportTeam')">Building a Support Team</a></li>
+                    <li><a href="javascript:goTo('successionPlanningManagementAndOwnership')">Succession Planning – Management and Ownership</a></li>
+                    <li><a href="javascript:goTo('capitalPolicies')">Capital Policies</a></li>
+                    <li><a href="javascript:goTo('employmentPolicies')">Employment Policies</a></li>
+                    <li><a href="javascript:goTo('governanceAndCommunications')">Governance and Communications</a></li>
+                    <li><a href="javascript:goTo('distributionsAndFamilyLiquidity')">Distributions and Family Liquidity</a></li>
+                    <li><a href="javascript:goTo('balancingCompetingInterests')">Balancing Competing Interests</a></li>
                 </ul>
             </ul>
         </li>

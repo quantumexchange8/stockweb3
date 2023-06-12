@@ -32,4 +32,3 @@
         </p>
     </div>
 </div>
-@include('layouts.partials._footer')

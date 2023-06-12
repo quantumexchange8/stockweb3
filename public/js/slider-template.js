@@ -196,7 +196,7 @@ $('ul.slimmenu').slimmenu(
 					},
 					"balancingCompetingInterests" : {
 						"background" : "",
-						"index" : 2.24
+						"index" : 2.248
 					},
 					"privateEquity" : {
 						"background" : "",
