@@ -228,6 +228,24 @@
     <article id="centerForFamilyBusiness" class="off" style="text-align: left;">
         @include('web.private-banking.corporate-advisory-and-banking.center_for_family_business')
     </article>
+    <!-- Private Banking > Corporate Advisory & Banking > Center For Family Business > * x 8 -->
+    <article id="definingLegacyAndTheFutureOfTheBusiness" class="off" style="text-align: left;">
+    </article>
+    <article id="buildingASupportTeam" class="off" style="text-align: left;">
+    </article>
+    <article id="successionPlanningManagementAndOwnership" class="off" style="text-align: left;">
+    </article>
+    <article id="capitalPolicies" class="off" style="text-align: left;">
+    </article>
+    <article id="employmentPolicies" class="off" style="text-align: left;">
+    </article>
+    <article id="governanceAndCommunications" class="off" style="text-align: left;">
+    </article>
+    <article id="distributionsAndFamilyLiquidity" class="off" style="text-align: left;">
+    </article>
+    <article id="balancingCompetingInterests" class="off" style="text-align: left;">
+    </article>
+
 
     <!-- Private Banking > Private Equity -->
     <article id="privateEquity" class="off" style="text-align: left;">
