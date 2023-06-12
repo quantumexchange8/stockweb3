@@ -28,7 +28,7 @@
     @include('layouts.partials._modals')
 
     <!-- Switch Panel -->
-    @include('layouts.partials._switchPanel')
+    {{-- @include('layouts.partials._switchPanel') --}}
 
 
     <!-- JAVASCRIPT -->

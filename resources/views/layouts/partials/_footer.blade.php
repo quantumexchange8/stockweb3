@@ -1,4 +1,4 @@
-<div class="footer">
+<div class="footer" style="margin-top: 40px !important;">
     <div class="container">
         <div class="sixteen columns">
             <a href="{{ route('web.home') }}"><img src="{{ asset('images/logo.png') }}" alt="" /></a>

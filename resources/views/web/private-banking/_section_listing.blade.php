@@ -30,8 +30,7 @@
             <img src="{{ asset('images/gallery/8.jpg') }}" alt="" />
         </div>
         <div class="eight columns">
-            <h6><a href="{{ route('web.private-banking.private_wealth_management') }}">Private Wealth
-                    Management</a></h6>
+            <h6><a href="javascript:goTo('privateWealthManagement')">Private Wealth Management</a></h6>
             <p>We provide our clients with the most thoughtful and comprehensive long-term investment experience
                 possible by combining our deeply ingrained investment culture with insightful wealth planning
                 and
@@ -46,8 +45,7 @@
             </div>
             <div class="clear"></div>
             <div class="link-blog">
-                <div class="cl-effect-14"><a href="{{ route('web.private-banking.private_wealth_management') }}">read
-                        more</a></div>
+                <div class="cl-effect-14"><a href="javascript:goTo('privateWealthManagement')">read more</a></div>
             </div>
         </div>
     </div>
@@ -101,3 +99,32 @@
         </div>
     </div>
 </div>
+
+
+
+{{-- <div class="blog-wrap post1">
+        <div class="container">
+            <div class="eight columns">
+                <img src="{{ asset('images/gallery/8.jpg') }}" alt="" />
+            </div>
+            <div class="eight columns">
+                <h6><a href="javascript:goTo('privateWealthManagement')">Private Wealth Management</a></h6>
+                <p>We provide our clients with the most thoughtful and comprehensive long-term investment experience
+                    possible by combining our deeply ingrained investment culture with insightful wealth planning
+                    and
+                    exemplary service.</p>
+                <div class="blog-tag" style="padding-top: 10px;">
+                    <a href="#">Investment Advisory</a>
+                    <a href="#">Trust Services</a>
+                    <a href="#">Wealth Planning</a>
+                    <a href="#">Private Client Lending</a>
+                    <a href="#">Philanthropic Advisory</a>
+                    <a href="#">Center for Women & Wealth</a>
+                </div>
+                <div class="clear"></div>
+                <div class="link-blog">
+                    <div class="cl-effect-14"><a href="javascript:goTo('privateWealthManagement')">read more</a></div>
+                </div>
+            </div>
+        </div>
+    </div> --}}

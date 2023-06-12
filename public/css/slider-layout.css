@@ -7,10 +7,12 @@ article {
   }
 
 h1 {
-	padding-top: 100px;
+	padding-top: 20px;
 }
 .breadcrumb {
 	padding-top: 100px;
+    font-family: 'OpenSans-Light-webfont', sans-serif;
+    font-size: 14px;
 }
 
 /* #PAGE STYLES */

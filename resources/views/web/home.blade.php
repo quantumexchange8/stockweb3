@@ -188,33 +188,90 @@
     </article>
     <!-- Private Banking > Private Wealth Management -->
     <article id="privateWealthManagement" class="off" style="text-align: left;">
+        @include('web.private-banking.private_wealth_management')
     </article>
     <!-- Private Banking > Private Wealth Management > * x 6 -->
-
-    <!-- Private Banking > Corporate Advisory & Banking > * x 3 -->
-    <article id="corporateAdvisoryAndBanking" class="off" style="text-align: left;">
+    <article id="investmentAdvisory" class="off" style="text-align: left;">
+        @include('web.private-banking.private-wealth-management.investment_advisory')
+    </article>
+    <article id="wealthPlanning" class="off" style="text-align: left;">
+        @include('web.private-banking.private-wealth-management.wealth_planning')
+    </article>
+    <article id="philanthropicAdvisory" class="off" style="text-align: left;">
+        @include('web.private-banking.private-wealth-management.philanthropic_advisory')
+    </article>
+    <article id="trustServices" class="off" style="text-align: left;">
+        @include('web.private-banking.private-wealth-management.trust_services')
+    </article>
+    <article id="privateClientLending" class="off" style="text-align: left;">
+        @include('web.private-banking.private-wealth-management.private_client_lending')
+    </article>
+    <article id="centerForWomenAndWealth" class="off" style="text-align: left;">
+        @include('web.private-banking.private-wealth-management.center_for_women_and_wealth')
+    </article>
+    <article id="conversationsOnWomenWealthAndLeadership" class="off" style="text-align: left;">
+        @include('web.private-banking.private-wealth-management.conversations_on_women_wealth_and_leadership')
     </article>
 
+
+    <!-- Private Banking > Corporate Advisory & Banking -->
+    <article id="corporateAdvisoryAndBanking" class="off" style="text-align: left;">
+        @include('web.private-banking.corporate_advisory_and_banking')
+    </article>
+    <!-- Private Banking > Corporate Advisory & Banking > * x 3 -->
+    <article id="corporateAdvisory" class="off" style="text-align: left;">
+        @include('web.private-banking.corporate-advisory-and-banking.corporate_advisory')
+    </article>
+    <article id="corporateBanking" class="off" style="text-align: left;">
+        @include('web.private-banking.corporate-advisory-and-banking.corporate_banking')
+    </article>
+    <article id="centerForFamilyBusiness" class="off" style="text-align: left;">
+        @include('web.private-banking.corporate-advisory-and-banking.center_for_family_business')
+    </article>
+
+    <!-- Private Banking > Private Equity -->
+    <article id="privateEquity" class="off" style="text-align: left;">
+        @include('web.private-banking.private_equity')
+    </article>
+    <!-- Private Banking > Private Equity > * x 4 -->
+    <article id="aboutWingate" class="off" style="text-align: left;">
+        @include('web.private-banking.private-equity.about_wingate')
+    </article>
+    <article id="investmentProfile" class="off" style="text-align: left;">
+        @include('web.private-banking.private-equity.invest_profile')
+    </article>
+    <article id="investmentStrategyAndTransactionTypes" class="off" style="text-align: left;">
+        @include('web.private-banking.private-equity.investment_strategy_and_transaction_types')
+    </article>
+    <article id="selectPortfolioCompanies" class="off" style="text-align: left;">
+        @include('web.private-banking.private-equity.select_portfolio_companies')
+    </article>
+
+    <!-- Investment Management -->
     <article id="investmentManagement" class="off" style="text-align: left;">
         @include('web.investment-management._section_listing')
         @include('layouts.partials._footer')
     </article>
 
+    <!-- Investor Services -->
     <article id="investorServices" class="off" style="text-align: left;">
         @include('web.investor-services._section_listing')
         @include('layouts.partials._footer')
     </article>
 
+    <!-- Our Firm -->
     <article id="ourFirm" class="off" style="text-align: left;">
         @include('web.our-firm._section_listing')
         @include('layouts.partials._footer')
     </article>
 
+    <!-- Careers -->
     <article id="careers" class="off" style="text-align: left;">
         @include('web.careers._section_listing')
         @include('layouts.partials._footer')
     </article>
 
+    <!-- Contact Us -->
     <article id="contact" class="off">
         @include('web.contact-us._section_contact_us')
         @include('layouts.partials._footer')

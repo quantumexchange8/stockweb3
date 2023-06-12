@@ -84,29 +84,3 @@
         </div>
     </div>
 </div>
-<div class="blog-wrap post2">
-    <div class="container">
-        <div class="eight columns">
-            <ul class="slider5">
-                <li><img src="{{ asset('images/gallery/12.jpg') }}" alt="" /></li>
-            </ul>
-        </div>
-        <div class="eight columns">
-            <h6><a href="{{ route('web.investor-services.investment-operations-and-technology-solutions.listing') }}">Investment
-                    Operations & Technology Solutions</a></h6>
-            <p>Making key components of our technology platform available to clients on a SaaS, IaaS, and fully
-                outsourced basis.
-            </p>
-            <div class="blog-tag">
-                <a href="#">Technology Services</a>
-                <a href="#">Middle Office Outsourcing</a>
-            </div>
-            <div class="clear"></div>
-            <div class="link-blog">
-                <div class="cl-effect-14"><a
-                        href="{{ route('web.investor-services.investment-operations-and-technology-solutions.listing') }}">read
-                        more</a></div>
-            </div>
-        </div>
-    </div>
-</div>

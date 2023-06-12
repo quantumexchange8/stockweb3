@@ -118,6 +118,74 @@ $('ul.slimmenu').slimmenu(
 						"background" : "",
 						"index" : 2
 					},
+					"privateWealthManagement" : {
+						"background" : "",
+						"index" : 2.1
+					},
+					"investmentAdvisory" : {
+						"background" : "",
+						"index" : 2.2
+					},
+					"wealthPlanning" : {
+						"background" : "",
+						"index" : 2.3
+					},
+					"philanthropicAdvisory" : {
+						"background" : "",
+						"index" : 2.4
+					},
+					"trustServices" : {
+						"background" : "",
+						"index" : 2.5
+					},
+					"privateClientLending" : {
+						"background" : "",
+						"index" : 2.6
+					},
+					"centerForWomenAndWealth" : {
+						"background" : "",
+						"index" : 2.7
+					},
+					"conversationsOnWomenWealthAndLeadership" : {
+						"background" : "",
+						"index" : 2.8
+					},
+					"corporateAdvisoryAndBanking" : {
+						"background" : "",
+						"index" : 3
+					},
+					"corporateAdvisory" : {
+						"background" : "",
+						"index" : 3.1
+					},
+					"corporateBanking" : {
+						"background" : "",
+						"index" : 3.2
+					},
+					"centerForFamilyBusiness" : {
+						"background" : "",
+						"index" : 3.3
+					},
+					"privateEquity" : {
+						"background" : "",
+						"index" : 3.4
+					},
+					"aboutWingate" : {
+						"background" : "",
+						"index" : 3.5
+					},
+					"investmentProfile" : {
+						"background" : "",
+						"index" : 3.6
+					},
+					"investmentStrategyAndTransactionTypes" : {
+						"background" : "",
+						"index" : 3.7
+					},
+					"selectPortfolioCompanies" : {
+						"background" : "",
+						"index" : 3.8
+					},
 					"investmentManagement" : {
 						"background" : "",
 						"index" : 3
