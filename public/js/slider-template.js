@@ -124,47 +124,79 @@ $('ul.slimmenu').slimmenu(
 					},
 					"investmentAdvisory" : {
 						"background" : "",
-						"index" : 2.2
+						"index" : 2.12
 					},
 					"wealthPlanning" : {
 						"background" : "",
-						"index" : 2.3
+						"index" : 2.13
 					},
 					"philanthropicAdvisory" : {
 						"background" : "",
-						"index" : 2.4
+						"index" : 2.14
 					},
 					"trustServices" : {
 						"background" : "",
-						"index" : 2.5
+						"index" : 2.15
 					},
 					"privateClientLending" : {
 						"background" : "",
-						"index" : 2.6
+						"index" : 2.16
 					},
 					"centerForWomenAndWealth" : {
 						"background" : "",
-						"index" : 2.7
+						"index" : 2.17
 					},
 					"conversationsOnWomenWealthAndLeadership" : {
 						"background" : "",
-						"index" : 2.8
+						"index" : 2.171
 					},
 					"corporateAdvisoryAndBanking" : {
 						"background" : "",
-						"index" : 3
+						"index" : 2.2
 					},
 					"corporateAdvisory" : {
 						"background" : "",
-						"index" : 3.1
+						"index" : 2.21
 					},
 					"corporateBanking" : {
 						"background" : "",
-						"index" : 3.2
+						"index" : 2.23
 					},
 					"centerForFamilyBusiness" : {
 						"background" : "",
-						"index" : 3.3
+						"index" : 2.24
+					},
+					"definingLegacyAndTheFutureOfTheBusiness" : {
+						"background" : "",
+						"index" : 2.241
+					},
+					"buildingASupportTeam" : {
+						"background" : "",
+						"index" : 2.242
+					},
+					"successionPlanningManagementAndOwnership" : {
+						"background" : "",
+						"index" : 2.243
+					},
+					"capitalPolicies" : {
+						"background" : "",
+						"index" : 2.244
+					},
+					"employmentPolicies" : {
+						"background" : "",
+						"index" : 2.245
+					},
+					"governanceAndCommunications" : {
+						"background" : "",
+						"index" : 2.246
+					},
+					"distributionsAndFamilyLiquidity" : {
+						"background" : "",
+						"index" : 2.247
+					},
+					"balancingCompetingInterests" : {
+						"background" : "",
+						"index" : 2.24
 					},
 					"privateEquity" : {
 						"background" : "",
@@ -184,7 +216,7 @@ $('ul.slimmenu').slimmenu(
 					},
 					"selectPortfolioCompanies" : {
 						"background" : "",
-						"index" : 3.8
+						"index" : 3.71
 					},
 					"investmentManagement" : {
 						"background" : "",
