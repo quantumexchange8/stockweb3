@@ -114,21 +114,33 @@ $('ul.slimmenu').slimmenu(
 						"background" : "",
 						"index" : 1
 					},
-					"private-banking" : {
+					"privateBanking" : {
 						"background" : "",
 						"index" : 2
 					},
-					"folio" : {
+					"investmentManagement" : {
 						"background" : "",
 						"index" : 3
 					},
-					"contact" : {
+					"investorServices" : {
 						"background" : "",
 						"index" : 4
 					},
-					"blog" : {
+					"ourFirm" : {
 						"background" : "",
 						"index" : 5
+					},
+					"careers" : {
+						"background" : "",
+						"index" : 6
+					},
+					"sustainability" : {
+						"background" : "",
+						"index" : 7
+					},
+					"contact" : {
+						"background" : "",
+						"index" : 8
 					}
 
 			};

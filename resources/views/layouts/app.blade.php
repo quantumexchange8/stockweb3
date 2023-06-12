@@ -15,8 +15,14 @@
 <body>
     <!-- Primary Page Layout -->
     <div id="preloader"></div>
+
     @include('layouts.partials._headerSticky')
-    @yield('content')
+
+
+    <section id="content">
+        @yield('content')
+    </section>
+
 
     <!-- Modals -->
     @include('layouts.partials._modals')

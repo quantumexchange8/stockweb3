@@ -4,7 +4,7 @@
             <a href="{{ route('web.home') }}"><img src="{{ asset('images/logo.png') }}" alt="" /></a>
         </div>
         <div class="sixteen columns">
-            <p><span>© Vulcan - a HTML 5 template with serious impact. Created by</span> IG Design</p>
+            <p><span>Wingate © 2023 Created by</span> Current Tech</p>
         </div>
         <div class="sixteen columns">
             <div class="social-bottom">
