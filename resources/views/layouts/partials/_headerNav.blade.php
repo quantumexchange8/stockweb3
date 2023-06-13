@@ -7,6 +7,7 @@
     }
 
     nav {
+        position: relative;
         z-index: 99;
         width: 100%;
         background: #242526;
@@ -103,6 +104,7 @@
         display: flex;
         width: 100%;
         justify-content: space-between;
+        flex-wrap: wrap;
         box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
     }
 
@@ -121,11 +123,12 @@
         color: #f2f2f2;
         font-size: 16px;
         font-weight: 500;
+        justify-content: center;
     }
 
     .content .row .mega-links {
         margin-left: -40px;
-        border-left: 1px solid rgba(255, 255, 255, 0.09);
+        border-top: 1px solid rgba(255, 255, 255, 0.09);
     }
 
     .row .mega-links li {
@@ -134,7 +137,7 @@
 
     .row .mega-links li a {
         padding: 0px;
-        padding: 0 20px;
+        padding: 10px 20px;
         color: #d9d9d9;
         font-size: 12px;
         display: block;
@@ -297,7 +300,11 @@
         }
 
         .content .row header {
-            font-size: 19px;
+            font-size: 16px;
+        }
+
+        .content:hover {
+            visibility: visible;
         }
     }
 
@@ -354,7 +361,7 @@
                                 </ul>
                             </div>
                             <div class="row">
-                                <header>Private Equity</header>
+                                <header>Private Equity<br>&nbsp;</header>
                                 <ul class="mega-links">
                                     <li><a href="javascript:goTo('')">About Wingate</a></li>
                                     <li><a href="javascript:goTo('')">Investment Profile</a></li>
@@ -400,7 +407,7 @@
                     <div class="mega-box">
                         <div class="content">
                             <div class="row">
-                                <header>Custody & Fund Services</header>
+                                <header>Custody & Fund Services<br>&nbsp;</header>
                                 <ul class="mega-links">
                                     <li><a href="javascript:goTo('')">Custody</a></li>
                                     <li><a href="javascript:goTo('')">Depositary & Trustee</a></li>
@@ -413,7 +420,7 @@
                                 </ul>
                             </div>
                             <div class="row">
-                                <header>Specialist Expertise</header>
+                                <header>Specialist Expertise<br>&nbsp;</header>
                                 <ul class="mega-links">
                                     <li><a href="javascript:goTo('')">Cross-Border Funds</a></li>
                                     <li><a href="javascript:goTo('')">US Funds</a></li>
@@ -426,7 +433,7 @@
                                 </ul>
                             </div>
                             <div class="row">
-                                <header>Markets</header>
+                                <header>Markets<br>&nbsp;</header>
                                 <ul class="mega-links">
                                     <li><a href="javascript:goTo('')">Foreign Exchange</a></li>
                                     <li><a href="javascript:goTo('')">Active FX Execution</a></li>
