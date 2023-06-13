@@ -264,23 +264,23 @@ $('ul.slimmenu').slimmenu(
 					},
 					"investorServices" : {
 						"background" : "",
-						"index" : 4
+						"index" : 5
 					},
 					"ourFirm" : {
 						"background" : "",
-						"index" : 5
+						"index" : 6
 					},
 					"careers" : {
 						"background" : "",
-						"index" : 6
+						"index" : 7
 					},
 					"sustainability" : {
 						"background" : "",
-						"index" : 7
+						"index" : 8
 					},
 					"contact" : {
 						"background" : "",
-						"index" : 8
+						"index" : 9
 					}
 
 			};
