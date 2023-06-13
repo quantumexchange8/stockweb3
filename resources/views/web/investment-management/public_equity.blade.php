@@ -15,37 +15,52 @@
     </div>
     <div class="eleven columns">
         <h1>Public Equity</h1>
-        <p style="padding-top: 10px;">At Wingate, our purpose is straightforward: to protect and grow your wealth.* Our
-            approach to doing so is
-            what sets us apart. We start with a deeply rooted investment culture and combine that with insightful
-            wealth planning and exemplary service to give you the most thoughtful and comprehensive long-term
-            private wealth management experience possible. Our client relationships are underpinned by the
-            stability, longevity, and alignment of interests created by our partnership structure.
+        <p style="padding-top: 10px;">
+            Wingate ("WAML") Investment Management employs what we view as a low-risk approach to equity investing
+            guided by consistent, objective, and rational decision-making. We rigorously apply a comprehensive set of
+            investment criteria to our portfolio that aims to generate attractive risk-adjusted results for our clients
+            over the long term. <br><br>
+
+            Our key guiding principles: <br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;Invest in established, cash-generative businesses that are leading
+            providers of essential products and services.<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;Require that investments be purchased at a discount to our estimate of
+            intrinsic value* (e.g., a margin of safety** in the stock price) at the time of purchase.<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;Invest in a limited number of companies to minimize the impact of
+            unforeseen company-specific issues, and invest only in companies that meet demanding business and valuation
+            criteria.<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;Think like owners and operators by holding stakes in businesses over
+            many years in order to compound wealth and reduce transaction costs.<br><br>
+
+            Learn about how we integrate<a href="javascript:goTo('esgApproach')">&nbsp;environmental, social and
+                governance(ESG) considerations</a>&nbsp;within our bottom-up investment approach.
         </p>
         <div class="five columns">
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;"><a href="javascript:goTo('investmentAdvisory')">Investment
-                            Advisory</a></h6>
-                    <p>We take a long-term, value-oriented approach to investing with the objective of protecting and
-                        growingyour wealth.
+                    <h6 style="text-align: left;"><a href="javascript:goTo('usLargeCapEquity')">U.S. Large-Cap
+                            Equity</a></h6>
+                    <p>Domestic large-cap equity strategy that aims to invest in established, cash-generative businesses
+                        primarily in North America.
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('investmentAdvisory')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('usLargeCapEquity')">read more</a></div>
                     </div>
                 </div>
             </div>
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;"><a href="javascript:goTo('investmentAdvisory')">Philanthropic
-                            Advisory</a></h6>
-                    <p>We help our clients address all elements of their philanthropic plans and goals so that they can
-                        create a lasting, positive impact.
+                    <h6 style="text-align: left;"><a href="javascript:goTo('usSmallAndMidCapEquity')">U.S. Small &
+                            Mid-Cap
+                            Equity</a></h6>
+                    <p>Small & mid-cap equity strategy that aims to invest in a select number of out-of-favor or
+                        under-followed companies.
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('investmentAdvisory')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('usSmallAndMidCapEquity')">read more</a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -53,15 +68,13 @@
         <div class="five columns">
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;"><a href="javascript:goTo('wealthPlanning')">Wealth
-                            Planning</a></h6>
-                    <p>Our highly experienced wealth planners partner with you and your advisors on trust and estate,
-                        tax,
-                        and financial planning matters to help you meet your personal and financial goals.
+                    <h6 style="text-align: left;"><a href="javascript:goTo('globalEquity')">Global Equity</a></h6>
+                    <p>Global equity strategy that aims to invest in leading providers of essential products and
+                        services that are domiciled in North America and internationally.
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('investmentAdvisory')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('globalEquity')">read more</a></div>
                     </div>
                 </div>
             </div>

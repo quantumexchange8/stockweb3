@@ -3,8 +3,8 @@
         <span>
             <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('privateBanking')">Private Banking</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('privateWealthManagement')">Private Wealth Management</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Investment Advisory</strong>
+            <a href="javascript:goTo('privateWealthManagement')">Private Equity</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>Select Portfolio Companies</strong>
         </span>
     </div>
     <br><br>
@@ -15,55 +15,209 @@
         @include('web.private-banking._sidebar')
     </div>
     <div class="eleven columns">
-        <h2>Investment Advisory</h2>
-        <p style="padding-top: 10px;">
-            Appropriate asset allocation is a critical element of your investment plan. We work
-            with you to allocate your assets in accordance with your spending needs and desire to pass wealth on to
-            future generations and philanthropic causes. The better we understand the intended uses of your wealth, the
-            more accurately we can align your portfolio’s risk and expected return characteristics with your goals.
-            <br><br>
-
-            We implement your asset allocation through a combination of proprietary and third-party investment
-            strategies anchored in one common objective—preserving and growing your wealth. All investment managers
-            compete for inclusion on our platform, and in order to be considered, they must share our beliefs that
-            purchasing securities at a discount to their valuation and knowing what you own and why are the best ways to
-            protect and grow wealth over time. <br><br>
-
-            <strong>Asset Allocation Process</strong><br><br>
-
-            Wingate’s ("WAML") investment teams provide asset allocation recommendations for a range of client types,
-            and our relationship teams use these recommendations as a starting point to combine our best thinking with
-            investment and wealth planning advice tailored to the needs of you and your family. <br><br>
-
-            <strong>Our Fundamental Investment Principles</strong><br>
-            &bull;&nbsp;<strong>Active Management</strong>: We believe all markets are inherently inefficient and that
-            through careful security
-            selection, investors can generate excess returns with lower risk of permanent capital loss. <br>
-
-            &bull;&nbsp;<strong>Bottom-Up Fundamental Research</strong>: We invest in strategies that conduct rigorous
-            fundamental analysis to project each potential investment’s value. <br>
-
-            &bull;&nbsp;<strong>Value Orientation</strong>: We seek strategies that invest in securities trading below
-            our estimate of their intrinsic value,* which provides the portfolio a margin of safety.** <br>
-
-            &bull;&nbsp;<strong>Long-Term Focus</strong>: We believe that the surest path to generating attractive
-            investment returns is to patiently wait for the realization of an investment’s value without being swayed by
-            short-term market volatility. <br>
-
-            &bull;&nbsp;<strong>Unique View of Risk</strong>: We believe that the biggest threat to your financial
-            health is not market volatility; it is the permanent loss of your capital. We believe market volatility
-            provides opportunities to acquire high-quality assets at a discount to their valuation. <br>
-
-            &bull;&nbsp;<strong>Discipline and Patience</strong>: We are patient investors. We hold cash when nothing
-            meets our investment criteria, and we have the conviction to sell when an investment no longer offers
-            acceptable returns relative to its potential for loss. <br><br>
-
-            *Intrinsic value represents what we believe to be the value of a security based on our analysis of both
-            tangible and intangible factors.
-            **A margin of safety exists when we believe there is a significant discount to intrinsic value at the time
-            of purchase – we aim to purchase at 75% of our estimate to intrinsic value or less. <br><br>
-
-            <strong>NOT FDIC INSURED&nbsp;&nbsp;&nbsp;NO BANK GUARANTEE&nbsp;&nbsp;&nbsp;MAY LOSE VALUE</strong>
-        </p>
+        <h2>Select Portfolio Companies</h2>
+        <div style="padding-top: 30px;">
+            <hr>
+            <div class="three columns">
+                <img src="" alt="">
+            </div>
+            <div class="seven columns">
+                <h6 style="text-align: left;">Westrock Coffee Holdings</h6>
+                <strong>
+                    <p>Little Rock, AR</p>
+                </strong>
+                <p>Westrock Coffee Holdings is an integrated coffee, tea, and extract company that provides coffee
+                    sourcing and financing, supply chain management, roasting, packaging, and distribution services.
+                </p>
+            </div>
+        </div>
+        <div style="padding-top: 30px;">
+            <hr>
+            <div class="three columns">
+                <img src="" alt="">
+            </div>
+            <div class="seven columns">
+                <h6 style="text-align: left;">Precision Terminal Logistics</h6>
+                <strong>
+                    <p>Pittsburgh, PA</p>
+                </strong>
+                <p>Precision Terminal Logistics operates, builds, and acquires transloading terminals across the U.S.
+                    PTL’s terminals will provide a full suite of logistics solutions to transportation companies,
+                    including materials handling, logistics services, transloading, secure bulk commodity storage, and
+                    facility construction.
+                </p>
+            </div>
+        </div>
+        <div style="padding-top: 30px;">
+            <hr>
+            <div class="three columns">
+                <img src="" alt="">
+            </div>
+            <div class="seven columns">
+                <h6 style="text-align: left;">Bradford Airport Logistics</h6>
+                <strong>
+                    <p>Houston, TX</p>
+                </strong>
+                <a href="http://www.airportlogistics.org/">www.airportlogistics.org</a>
+                <p>Bradford Airport Logistics is the leading provider of Centralized Receiving and Distribution Center
+                    (CRDC) services for commercial airports in the U.S., which are highly secure temporary storage and
+                    throughput facilities that service goods bound for the post-security but pre-plane part of the
+                    airport.
+                </p>
+            </div>
+        </div>
+        <div style="padding-top: 30px;">
+            <hr>
+            <div class="three columns">
+                <img src="" alt="">
+            </div>
+            <div class="seven columns">
+                <h6 style="text-align: left;">700 Valve Supply, LLC</h6>
+                <strong>
+                    <p>Stafford, TX</p>
+                </strong>
+                <a href="http://www.700valvesupply.com/">www.700valvesupply.com</a>
+                <p>700 Valve Supply is a master distributor of specialty industrial valves for MRO use in numerous
+                    industrial and energy-related applications. The Company uses best-in-class technical valve knowledge
+                    to effectively represent its manufacturing partners' product lines while serving as a value-added
+                    resource to customers.
+                </p>
+            </div>
+        </div>
+        <div style="padding-top: 30px;">
+            <hr>
+            <div class="three columns">
+                <img src="" alt="">
+            </div>
+            <div class="seven columns">
+                <h6 style="text-align: left;">Ethos Veterinary Health LLC</h6>
+                <strong>
+                    <p>Woburn, MA</p>
+                </strong>
+                <a href="http://www.ethosvet.com/">www.ethosvet.com</a>
+                <p>Ethos Veterinary Health LLC is one of the largest pure-play independent providers of specialty
+                    veterinary health services, including 24/7 emergency care, surgical procedures, radiology services
+                    and internal medicine.
+                </p>
+            </div>
+        </div>
+        <div style="padding-top: 30px;">
+            <hr>
+            <div class="three columns">
+                <img src="" alt="">
+            </div>
+            <div class="seven columns">
+                <h6 style="text-align: left;">Noble Systems Corp.
+                </h6>
+                <strong>
+                    <p>Atlanta, GA</p>
+                </strong>
+                <a href="http://www.noblesys.com/">www.noblesys.com</a>
+                <p>Noble Systems Corp. develops, markets and supports software-based productivity tools used by contact
+                    centers to manage customer interactions, including communications between contact center agents and
+                    individuals via phone, email, text, chat and web.
+                </p>
+            </div>
+        </div>
+        <div style="padding-top: 30px;">
+            <hr>
+            <div class="three columns">
+                <img src="" alt="">
+            </div>
+            <div class="seven columns">
+                <h6 style="text-align: left;">Utility Pipeline, Ltd.</h6>
+                <strong>
+                    <p>Canton, Ohio</p>
+                </strong>
+                <a href="http://www.utilitypipelineltd.com/">www.utilitypipelineltd.com</a>
+                <p>Utility Pipeline, Ltd. is a provider of natural gas distribution and related services serving
+                    residential, commercial, industrial and government customers in rural and suburban areas of Ohio,
+                    Pennsylvania, Indiana, Virginia and West Virginia.
+                </p>
+            </div>
+        </div>
+        <div style="padding-top: 30px;">
+            <hr>
+            <div class="three columns">
+                <img src="" alt="">
+            </div>
+            <div class="seven columns">
+                <h6 style="text-align: left;">American Physician Partners</h6>
+                <strong>
+                    <p>Brentwood, Tennessee</p>
+                </strong>
+                <a href="http://www.appartners.com/">www.appartners.com</a>
+                <p>American Physician Partners is a provider of turnkey outsourced emergency department and hospitalist
+                    management services to medical surgical hospitals in the U.S.
+                </p>
+            </div>
+        </div>
+        <div style="padding-top: 30px;">
+            <hr>
+            <div class="three columns">
+                <img src="" alt="">
+            </div>
+            <div class="seven columns">
+                <h6 style="text-align: left;">Haven Behavioral Healthcare, Inc.</h6>
+                <strong>
+                    <p>Nashville, Tennessee</p>
+                </strong>
+                <a href="http://www.havenbehavioral.com/">www.havenbehavioral.com</a>
+                <p>Haven Behavioral Healthcare, Inc. is a behavioral healthcare company with a network of seven
+                    specialty hospitals focused primarily on the inpatient stabilization and treatment
+                    of adult and geriatric patients who are experiencing acute symptoms of depression, anxiety,
+                    psychosis and other severe behavioral problems.
+                </p>
+            </div>
+        </div>
+        <div style="padding-top: 30px;">
+            <hr>
+            <div class="three columns">
+                <img src="" alt="">
+            </div>
+            <div class="seven columns">
+                <h6 style="text-align: left;">PrimeRevenue, Inc.</h6>
+                <strong>
+                    <p>Atlanta, GA</p>
+                </strong>
+                <a href="http://www.primerevenue.com/">www.primerevenue.com</a>
+                <p>PrimeRevenue, Inc. is a provider of cloud-based financial supply chain solutions to large
+                    multinational organizations to optimize cash flows.
+                </p>
+            </div>
+        </div>
+        <div style="padding-top: 30px;">
+            <hr>
+            <div class="three columns">
+                <img src="" alt="">
+            </div>
+            <div class="seven columns">
+                <h6 style="text-align: left;">EdgeConneX, Inc.</h6>
+                <strong>
+                    <p>Herndon, VA</p>
+                </strong>
+                <a href="http://www.edgeconnex.com/">www.edgeconnex.com</a>
+                <p>EdgeConneX, Inc. is an Infrastructure-as-a-Service (IaaS) provider focusing on data center and
+                    network interconnection services.
+                </p>
+            </div>
+        </div>
+        <div style="padding-top: 30px;">
+            <hr>
+            <div class="three columns">
+                <img src="" alt="">
+            </div>
+            <div class="seven columns">
+                <h6 style="text-align: left;">Microban International, Ltd.</h6>
+                <strong>
+                    <p>Huntersville, NC</p>
+                </strong>
+                <a href="http://www.microban.com/">www.microban.com</a>
+                <p>Microban International, Ltd. Inc. is a market leader in the design, engineering, testing and
+                    marketing of highly engineered, built-in branded antimicrobial ingredient solutions for consumer,
+                    industrial and medical products.
+                </p>
+            </div>
+        </div>
     </div>
 </div>

@@ -38,27 +38,27 @@
             </div>
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;"><a href="javascript:goTo('investmentAdvisory')">Philanthropic
+                    <h6 style="text-align: left;"><a href="javascript:goTo('philanthropicAdvisory')">Philanthropic
                             Advisory</a></h6>
                     <p>We help our clients address all elements of their philanthropic plans and goals so that they can
                         create a lasting, positive impact.
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('investmentAdvisory')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('philanthropicAdvisory')">read more</a></div>
                     </div>
                 </div>
             </div>
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;"><a href="javascript:goTo('investmentAdvisory')">Private Client
+                    <h6 style="text-align: left;"><a href="javascript:goTo('privateClientLending')">Private Client
                             Lending</a></h6>
                     <p>We offer you and your family flexible, secured lending in the form of personal loans and lines of
                         credit.
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('investmentAdvisory')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('privateClientLending')">read more</a></div>
                     </div>
                 </div>
             </div>
@@ -74,32 +74,32 @@
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('investmentAdvisory')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('wealthPlanning')">read more</a></div>
                     </div>
                 </div>
             </div>
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;"><a href="javascript:goTo('wealthPlanning')">Trust Services</a></h6>
+                    <h6 style="text-align: left;"><a href="javascript:goTo('trustServices')">Trust Services</a></h6>
                     <p>The core of our offering is our expertise in acting as a trustee or executor for you and your
                         family.
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('investmentAdvisory')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('trustServices')">read more</a></div>
                     </div>
                 </div>
             </div>
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;"><a href="javascript:goTo('wealthPlanning')">Center for Women &
+                    <h6 style="text-align: left;"><a href="javascript:goTo('centerForWomenAndWealth')">Center for Women &
                             Wealth</a></h6>
                     <p>Investment, planning, and philanthropic resources for women seeking to make prudent investment
                         decisions about their wealth.
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('investmentAdvisory')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('centerForWomenAndWealth')">read more</a></div>
                     </div>
                 </div>
             </div>

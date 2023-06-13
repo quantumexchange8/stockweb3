@@ -286,7 +286,7 @@
         @include('layouts.partials._footer')
     </article>
     <article id="investmentProfile" class="off" style="text-align: left;">
-        @include('web.private-banking.private-equity.invest_profile')
+        @include('web.private-banking.private-equity.investment_profile')
         @include('layouts.partials._footer')
     </article>
     <article id="investmentStrategyAndTransactionTypes" class="off" style="text-align: left;">
@@ -344,7 +344,7 @@
         @include('web.investment-management.open_account')
         @include('layouts.partials._footer')
     </article>
-    <article id="openAccount" class="off" style="text-align: left;">
+    <article id="esgApproach" class="off" style="text-align: left;">
         @include('web.investment-management.esg_approach')
         @include('layouts.partials._footer')
     </article>
