@@ -4,7 +4,7 @@
             <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('investmentManagement')">Investment Management</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('investmentManagement')">Fixed Income</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>About Wingate</strong>
+            &nbsp;&nbsp;<strong>Tax-Exempt Fixed Income Strategy</strong>
         </span>
     </div>
     <br><br>
@@ -15,32 +15,45 @@
         @include('web.investment-management._sidebar')
     </div>
     <div class="eleven columns">
-        <h2>About Wingate</h2>
+        <h2>Tax-Exempt Fixed Income Strategy</h2>
         <p style="padding-top: 10px;">
-            Wingate ("WAML") is a private equity strategy that provides highly customized, one-stop junior capital
-            solutions to lower middle‐market companies. We currently have committed capital of approximately $1.1
-            billion that is available to be invested. <br><br>
+            The Wingate Tax-Exempt Fixed Income Strategy seeks to protect investors’ capital and generate attractive
+            after-tax returns by combining thorough, independent research with our valuation discipline to identify
+            undervalued municipal securities. Our Intermediate municipal bond strategy targets between 75 and 125
+            credits in major subsectors of the U.S. municipal bond market, including general obligation bonds, revenue
+            bonds, and pre-refunded securities. We invest in a long-term, tax-sensitive manner with an expected annual
+            turnover of less than 25%. <br><br>
 
-            WAML invests between $10 million and $125 million in businesses with enterprise values of $10 million to
-            $500 million and can invest substantially more by partnering with strategic co-investors or through
-            co-investments from our limited partners. We focus our investments in the healthcare, technology, media and
-            telecommunications, and business products and services industries. Our capital supports a range of
-            transactions, from buyouts and growth equity to recapitalizations and acquisitions. <br><br>
+            <strong><span style="text-decoration: underline;">Investment Criteria</span></strong><br><br>
 
-            <strong><span style="text-decoration: underline;">Benefits of Wingate as a Partner</span></strong><br><br>
+            When constructing our portfolios, we apply a disciplined investment-selection process that focuses on the
+            following seven issuer attributes: <br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Provides essential services<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Strong competitive position<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Financial strength<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Robust operating model with pricing flexibility<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Backed by a proven revenue stream<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Strong coverage and covenant protection<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;On-time financial filings<br><br>
 
-            <strong>The WAML Advantage</strong><br><br>
+            We also take into consideration the following management attributes, when applicable: <br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Political willingness to exercise rate autonomy<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Positive operating performance<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Sound capital expenditure plans<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Responsible use of derivatives<br><br>
 
-            WAML utilizes WAML’s extensive global network to provide its portfolio companies with a wide array of
-            benefits, including access to new customer/vendor relationships, introductions to potential acquisition
-            targets, and assistance with implementing improved information systems.<br><br>
+            Current and prospective clients should find added confidence in knowing that WAML Partners have entrusted
+            the investment team with managing WAML’s own investment portfolio, thereby aligning the firm’s interests
+            with those of our clients. <br><br>
 
-            <strong>Flexible Mandate</strong><br><br>
+            <span style="font-style: italic;">
+                -Income from municipal bonds may be subject to state and local taxes and at times the alternative
+                minimum tax. <br>
+                -Investing in the bond market is subject to certain risks including market, interest-rate, issuer,
+                credit, and inflation risk; investments may be worth more or less than the original cost when redeemed.
+            </span><br><br>
 
-            Our flexible investment mandate gives us the ability to act as a control or non-control investor and to
-            structure our investments as a combination of equity and subordinated debt securities. This flexibility is
-            differentiated in that it provides WAML with the ability to structure investments that are specific to the
-            needs of each opportunity.
+            <strong>NOT FDIC INSURED&nbsp;&nbsp;&nbsp;NO BANK GUARANTEE&nbsp;&nbsp;&nbsp;MAY LOSE VALUE</strong>
         </p>
     </div>
 </div>

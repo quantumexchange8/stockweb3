@@ -18,15 +18,21 @@
     <div class="eleven columns">
         <h2>Capital Policies</h2>
         <p style="padding-top: 10px;">
-            Encouraging dialogue is the first step to creating a dynamic and inclusive environment where women can
-            engage in productive conversations on topics that are of interest to them. <br><br>
+            Capital policies are an important component of any business. For family businesses, these policies address
+            important topics like allocation of capital, permissibility of raising equity and resultant ownership
+            dilution, leverage, selling and redeeming shares and shareholder distributions. As a capital provider and
+            advisor to family businesses for more than 200 years, and as a private company itself, WAML has a depth of
+            expertise working with family businesses to frame these policies. <br><br>
 
-            The Center for Women & Wealth® and WAML are dedicated to the advancement of women. We convene local and
-            national forums for women to share experiences and discuss financial, investment and planning decisions.
-        </p>
-        <h2 style="padding-top: 10px;">Past Events</h2>
-        <p style="padding-top: 10px;">
-
+            We work with family businesses to help answer essential questions related to capital policies, such as:
+            <br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;What is the process for assessing the capital needs of the business regularly?
+            Who owns that process internally?
+            <br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;How does the business communicate those capital needs to the family ownership
+            group?
+            <br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;How does this process dovetail with family distribution planning?<br><br>
         </p>
     </div>
 </div>

@@ -4,7 +4,7 @@
             <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('investmentManagement')">Investment Management</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('fixedIncome')">Fixed Income</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>About Wingate</strong>
+            &nbsp;&nbsp;<strong>Taxable Fixed Income Strategies</strong>
         </span>
     </div>
     <br><br>
@@ -15,32 +15,59 @@
         @include('web.investment-management._sidebar')
     </div>
     <div class="eleven columns">
-        <h2>About Wingate</h2>
+        <h2>Taxable Fixed Income Strategies</h2>
         <p style="padding-top: 10px;">
-            Wingate ("WAML") is a private equity strategy that provides highly customized, one-stop junior capital
-            solutions to lower middle‐market companies. We currently have committed capital of approximately $1.1
-            billion that is available to be invested. <br><br>
+            Wingate’s ("WAML") Taxable Fixed Income Strategies combine our unique valuation framework and comprehensive
+            credit review criteria to build portfolios of durable credits purchased when they are at attractive yields.
+            Credit valuations are often disconnected from their underlying fundamentals and are prone to unjustifiably
+            high levels of volatility, an inefficiency that provides the opportunity to enhance fixed income returns
+            through active management. Our disciplined, value-based investment process seeks to:<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Preserve capital through independent research<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Invest in credit only when a margin of safety* exists<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Drive portfolio construction with value opportunities<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Take a long-term approach<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Foster a culture of transparency, process discipline, and open debate<br><br>
 
-            WAML invests between $10 million and $125 million in businesses with enterprise values of $10 million to
-            $500 million and can invest substantially more by partnering with strategic co-investors or through
-            co-investments from our limited partners. We focus our investments in the healthcare, technology, media and
-            telecommunications, and business products and services industries. Our capital supports a range of
-            transactions, from buyouts and growth equity to recapitalizations and acquisitions. <br><br>
+            <strong><span style="text-decoration: underline;">Investment Criteria</span></strong><br><br>
 
-            <strong><span style="text-decoration: underline;">Benefits of Wingate as a Partner</span></strong><br><br>
+            We build our taxable fixed income portfolios bond-by-bond, filtering the market for potentially compelling
+            values using fundamental analysis and a unique valuation framework. We then purchase credits with a margin
+            of safety* that varies by the type and rating of the bond and defines a price cushion that we believe will
+            be likely to define an attractive price for the bond over the longer term, allowing for the cyclicality of
+            credit markets. We repeat our investment process to build portfolios of durable credits trading at
+            attractive yields. <br><br>
 
-            <strong>The WAML Advantage</strong><br><br>
+            We aim to purchase durable credits that meet the following investment criteria: <br>
 
-            WAML utilizes WAML’s extensive global network to provide its portfolio companies with a wide array of
-            benefits, including access to new customer/vendor relationships, introductions to potential acquisition
-            targets, and assistance with implementing improved information systems.<br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;<strong>Durability:&nbsp;</strong>
+            We require that the issuers in our portfolios possess a durable revenue model and/or collateral. We also
+            assess the business’ ability to withstand a wide variety of regulatory scenarios and economic shocks.
+            <br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;<strong>Transparency:&nbsp;</strong>
+            The issuer must operate a business model and financial structure that we can identify and understand. The
+            more complex the business model or esoteric the capital structure, the less likely we will invest in the
+            issuer.
+            <br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;<strong>Management:&nbsp;</strong>
+            Strong management is critical to identifying a durable credit, and we identify management teams that
+            maintain a balanced approach toward all capital providers.
+            <br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;<strong>Structure:&nbsp;</strong>
+            The issuer’s ability to generate adequate internal funding to support its capital structure is critical. We
+            validate that the issuer does not bear excessive debt given the underlying volatility of cash flows, nor
+            maintain an unhealthy reliance on the capital markets for funding.
+            <br>
 
-            <strong>Flexible Mandate</strong><br><br>
+            <span style="font-style: italic;">
+                *We believe a margin of safety exists when we are able to mitigate both business risk (our business,
+                financial, and management criteria have been met; sustainable competitive advantages exist) AND price
+                risk (when we believe there is a significant discount to intrinsic value at the time of purchase <br>
+                — we aim to purchase at 75% of our estimate to intrinsic value or less). <br>
+                -Investing in the bond market is subject to certain risks including market, interest-rate, issuer,
+                credit, and inflation risk; investments may be worth more or less than the original cost when redeemed.
+            </span><br><br>
 
-            Our flexible investment mandate gives us the ability to act as a control or non-control investor and to
-            structure our investments as a combination of equity and subordinated debt securities. This flexibility is
-            differentiated in that it provides WAML with the ability to structure investments that are specific to the
-            needs of each opportunity.
+            <strong>NOT FDIC INSURED&nbsp;&nbsp;&nbsp;NO BANK GUARANTEE&nbsp;&nbsp;&nbsp;MAY LOSE VALUE</strong>
         </p>
     </div>
 </div>

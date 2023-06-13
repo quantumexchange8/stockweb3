@@ -18,13 +18,21 @@
     <div class="eleven columns">
         <h2>Balancing Competing Interests</h2>
         <p style="padding-top: 10px;">
-            Encouraging dialogue is the first step to creating a dynamic and inclusive environment where women can
-            engage in productive conversations on topics that are of interest to them. <br><br>
+            Most companies at some point face the challenge of balancing competing interests among stakeholders, and
+            family businesses are unique in that the family is one of the key constituents. While competing interests
+            may be inevitable, creating a protocol for addressing them and encouraging communication among all relevant
+            groups is paramount to resolving issues. When consensus is unattainable, engaging outside parties to
+            facilitate discussions and act as an objective sounding board can lead to resolution.
 
-            The Center for Women & Wealth® and WAML are dedicated to the advancement of women. We convene local and
-            national forums for women to share experiences and discuss financial, investment and planning decisions.
+            When working with family businesses to address and balance competing interests, we discuss questions such
+            as:<br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;How is conflict typically handled within the family, concerning ownership
+            and/or management of the business?<br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;What mediation practices have been developed for resolving conflicts?<br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;What has the family done in terms of engaging third parties to facilitate
+            conflict resolution or improve communication and decision-making?<br><br>
         </p>
-        <h2 style="padding-top: 10px;">Past Events</h2>
+        <h2 style="padding-top: 10px;">Insights</h2>
         <p style="padding-top: 10px;">
 
         </p>

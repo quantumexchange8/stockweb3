@@ -79,5 +79,14 @@
                 </div>
             </div>
         </div>
+        <div class="eleven columns">
+            <p style="padding-top: 10px; font-style: italic">
+                * WAML's estimate of the present value of the cash that a business can generate and distribute to
+                shareholders over its remaining life. <br>
+                * *A margin of safety exists when we believe there is a significant discount to intrinsic value at the time
+                of purchase- we aim to purchase at 75% of our estimate to intrinsic value or less. <br><br>
+            </p>
+            <strong>NOT FDIC INSURED&nbsp;&nbsp;&nbsp;NO BANK GUARANTEE&nbsp;&nbsp;MAY LOSE VALUE</strong>
+        </div>
     </div>
 </div>

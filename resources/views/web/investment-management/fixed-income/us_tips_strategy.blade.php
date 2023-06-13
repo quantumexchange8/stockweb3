@@ -4,7 +4,7 @@
             <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('investmentManagement')">Investment Management</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('fixedIncome')">Fixed Income</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>About Wingate</strong>
+            &nbsp;&nbsp;<strong>U.S. TIPS Strategy</strong>
         </span>
     </div>
     <br><br>
@@ -15,32 +15,37 @@
         @include('web.investment-management._sidebar')
     </div>
     <div class="eleven columns">
-        <h2>About Wingate</h2>
+        <h2>U.S. TIPS Strategy</h2>
         <p style="padding-top: 10px;">
-            Wingate ("WAML") is a private equity strategy that provides highly customized, one-stop junior capital
-            solutions to lower middle‐market companies. We currently have committed capital of approximately $1.1
-            billion that is available to be invested. <br><br>
+            Wingate ("WAML") has been at the forefront of U.S. Treasury Inflation-Protected Security (TIPS) research,
+            thought leadership, and active management since the inception of the U.S. TIPS market in 1997. Our U.S. TIPS
+            strategy aims to provide investors with a hedge against future inflation by maintaining investments that are
+            denominated primarily in U.S. TIPS. Our investment process is focused on the long term, employing a
+            collection of time-tested strategies within the inflation-indexed markets, diversified to avoid dependence
+            on any single tactical strategy. This “Pure Play” approach eschews credit and real-asset exposures along
+            with the volatility unrelated to inflation that often accompanies them. <br><br>
 
-            WAML invests between $10 million and $125 million in businesses with enterprise values of $10 million to
-            $500 million and can invest substantially more by partnering with strategic co-investors or through
-            co-investments from our limited partners. We focus our investments in the healthcare, technology, media and
-            telecommunications, and business products and services industries. Our capital supports a range of
-            transactions, from buyouts and growth equity to recapitalizations and acquisitions. <br><br>
+            <strong><span style="text-decoration: underline;">Investment Criteria</span></strong><br><br>
 
-            <strong><span style="text-decoration: underline;">Benefits of Wingate as a Partner</span></strong><br><br>
+            Our independent research, a blend of quantitative and qualitative analysis, serves as the foundation of our
+            investment process. We exploit market inefficiencies in the U.S. TIPS and non-U.S. inflation-indexed markets
+            using three primary strategy categories: <br>
 
-            <strong>The WAML Advantage</strong><br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;<strong>Fundamental Strategies:&nbsp;</strong>
+            Using proprietary quantitative models, our investment team seeks to identify real rate levels and curve
+            slope that may be historically inconsistent with current economic fundamentals. This analysis, along with
+            the judgment of our experienced investment team, will periodically drive modest duration or yield curve
+            positions relative to the index. <br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;<strong>Non-Directional Strategies:&nbsp;</strong>
+            Our research has identified several consistent and reoccurring inefficiencies within the U.S. TIPS market,
+            and our investment team frequently positions our portfolio to capture the relative excess return available
+            from them. These market inefficiencies are the result of auction cycles, seasonal patterns, performance
+            index extensions, inflation accruals, and roll down. <br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;<strong>Opportunistic Strategies:&nbsp;</strong>
+            These strategies entail out-of-index positions in the U.S. Treasury market and non-U.S. sovereign
+            inflation-indexed markets. <br><br>
 
-            WAML utilizes WAML’s extensive global network to provide its portfolio companies with a wide array of
-            benefits, including access to new customer/vendor relationships, introductions to potential acquisition
-            targets, and assistance with implementing improved information systems.<br><br>
-
-            <strong>Flexible Mandate</strong><br><br>
-
-            Our flexible investment mandate gives us the ability to act as a control or non-control investor and to
-            structure our investments as a combination of equity and subordinated debt securities. This flexibility is
-            differentiated in that it provides WAML with the ability to structure investments that are specific to the
-            needs of each opportunity.
+            <strong>NOT FDIC INSURED&nbsp;&nbsp;&nbsp;NO BANK GUARANTEE&nbsp;&nbsp;&nbsp;MAY LOSE VALUE</strong>
         </p>
     </div>
 </div>

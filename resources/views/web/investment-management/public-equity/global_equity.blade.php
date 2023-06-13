@@ -4,7 +4,7 @@
             <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('investmentManagement')">Investment Management</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('publicEquity')">Public Equity</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>About Wingate</strong>
+            &nbsp;&nbsp;<strong>Global Equity</strong>
         </span>
     </div>
     <br><br>
@@ -15,32 +15,48 @@
         @include('web.investment-management._sidebar')
     </div>
     <div class="eleven columns">
-        <h2>About Wingate</h2>
+        <h2>Global Equity</h2>
         <p style="padding-top: 10px;">
-            Wingate ("WAML") is a private equity strategy that provides highly customized, one-stop junior capital
-            solutions to lower middle‐market companies. We currently have committed capital of approximately $1.1
-            billion that is available to be invested. <br><br>
+            WAML Global Core Select, our global equity strategy, employs a long-term business-ownership approach within
+            a discount to intrinsic value framework. We search for established, cash-generative, well-managed businesses
+            that are leading providers of essential products and services, and we seek to purchase publicly traded
+            equity securities of such businesses at a discount to their intrinsic values*. Estimates of intrinsic value
+            are based on proprietary analysis of prospective free cash flows and returns on capital. We apply a
+            disciplined investment-selection process focused on business, management, and financial attributes. <br><br>
 
-            WAML invests between $10 million and $125 million in businesses with enterprise values of $10 million to
-            $500 million and can invest substantially more by partnering with strategic co-investors or through
-            co-investments from our limited partners. We focus our investments in the healthcare, technology, media and
-            telecommunications, and business products and services industries. Our capital supports a range of
-            transactions, from buyouts and growth equity to recapitalizations and acquisitions. <br><br>
+            WAML Global Core Select will generally hold investments in 30 to 40 U.S. and non-U.S. companies with market
+            capitalizations greater than $3 billion; we seek to own a minimum of 40% non-U.S. companies in the
+            portfolio. The targeted holding period is three to five years, and investments are typically sold if they
+            appreciate above our estimates of intrinsic value. <br><br>
 
-            <strong><span style="text-decoration: underline;">Benefits of Wingate as a Partner</span></strong><br><br>
+            <strong><span style="text-decoration: underline;">Investment Criteria</span></strong><br><br>
 
-            <strong>The WAML Advantage</strong><br><br>
+            We believe companies that possess the following business, management, and financial attributes are well
+            positioned to create value for shareholders through varying economic and market environments. <br><br>
 
-            WAML utilizes WAML’s extensive global network to provide its portfolio companies with a wide array of
-            benefits, including access to new customer/vendor relationships, introductions to potential acquisition
-            targets, and assistance with implementing improved information systems.<br><br>
+            <strong>Business Attributes</strong><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Essential products and services<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Loyal customers<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Leadership in an attractive industry or market niche<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Sustainable competitive advantages<br><br>
+            <strong>Management Attributes</strong><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Strong operators with integrity<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Favorable capital allocations<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Meaningful share ownership<br><br>
+            <strong>Financial Attributes</strong><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Strong balance sheet and free cash flow<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;High returns on capital<br><br>
 
-            <strong>Flexible Mandate</strong><br><br>
+            <span style="font-style: italic;">
+                *WAML’s estimate of the present value of the cash that a business can generate and distribute to
+                shareholders over its remaining life. <br>
+                -The strategy may assume large positions in a small number of issuers, which can increase the potential
+                for greater price fluctuation. <br>
+                -International investing involves special risks including currency risk, increased volatility, political
+                risks, and differences in auditing and other financial standards. <br><br>
+            </span>
 
-            Our flexible investment mandate gives us the ability to act as a control or non-control investor and to
-            structure our investments as a combination of equity and subordinated debt securities. This flexibility is
-            differentiated in that it provides WAML with the ability to structure investments that are specific to the
-            needs of each opportunity.
+            <strong>NOT FDIC INSURED&nbsp;&nbsp;&nbsp;NO BANK GUARANTEE&nbsp;&nbsp;&nbsp;MAY LOSE VALUE</strong>
         </p>
     </div>
 </div>

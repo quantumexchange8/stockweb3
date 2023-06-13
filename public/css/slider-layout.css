@@ -372,7 +372,7 @@ article .cnt{
 }
 
 .logo{
-	position:absolute;
+	position:fixed;
 	width:90px;
 	height:26px;
 	z-index:10000;

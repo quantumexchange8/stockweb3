@@ -18,15 +18,21 @@
     <div class="eleven columns">
         <h2>Employment Policies</h2>
         <p style="padding-top: 10px;">
-            Encouraging dialogue is the first step to creating a dynamic and inclusive environment where women can
-            engage in productive conversations on topics that are of interest to them. <br><br>
+            All businesses that reach a critical size should have employment policies. For family businesses
+            –particularly those owned by large multigenerational families – employment policies are more nuanced. One
+            critical consideration that family businesses must address is who from the family will work in the business
+            and the parameters for doing so. Setting an appropriate policy for the business and family and communicating
+            it leads to companies that employ the best-suited people in the most appropriate roles. This also fosters an
+            understanding of what it takes to work for and succeed in the business. <br><br>
 
-            The Center for Women & Wealth® and WAML are dedicated to the advancement of women. We convene local and
-            national forums for women to share experiences and discuss financial, investment and planning decisions.
-        </p>
-        <h2 style="padding-top: 10px;">Past Events</h2>
-        <p style="padding-top: 10px;">
-
+            We work with family business clients to consider their employment practices and answer a litany of questions
+            that are central to employment policies, such as:<br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Who makes decisions about hiring and/or promoting family, and what are the
+            criteria for doing so? What policies are in place regarding hiring family members?<br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;What mechanism is in place for giving and receiving honest feedback to family
+            members?<br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;How are family members recruited, trained and treated as employees? Are
+            mentors assigned?<br><br>
         </p>
     </div>
 </div>

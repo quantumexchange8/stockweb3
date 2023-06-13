@@ -18,15 +18,23 @@
     <div class="eleven columns">
         <h2>Distributions and Family Liquidity</h2>
         <p style="padding-top: 10px;">
-            Encouraging dialogue is the first step to creating a dynamic and inclusive environment where women can
-            engage in productive conversations on topics that are of interest to them. <br><br>
+            Many family businesses have family members who own shares but do not work at the company. As such, it is
+            important to set policies for generating liquidity for shareholders and communicate them. Family
+            shareholders want to know if they will receive distributions and if they can redeem or transfer shares. They
+            also want to have a voice in return expectations inherent in owning shares. Successful businesses often
+            extoll the virtues of long-term ownership for family members and how patient capital can benefit the value
+            of the business and family over time. As a private firm that has endured for centuries, we at WAML
+            understand the balance between capital reinvestment and owner returns. <br><br>
 
-            The Center for Women & Wealth® and WAML are dedicated to the advancement of women. We convene local and
-            national forums for women to share experiences and discuss financial, investment and planning decisions.
-        </p>
-        <h2 style="padding-top: 10px;">Past Events</h2>
-        <p style="padding-top: 10px;">
-
+            When working with family business clients on distribution and liquidity matters, we help them answer
+            questions, such as:<br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;How have the family’s expectations for returns and distributions been set? Is
+            it well understood across the family?<br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;What share redemption mechanism is in place to facilitate orderly redemptions?
+            How are shares valued, and how often?<br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;What is the role of the family in setting debt levels, risk parameters, etc.,
+            for operation of the family business?<br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Do the current leaders discuss liquidity openly with all shareholders?<br><br>
         </p>
     </div>
 </div>
