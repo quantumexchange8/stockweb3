@@ -447,7 +447,7 @@
         @include('web.investor-services.specialist-expertise.alternative-funds.real_assets_and_infrastruction')
         @include('layouts.partials._footer')
     </article>
-    <article id="privateEquity" class="off" style="text-align: left;">
+    <article id="privateEquityAlternativeFunds" class="off" style="text-align: left;">
         @include('web.investor-services.specialist-expertise.alternative-funds.private_equity')
         @include('layouts.partials._footer')
     </article>
@@ -472,7 +472,7 @@
         @include('layouts.partials._footer')
     </article>
     <!-- Investor Services > Markets -->
-    <article id="investorServices" class="off" style="text-align: left;">
+    <article id="markets" class="off" style="text-align: left;">
         @include('web.investor-services.markets.listing')
         @include('layouts.partials._footer')
     </article>
@@ -517,10 +517,47 @@
         @include('layouts.partials._footer')
     </article>
     <!-- Investor Services > Investment Operations & Technology Solutions -->
-    <article id="investorServices" class="off" style="text-align: left;">
+    <article id="investmentOperationsAndTechnologySolutions" class="off" style="text-align: left;">
         @include('web.investor-services.investment-operations-and-technology-solutions.listing')
         @include('layouts.partials._footer')
     </article>
+    <!-- Investor Services > Investment Operations & Technology Solutions > Technology Services -->
+    <article id="investorServices" class="off" style="text-align: left;">
+        @include('web.investor-services.investment-operations-and-technology-solutions.technology_services')
+        @include('layouts.partials._footer')
+    </article>
+    <!-- Investor Services > Investment Operations & Technology Solutions > Technology Services > * x 3 -->
+    <article id="dataConnectivityAndApplicationsViaInfomediary" class="off" style="text-align: left;">
+        @include('web.investor-services.investment-operations-and-technology-solutions.technology-services.data_connectivity_and_applications_via_infomediary')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="globalCustodyDirect" class="off" style="text-align: left;">
+        @include('web.investor-services.investment-operations-and-technology-solutions.technology-services.global_custody_direct')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="accountOperatorDirectForUSDepositories" class="off" style="text-align: left;">
+        @include('web.investor-services.investment-operations-and-technology-solutions.technology-services.account_operator_direct_for_us_depositories')
+        @include('layouts.partials._footer')
+    </article>
+    <!-- Investor Services > Investment Operations & Technology Solutions > Middle Office Outsourcing -->
+    <article id="middleOfficeOutsourcing" class="off" style="text-align: left;">
+        @include('web.investor-services.investment-operations-and-technology-solutions.middle_office_outsourcing')
+        @include('layouts.partials._footer')
+    </article>
+    <!-- Investor Services > Investment Operations & Technology Solutions > Middle Office Outsourcing > * x 4 -->
+    <article id="targetedTechnologySolutionsViaInfomediary" class="off" style="text-align: left;">
+        @include('web.investor-services.investment-operations-and-technology-solutions.middle-office-outsourcing.targeted_technology_solutions_via_infomediary')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="hostedOperationsAndReporting" class="off" style="text-align: left;">
+        @include('web.investor-services.investment-operations-and-technology-solutions.middle-office-outsourcing.hosted_operations_and_reporting')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="investmentAccountingAndEnterpriseDataSupport" class="off" style="text-align: left;">
+        @include('web.investor-services.investment-operations-and-technology-solutions.middle-office-outsourcing.investment_accounting_and_enterprise_data_support')
+        @include('layouts.partials._footer')
+    </article>
+    <!-- here is collateral management which has already exist -->
 
     <!-- Our Firm -->
     <article id="ourFirm" class="off" style="text-align: left;">

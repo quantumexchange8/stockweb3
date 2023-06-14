@@ -430,9 +430,33 @@ $('ul.slimmenu').slimmenu(
 						"background" : "",
 						"index" : 5.41
 					},
+					"dataConnectivityAndApplicationsViaInfomediary" : {
+						"background" : "",
+						"index" : 5.411
+					},
+					"globalCustodyDirect" : {
+						"background" : "",
+						"index" : 5.412
+					},
+					"accountOperatorDirectForUSDepositories" : {
+						"background" : "",
+						"index" : 5.413
+					},
 					"middleOfficeOutsourcing" : {
 						"background" : "",
 						"index" : 5.42
+					},
+					"targetedTechnologySolutionsViaInfomediary" : {
+						"background" : "",
+						"index" : 5.421
+					},
+					"hostedOperationsAndReporting" : {
+						"background" : "",
+						"index" : 5.422
+					},
+					"investmentAccountingAndEnterpriseDataSupport" : {
+						"background" : "",
+						"index" : 5.423
 					},
 					"ourFirm" : {
 						"background" : "",

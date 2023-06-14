@@ -15,50 +15,73 @@
     </div>
     <div class="eleven columns">
         <h1>Specialist Expertise</h1>
-        <p style="padding-top: 10px;">At Wingate, our purpose is straightforward: to protect and grow your wealth.* Our
-            approach to doing so is
-            what sets us apart. We start with a deeply rooted investment culture and combine that with insightful
-            wealth planning and exemplary service to give you the most thoughtful and comprehensive long-term
-            private wealth management experience possible. Our client relationships are underpinned by the
-            stability, longevity, and alignment of interests created by our partnership structure.
+        <p style="padding-top: 10px;">
+            Wingate focuses on providing specialist expertise to achieve deeper and long-lasting relationships with our
+            clients, in areas where we feel we can add the most value. <br><br>
+
+            By focusing on providing asset servicing to a select number of leading global asset gatherers, we have
+            become specialists in cross-border asset servicing, and supporting the most complex asset classes and
+            investment strategies. <br><br>
+
+            Our experts add real value where it counts, whether it is better regulatory advice, quicker time to market
+            for new products, operational solutions that lead to lower variable costs, or innovative technology
+            solutions that lead to lower fixed costs. <br><br>
+
+            We work with clients on what matters most to help them differentiate and grow their businesses in an
+            increasingly crowded marketplace.
         </p>
         <div class="five columns">
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;"><a href="javascript:goTo('investmentAdvisory')">Investment
-                            Advisory</a></h6>
-                    <p>We take a long-term, value-oriented approach to investing with the objective of protecting and
-                        growingyour wealth.
+                    <h6 style="text-align: left;">
+                        <a href="javascript:goTo('crossBorderFunds')">Cross-Border Funds</a>
+                    </h6>
+                    <p>Working with global asset managers to further their global investment and cross-border growth
+                        objectives.
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('investmentAdvisory')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('crossBorderFunds')">read more</a></div>
                     </div>
                 </div>
             </div>
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;"><a href="javascript:goTo('philanthropicAdvisory')">Philanthropic
-                            Advisory</a></h6>
-                    <p>We help our clients address all elements of their philanthropic plans and goals so that they can
-                        create a lasting, positive impact.
+                    <h6 style="text-align: left;">
+                        <a href="javascript:goTo('consultantsAndAdvisors')">Consultants and Advisors</a>
+                    </h6>
+                    <p>Partnering with intermediaries to better serve clients.
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('philanthropicAdvisory')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('consultantsAndAdvisors')">read more</a></div>
                     </div>
                 </div>
             </div>
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;"><a href="javascript:goTo('privateClientLending')">Private Client
-                            Lending</a></h6>
-                    <p>We offer you and your family flexible, secured lending in the form of personal loans and lines of
-                        credit.
+                    <h6 style="text-align: left;">
+                        <a href="javascript:goTo('alternativeFunds')">Alternative Funds</a>
+                    </h6>
+                    <p>Providing comprehensive fund services for all major alternative asset classes and strategies.
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('privateClientLending')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('alternativeFunds')">read more</a></div>
+                    </div>
+                </div>
+            </div>
+            <div class="card" style="padding: 5px;">
+                <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
+                    <h6 style="text-align: left;">
+                        <a href="javascript:goTo('insurance')">Insurance</a>
+                    </h6>
+                    <p>Providing insurance expertise and strategic services to sophisticated global (re)insurers and
+                        asset managers.
+                    </p>
+                    <div class="clear"></div>
+                    <div class="link-blog">
+                        <div class="cl-effect-14"><a href="javascript:goTo('insurance')">read more</a></div>
                     </div>
                 </div>
             </div>
@@ -66,40 +89,58 @@
         <div class="five columns">
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;"><a href="javascript:goTo('wealthPlanning')">Wealth
-                            Planning</a></h6>
-                    <p>Our highly experienced wealth planners partner with you and your advisors on trust and estate,
-                        tax,
-                        and financial planning matters to help you meet your personal and financial goals.
+                    <h6 style="text-align: left;">
+                        <a href="javascript:goTo('usFunds')">US Funds</a>
+                    </h6>
+                    <p>Working with asset managers to provide comprehensive modular solutions for US Funds that meet
+                        their evolving needs across the middle and back office.
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('wealthPlanning')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('usFunds')">read more</a></div>
                     </div>
                 </div>
             </div>
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;"><a href="javascript:goTo('trustServices')">Trust Services</a></h6>
-                    <p>The core of our offering is our expertise in acting as a trustee or executor for you and your
-                        family.
+                    <h6 style="text-align: left;">
+                        <a href="javascript:goTo('distributionIntelligence')">Distribution Intelligence</a>
+                    </h6>
+                    <p>Providing distribution intelligence to assist asset managers in developing and executing their
+                        distribution strategies.
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('trustServices')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('distributionIntelligence')">read more</a></div>
                     </div>
                 </div>
             </div>
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;"><a href="javascript:goTo('centerForWomenAndWealth')">Center for Women &
-                            Wealth</a></h6>
-                    <p>Investment, planning, and philanthropic resources for women seeking to make prudent investment
-                        decisions about their wealth.
+                    <h6 style="text-align: left;">
+                        <a href="javascript:goTo('exchangeTradedFunds')">Exchange Traded Funds</a>
+                    </h6>
+                    <p>Working with a diverse group of asset managers to introduce and administer global and regional
+                        ETF products.
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('centerForWomenAndWealth')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('exchangeTradedFunds')">read more</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="card" style="padding: 5px;">
+                <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
+                    <h6 style="text-align: left;">
+                        <a href="javascript:goTo('regulatoryIntelligence')">Regulatory Intelligence</a>
+                    </h6>
+                    <p>Keeping clients informed of market and regulatory requirements that impact their businesses.
+                    </p>
+                    <div class="clear"></div>
+                    <div class="link-blog">
+                        <div class="cl-effect-14"><a href="javascript:goTo('regulatoryIntelligence')">read more</a>
+                        </div>
                     </div>
                 </div>
             </div>

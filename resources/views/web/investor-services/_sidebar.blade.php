@@ -105,7 +105,7 @@
         </li>
         <li><a href="javascript:goTo('markets')">Markets</a>
             <ul>
-                <li><a href="javascript:goTo('fxDisclosure')">Foreign Exchange</a></li>
+                <li><a href="javascript:goTo('foreignExchange')">Foreign Exchange</a></li>
                 <ul>
                     <li><a href="javascript:goTo('tokyoFixingRates')">Tokyo Fixing Rates</a></li>
                     <li><a href="javascript:goTo('termsAndConditions')">Terms And Conditions</a></li>
@@ -122,7 +122,18 @@
         <li><a href="javascript:goTo('investmentOperationsAndTechnologySolutions')">Investment Operations & Technology Solutions</a>
             <ul>
                 <li><a href="javascript:goTo('technologyServices')">Technology Services</a></li>
+                <ul>
+                    <li><a href="javascript:goTo('dataConnectivityAndApplicationsViaInfomediary')">Data Connectivity & Applications via Infomediary</a></li>
+                    <li><a href="javascript:goTo('globalCustodyDirect')">Global Custody Direct</a></li>
+                    <li><a href="javascript:goTo('accountOperatorDirectForUSDepositories')">Account Operator Direct for US Depositories</a></li>
+                </ul>
                 <li><a href="javascript:goTo('middleOfficeOutsourcing')">Middle Office Outsourcing</a></li>
+                <ul>
+                    <li><a href="javascript:goTo('targetedTechnologySolutionsViaInfomediary')">Targeted Technology Solutions via Infomediary</a></li>
+                    <li><a href="javascript:goTo('hostedOperationsAndReporting')">Hosted Operations & Reporting</a></li>
+                    <li><a href="javascript:goTo('investmentAccountingAndEnterpriseDataSupport')">Investment Accounting & Enterprise Data Support</a></li>
+                    <li><a href="javascript:goTo('collateralManagement')">Collateral Management</a></li>
+                </ul>
             </ul>
         </li>
     </ul>

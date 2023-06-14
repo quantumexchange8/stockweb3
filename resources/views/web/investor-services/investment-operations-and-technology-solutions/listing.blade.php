@@ -15,50 +15,26 @@
     </div>
     <div class="eleven columns">
         <h1>Investment Operations & Technology Solutions</h1>
-        <p style="padding-top: 10px;">At Wingate, our purpose is straightforward: to protect and grow your wealth.* Our
-            approach to doing so is
-            what sets us apart. We start with a deeply rooted investment culture and combine that with insightful
-            wealth planning and exemplary service to give you the most thoughtful and comprehensive long-term
-            private wealth management experience possible. Our client relationships are underpinned by the
-            stability, longevity, and alignment of interests created by our partnership structure.
+        <p style="padding-top: 10px;">
+            The increasing complexity of today's global markets has led many asset gatherers to seek a growing array of
+            middle and back office solutions from custody and fund services providers. Whether it be the provision of
+            technology services on a 'Software as a Service' (SaaS) basis or a more complete outsourcing capability,
+            Wingate is committed to helping our clients make informed decisions about which strategies are best suited
+            to their businesses. We believe in a modular implementation approach that allows clients to retain more
+            control and minimize execution risk.
         </p>
         <div class="five columns">
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;"><a href="javascript:goTo('investmentAdvisory')">Investment
-                            Advisory</a></h6>
-                    <p>We take a long-term, value-oriented approach to investing with the objective of protecting and
-                        growingyour wealth.
+                    <h6 style="text-align: left;">
+                        <a href="javascript:goTo('technologyServices')">Technology Services</a>
+                    </h6>
+                    <p>
+                        Making key components of WAML’s technology platform available on a SaaS and IaaS basis.
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('investmentAdvisory')">read more</a></div>
-                    </div>
-                </div>
-            </div>
-            <div class="card" style="padding: 5px;">
-                <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;"><a href="javascript:goTo('philanthropicAdvisory')">Philanthropic
-                            Advisory</a></h6>
-                    <p>We help our clients address all elements of their philanthropic plans and goals so that they can
-                        create a lasting, positive impact.
-                    </p>
-                    <div class="clear"></div>
-                    <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('philanthropicAdvisory')">read more</a></div>
-                    </div>
-                </div>
-            </div>
-            <div class="card" style="padding: 5px;">
-                <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;"><a href="javascript:goTo('privateClientLending')">Private Client
-                            Lending</a></h6>
-                    <p>We offer you and your family flexible, secured lending in the form of personal loans and lines of
-                        credit.
-                    </p>
-                    <div class="clear"></div>
-                    <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('privateClientLending')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('technologyServices')">read more</a></div>
                     </div>
                 </div>
             </div>
@@ -66,40 +42,15 @@
         <div class="five columns">
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;"><a href="javascript:goTo('wealthPlanning')">Wealth
-                            Planning</a></h6>
-                    <p>Our highly experienced wealth planners partner with you and your advisors on trust and estate,
-                        tax,
-                        and financial planning matters to help you meet your personal and financial goals.
+                    <h6 style="text-align: left;">
+                        <a href="javascript:goTo('middleOfficeOutsourcing')">Middle Office Outsourcing</a>
+                    </h6>
+                    <p>Providing modular operational and technology outsourcing options that maximize client control and
+                        minimize risk.
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('wealthPlanning')">read more</a></div>
-                    </div>
-                </div>
-            </div>
-            <div class="card" style="padding: 5px;">
-                <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;"><a href="javascript:goTo('trustServices')">Trust Services</a></h6>
-                    <p>The core of our offering is our expertise in acting as a trustee or executor for you and your
-                        family.
-                    </p>
-                    <div class="clear"></div>
-                    <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('trustServices')">read more</a></div>
-                    </div>
-                </div>
-            </div>
-            <div class="card" style="padding: 5px;">
-                <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;"><a href="javascript:goTo('centerForWomenAndWealth')">Center for Women &
-                            Wealth</a></h6>
-                    <p>Investment, planning, and philanthropic resources for women seeking to make prudent investment
-                        decisions about their wealth.
-                    </p>
-                    <div class="clear"></div>
-                    <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('centerForWomenAndWealth')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('middleOfficeOutsourcing')">read more</a></div>
                     </div>
                 </div>
             </div>
