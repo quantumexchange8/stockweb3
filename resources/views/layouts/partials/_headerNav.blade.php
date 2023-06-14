@@ -336,62 +336,62 @@
             <ul class="nav-links">
                 <label for="close-btn" class="btn close-btn"><i class="fas fa-times"></i></label>
                 <li>
-                    <a href="javascript:goTo('')" class="desktop-item">PRIVATE BANKING</a>
-                    <input type="checkbox" id="showMega">
-                    <label for="showMega" class="mobile-item">PRIVATE BANKING</label>
+                    <a href="javascript:goTo('privateBanking')" class="desktop-item">PRIVATE BANKING</a>
+                    <input type="checkbox" id="showPrivateBanking">
+                    <label for="showPrivateBanking" class="mobile-item">PRIVATE BANKING</label>
                     <div class="mega-box">
                         <div class="content">
                             <div class="row">
                                 <header>Private Wealth Management</header>
                                 <ul class="mega-links">
-                                    <li><a href="javascript:goTo('')">Investment Advisory</a></li>
-                                    <li><a href="javascript:goTo('')">Wealth Planning</a></li>
-                                    <li><a href="javascript:goTo('')">Philanthropic Advisory</a></li>
-                                    <li><a href="javascript:goTo('')">Trust Services</a></li>
-                                    <li><a href="javascript:goTo('')">Private Client Lending</a></li>
-                                    <li><a href="javascript:goTo('')">Center for Women & Wealth</a></li>
+                                    <li><a href="javascript:goTo('investmentAdvisory')">Investment Advisory</a></li>
+                                    <li><a href="javascript:goTo('wealthPlanning')">Wealth Planning</a></li>
+                                    <li><a href="javascript:goTo('philanthropicAdvisory')">Philanthropic Advisory</a></li>
+                                    <li><a href="javascript:goTo('trustServices')">Trust Services</a></li>
+                                    <li><a href="javascript:goTo('privateClientLending')">Private Client Lending</a></li>
+                                    <li><a href="javascript:goTo('centerForWomenAndWealth')">Center for Women & Wealth</a></li>
                                 </ul>
                             </div>
                             <div class="row">
                                 <header>Corporate Advisory & Banking</header>
                                 <ul class="mega-links">
-                                    <li><a href="javascript:goTo('')">Corporate Advisory</a></li>
-                                    <li><a href="javascript:goTo('')">Corporate Banking</a></li>
-                                    <li><a href="javascript:goTo('')">Center for Family Business</a></li>
+                                    <li><a href="javascript:goTo('corporateAdvisory')">Corporate Advisory</a></li>
+                                    <li><a href="javascript:goTo('corporateBanking')">Corporate Banking</a></li>
+                                    <li><a href="javascript:goTo('centerForFamilyBusiness')">Center for Family Business</a></li>
                                 </ul>
                             </div>
                             <div class="row">
                                 <header>Private Equity<br>&nbsp;</header>
                                 <ul class="mega-links">
-                                    <li><a href="javascript:goTo('')">About Wingate</a></li>
-                                    <li><a href="javascript:goTo('')">Investment Profile</a></li>
-                                    <li><a href="javascript:goTo('')">Investment Strategy & Transaction Types</a></li>
-                                    <li><a href="javascript:goTo('')">Select Portfolio Companies</a></li>
+                                    <li><a href="javascript:goTo('aboutWingate')">About Wingate</a></li>
+                                    <li><a href="javascript:goTo('investmentProfile')">Investment Profile</a></li>
+                                    <li><a href="javascript:goTo('investmentStrategyAndTransactionTypes')">Investment Strategy & Transaction Types</a></li>
+                                    <li><a href="javascript:goTo('selectPortfolioCompanies')">Select Portfolio Companies</a></li>
                                 </ul>
                             </div>
                         </div>
                     </div>
                 </li>
                 <li>
-                    <a href="javascript:goTo('')" class="desktop-item">INVESTMENT MANAGEMENT</a>
-                    <input type="checkbox" id="showMega">
-                    <label for="showMega" class="mobile-item">INVESTMENT MANAGEMENT</label>
+                    <a href="javascript:goTo('investmentManagement')" class="desktop-item">INVESTMENT MANAGEMENT</a>
+                    <input type="checkbox" id="showInvestmentManagement">
+                    <label for="showInvestmentManagement" class="mobile-item">INVESTMENT MANAGEMENT</label>
                     <div class="mega-box">
                         <div class="content">
                             <div class="row">
                                 <header>Public Equity</header>
                                 <ul class="mega-links">
-                                    <li><a href="javascript:goTo('')">U.S. Large Cap Equity</a></li>
-                                    <li><a href="javascript:goTo('')">Global Equity</a></li>
-                                    <li><a href="javascript:goTo('')">U.S. Small & Mid-Cap Equity</a></li>
+                                    <li><a href="javascript:goTo('usLargeCapEquity')">U.S. Large Cap Equity</a></li>
+                                    <li><a href="javascript:goTo('globalEquity')">Global Equity</a></li>
+                                    <li><a href="javascript:goTo('usSmallAndMidCapEquity')">U.S. Small & Mid-Cap Equity</a></li>
                                 </ul>
                             </div>
                             <div class="row">
                                 <header>Fixed Income</header>
                                 <ul class="mega-links">
-                                    <li><a href="javascript:goTo('')">Taxable Fixed Income Strategies</a></li>
-                                    <li><a href="javascript:goTo('')">Tax-Exempt Fixed Income Strategy</a></li>
-                                    <li><a href="javascript:goTo('')">U.S. TIPS Strategy</a></li>
+                                    <li><a href="javascript:goTo('taxableFixedIncomeStrategies')">Taxable Fixed Income Strategies</a></li>
+                                    <li><a href="javascript:goTo('taxExemptFixedIncomeStrategy')">Tax-Exempt Fixed Income Strategy</a></li>
+                                    <li><a href="javascript:goTo('usTipsStrategy')">U.S. TIPS Strategy</a></li>
                                 </ul>
                             </div>
                             <div class="row">
@@ -401,53 +401,53 @@
                     </div>
                 </li>
                 <li>
-                    <a href="javascript:goTo('')" class="desktop-item">INVESTOR SERVICES</a>
-                    <input type="checkbox" id="showMega">
-                    <label for="showMega" class="mobile-item">INVESTOR SERVICES</label>
+                    <a href="javascript:goTo('investorServices')" class="desktop-item">INVESTOR SERVICES</a>
+                    <input type="checkbox" id="showInvestorServices">
+                    <label for="showInvestorServices" class="mobile-item">INVESTOR SERVICES</label>
                     <div class="mega-box">
                         <div class="content">
                             <div class="row">
                                 <header>Custody & Fund Services<br>&nbsp;</header>
                                 <ul class="mega-links">
-                                    <li><a href="javascript:goTo('')">Custody</a></li>
-                                    <li><a href="javascript:goTo('')">Depositary & Trustee</a></li>
-                                    <li><a href="javascript:goTo('')">Fund Accounting</a></li>
-                                    <li><a href="javascript:goTo('')">Fund Administration</a></li>
-                                    <li><a href="javascript:goTo('')">Transfer Agency</a></li>
-                                    <li><a href="javascript:goTo('')">Global Tax</a></li>
-                                    <li><a href="javascript:goTo('')">Collateral Management</a></li>
-                                    <li><a href="javascript:goTo('')">Fund Order & Custody</a></li>
+                                    <li><a href="javascript:goTo('custody')">Custody</a></li>
+                                    <li><a href="javascript:goTo('depositaryAndTrustee')">Depositary & Trustee</a></li>
+                                    <li><a href="javascript:goTo('fundAccounting')">Fund Accounting</a></li>
+                                    <li><a href="javascript:goTo('fundAdministration')">Fund Administration</a></li>
+                                    <li><a href="javascript:goTo('transferAgency')">Transfer Agency</a></li>
+                                    <li><a href="javascript:goTo('globalTax')">Global Tax</a></li>
+                                    <li><a href="javascript:goTo('collateralManagementCustody')">Collateral Management</a></li>
+                                    <li><a href="javascript:goTo('fundOrderAndCustody')">Fund Order & Custody</a></li>
                                 </ul>
                             </div>
                             <div class="row">
                                 <header>Specialist Expertise<br>&nbsp;</header>
                                 <ul class="mega-links">
-                                    <li><a href="javascript:goTo('')">Cross-Border Funds</a></li>
-                                    <li><a href="javascript:goTo('')">US Funds</a></li>
-                                    <li><a href="javascript:goTo('')">Consultants and Advisors</a></li>
-                                    <li><a href="javascript:goTo('')">Distribution Intelligence</a></li>
-                                    <li><a href="javascript:goTo('')">Alternative Funds</a></li>
-                                    <li><a href="javascript:goTo('')">Exchange Traded Funds</a></li>
-                                    <li><a href="javascript:goTo('')">Insurance</a></li>
-                                    <li><a href="javascript:goTo('')">Regulatory Intelligence</a></li>
+                                    <li><a href="javascript:goTo('crossBorderFunds')">Cross-Border Funds</a></li>
+                                    <li><a href="javascript:goTo('usFunds')">US Funds</a></li>
+                                    <li><a href="javascript:goTo('consultantsAndAdvisors')">Consultants and Advisors</a></li>
+                                    <li><a href="javascript:goTo('distributionIntelligence')">Distribution Intelligence</a></li>
+                                    <li><a href="javascript:goTo('alternativeFunds')">Alternative Funds</a></li>
+                                    <li><a href="javascript:goTo('exchangeTradedFunds')">Exchange Traded Funds</a></li>
+                                    <li><a href="javascript:goTo('insurance')">Insurance</a></li>
+                                    <li><a href="javascript:goTo('regulatoryIntelligence')">Regulatory Intelligence</a></li>
                                 </ul>
                             </div>
                             <div class="row">
                                 <header>Markets<br>&nbsp;</header>
                                 <ul class="mega-links">
-                                    <li><a href="javascript:goTo('')">Foreign Exchange</a></li>
-                                    <li><a href="javascript:goTo('')">Active FX Execution</a></li>
-                                    <li><a href="javascript:goTo('')">InfoFX</a></li>
-                                    <li><a href="javascript:goTo('')">Currency Hedging</a></li>
-                                    <li><a href="javascript:goTo('')">Securities Lending</a></li>
-                                    <li><a href="javascript:goTo('')">Market Intelligence</a></li>
+                                    <li><a href="javascript:goTo('foreignExchange')">Foreign Exchange</a></li>
+                                    <li><a href="javascript:goTo('activeFxExecution')">Active FX Execution</a></li>
+                                    <li><a href="javascript:goTo('infoFx')">InfoFX</a></li>
+                                    <li><a href="javascript:goTo('currencyHedging')">Currency Hedging</a></li>
+                                    <li><a href="javascript:goTo('securitiesLending')">Securities Lending</a></li>
+                                    <li><a href="javascript:goTo('marketIntelligence')">Market Intelligence</a></li>
                                 </ul>
                             </div>
                             <div class="row">
                                 <header>Investment Operations & Technology Solutions</header>
                                 <ul class="mega-links">
-                                    <li><a href="javascript:goTo('')">Technology Services</a></li>
-                                    <li><a href="javascript:goTo('')">Middle Office Outsourcing</a></li>
+                                    <li><a href="javascript:goTo('technologyServices')">Technology Services</a></li>
+                                    <li><a href="javascript:goTo('middleOfficeOutsourcing')">Middle Office Outsourcing</a></li>
                                 </ul>
                             </div>
                         </div>

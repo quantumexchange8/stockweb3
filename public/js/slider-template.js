@@ -266,6 +266,174 @@ $('ul.slimmenu').slimmenu(
 						"background" : "",
 						"index" : 5
 					},
+					"custodyAndFundServices" : {
+						"background" : "",
+						"index" : 5.1
+					},
+					"custody" : {
+						"background" : "",
+						"index" : 5.11
+					},
+					"depositaryAndTrustee" : {
+						"background" : "",
+						"index" : 5.12
+					},
+					"fundAccounting" : {
+						"background" : "",
+						"index" : 5.13
+					},
+					"fundAdministration" : {
+						"background" : "",
+						"index" : 5.14
+					},
+					"transferAgency" : {
+						"background" : "",
+						"index" : 5.15
+					},
+					"globalTax" : {
+						"background" : "",
+						"index" : 5.16
+					},
+					"collateralManagementCustody" : {
+						"background" : "",
+						"index" : 5.17
+					},
+					"fundOrderAndCustody" : {
+						"background" : "",
+						"index" : 5.18
+					},
+					"specialistExpertise" : {
+						"background" : "",
+						"index" : 5.2
+					},
+					"crossBorderFunds" : {
+						"background" : "",
+						"index" : 5.21
+					},
+					"greaterChina" : {
+						"background" : "",
+						"index" : 5.211
+					},
+					"latinAmerica" : {
+						"background" : "",
+						"index" : 5.212
+					},
+					"japan" : {
+						"background" : "",
+						"index" : 5.213
+					},
+					"dublin" : {
+						"background" : "",
+						"index" : 5.214
+					},
+					"luxembourg" : {
+						"background" : "",
+						"index" : 5.215
+					},
+					"globalServiceModel" : {
+						"background" : "",
+						"index" : 5.216
+					},
+					"usFunds" : {
+						"background" : "",
+						"index" : 5.22
+					},
+					"consultantsAndAdvisors" : {
+						"background" : "",
+						"index" : 5.23
+					},
+					"distributionIntelligence" : {
+						"background" : "",
+						"index" : 5.24
+					},
+					"alternativeFunds" : {
+						"background" : "",
+						"index" : 5.25
+					},
+					"realAssetsAndInfrastructure" : {
+						"background" : "",
+						"index" : 5.251
+					},
+					"privateEquityAlternativeFunds" : {
+						"background" : "",
+						"index" : 5.252
+					},
+					"hedgeFunds" : {
+						"background" : "",
+						"index" : 5.253
+					},
+					"syndicatedAndOriginatedDebt" : {
+						"background" : "",
+						"index" : 5.254
+					},
+					"exchangeTradedFunds" : {
+						"background" : "",
+						"index" : 5.26
+					},
+					"insurance" : {
+						"background" : "",
+						"index" : 5.27
+					},
+					"regulatoryIntelligence" : {
+						"background" : "",
+						"index" : 5.28
+					},
+					"markets" : {
+						"background" : "",
+						"index" : 5.3
+					},
+					"foreignExchange" : {
+						"background" : "",
+						"index" : 5.31
+					},
+					"tokyoFixingRates" : {
+						"background" : "",
+						"index" : 5.311
+					},
+					"termsAndConditions" : {
+						"background" : "",
+						"index" : 5.312
+					},
+					"regulatoryReportingRequirements" : {
+						"background" : "",
+						"index" : 5.313
+					},
+					"fxDisclosure" : {
+						"background" : "",
+						"index" : 5.314
+					},
+					"activeFxExecution" : {
+						"background" : "",
+						"index" : 5.32
+					},
+					"infoFx" : {
+						"background" : "",
+						"index" : 5.33
+					},
+					"currencyHedging" : {
+						"background" : "",
+						"index" : 5.34
+					},
+					"securitiesLending" : {
+						"background" : "",
+						"index" : 5.35
+					},
+					"marketIntelligence" : {
+						"background" : "",
+						"index" : 5.36
+					},
+					"investmentOperationsAndTechnologySolutions" : {
+						"background" : "",
+						"index" : 5.4
+					},
+					"technologyServices" : {
+						"background" : "",
+						"index" : 5.41
+					},
+					"middleOfficeOutsourcing" : {
+						"background" : "",
+						"index" : 5.42
+					},
 					"ourFirm" : {
 						"background" : "",
 						"index" : 6

@@ -38,24 +38,24 @@
             <img src="{{ asset('images/gallery/8.jpg') }}" alt="" />
         </div>
         <div class="eight columns">
-            <h6><a href="{{ route('web.investor-services.custody-and-fund-services.listing') }}">Custody & Fund
+            <h6><a href="javascript:goTo('custodyAndFundServices')">Custody & Fund
                     Services</a></h6>
             <p>Ensuring the accurate trade settlement, safekeeping, reporting and administration of our clients’
                 most complex funds and asset types</p>
             <div class="blog-tag" style="padding-top: 10px;">
-                <a href="#">Custody</a>
-                <a href="#">Transfer Agency</a>
-                <a href="#">Depository & Trustee</a>
-                <a href="#">Global Tax</a>
-                <a href="#">Fund Accounting</a>
-                <a href="#">Collateral Management</a>
-                <a href="#">Fund Administration</a>
-                <a href="#">Fund Order & Custody</a>
+                <a href="javascript:goTo('custody')">Custody</a>
+                <a href="javascript:goTo('transferAgency')">Transfer Agency</a>
+                <a href="javascript:goTo('depositaryAndTrustee')">Depository & Trustee</a>
+                <a href="javascript:goTo('globalTax')">Global Tax</a>
+                <a href="javascript:goTo('fundAccounting')">Fund Accounting</a>
+                <a href="javascript:goTo('collateralManagementCustody')">Collateral Management</a>
+                <a href="javascript:goTo('fundAdministration')">Fund Administration</a>
+                <a href="javascript:goTo('fundOrderAndCustody')">Fund Order & Custody</a>
             </div>
             <div class="clear"></div>
             <div class="link-blog">
                 <div class="cl-effect-14"><a
-                        href="{{ route('web.investor-services.custody-and-fund-services.listing') }}">read
+                        href="javascript:goTo('custodyAndFundServices')">read
                         more</a>
                 </div>
             </div>
@@ -70,25 +70,25 @@
             </ul>
         </div>
         <div class="eight columns">
-            <h6><a href="{{ route('web.investor-services.specialist-expertise.listing') }}">Specialist
+            <h6><a href="javascript:goTo('specialistExpertise')">Specialist
                     Expertise</a>
             </h6>
             <p>Providing specialist expertise servicing cross-border funds, alternatives, ETFs, and insurance firms
             </p>
             <div class="blog-tag">
-                <a href="#">Cross Border Funds</a>
-                <a href="#">Alternative Funds</a>
-                <a href="#">US Funds</a>
-                <a href="#">Exchange Traded Funds</a>
-                <a href="#">Consultants and Advisors</a>
-                <a href="#">Insurance</a>
-                <a href="#">Distribution Intelligence</a>
-                <a href="#">Regulatory Intelligence</a>
+                <a href="javascript:goTo('crossBorderFunds')">Cross Border Funds</a>
+                <a href="javascript:goTo('alternativeFunds')">Alternative Funds</a>
+                <a href="javascript:goTo('usFunds')">US Funds</a>
+                <a href="javascript:goTo('exchangeTradedFunds')">Exchange Traded Funds</a>
+                <a href="javascript:goTo('consultantsAndAdvisors')">Consultants and Advisors</a>
+                <a href="javascript:goTo('insurance')">Insurance</a>
+                <a href="javascript:goTo('distributionIntelligence')">Distribution Intelligence</a>
+                <a href="javascript:goTo('regulatoryIntelligence')">Regulatory Intelligence</a>
             </div>
             <div class="clear"></div>
             <div class="link-blog">
                 <div class="cl-effect-14"><a
-                        href="{{ route('web.investor-services.specialist-expertise.listing') }}">read more</a>
+                        href="javascript:goTo('specialistExpertise')">read more</a>
                 </div>
             </div>
         </div>
@@ -100,22 +100,22 @@
             <img src="{{ asset('images/gallery/8.jpg') }}" alt="" />
         </div>
         <div class="eight columns">
-            <h6><a href="{{ route('web.investor-services.markets.listing') }}">Markets</a></h6>
+            <h6><a href="javascript:goTo('markets')">Markets</a></h6>
             <p>Providing foreign exchange trading, currency administration, and securities lending solutions
                 centered on execution quality and leading levels of operational efficiency, transparency, and client
                 control.
             </p>
             <div class="blog-tag" style="padding-top: 10px;">
-                <a href="#">Foreign Exchange</a>
-                <a href="#">Currency Hedging</a>
-                <a href="#">Active FX Execution</a>
-                <a href="#">Securities Lending</a>
-                <a href="#">InfoFX</a>
-                <a href="#">Market Intelligence</a>
+                <a href="javascript:goTo('foreignExchange')">Foreign Exchange</a>
+                <a href="javascript:goTo('currencyHedging')">Currency Hedging</a>
+                <a href="javascript:goTo('activeFxExecution')">Active FX Execution</a>
+                <a href="javascript:goTo('securitiesLending')">Securities Lending</a>
+                <a href="javascript:goTo('infoFx')">InfoFX</a>
+                <a href="javascript:goTo('marketIntelligence')">Market Intelligence</a>
             </div>
             <div class="clear"></div>
             <div class="link-blog">
-                <div class="cl-effect-14"><a href="{{ route('web.investor-services.markets.listing') }}">read
+                <div class="cl-effect-14"><a href="javascript:goTo('markets')">read
                         more</a>
                 </div>
             </div>
@@ -130,19 +130,19 @@
             </ul>
         </div>
         <div class="eight columns">
-            <h6><a href="{{ route('web.investor-services.investment-operations-and-technology-solutions.listing') }}">Investment
+            <h6><a href="javascript:goTo('investmentOperationsAndTechnologySolutions')">Investment
                     Operations & Technology Solutions</a></h6>
             <p>Making key components of our technology platform available to clients on a SaaS, IaaS, and fully
                 outsourced basis.
             </p>
             <div class="blog-tag">
-                <a href="#">Technology Services</a>
-                <a href="#">Middle Office Outsourcing</a>
+                <a href="javascript:goTo('technologyServices')">Technology Services</a>
+                <a href="javascript:goTo('middleOfficeOutsourcing')">Middle Office Outsourcing</a>
             </div>
             <div class="clear"></div>
             <div class="link-blog">
                 <div class="cl-effect-14"><a
-                        href="{{ route('web.investor-services.investment-operations-and-technology-solutions.listing') }}">read
+                        href="javascript:goTo('investmentOperationsAndTechnologySolutions')">read
                         more</a></div>
             </div>
         </div>

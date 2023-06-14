@@ -351,7 +351,174 @@
 
     <!-- Investor Services -->
     <article id="investorServices" class="off" style="text-align: left;">
-        @include('web.investor-services._section_listing')
+        @include('web.investor-services.listing')
+        @include('layouts.partials._footer')
+    </article>
+    <!-- Investor Services > Custody & Fund Services -->
+    <article id="custodyAndFundServices" class="off" style="text-align: left;">
+        @include('web.investor-services.custody-and-fund-services.listing')
+        @include('layouts.partials._footer')
+    </article>
+    <!-- Investor Services > Custody & Fund Services > * x 8 -->
+    <article id="custody" class="off" style="text-align: left;">
+        @include('web.investor-services.custody-and-fund-services.custody')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="depositaryAndTrustee" class="off" style="text-align: left;">
+        @include('web.investor-services.custody-and-fund-services.depositary_and_trustee')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="fundAccounting" class="off" style="text-align: left;">
+        @include('web.investor-services.custody-and-fund-services.fund_accounting')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="fundAdministration" class="off" style="text-align: left;">
+        @include('web.investor-services.custody-and-fund-services.fund_administration')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="transferAgency" class="off" style="text-align: left;">
+        @include('web.investor-services.custody-and-fund-services.transfer_agency')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="globalTax" class="off" style="text-align: left;">
+        @include('web.investor-services.custody-and-fund-services.global_tax')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="collateralManagementCustody" class="off" style="text-align: left;">
+        @include('web.investor-services.custody-and-fund-services.collateral_management')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="fundOrderAndCustody" class="off" style="text-align: left;">
+        @include('web.investor-services.custody-and-fund-services.fund_order_and_custody')
+        @include('layouts.partials._footer')
+    </article>
+    <!-- Investor Services > Specialist Expertise -->
+    <article id="specialistExpertise" class="off" style="text-align: left;">
+        @include('web.investor-services.specialist-expertise.listing')
+        @include('layouts.partials._footer')
+    </article>
+    <!-- Investor Services > Specialist Expertise > Cross Border Funds -->
+    <article id="crossBorderFunds" class="off" style="text-align: left;">
+        @include('web.investor-services.specialist-expertise.cross_border_funds')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="greaterChina" class="off" style="text-align: left;">
+        @include('web.investor-services.specialist-expertise.cross-border-funds.greater_china')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="latinAmerica" class="off" style="text-align: left;">
+        @include('web.investor-services.specialist-expertise.cross-border-funds.latin_america')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="japan" class="off" style="text-align: left;">
+        @include('web.investor-services.specialist-expertise.cross-border-funds.japan')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="dublin" class="off" style="text-align: left;">
+        @include('web.investor-services.specialist-expertise.cross-border-funds.dublin')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="luxembourg" class="off" style="text-align: left;">
+        @include('web.investor-services.specialist-expertise.cross-border-funds.luxembourg')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="globalServiceModel" class="off" style="text-align: left;">
+        @include('web.investor-services.specialist-expertise.cross-border-funds.global_service_model')
+        @include('layouts.partials._footer')
+    </article>
+    <!-- Investor Services > Specialist Expertise -->
+    <article id="usFunds" class="off" style="text-align: left;">
+        @include('web.investor-services.specialist-expertise.us_funds')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="consultantsAndAdvisors" class="off" style="text-align: left;">
+        @include('web.investor-services.specialist-expertise.consultants_and_advisors')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="distributionIntelligence" class="off" style="text-align: left;">
+        @include('web.investor-services.specialist-expertise.distribution_intelligence')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="alternativeFunds" class="off" style="text-align: left;">
+        @include('web.investor-services.specialist-expertise.alternative_funds')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="realAssetsAndInfrastructure" class="off" style="text-align: left;">
+        @include('web.investor-services.specialist-expertise.alternative-funds.real_assets_and_infrastruction')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="privateEquity" class="off" style="text-align: left;">
+        @include('web.investor-services.specialist-expertise.alternative-funds.private_equity')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="hedgeFunds" class="off" style="text-align: left;">
+        @include('web.investor-services.specialist-expertise.alternative-funds.hedge_funds')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="syndicatedAndOriginatedDebt" class="off" style="text-align: left;">
+        @include('web.investor-services.specialist-expertise.alternative-funds.syndicated_and_originated_debt')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="exchangeTradedFunds" class="off" style="text-align: left;">
+        @include('web.investor-services.specialist-expertise.exchange_traded_funds')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="insurance" class="off" style="text-align: left;">
+        @include('web.investor-services.specialist-expertise.insurance')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="regulatoryIntelligence" class="off" style="text-align: left;">
+        @include('web.investor-services.specialist-expertise.regulatory_intelligence')
+        @include('layouts.partials._footer')
+    </article>
+    <!-- Investor Services > Markets -->
+    <article id="investorServices" class="off" style="text-align: left;">
+        @include('web.investor-services.markets.listing')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="foreignExchange" class="off" style="text-align: left;">
+        @include('web.investor-services.markets.foreign_exchange')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="tokyoFixingRates" class="off" style="text-align: left;">
+        @include('web.investor-services.markets.foreign-exchange.tokyo_fixing_rates')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="termsAndConditions" class="off" style="text-align: left;">
+        @include('web.investor-services.markets.foreign-exchange.terms_and_conditions')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="regulatoryReportingRequirements" class="off" style="text-align: left;">
+        @include('web.investor-services.markets.foreign-exchange.regulatory_reporting_requirements')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="fxDisclosure" class="off" style="text-align: left;">
+        @include('web.investor-services.markets.foreign-exchange.fx_disclosure_statement')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="activeFxExecution" class="off" style="text-align: left;">
+        @include('web.investor-services.markets.active_fx_execution')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="infoFx" class="off" style="text-align: left;">
+        @include('web.investor-services.markets.infofx')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="currencyHedging" class="off" style="text-align: left;">
+        @include('web.investor-services.markets.currency_hedging')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="securitiesLending" class="off" style="text-align: left;">
+        @include('web.investor-services.markets.securities_lending')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="marketIntelligence" class="off" style="text-align: left;">
+        @include('web.investor-services.markets.market_intelligence')
+        @include('layouts.partials._footer')
+    </article>
+    <!-- Investor Services > Investment Operations & Technology Solutions -->
+    <article id="investorServices" class="off" style="text-align: left;">
+        @include('web.investor-services.investment-operations-and-technology-solutions.listing')
         @include('layouts.partials._footer')
     </article>
 
