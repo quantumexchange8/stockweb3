@@ -93,8 +93,8 @@ if ((width <= 800)){
 }
 });
 
-			var currentIndex = 0;
-			var currentId = "home";
+			var currentIndex = 2;
+			var currentId = "privateBanking";
 $('ul.slimmenu').slimmenu(
 {
     resizeWidth: '800',

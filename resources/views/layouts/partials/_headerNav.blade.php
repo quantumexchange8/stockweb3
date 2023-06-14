@@ -79,6 +79,14 @@
         opacity: 1;
         visibility: visible;
     }
+    .nav-links li .drop-menu,
+    .nav-links li .mega-box {
+        -webkit-transition: 0.5s ease;
+        transition: all 0.7s ease-in-out;
+        top: 70px;
+        opacity: 1;
+        visibility: hidden;
+    }
 
     .drop-menu li a {
         width: 100%;
@@ -230,7 +238,15 @@
         }
 
         #showDrop:checked~.drop-menu,
-        #showMega:checked~.mega-box {
+        #showPrivateBanking:checked~.mega-box {
+            max-height: 100%;
+        }
+        #showDrop:checked~.drop-menu,
+        #showInvestmentManagement:checked~.mega-box {
+            max-height: 100%;
+        }
+        #showDrop:checked~.drop-menu,
+        #showInvestorServices:checked~.mega-box {
             max-height: 100%;
         }
 

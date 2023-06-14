@@ -35,7 +35,7 @@
 <div class="blog-wrap post1">
     <div class="container">
         <div class="eight columns">
-            <img src="{{ asset('images/gallery/8.jpg') }}" alt="" />
+            <img src="{{ asset('images/resource/custody-and-fund-services.jpeg') }}" alt="" />
         </div>
         <div class="eight columns">
             <h6><a href="javascript:goTo('custodyAndFundServices')">Custody & Fund
@@ -66,7 +66,7 @@
     <div class="container">
         <div class="eight columns">
             <ul class="slider5">
-                <li><img src="{{ asset('images/gallery/12.jpg') }}" alt="" /></li>
+                <li><img src="{{ asset('images/resource/specialist-expertise.jpeg') }}" alt="" /></li>
             </ul>
         </div>
         <div class="eight columns">
@@ -97,7 +97,7 @@
 <div class="blog-wrap post1">
     <div class="container">
         <div class="eight columns">
-            <img src="{{ asset('images/gallery/8.jpg') }}" alt="" />
+            <img src="{{ asset('images/resource/market.jpeg') }}" alt="" />
         </div>
         <div class="eight columns">
             <h6><a href="javascript:goTo('markets')">Markets</a></h6>
@@ -126,7 +126,7 @@
     <div class="container">
         <div class="eight columns">
             <ul class="slider5">
-                <li><img src="{{ asset('images/gallery/12.jpg') }}" alt="" /></li>
+                <li><img src="{{ asset('images/resource/investment-operations.jpeg') }}" alt="" /></li>
             </ul>
         </div>
         <div class="eight columns">

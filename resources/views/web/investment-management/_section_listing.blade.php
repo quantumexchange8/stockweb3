@@ -45,7 +45,7 @@
 <div class="blog-wrap post1">
     <div class="container">
         <div class="eight columns">
-            <img src="{{ asset('images/gallery/8.jpg') }}" alt="" />
+            <img src="{{ asset('images/resource/tax-image.jpeg') }}" alt="" />
         </div>
         <div class="eight columns">
             <h6><a href="javascript:goTo('publicEquity')">Public Equity</a></h6>
@@ -70,7 +70,7 @@
     <div class="container">
         <div class="eight columns">
             <ul class="slider5">
-                <li><img src="{{ asset('images/gallery/12.jpg') }}" alt="" /></li>
+                <li><img src="{{ asset('images/resource/fixed-income.jpeg') }}" alt="" /></li>
             </ul>
         </div>
         <div class="eight columns">
@@ -94,7 +94,7 @@
 <div class="blog-wrap post1">
     <div class="container">
         <div class="eight columns">
-            <img src="{{ asset('images/gallery/8.jpg') }}" alt="" />
+            <img src="{{ asset('images/resource/open-account.jpeg') }}" alt="" />
         </div>
         <div class="eight columns">
             <h6><a href="javascript:goTo('openAccount')">Open Account</a></h6>

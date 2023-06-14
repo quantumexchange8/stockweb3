@@ -2,7 +2,7 @@
 @section('title', 'Home | Vulcanus')
 
 @section('content')
-    <article id="home" class="active">
+    <article id="home" class="off">
         <div id="wrapper-slider">
             <div id="controls">
                 <div class="background-grid"></div>
@@ -182,7 +182,7 @@
     </article>
 
     <!-- Private Banking -->
-    <article id="privateBanking" class="off" style="text-align: left;">
+    <article id="privateBanking" class="active" style="text-align: left;">
         @include('web.private-banking._section_listing')
         @include('layouts.partials._footer')
     </article>
