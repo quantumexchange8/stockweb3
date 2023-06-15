@@ -501,6 +501,10 @@
                 link.addEventListener('click', function() {
                     var megaBox = this.closest('.mega-box');
                     megaBox.style.display = 'none';
+
+                    setTimeout(function() {
+                        megaBox.style.display = 'block';
+                    }, 1000); // Set the timeout to 1000 milliseconds (1 second)
                 });
             });
         });
