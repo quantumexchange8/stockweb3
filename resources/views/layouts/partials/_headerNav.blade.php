@@ -50,7 +50,6 @@
         font-weight: 500;
         padding: 9px 15px;
         border-radius: 5px;
-        transition: all 0.3s ease;
     }
 
     .nav-links li a:hover {
@@ -74,7 +73,7 @@
 
     .nav-links li:hover .drop-menu,
     .nav-links li:hover .mega-box {
-        transition: all 0.3s ease-in-out;
+        transition: all 0.3s ease;
         top: 70px;
         opacity: 1;
         visibility: visible;
@@ -83,7 +82,7 @@
     .nav-links li .drop-menu,
     .nav-links li .mega-box {
         -webkit-transition: 0.3s ease;
-        transition: all 0.3s ease-in-out;
+        transition: all 0.3s ease;
         top: 70px;
         opacity: 1;
         visibility: hidden;
@@ -504,7 +503,7 @@
 
                     setTimeout(function() {
                         megaBox.style.display = 'block';
-                    }, 1000); // Set the timeout to 1000 milliseconds (1 second)
+                    }, 500); // Set the timeout to 1000 milliseconds (1 second)
                 });
             });
         });
