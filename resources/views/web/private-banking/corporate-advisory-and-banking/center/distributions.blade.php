@@ -12,9 +12,7 @@
     <hr>
 </div>
 <div class="container">
-    <div class="five columns">
-        @include('web.private-banking._sidebar')
-    </div>
+
     <div class="eleven columns">
         <h2>Distributions and Family Liquidity</h2>
         <p style="padding-top: 10px;">
@@ -36,5 +34,8 @@
             for operation of the family business?<br><br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;Do the current leaders discuss liquidity openly with all shareholders?<br><br>
         </p>
+    </div>
+    <div class="five columns">
+        @include('web.private-banking._sidebar')
     </div>
 </div>

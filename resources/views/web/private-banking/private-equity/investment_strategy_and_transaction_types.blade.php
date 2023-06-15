@@ -11,9 +11,7 @@
     <hr>
 </div>
 <div class="container">
-    <div class="five columns">
-        @include('web.private-banking._sidebar')
-    </div>
+
     <div class="eleven columns">
         <h2>Investment Strategy & Transaction Types</h2>
         <p style="padding-top: 10px;">
@@ -51,5 +49,8 @@
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;We back executives with capital to complete a management or leveraged
             buyout of a business identified by the executive or us.<br>
         </p>
+    </div>
+    <div class="five columns">
+        @include('web.private-banking._sidebar')
     </div>
 </div>

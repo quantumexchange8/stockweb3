@@ -10,9 +10,7 @@
     <hr>
 </div>
 <div class="container">
-    <div class="five columns">
-        @include('web.investment-management._sidebar')
-    </div>
+
     <div class="eleven columns">
         <h1>Public Equity</h1>
         <p style="padding-top: 10px;">
@@ -88,5 +86,8 @@
             </p>
             <strong>NOT FDIC INSURED&nbsp;&nbsp;&nbsp;NO BANK GUARANTEE&nbsp;&nbsp;MAY LOSE VALUE</strong>
         </div>
+    </div>
+    <div class="five columns">
+        @include('web.investment-management._sidebar')
     </div>
 </div>

@@ -10,9 +10,7 @@
     <hr>
 </div>
 <div class="container">
-    <div class="five columns">
-        @include('web.investor-services._sidebar')
-    </div>
+
     <div class="eleven columns">
         <h1>Markets</h1>
         <p style="padding-top: 10px;">
@@ -118,5 +116,8 @@
                 </div>
             </div>
         </div>
+    </div>
+    <div class="five columns">
+        @include('web.investor-services._sidebar')
     </div>
 </div>

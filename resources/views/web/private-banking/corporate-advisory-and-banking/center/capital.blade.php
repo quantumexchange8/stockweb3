@@ -12,9 +12,7 @@
     <hr>
 </div>
 <div class="container">
-    <div class="five columns">
-        @include('web.private-banking._sidebar')
-    </div>
+
     <div class="eleven columns">
         <h2>Capital Policies</h2>
         <p style="padding-top: 10px;">
@@ -34,5 +32,8 @@
             <br><br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;How does this process dovetail with family distribution planning?<br><br>
         </p>
+    </div>
+    <div class="five columns">
+        @include('web.private-banking._sidebar')
     </div>
 </div>

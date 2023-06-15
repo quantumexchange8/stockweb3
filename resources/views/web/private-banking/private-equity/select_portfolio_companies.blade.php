@@ -11,9 +11,7 @@
     <hr>
 </div>
 <div class="container">
-    <div class="five columns">
-        @include('web.private-banking._sidebar')
-    </div>
+
     <div class="eleven columns">
         <h2>Select Portfolio Companies</h2>
         <div style="padding-top: 30px;">
@@ -219,5 +217,8 @@
                 </p>
             </div>
         </div>
+    </div>
+    <div class="five columns">
+        @include('web.private-banking._sidebar')
     </div>
 </div>

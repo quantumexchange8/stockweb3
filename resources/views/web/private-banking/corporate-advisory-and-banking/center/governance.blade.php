@@ -12,9 +12,7 @@
     <hr>
 </div>
 <div class="container">
-    <div class="five columns">
-        @include('web.private-banking._sidebar')
-    </div>
+
     <div class="eleven columns">
         <h2>Governance and Communications</h2>
         <p style="padding-top: 10px;">
@@ -42,5 +40,8 @@
             business?
             <br><br>
         </p>
+    </div>
+    <div class="five columns">
+        @include('web.private-banking._sidebar')
     </div>
 </div>

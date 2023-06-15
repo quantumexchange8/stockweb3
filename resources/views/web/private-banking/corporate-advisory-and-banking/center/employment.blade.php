@@ -12,9 +12,7 @@
     <hr>
 </div>
 <div class="container">
-    <div class="five columns">
-        @include('web.private-banking._sidebar')
-    </div>
+
     <div class="eleven columns">
         <h2>Employment Policies</h2>
         <p style="padding-top: 10px;">
@@ -34,5 +32,8 @@
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;How are family members recruited, trained and treated as employees? Are
             mentors assigned?<br><br>
         </p>
+    </div>
+    <div class="five columns">
+        @include('web.private-banking._sidebar')
     </div>
 </div>

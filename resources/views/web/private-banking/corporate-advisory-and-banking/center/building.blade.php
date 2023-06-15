@@ -12,9 +12,7 @@
     <hr>
 </div>
 <div class="container">
-    <div class="five columns">
-        @include('web.private-banking._sidebar')
-    </div>
+
     <div class="eleven columns">
         <h2>Building a Support Team</h2>
         <p style="padding-top: 10px;">
@@ -38,5 +36,8 @@
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;What service providers have owners engaged for assistance in navigating both
             the business and the family?<br><br>
         </p>
+    </div>
+    <div class="five columns">
+        @include('web.private-banking._sidebar')
     </div>
 </div>

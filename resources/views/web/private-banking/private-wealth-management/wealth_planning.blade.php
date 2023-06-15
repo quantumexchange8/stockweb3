@@ -11,9 +11,7 @@
     <hr>
 </div>
 <div class="container">
-    <div class="five columns">
-        @include('web.private-banking._sidebar')
-    </div>
+
     <div class="eleven columns">
         <h2>Wealth Planning</h2>
         <p style="padding-top: 10px;">
@@ -42,5 +40,8 @@
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;advising on appropriate assets for charitable contributions<br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;identifying philanthropic vehicles to accomplish your family’s charitable giving goals<br>
         </p>
+    </div>
+    <div class="five columns">
+        @include('web.private-banking._sidebar')
     </div>
 </div>

@@ -10,9 +10,7 @@
     <hr>
 </div>
 <div class="container">
-    <div class="five columns">
-        @include('web.investment-management._sidebar')
-    </div>
+
     <div class="eleven columns">
         <h1>Fixed Income</h1>
         <p style="padding-top: 10px;">
@@ -101,5 +99,7 @@
             </p>
         </div>
     </div>
-
+    <div class="five columns">
+        @include('web.investment-management._sidebar')
+    </div>
 </div>

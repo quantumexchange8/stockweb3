@@ -11,9 +11,7 @@
     <hr>
 </div>
 <div class="container">
-    <div class="five columns">
-        @include('web.private-banking._sidebar')
-    </div>
+
     <div class="eleven columns">
         <h2>Investment Profile</h2>
         <p style="padding-top: 10px;">
@@ -47,5 +45,8 @@
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;startups, real estate financing, financial institutions or underwriters,
             energy products, and project finance<br>
         </p>
+    </div>
+    <div class="five columns">
+        @include('web.private-banking._sidebar')
     </div>
 </div>

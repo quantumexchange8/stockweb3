@@ -11,9 +11,7 @@
     <hr>
 </div>
 <div class="container">
-    <div class="five columns">
-        @include('web.private-banking._sidebar')
-    </div>
+
     <div class="eleven columns">
         <h2>Center For Family Business</h2>
         <p style="padding-top: 10px;">
@@ -30,5 +28,8 @@
             years ago. Our areas of focus include the following:
             <br><br>
         </p>
+    </div>
+    <div class="five columns">
+        @include('web.private-banking._sidebar')
     </div>
 </div>

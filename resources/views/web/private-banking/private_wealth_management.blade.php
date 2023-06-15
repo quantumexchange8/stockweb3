@@ -10,9 +10,7 @@
     <hr>
 </div>
 <div class="container">
-    <div class="five columns">
-        @include('web.private-banking._sidebar')
-    </div>
+
     <div class="eleven columns">
         <h1>Private Wealth Management</h1>
         <p style="padding-top: 10px;">At Wingate, our purpose is straightforward: to protect and grow your wealth.* Our
@@ -104,5 +102,8 @@
                 </div>
             </div>
         </div>
+    </div>
+    <div class="five columns">
+        @include('web.private-banking._sidebar')
     </div>
 </div>

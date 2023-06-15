@@ -11,9 +11,7 @@
     <hr>
 </div>
 <div class="container">
-    <div class="five columns">
-        @include('web.private-banking._sidebar')
-    </div>
+
     <div class="eleven columns">
         <h2>Private Client Lending</h2>
         <p style="padding-top: 10px;">
@@ -42,5 +40,8 @@
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;Clients may choose to borrow rather than liquidate securities due to tax
             concerns or timing issues or to take advantage of interest deductions.<br>
         </p>
+    </div>
+    <div class="five columns">
+        @include('web.private-banking._sidebar')
     </div>
 </div>

@@ -11,9 +11,7 @@
     <hr>
 </div>
 <div class="container">
-    <div class="five columns">
-        @include('web.investor-services._sidebar')
-    </div>
+
     <div class="eleven columns">
         <h2>Currency Hedging</h2>
         <p style="padding-top: 10px;">
@@ -42,5 +40,8 @@
             differentiated in that it provides WAML with the ability to structure investments that are specific to the
             needs of each opportunity.
         </p>
+    </div>
+    <div class="five columns">
+        @include('web.investor-services._sidebar')
     </div>
 </div>

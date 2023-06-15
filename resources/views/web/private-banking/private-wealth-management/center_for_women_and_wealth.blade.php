@@ -11,9 +11,7 @@
     <hr>
 </div>
 <div class="container">
-    <div class="five columns">
-        @include('web.private-banking._sidebar')
-    </div>
+
     <div class="eleven columns">
         <h2>Center For Women & Wealth</h2>
         <p style="padding-top: 10px;">
@@ -32,5 +30,8 @@
             outside-the-box solutions to public problems, and using research, data and reporting to inform their work
             and tell the stories that motivate, edify and engender change.
         </p>
+    </div>
+    <div class="five columns">
+        @include('web.private-banking._sidebar')
     </div>
 </div>

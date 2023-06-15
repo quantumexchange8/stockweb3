@@ -12,9 +12,7 @@
     <hr>
 </div>
 <div class="container">
-    <div class="five columns">
-        @include('web.private-banking._sidebar')
-    </div>
+
     <div class="eleven columns">
         <h2>Defining Legacy and The Future of The Business</h2>
         <p style="padding-top: 10px;">
@@ -38,5 +36,8 @@
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;How did the family arrive at these values and principles, and have they
             committed these matters to writing?<br><br>
         </p>
+    </div>
+    <div class="five columns">
+        @include('web.private-banking._sidebar')
     </div>
 </div>

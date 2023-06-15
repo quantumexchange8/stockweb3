@@ -11,9 +11,7 @@
     <hr>
 </div>
 <div class="container">
-    <div class="five columns">
-        @include('web.private-banking._sidebar')
-    </div>
+
     <div class="eleven columns">
         <h2>Corporate Advisory</h2>
         <p style="padding-top: 10px;">
@@ -32,5 +30,8 @@
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;Offer access to and support from the WAML network<br>
 
         </p>
+    </div>
+    <div class="five columns">
+        @include('web.private-banking._sidebar')
     </div>
 </div>

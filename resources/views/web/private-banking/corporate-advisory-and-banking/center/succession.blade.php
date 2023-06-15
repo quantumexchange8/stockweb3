@@ -12,9 +12,7 @@
     <hr>
 </div>
 <div class="container">
-    <div class="five columns">
-        @include('web.private-banking._sidebar')
-    </div>
+
     <div class="eleven columns">
         <h2>Succession Planning – Management and Ownership</h2>
         <p style="padding-top: 10px;">
@@ -45,5 +43,8 @@
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;What guidelines have been established for stock ownership and ownership
             transfers?<br><br>
         </p>
+    </div>
+    <div class="five columns">
+        @include('web.private-banking._sidebar')
     </div>
 </div>

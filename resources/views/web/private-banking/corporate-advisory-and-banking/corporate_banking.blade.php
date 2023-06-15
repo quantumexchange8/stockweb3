@@ -11,9 +11,7 @@
     <hr>
 </div>
 <div class="container">
-    <div class="five columns">
-        @include('web.private-banking._sidebar')
-    </div>
+
     <div class="eleven columns">
         <h2>Corporate Banking</h2>
         <p style="padding-top: 10px;">
@@ -27,5 +25,8 @@
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;Tax-exempt financing/industrial revenue bonds<br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;Trade services, including commercial and standby letters of credit<br>
         </p>
+    </div>
+    <div class="five columns">
+        @include('web.private-banking._sidebar')
     </div>
 </div>
