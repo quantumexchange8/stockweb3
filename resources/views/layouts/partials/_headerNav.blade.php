@@ -79,6 +79,7 @@
         opacity: 1;
         visibility: visible;
     }
+
     .nav-links li .drop-menu,
     .nav-links li .mega-box {
         -webkit-transition: 0.3s ease;
@@ -241,10 +242,12 @@
         #showPrivateBanking:checked~.mega-box {
             max-height: 100%;
         }
+
         #showDrop:checked~.drop-menu,
         #showInvestmentManagement:checked~.mega-box {
             max-height: 100%;
         }
+
         #showDrop:checked~.drop-menu,
         #showInvestorServices:checked~.mega-box {
             max-height: 100%;
@@ -362,10 +365,13 @@
                                 <ul class="mega-links">
                                     <li><a href="javascript:goTo('investmentAdvisory')">Investment Advisory</a></li>
                                     <li><a href="javascript:goTo('wealthPlanning')">Wealth Planning</a></li>
-                                    <li><a href="javascript:goTo('philanthropicAdvisory')">Philanthropic Advisory</a></li>
+                                    <li><a href="javascript:goTo('philanthropicAdvisory')">Philanthropic Advisory</a>
+                                    </li>
                                     <li><a href="javascript:goTo('trustServices')">Trust Services</a></li>
-                                    <li><a href="javascript:goTo('privateClientLending')">Private Client Lending</a></li>
-                                    <li><a href="javascript:goTo('centerForWomenAndWealth')">Center for Women & Wealth</a></li>
+                                    <li><a href="javascript:goTo('privateClientLending')">Private Client Lending</a>
+                                    </li>
+                                    <li><a href="javascript:goTo('centerForWomenAndWealth')">Center for Women &
+                                            Wealth</a></li>
                                 </ul>
                             </div>
                             <div class="row">
@@ -373,7 +379,8 @@
                                 <ul class="mega-links">
                                     <li><a href="javascript:goTo('corporateAdvisory')">Corporate Advisory</a></li>
                                     <li><a href="javascript:goTo('corporateBanking')">Corporate Banking</a></li>
-                                    <li><a href="javascript:goTo('centerForFamilyBusiness')">Center for Family Business</a></li>
+                                    <li><a href="javascript:goTo('centerForFamilyBusiness')">Center for Family
+                                            Business</a></li>
                                 </ul>
                             </div>
                             <div class="row">
@@ -381,8 +388,10 @@
                                 <ul class="mega-links">
                                     <li><a href="javascript:goTo('aboutWingate')">About Wingate</a></li>
                                     <li><a href="javascript:goTo('investmentProfile')">Investment Profile</a></li>
-                                    <li><a href="javascript:goTo('investmentStrategyAndTransactionTypes')">Investment Strategy & Transaction Types</a></li>
-                                    <li><a href="javascript:goTo('selectPortfolioCompanies')">Select Portfolio Companies</a></li>
+                                    <li><a href="javascript:goTo('investmentStrategyAndTransactionTypes')">Investment
+                                            Strategy & Transaction Types</a></li>
+                                    <li><a href="javascript:goTo('selectPortfolioCompanies')">Select Portfolio
+                                            Companies</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -399,14 +408,17 @@
                                 <ul class="mega-links">
                                     <li><a href="javascript:goTo('usLargeCapEquity')">U.S. Large Cap Equity</a></li>
                                     <li><a href="javascript:goTo('globalEquity')">Global Equity</a></li>
-                                    <li><a href="javascript:goTo('usSmallAndMidCapEquity')">U.S. Small & Mid-Cap Equity</a></li>
+                                    <li><a href="javascript:goTo('usSmallAndMidCapEquity')">U.S. Small & Mid-Cap
+                                            Equity</a></li>
                                 </ul>
                             </div>
                             <div class="row">
                                 <header>Fixed Income</header>
                                 <ul class="mega-links">
-                                    <li><a href="javascript:goTo('taxableFixedIncomeStrategies')">Taxable Fixed Income Strategies</a></li>
-                                    <li><a href="javascript:goTo('taxExemptFixedIncomeStrategy')">Tax-Exempt Fixed Income Strategy</a></li>
+                                    <li><a href="javascript:goTo('taxableFixedIncomeStrategies')">Taxable Fixed Income
+                                            Strategies</a></li>
+                                    <li><a href="javascript:goTo('taxExemptFixedIncomeStrategy')">Tax-Exempt Fixed
+                                            Income Strategy</a></li>
                                     <li><a href="javascript:goTo('usTipsStrategy')">U.S. TIPS Strategy</a></li>
                                 </ul>
                             </div>
@@ -431,7 +443,8 @@
                                     <li><a href="javascript:goTo('fundAdministration')">Fund Administration</a></li>
                                     <li><a href="javascript:goTo('transferAgency')">Transfer Agency</a></li>
                                     <li><a href="javascript:goTo('globalTax')">Global Tax</a></li>
-                                    <li><a href="javascript:goTo('collateralManagementCustody')">Collateral Management</a></li>
+                                    <li><a href="javascript:goTo('collateralManagementCustody')">Collateral
+                                            Management</a></li>
                                     <li><a href="javascript:goTo('fundOrderAndCustody')">Fund Order & Custody</a></li>
                                 </ul>
                             </div>
@@ -440,12 +453,15 @@
                                 <ul class="mega-links">
                                     <li><a href="javascript:goTo('crossBorderFunds')">Cross-Border Funds</a></li>
                                     <li><a href="javascript:goTo('usFunds')">US Funds</a></li>
-                                    <li><a href="javascript:goTo('consultantsAndAdvisors')">Consultants and Advisors</a></li>
-                                    <li><a href="javascript:goTo('distributionIntelligence')">Distribution Intelligence</a></li>
+                                    <li><a href="javascript:goTo('consultantsAndAdvisors')">Consultants and Advisors</a>
+                                    </li>
+                                    <li><a href="javascript:goTo('distributionIntelligence')">Distribution
+                                            Intelligence</a></li>
                                     <li><a href="javascript:goTo('alternativeFunds')">Alternative Funds</a></li>
                                     <li><a href="javascript:goTo('exchangeTradedFunds')">Exchange Traded Funds</a></li>
                                     <li><a href="javascript:goTo('insurance')">Insurance</a></li>
-                                    <li><a href="javascript:goTo('regulatoryIntelligence')">Regulatory Intelligence</a></li>
+                                    <li><a href="javascript:goTo('regulatoryIntelligence')">Regulatory Intelligence</a>
+                                    </li>
                                 </ul>
                             </div>
                             <div class="row">
@@ -463,7 +479,8 @@
                                 <header>Investment Operations & Technology Solutions</header>
                                 <ul class="mega-links">
                                     <li><a href="javascript:goTo('technologyServices')">Technology Services</a></li>
-                                    <li><a href="javascript:goTo('middleOfficeOutsourcing')">Middle Office Outsourcing</a></li>
+                                    <li><a href="javascript:goTo('middleOfficeOutsourcing')">Middle Office
+                                            Outsourcing</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -474,3 +491,18 @@
         </div>
     </div>
 </nav>
+
+@push('custom-scripts')
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            var links = document.querySelectorAll('.mega-box a');
+
+            links.forEach(function(link) {
+                link.addEventListener('click', function() {
+                    var megaBox = this.closest('.mega-box');
+                    megaBox.style.display = 'none';
+                });
+            });
+        });
+    </script>
+@endpush
