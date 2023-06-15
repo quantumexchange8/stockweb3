@@ -30,7 +30,7 @@
 <div class="blog-wrap post1">
     <div class="container">
         <div class="eight columns">
-            <img src="{{ asset('images/gallery/8.jpg') }}" alt="" />
+            <img src="{{ asset('images/resource/the-partnership.jpg') }}" alt="" />
         </div>
         <div class="eight columns">
             <h6><a href="{{ route('web.investor-services.custody-and-fund-services.listing') }}">The Partnership</a></h6>
@@ -49,7 +49,7 @@
     <div class="container">
         <div class="eight columns">
             <ul class="slider5">
-                <li><img src="{{ asset('images/gallery/12.jpg') }}" alt="" /></li>
+                <li><img src="{{ asset('images/resource/sustainability.jpg') }}" alt="" /></li>
             </ul>
         </div>
         <div class="eight columns">
@@ -69,7 +69,7 @@
 <div class="blog-wrap post1">
     <div class="container">
         <div class="eight columns">
-            <img src="{{ asset('images/gallery/8.jpg') }}" alt="" />
+            <img src="{{ asset('images/resource/philanthropy.jpg') }}" alt="" />
         </div>
         <div class="eight columns">
             <h6><a href="{{ route('web.investor-services.markets.listing') }}">Philanthropy</a></h6>

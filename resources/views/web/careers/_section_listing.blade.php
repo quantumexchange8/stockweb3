@@ -28,7 +28,7 @@
 <div class="blog-wrap post1">
     <div class="container">
         <div class="eight columns">
-            <img src="{{ asset('images/gallery/8.jpg') }}" alt="" />
+            <img src="{{ asset('images/resource/career1.jpeg') }}" alt="" />
         </div>
         <div class="eight columns">
             <h6><a href="{{ route('web.investment-management.public-equity.listing') }}">What We Look For</a></h6>
@@ -54,7 +54,7 @@
     <div class="container">
         <div class="eight columns">
             <ul class="slider5">
-                <li><img src="{{ asset('images/gallery/12.jpg') }}" alt="" /></li>
+                <li><img src="{{ asset('images/resource/career2.jpg') }}" alt="" /></li>
             </ul>
         </div>
         <div class="eight columns">

@@ -10,7 +10,7 @@
     <hr>
 </div>
 <div class="container">
-    <div class="five columns">
+    <div class="five columns" id="sidebar">
         @include('web.private-banking._sidebar')
     </div>
     <div class="eleven columns">
@@ -51,7 +51,8 @@
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('centerForFamilyBusiness')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('centerForFamilyBusiness')">read more</a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -59,7 +60,8 @@
         <div class="five columns">
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;"><a href="javascript:goTo('corporateBanking')">Corporate Banking</a></h6>
+                    <h6 style="text-align: left;"><a href="javascript:goTo('corporateBanking')">Corporate Banking</a>
+                    </h6>
                     <p>Value-added capital to substantial U.S.-based privately held companies with excellent credit
                         profiles.
                     </p>
