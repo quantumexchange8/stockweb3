@@ -74,15 +74,15 @@
 
     .nav-links li:hover .drop-menu,
     .nav-links li:hover .mega-box {
-        transition: all 0.7s ease-in-out;
+        transition: all 0.3s ease-in-out;
         top: 70px;
         opacity: 1;
         visibility: visible;
     }
     .nav-links li .drop-menu,
     .nav-links li .mega-box {
-        -webkit-transition: 0.5s ease;
-        transition: all 0.7s ease-in-out;
+        -webkit-transition: 0.3s ease;
+        transition: all 0.3s ease-in-out;
         top: 70px;
         opacity: 1;
         visibility: hidden;
@@ -234,7 +234,7 @@
             max-height: 0px;
             overflow: hidden;
             box-shadow: none;
-            transition: all 0.5s ease;
+            transition: all 0.3s ease;
         }
 
         #showDrop:checked~.drop-menu,
