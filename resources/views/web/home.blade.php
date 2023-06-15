@@ -522,7 +522,7 @@
         @include('layouts.partials._footer')
     </article>
     <!-- Investor Services > Investment Operations & Technology Solutions > Technology Services -->
-    <article id="investorServices" class="off" style="text-align: left;">
+    <article id="technologyServices" class="off" style="text-align: left;">
         @include('web.investor-services.investment-operations-and-technology-solutions.technology_services')
         @include('layouts.partials._footer')
     </article>
@@ -558,6 +558,15 @@
         @include('layouts.partials._footer')
     </article>
     <!-- here is collateral management which has already exist -->
+    <article id="infoRecon" class="off" style="text-align: left;">
+        @include('web.investor-services.investment-operations-and-technology-solutions.middle-office-outsourcing.infoRecon')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="infoNav" class="off" style="text-align: left;">
+        @include('web.investor-services.investment-operations-and-technology-solutions.middle-office-outsourcing.infoNAV')
+        @include('layouts.partials._footer')
+    </article>
+
 
     <!-- Our Firm -->
     <article id="ourFirm" class="off" style="text-align: left;">

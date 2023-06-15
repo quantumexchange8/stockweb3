@@ -15,30 +15,51 @@
     <div class="eleven columns">
         <h2>Collateral Management</h2>
         <p style="padding-top: 10px;">
-            Wingate ("WAML") is a private equity strategy that provides highly customized, one-stop junior capital
-            solutions to lower middle‐market companies. We currently have committed capital of approximately $1.1
-            billion that is available to be invested. <br><br>
-
-            WAML invests between $10 million and $125 million in businesses with enterprise values of $10 million to
-            $500 million and can invest substantially more by partnering with strategic co-investors or through
-            co-investments from our limited partners. We focus our investments in the healthcare, technology, media and
-            telecommunications, and business products and services industries. Our capital supports a range of
-            transactions, from buyouts and growth equity to recapitalizations and acquisitions. <br><br>
-
-            <strong><span style="text-decoration: underline;">Benefits of Wingate as a Partner</span></strong><br><br>
-
-            <strong>The WAML Advantage</strong><br><br>
-
-            WAML utilizes WAML’s extensive global network to provide its portfolio companies with a wide array of
-            benefits, including access to new customer/vendor relationships, introductions to potential acquisition
-            targets, and assistance with implementing improved information systems.<br><br>
-
-            <strong>Flexible Mandate</strong><br><br>
-
-            Our flexible investment mandate gives us the ability to act as a control or non-control investor and to
-            structure our investments as a combination of equity and subordinated debt securities. This flexibility is
-            differentiated in that it provides WAML with the ability to structure investments that are specific to the
-            needs of each opportunity.
+            Disruption to the derivatives market is underway as regulations such as the Dodd-Frank Act, European Market
+            Infrastructure Regulation, and Basel III increase the scarcity of available collateral. This has intensified
+            focus on improving collateral management practices as a means to increase operational effectiveness,
+            decrease counterparty credit risk, and control the costs of trading and collateralizing swaps. The way asset
+            managers adapt their collateral management discipline will impact their ability to deliver investment
+            performance.
+            <br><br>
+            WAML provides comprehensive and operationally efficient collateral management services designed to control
+            risk, improve front office decision making, and minimize the impact on portfolio performance. We work to
+            insulate clients from the burdensome investments required to comply with complex collateral requirements,
+            while they focus on generating investment returns.
+            <br><br>
+            <strong>Control Risk</strong>
+            <br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Custom technology maximizes straight through processing and connectivity with multiple counterparties via
+            WAML Infomediary®, reducing operational risk<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Manage the counterparty credit risk inherent to derivatives trading by ensuring exposures to counterparties
+            are managed<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Robust reporting provides key metrics, such as counterparty exposure and collateral transactions<br><br>
+            <strong>Improve Front Office Decision Making</strong>
+            <br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Increase visibility into collateral usage across counterparties<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Real time views into settlement status, inventory, and collateral positions<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Access to WAML collateral management business expertise<br><br>
+            <strong>Minimize Impact on Portfolio Performance</strong>
+            <br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Select the optimal collateral based on client defined hierarchies and counterparty exposures<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Identify and pledge “cheapest to deliver” collateral based on client defined parameters<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Ensure collateral received complies with eligibility criteria<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Reduce amount of over-collateralization with counterparties <br><br>
+            <strong style="text-decoration: underline;">WAML Collateral Management Program</strong>
+            <br><br>
+            The WAML Collateral Management program covers the entire collateral lifecycle, allowing us to support the
+            most complex derivatives trading strategies. Collateral management services also seamlessly links with WAML
+            fund accounting and custody, providing additional efficiencies and risk management.
+            <br><br>
+            WAML’s Collateral Management program is supported by a custom technology platform designed to improve your
+            operating model, incorporate industry best practices, and deliver real-time data reporting.
+            <br><br>
+            WAML services multiples participants in the collateral lifecycle, including CCPs, FCMs, and asset managers.
+            Our clients benefit from the expertise gained.
+            <br><br>
+            Clients additionally benefit from WAML’s measurably superior global client service model which incorporates
+            our operational expertise, local relationship management and market intelligence into client-specific
+            relationship plans.
         </p>
     </div>
     <div class="five columns">

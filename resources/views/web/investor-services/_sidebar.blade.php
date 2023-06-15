@@ -130,9 +130,13 @@
                 <li><a href="javascript:goTo('middleOfficeOutsourcing')">Middle Office Outsourcing</a></li>
                 <ul>
                     <li><a href="javascript:goTo('targetedTechnologySolutionsViaInfomediary')">Targeted Technology Solutions via Infomediary</a></li>
+                    <ul>
+                        <li><a href="javascript:goTo('infoRecon')">InfoRecon</a></li>
+                        <li><a href="javascript:goTo('infoNav')">InfoNAV</a></li>
+                    </ul>
                     <li><a href="javascript:goTo('hostedOperationsAndReporting')">Hosted Operations & Reporting</a></li>
                     <li><a href="javascript:goTo('investmentAccountingAndEnterpriseDataSupport')">Investment Accounting & Enterprise Data Support</a></li>
-                    <li><a href="javascript:goTo('collateralManagement')">Collateral Management</a></li>
+                    <li><a href="javascript:goTo('collateralManagementCustody')">Collateral Management</a></li>
                 </ul>
             </ul>
         </li>

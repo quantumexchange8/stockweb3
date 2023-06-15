@@ -15,30 +15,36 @@
     <div class="eleven columns">
         <h2>Transfer Agency</h2>
         <p style="padding-top: 10px;">
-            Wingate ("WAML") is a private equity strategy that provides highly customized, one-stop junior capital
-            solutions to lower middle‐market companies. We currently have committed capital of approximately $1.1
-            billion that is available to be invested. <br><br>
-
-            WAML invests between $10 million and $125 million in businesses with enterprise values of $10 million to
-            $500 million and can invest substantially more by partnering with strategic co-investors or through
-            co-investments from our limited partners. We focus our investments in the healthcare, technology, media and
-            telecommunications, and business products and services industries. Our capital supports a range of
-            transactions, from buyouts and growth equity to recapitalizations and acquisitions. <br><br>
-
-            <strong><span style="text-decoration: underline;">Benefits of Wingate as a Partner</span></strong><br><br>
-
-            <strong>The WAML Advantage</strong><br><br>
-
-            WAML utilizes WAML’s extensive global network to provide its portfolio companies with a wide array of
-            benefits, including access to new customer/vendor relationships, introductions to potential acquisition
-            targets, and assistance with implementing improved information systems.<br><br>
-
-            <strong>Flexible Mandate</strong><br><br>
-
-            Our flexible investment mandate gives us the ability to act as a control or non-control investor and to
-            structure our investments as a combination of equity and subordinated debt securities. This flexibility is
-            differentiated in that it provides WAML with the ability to structure investments that are specific to the
-            needs of each opportunity.
+            Transfer Agency is critical to funds’ distribution success. Servicing many of the most sophisticated asset
+            managers in the world, Wingate is committed to providing global Transfer Agency. We support clients
+            distributing cross-border Luxembourg, Ireland, Cayman, Bermuda and Hong Kong domiciled funds, as well as US
+            domiciled alternative funds, to institutional and wholesale investors.
+            <br><br>
+            Transfer Agency is a core component of WAML’s overall cross-border service offering. We support our clients
+            and their investors in close to 100 countries throughout the world via our <a href="javascript:goTo('globalServiceModel')">global service model</a>. Our service
+            covers core processing and shareholder services as well as <a href="javascript:goTo('distributionIntelligence')">distribution intelligence</a>.
+            <br><br>
+            We excel in servicing complex fund structures and key features of our offering include:
+            <br><br>
+            <strong>Long-Term Commitment and Strategy</strong>
+            <br><br>
+            We are investing in flexible market leading technology to meet clients’ and investors’ requirements and ever
+            increasing regulatory changes.
+            <br><br>
+            <strong>Customizable Global Service Model</strong>
+            <br><br>
+            Our multi-lingual servicing desks across time zones offer full operational capability with a consistent
+            level of service.
+            <br><br>
+            <strong>Robust Infrastructure</strong>
+            <br><br>
+            We provide a single Transfer Agency platform globally. When combined with WAML <a href="javascript:goTo('dataConnectivityAndApplicationsViaInfomediary')">Infomediary</a>®, this offers a
+            unique connectivity solution for distributor communications.
+            <br><br>
+            <strong>Focus on Investor OnBoarding</strong>
+            <br><br>
+            We focus on investor onboarding and ongoing servicing critical to an asset manager’s relationship with its
+            underlying clients. We have a strong expertise in local business practices including AML/ KYC.
         </p>
     </div>
     <div class="five columns">

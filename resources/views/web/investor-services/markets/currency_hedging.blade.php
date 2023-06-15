@@ -15,30 +15,40 @@
     <div class="eleven columns">
         <h2>Currency Hedging</h2>
         <p style="padding-top: 10px;">
-            Wingate ("WAML") is a private equity strategy that provides highly customized, one-stop junior capital
-            solutions to lower middle‐market companies. We currently have committed capital of approximately $1.1
-            billion that is available to be invested. <br><br>
-
-            WAML invests between $10 million and $125 million in businesses with enterprise values of $10 million to
-            $500 million and can invest substantially more by partnering with strategic co-investors or through
-            co-investments from our limited partners. We focus our investments in the healthcare, technology, media and
-            telecommunications, and business products and services industries. Our capital supports a range of
-            transactions, from buyouts and growth equity to recapitalizations and acquisitions. <br><br>
-
-            <strong><span style="text-decoration: underline;">Benefits of Wingate as a Partner</span></strong><br><br>
-
-            <strong>The WAML Advantage</strong><br><br>
-
-            WAML utilizes WAML’s extensive global network to provide its portfolio companies with a wide array of
-            benefits, including access to new customer/vendor relationships, introductions to potential acquisition
-            targets, and assistance with implementing improved information systems.<br><br>
-
-            <strong>Flexible Mandate</strong><br><br>
-
-            Our flexible investment mandate gives us the ability to act as a control or non-control investor and to
-            structure our investments as a combination of equity and subordinated debt securities. This flexibility is
-            differentiated in that it provides WAML with the ability to structure investments that are specific to the
-            needs of each opportunity.
+            Whether managing an international portfolio with unwanted currency exposure or multi currency hedged share
+            class offerings, Wingate offers a comprehensive and flexible passive currency hedging solution.
+            <br><br>
+            Created specifically for asset managers, WAML's currency hedging solution reduces the operational burden of
+            in-house program management, allowing managers to focus on core functions.
+            <br><br>
+            <strong>Delegate the Process, Not the Control</strong>
+            <br><br>
+            Featuring a configurable dashboard, FX HedgeHub™, an online reporting platform, provides a 360-degree view
+            of our clients' universe of currency hedged products. HedgeHub aligns with key stakeholders demands around
+            oversight and transparency, solves for major asset manager pain points such as disparate and incomplete data
+            and delivers interactive, centralized reporting.
+            <br><br>
+            <strong>Comprehensive End-to-End Hedging Solution</strong>
+            <br><br>
+            We work with clients to create hedging programs aimed at minimizing tracking errors and transaction costs of
+            each mandate relative to the hedging objective. Our solution encompasses customized program calibration and
+            implementation design, daily monitoring and hedge administration, trade calculation, trade execution, and
+            detailed reporting.
+            <br><br>
+            <strong>Operational Efficiency through Scalability</strong>
+            <br><br>
+            Regardless of how simple or complex the operational process, WAML's systems are designed for efficiency and
+            scalability. Our comprehensive pre- and post-trade monitoring and validation help to confirm appropriate
+            trades are consistently generated within agreed upon parameters.
+            <br><br>
+            <strong>Execution Expertise</strong>
+            <br><br>
+            Our experienced global team includes dedicated traders who understand the market dynamics needed to deliver
+            effective execution in deliverable and non-deliverable forwards (NDFs). Leveraging the interbank and broker
+            relationships of our trading desk, we have the ability to offer multiple execution choices resulting in
+            access to the market from a panel of liquidity providers.*
+            <br><br>
+            <span style="font-style: italic;">*Not available for all products</span>
         </p>
     </div>
     <div class="five columns">

@@ -12,36 +12,42 @@
     <hr>
 </div>
 <div class="container">
-    <div class="five columns">
-        @include('web.investor-services._sidebar')
-    </div>
+
     <div class="eleven columns">
         <h2>Global Service Model</h2>
         <p style="padding-top: 10px;">
-            Wingate ("WAML") is a private equity strategy that provides highly customized, one-stop junior capital
-            solutions to lower middle‐market companies. We currently have committed capital of approximately $1.1
-            billion that is available to be invested. <br><br>
-
-            WAML invests between $10 million and $125 million in businesses with enterprise values of $10 million to
-            $500 million and can invest substantially more by partnering with strategic co-investors or through
-            co-investments from our limited partners. We focus our investments in the healthcare, technology, media and
-            telecommunications, and business products and services industries. Our capital supports a range of
-            transactions, from buyouts and growth equity to recapitalizations and acquisitions. <br><br>
-
-            <strong><span style="text-decoration: underline;">Benefits of Wingate as a Partner</span></strong><br><br>
-
-            <strong>The WAML Advantage</strong><br><br>
-
-            WAML utilizes WAML’s extensive global network to provide its portfolio companies with a wide array of
-            benefits, including access to new customer/vendor relationships, introductions to potential acquisition
-            targets, and assistance with implementing improved information systems.<br><br>
-
-            <strong>Flexible Mandate</strong><br><br>
-
-            Our flexible investment mandate gives us the ability to act as a control or non-control investor and to
-            structure our investments as a combination of equity and subordinated debt securities. This flexibility is
-            differentiated in that it provides WAML with the ability to structure investments that are specific to the
-            needs of each opportunity.
+            Sophisticated asset managers require the highest quality investor servicing, regardless of location or time
+            zone.
+            <br><br>
+            Wingate delivers this through a global service model tailored to the needs of each manager. We locate
+            servicing teams based on clients’ time zones, the location of their fund domiciles, and their markets of
+            distribution.
+            <br><br>
+            Our consistent harmonized global service model creates operational efficiencies, mitigates risk, and
+            improves the client experience and that of their investors.
+            <br><br>
+            <strong>One Global Team</strong>
+            <br><br>
+            With one global P&L and integrated team, the WAML service experience is seamless. We give clients the
+            ability to direct all inquiries and communications through one, multi-disciplinary, client-facing team in
+            their time zone of choice. This facilitates the highest levels of client engagement, transparent
+            communication, and measurably superior service.
+            <br><br>
+            <strong>Technology Platform</strong>
+            <br><br>
+            Our single global technology platform and intelligent integration of business teams and technologists is
+            central to our goal of providing a superior client experience.
+            <br><br>
+            Regardless of client or fund domicile, our service teams have access to the same systems and real-time
+            information, providing one common platform for quick inquiry turnaround and continuous improvement. Our
+            platform enables clients to receive information at the opening of their business day regardless of where
+            they are located.
+            <br><br>
+            Serving select segments of the financial services industry, our investments are focused on making every
+            application on our platform highly relevant to clients, and more responsive and transparent than our peers.
         </p>
+    </div>
+    <div class="five columns">
+        @include('web.investor-services._sidebar')
     </div>
 </div>

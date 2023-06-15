@@ -12,36 +12,30 @@
     <hr>
 </div>
 <div class="container">
-    <div class="five columns">
-        @include('web.investor-services._sidebar')
-    </div>
+
     <div class="eleven columns">
         <h2>Dublin</h2>
         <p style="padding-top: 10px;">
-            Wingate ("WAML") is a private equity strategy that provides highly customized, one-stop junior capital
-            solutions to lower middle‐market companies. We currently have committed capital of approximately $1.1
-            billion that is available to be invested. <br><br>
-
-            WAML invests between $10 million and $125 million in businesses with enterprise values of $10 million to
-            $500 million and can invest substantially more by partnering with strategic co-investors or through
-            co-investments from our limited partners. We focus our investments in the healthcare, technology, media and
-            telecommunications, and business products and services industries. Our capital supports a range of
-            transactions, from buyouts and growth equity to recapitalizations and acquisitions. <br><br>
-
-            <strong><span style="text-decoration: underline;">Benefits of Wingate as a Partner</span></strong><br><br>
-
-            <strong>The WAML Advantage</strong><br><br>
-
-            WAML utilizes WAML’s extensive global network to provide its portfolio companies with a wide array of
-            benefits, including access to new customer/vendor relationships, introductions to potential acquisition
-            targets, and assistance with implementing improved information systems.<br><br>
-
-            <strong>Flexible Mandate</strong><br><br>
-
-            Our flexible investment mandate gives us the ability to act as a control or non-control investor and to
-            structure our investments as a combination of equity and subordinated debt securities. This flexibility is
-            differentiated in that it provides WAML with the ability to structure investments that are specific to the
-            needs of each opportunity.
+            One of the most successful cross border fund domiciles, Ireland is viewed as a key strategic location by the
+            world's leading cross border asset managers. It is crucial for managers to partner with an experienced
+            service provider to evolve their global servicing infrastructure and support their future growth.
+            <br><br>
+            <strong>Leading Dublin Service Provider</strong>
+            <br><br>
+            Present in the Irish market since 1995, Wingate has supported the growth of the Irish fund industry since
+            its creation. We are now one of the country’s leading service providers, offering our full asset servicing
+            suite to Dublin domiciled UCITS and non-UCITS funds.
+            <br><br>
+            We specialise in helping our clients manage the complexity of cross border fund servicing, with particular
+            expertise in UCITS, RQFII, ETFs and alternative fund structures.
+            <br><br>
+            Our reputation as one of the leading providers in Dublin is driven by our close relationships with clients,
+            local regulators, industry associations and other key stakeholders. We actively participate in many industry
+            forums and working groups, including the Irish Funds association (IF) and the Department of An Taoiseach
+            Government Funds Working Group.
         </p>
+    </div>
+    <div class="five columns">
+        @include('web.investor-services._sidebar')
     </div>
 </div>

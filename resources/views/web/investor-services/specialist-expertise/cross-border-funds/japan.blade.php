@@ -12,36 +12,35 @@
     <hr>
 </div>
 <div class="container">
-    <div class="five columns">
-        @include('web.investor-services._sidebar')
-    </div>
+
     <div class="eleven columns">
         <h2>Japan</h2>
         <p style="padding-top: 10px;">
-            Wingate ("WAML") is a private equity strategy that provides highly customized, one-stop junior capital
-            solutions to lower middle‐market companies. We currently have committed capital of approximately $1.1
-            billion that is available to be invested. <br><br>
-
-            WAML invests between $10 million and $125 million in businesses with enterprise values of $10 million to
-            $500 million and can invest substantially more by partnering with strategic co-investors or through
-            co-investments from our limited partners. We focus our investments in the healthcare, technology, media and
-            telecommunications, and business products and services industries. Our capital supports a range of
-            transactions, from buyouts and growth equity to recapitalizations and acquisitions. <br><br>
-
-            <strong><span style="text-decoration: underline;">Benefits of Wingate as a Partner</span></strong><br><br>
-
-            <strong>The WAML Advantage</strong><br><br>
-
-            WAML utilizes WAML’s extensive global network to provide its portfolio companies with a wide array of
-            benefits, including access to new customer/vendor relationships, introductions to potential acquisition
-            targets, and assistance with implementing improved information systems.<br><br>
-
-            <strong>Flexible Mandate</strong><br><br>
-
-            Our flexible investment mandate gives us the ability to act as a control or non-control investor and to
-            structure our investments as a combination of equity and subordinated debt securities. This flexibility is
-            differentiated in that it provides WAML with the ability to structure investments that are specific to the
-            needs of each opportunity.
+            Increasingly in search of diversification, retail investors, pension funds and institutional investors are
+            shifting their allocation to cross-border securities. These investments are being made through Japanese
+            investment trust management funds (ITMs), separate accounts, and cross-border funds domiciled in offshore
+            markets in both public and private domains.
+            <br><br>
+            Wingate’s Tokyo office services many of the most sophisticated local and global asset managers, trust banks
+            and institutional investors including quasi-government entities, for their cross border investments from
+            Japan.
+            <br><br>
+            We are proud of our longstanding ties with Japan which date back to the early 1900s, far earlier than the
+            opening of our Tokyo office in 1984. Our long term commitment and thoughtful approach has helped us build a
+            strong reputation in the market.
+            <br><br>
+            <strong>Comprehensive Local Servicing</strong>
+            <br><br>
+            To support asset managers distributing their offshore fund products into Japan as well as our Japan based
+            clients, our experienced fund services team resides in Tokyo to address day-to-day needs in the local time
+            zone. The team supports our global service model, providing custody, fund accounting and fund administration
+            services.
+            <br><br>
+            WAML also works with our Japanese clients to provide securities lending, foreign exchange and Infomediary®
+            messaging and connectivity services.
         </p>
+    </div>
+    <div class="five columns">
+        @include('web.investor-services._sidebar')
     </div>
 </div>

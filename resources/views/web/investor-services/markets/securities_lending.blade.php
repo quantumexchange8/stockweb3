@@ -15,30 +15,42 @@
     <div class="eleven columns">
         <h2>Securities Lending</h2>
         <p style="padding-top: 10px;">
-            Wingate ("WAML") is a private equity strategy that provides highly customized, one-stop junior capital
-            solutions to lower middle‐market companies. We currently have committed capital of approximately $1.1
-            billion that is available to be invested. <br><br>
-
-            WAML invests between $10 million and $125 million in businesses with enterprise values of $10 million to
-            $500 million and can invest substantially more by partnering with strategic co-investors or through
-            co-investments from our limited partners. We focus our investments in the healthcare, technology, media and
-            telecommunications, and business products and services industries. Our capital supports a range of
-            transactions, from buyouts and growth equity to recapitalizations and acquisitions. <br><br>
-
-            <strong><span style="text-decoration: underline;">Benefits of Wingate as a Partner</span></strong><br><br>
-
-            <strong>The WAML Advantage</strong><br><br>
-
-            WAML utilizes WAML’s extensive global network to provide its portfolio companies with a wide array of
-            benefits, including access to new customer/vendor relationships, introductions to potential acquisition
-            targets, and assistance with implementing improved information systems.<br><br>
-
-            <strong>Flexible Mandate</strong><br><br>
-
-            Our flexible investment mandate gives us the ability to act as a control or non-control investor and to
-            structure our investments as a combination of equity and subordinated debt securities. This flexibility is
-            differentiated in that it provides WAML with the ability to structure investments that are specific to the
-            needs of each opportunity.
+            Wingate specializes in securities lending for asset managers, with approximately 90% of our clients
+            representing this industry segment. Asset managers who work with WAML are assured of a specialized program
+            customized to their unique needs.
+            <br><br>
+            Supported through a “custodian-neutral” platform, all WAML securities lending clients receive the same level
+            of operational excellence, flexibility and service, regardless of their custodian. Over 50% of our business
+            is driven by “third party” lending and we maintain automated connections with most global custodians.
+            <br><br>
+            <strong>The Importance of Risk Management</strong>
+            <br>
+            Lending for asset managers is different to the type of lending typically favored by Pensions, Banks,
+            Sovereign Wealth Funds and Insurers. This difference is rooted in the management of risk. WAML is an expert
+            at structuring securities lending programs that maximize our clients returns within specific risk
+            tolerances.
+            <br><br>
+            <strong>The Securities Lending Trading Dynamic</strong>
+            <br>
+            Un-encumbered by maintaining a large volume lending program, WAML is uniquely positioned to execute
+            value-driven strategies for our clients. By partnering with WAML, asset managers can be certain they will be
+            joining other like-minded lenders, in a program that has a unique structural advantage in negotiating fees
+            for their highest value loans.
+            <br><br>
+            Our trading strategy maximizes return from a relatively small number of trades that offer the most
+            meaningful returns, via a global trading team in London, Boston and Hong Kong who have a deep understanding
+            of the dynamics driving borrower demand. We utilize technology to automate low-value trading activity that
+            supplements these high-margin opportunities.
+            <br><br>
+            <strong>Pioneering Digital Tools Built for Unique Needs</strong>
+            <br>
+            Pre-trade, WAML offers Securities Lending DealBoard, which enables our clients to see revenue opportunities,
+            borrowing demand and share price trends in one place. Our clients can see – and act on – every opportunity
+            across their funds. Post-trade, we have launched a new digital experience to deliver the next generation of
+            transparency, allowing our clients to oversee their lending program in real time, monitoring revenue and the
+            markets that generate it.
+            <br><br>
+            <a href="javascript:goTo('')">WAML Securities Lending Execution Policy</a>
         </p>
     </div>
     <div class="five columns">

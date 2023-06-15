@@ -15,30 +15,28 @@
     <div class="eleven columns">
         <h2>Insurance</h2>
         <p style="padding-top: 10px;">
-            Wingate ("WAML") is a private equity strategy that provides highly customized, one-stop junior capital
-            solutions to lower middle‐market companies. We currently have committed capital of approximately $1.1
-            billion that is available to be invested. <br><br>
-
-            WAML invests between $10 million and $125 million in businesses with enterprise values of $10 million to
-            $500 million and can invest substantially more by partnering with strategic co-investors or through
-            co-investments from our limited partners. We focus our investments in the healthcare, technology, media and
-            telecommunications, and business products and services industries. Our capital supports a range of
-            transactions, from buyouts and growth equity to recapitalizations and acquisitions. <br><br>
-
-            <strong><span style="text-decoration: underline;">Benefits of Wingate as a Partner</span></strong><br><br>
-
-            <strong>The WAML Advantage</strong><br><br>
-
-            WAML utilizes WAML’s extensive global network to provide its portfolio companies with a wide array of
-            benefits, including access to new customer/vendor relationships, introductions to potential acquisition
-            targets, and assistance with implementing improved information systems.<br><br>
-
-            <strong>Flexible Mandate</strong><br><br>
-
-            Our flexible investment mandate gives us the ability to act as a control or non-control investor and to
-            structure our investments as a combination of equity and subordinated debt securities. This flexibility is
-            differentiated in that it provides WAML with the ability to structure investments that are specific to the
-            needs of each opportunity.
+            (Re)insurance firms are facing a rapidly changing market environment characterized by stricter capital
+            adequacy requirements, reserve deterioration, limited financial flexibility, and the prolonged low-interest
+            rate environment. All the while, improved performance, increased efficiency, and enhanced enterprise risk
+            management have become priorities based on increased client demand.
+            <br><br>
+            Wingate helps firms deliver on these priorities, while managing the complexity of the ever changing
+            marketplace. We marry product, market, and regulatory expertise with proven technology and service
+            excellence to deliver bespoke solutions that match our clients’ particular business needs.
+            <br><br>
+            <strong>Integrated and Modular Global Service Offering</strong><br>
+            Whether (re)insurance companies are looking for a fully integrated solution or specific services on a
+            modular basis, they can leverage WAML’s wide ranging product suite to support their global service and
+            investment goals. With experience servicing the world’s most sophisticated asset managers, our dedicated
+            (re)insurance team supports our clients in their efforts to minimize risk, optimize cost, and manage their
+            unique asset/liability, accounting, collateral, regulatory, and reporting needs.
+            <br><br>
+            <strong>Powered by Technology</strong><br>
+            Integrated, flexible technology applications are central to our goal of providing clients a superior service
+            experience. Regardless of location, WAML service teams have access to the same systems and real-time
+            information, ensuring quick inquiry turnaround and continuous improvement.
+            <br><br>
+            As a NAIC approved bank, WAML offers the following services:
         </p>
     </div>
     <div class="five columns">

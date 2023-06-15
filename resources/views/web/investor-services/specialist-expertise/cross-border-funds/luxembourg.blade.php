@@ -12,36 +12,33 @@
     <hr>
 </div>
 <div class="container">
-    <div class="five columns">
-        @include('web.investor-services._sidebar')
-    </div>
+
     <div class="eleven columns">
         <h2>Luxembourg</h2>
         <p style="padding-top: 10px;">
-            Wingate ("WAML") is a private equity strategy that provides highly customized, one-stop junior capital
-            solutions to lower middle‐market companies. We currently have committed capital of approximately $1.1
-            billion that is available to be invested. <br><br>
-
-            WAML invests between $10 million and $125 million in businesses with enterprise values of $10 million to
-            $500 million and can invest substantially more by partnering with strategic co-investors or through
-            co-investments from our limited partners. We focus our investments in the healthcare, technology, media and
-            telecommunications, and business products and services industries. Our capital supports a range of
-            transactions, from buyouts and growth equity to recapitalizations and acquisitions. <br><br>
-
-            <strong><span style="text-decoration: underline;">Benefits of Wingate as a Partner</span></strong><br><br>
-
-            <strong>The WAML Advantage</strong><br><br>
-
-            WAML utilizes WAML’s extensive global network to provide its portfolio companies with a wide array of
-            benefits, including access to new customer/vendor relationships, introductions to potential acquisition
-            targets, and assistance with implementing improved information systems.<br><br>
-
-            <strong>Flexible Mandate</strong><br><br>
-
-            Our flexible investment mandate gives us the ability to act as a control or non-control investor and to
-            structure our investments as a combination of equity and subordinated debt securities. This flexibility is
-            differentiated in that it provides WAML with the ability to structure investments that are specific to the
-            needs of each opportunity.
+            Luxembourg has developed into the largest cross border investment fund centre in Europe and a leading hub
+            for global fund distribution.
+            <br><br>
+            Luxembourg domiciled funds are continuing to grow in popularity across the world, from Asia to Latin
+            America. It is therefore crucial for managers to partner with an experienced service provider to evolve
+            their global servicing infrastructure and support their future growth.
+            <br><br>
+            <strong>Leading Luxembourg Service Provider</strong>
+            <br><br>
+            Present in the market since 1989, supporting our clients since the launch of the first UCITS funds, Wingate
+            is now one of the top third party custodians and administrators in Luxembourg. We offer our full asset
+            servicing suite to Luxembourg domiciled UCITS and non-UCITS.
+            <br><br>
+            We specialise in helping our clients manage the complexity of cross border fund servicing, with particular
+            expertise in UCITS, RQFII, ETFs and alternative fund structures.
+            <br><br>
+            Our reputation as one of the Grand Duchy’s leading securities servicers is driven by our close relationships
+            with clients, local regulators and other industry stakeholders. We actively participate in many industry
+            forums and working groups including the Luxembourg Fund Association (ALFI), the Luxembourg Banking
+            Association (ABBL) and the Luxembourg Private Equity Association (LPEA).
         </p>
+    </div>
+    <div class="five columns">
+        @include('web.investor-services._sidebar')
     </div>
 </div>

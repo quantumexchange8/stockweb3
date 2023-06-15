@@ -450,6 +450,14 @@ $('ul.slimmenu').slimmenu(
 						"background" : "",
 						"index" : 5.421
 					},
+					"infoRecon" : {
+						"background" : "",
+						"index" : 5.4211
+					},
+					"infoNav" : {
+						"background" : "",
+						"index" : 5.4212
+					},
 					"hostedOperationsAndReporting" : {
 						"background" : "",
 						"index" : 5.422

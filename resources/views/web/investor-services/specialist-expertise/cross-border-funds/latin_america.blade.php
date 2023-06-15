@@ -12,36 +12,39 @@
     <hr>
 </div>
 <div class="container">
-    <div class="five columns">
-        @include('web.investor-services._sidebar')
-    </div>
+
     <div class="eleven columns">
         <h2>Latin America</h2>
         <p style="padding-top: 10px;">
-            Wingate ("WAML") is a private equity strategy that provides highly customized, one-stop junior capital
-            solutions to lower middle‐market companies. We currently have committed capital of approximately $1.1
-            billion that is available to be invested. <br><br>
-
-            WAML invests between $10 million and $125 million in businesses with enterprise values of $10 million to
-            $500 million and can invest substantially more by partnering with strategic co-investors or through
-            co-investments from our limited partners. We focus our investments in the healthcare, technology, media and
-            telecommunications, and business products and services industries. Our capital supports a range of
-            transactions, from buyouts and growth equity to recapitalizations and acquisitions. <br><br>
-
-            <strong><span style="text-decoration: underline;">Benefits of Wingate as a Partner</span></strong><br><br>
-
-            <strong>The WAML Advantage</strong><br><br>
-
-            WAML utilizes WAML’s extensive global network to provide its portfolio companies with a wide array of
-            benefits, including access to new customer/vendor relationships, introductions to potential acquisition
-            targets, and assistance with implementing improved information systems.<br><br>
-
-            <strong>Flexible Mandate</strong><br><br>
-
-            Our flexible investment mandate gives us the ability to act as a control or non-control investor and to
-            structure our investments as a combination of equity and subordinated debt securities. This flexibility is
-            differentiated in that it provides WAML with the ability to structure investments that are specific to the
-            needs of each opportunity.
+            Rapid growth in institutional assets across Latin America’s five largest markets – Brazil, Mexico, Chile,
+            Colombia and Peru - is driving significant interest from global asset managers to establish and expand
+            operations in the region.
+            <br><br>
+            With consistent service excellence over multiple decades, a customized approach to addressing local market
+            requirements, and strategic insights on global fund distribution, Wingate is the leading asset servicer for
+            Latin America’s largest asset gatherers.
+            <br><br>
+            <strong>Integrated Solutions</strong><br>
+            WAML offers a full range of investment servicing solutions including:
+            <br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;<a href="javascript:goTo('custody')">Global Custody</a><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;<a href="javascript:goTo('privateBanking')">Private Banking</a><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;<a href="javascript:goTo('investmentManagement')">Investment Management</a><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Fund Servicing (<a href="javascript:goTo('fundAccounting')">Fund Accounting</a>/<a href="javascript:goTo('fundAdministration')">Fund Administration</a>)<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;<a href="javascript:goTo('foreignExchange')">Foreign Exchange</a><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;<a href="javascript:goTo('securitiesLending')">Securities Lending</a><br>
+            <br><br>
+            <strong>Commitment to the Region</strong>
+            <br><br>
+            WAML has enjoyed close links to Latin America since our founding in 1818, and has been servicing the Latin
+            American pension fund system since its inception nearly 40 years ago. Our reputation as the region’s leading
+            custodian is driven by our close working relationships with clients, local regulators and the market
+            infrastructure. Backed by the long-term thinking and approach that comes with our partnership structure, we
+            design our services specifically to meet our clients’ local requirements and maintain the flexibility to
+            adapt our model as their global opportunity expands.
         </p>
+    </div>
+    <div class="five columns">
+        @include('web.investor-services._sidebar')
     </div>
 </div>

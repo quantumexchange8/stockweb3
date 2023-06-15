@@ -15,30 +15,44 @@
     <div class="eleven columns">
         <h2>Exchange Traded Funds</h2>
         <p style="padding-top: 10px;">
-            Wingate ("WAML") is a private equity strategy that provides highly customized, one-stop junior capital
-            solutions to lower middle‐market companies. We currently have committed capital of approximately $1.1
-            billion that is available to be invested. <br><br>
-
-            WAML invests between $10 million and $125 million in businesses with enterprise values of $10 million to
-            $500 million and can invest substantially more by partnering with strategic co-investors or through
-            co-investments from our limited partners. We focus our investments in the healthcare, technology, media and
-            telecommunications, and business products and services industries. Our capital supports a range of
-            transactions, from buyouts and growth equity to recapitalizations and acquisitions. <br><br>
-
-            <strong><span style="text-decoration: underline;">Benefits of Wingate as a Partner</span></strong><br><br>
-
-            <strong>The WAML Advantage</strong><br><br>
-
-            WAML utilizes WAML’s extensive global network to provide its portfolio companies with a wide array of
-            benefits, including access to new customer/vendor relationships, introductions to potential acquisition
-            targets, and assistance with implementing improved information systems.<br><br>
-
-            <strong>Flexible Mandate</strong><br><br>
-
-            Our flexible investment mandate gives us the ability to act as a control or non-control investor and to
-            structure our investments as a combination of equity and subordinated debt securities. This flexibility is
-            differentiated in that it provides WAML with the ability to structure investments that are specific to the
-            needs of each opportunity.
+            Wingate is a leading provider of asset servicing for the global ETF market. WAML is an ETF specialist for
+            US, European and Asian-domiciled products, and works with both experienced ETF managers and new, innovative
+            market entrants to introduce and grow their ETF products.
+            <br><br>
+            <strong>Deep and Diverse Product Expertise</strong>
+            <br><br>
+            With a team comprised of specialists from all areas of the ETF industry, WAML maintains expertise across the
+            full realm of physical (in specie) and synthetic ETF and Exchange Traded Product (ETP) structures. Our
+            clients employ active, passive and quantitative ETF strategies. We service emerging/developed equity and
+            fixed income, inverse/leverage, currency, and commodity ETF products.
+            <br><br>
+            <strong>Consulting with Clients from Concept to Implementation</strong>
+            <br><br>
+            WAML specialists consult with ETF sponsors through a variety of legal, research-oriented, and project
+            management hurdles related to the launch and growth of ETF products. Our clients benefit from:
+            <br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Expertise in the ETF pre-launch process and across multiple asset classes and geographies
+            <br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Deep relationships with listing exchanges, distributors, and authorized participants
+            <br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Experience and insights into the global ETF industry via subject matter experts who have come from fund
+            promoters, service providers, index providers, trading and technology firms
+            <br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;A hands-on, consultative approach to servicing clients
+            <br><br>
+            <strong>Scalable and Flexible ETF-Specific Technology</strong>
+            <br><br>
+            WAML has made a strategic decision to invest in a custom, market leading technology platform specifically
+            designed to service ETFs:
+            <br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;ETF ConnectTM, offering online access to client data, reporting and other powerful tools that promote
+            business management
+            <br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;AP EXchange TM, offering trade functionality and the flexibility to submit and monitor, create and redeem
+            activity
+            <br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;ETF Star, an ETF-specific platform that is fully integrated with WAML’s core accounting system with focus on
+            basket and Portfolio Composition File (PCF) generation
         </p>
     </div>
     <div class="five columns">

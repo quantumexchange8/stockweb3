@@ -12,36 +12,31 @@
     <hr>
 </div>
 <div class="container">
-    <div class="five columns">
-        @include('web.investor-services._sidebar')
-    </div>
+
     <div class="eleven columns">
         <h2>Hedge Funds</h2>
         <p style="padding-top: 10px;">
-            Wingate ("WAML") is a private equity strategy that provides highly customized, one-stop junior capital
-            solutions to lower middle‐market companies. We currently have committed capital of approximately $1.1
-            billion that is available to be invested. <br><br>
-
-            WAML invests between $10 million and $125 million in businesses with enterprise values of $10 million to
-            $500 million and can invest substantially more by partnering with strategic co-investors or through
-            co-investments from our limited partners. We focus our investments in the healthcare, technology, media and
-            telecommunications, and business products and services industries. Our capital supports a range of
-            transactions, from buyouts and growth equity to recapitalizations and acquisitions. <br><br>
-
-            <strong><span style="text-decoration: underline;">Benefits of Wingate as a Partner</span></strong><br><br>
-
-            <strong>The WAML Advantage</strong><br><br>
-
-            WAML utilizes WAML’s extensive global network to provide its portfolio companies with a wide array of
-            benefits, including access to new customer/vendor relationships, introductions to potential acquisition
-            targets, and assistance with implementing improved information systems.<br><br>
-
-            <strong>Flexible Mandate</strong><br><br>
-
-            Our flexible investment mandate gives us the ability to act as a control or non-control investor and to
-            structure our investments as a combination of equity and subordinated debt securities. This flexibility is
-            differentiated in that it provides WAML with the ability to structure investments that are specific to the
-            needs of each opportunity.
+            Wingate is a leading global service provider for alternative funds, with over $275 billion* in assets under
+            administration.
+            <br><br>
+            Supporting $22 billion* in hedge fund strategies, including traditional hedge funds and other liquid
+            alternatives, we are adept in dealing with the structural and operational requirements typical to these
+            types of funds.
+            <br><br>
+            We have dedicated expert hedge fund teams who leverage our core competencies to deliver the institutional
+            standards and capacity of a global bank, combined with the service quality of a specialist administrator.
+            <br><br>
+            <a href="javascript:goTo('globalServiceModel')">Our global service model</a> allows us to adapt our
+            servicing to the needs of the manager, locating teams in the different time zones and domiciles required.
+            <br><br>
+            We put a particular focus on shareholder onboarding and ongoing servicing, knowing that this is fundamental
+            in ensuring an asset manager’s reputation with its underlying clients. As such this helps build and protect
+            brand - an increasingly important driver of a manager’s distribution strategy.
+            <br><br>
+            *as of December 2021.
         </p>
+    </div>
+    <div class="five columns">
+        @include('web.investor-services._sidebar')
     </div>
 </div>

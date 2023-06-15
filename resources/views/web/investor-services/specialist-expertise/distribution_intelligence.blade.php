@@ -15,30 +15,36 @@
     <div class="eleven columns">
         <h2>Distribution Intelligence</h2>
         <p style="padding-top: 10px;">
-            Wingate ("WAML") is a private equity strategy that provides highly customized, one-stop junior capital
-            solutions to lower middle‐market companies. We currently have committed capital of approximately $1.1
-            billion that is available to be invested. <br><br>
-
-            WAML invests between $10 million and $125 million in businesses with enterprise values of $10 million to
-            $500 million and can invest substantially more by partnering with strategic co-investors or through
-            co-investments from our limited partners. We focus our investments in the healthcare, technology, media and
-            telecommunications, and business products and services industries. Our capital supports a range of
-            transactions, from buyouts and growth equity to recapitalizations and acquisitions. <br><br>
-
-            <strong><span style="text-decoration: underline;">Benefits of Wingate as a Partner</span></strong><br><br>
-
-            <strong>The WAML Advantage</strong><br><br>
-
-            WAML utilizes WAML’s extensive global network to provide its portfolio companies with a wide array of
-            benefits, including access to new customer/vendor relationships, introductions to potential acquisition
-            targets, and assistance with implementing improved information systems.<br><br>
-
-            <strong>Flexible Mandate</strong><br><br>
-
-            Our flexible investment mandate gives us the ability to act as a control or non-control investor and to
-            structure our investments as a combination of equity and subordinated debt securities. This flexibility is
-            differentiated in that it provides WAML with the ability to structure investments that are specific to the
-            needs of each opportunity.
+            Core to Wingate’s <a href="javascript:goTo('crossBorderFunds')">cross-border fund servicing</a>, WAML distribution intelligence services
+            are designed to assist asset managers develop, execute, and evaluate their distribution strategy.
+            <br><br>
+            <strong>Strategy Development: Market Analysis</strong>
+            <br><br>
+            Working with many of the most successful cross-border asset managers globally, we have developed specific
+            regional expertise enabling us to provide insight and intelligence tailored to the clients’ needs around
+            market entry, distribution channels, competitive landscape and asset flows.
+            <br><br>
+            <strong>Strategy Execution: Operational Support</strong>
+            <br><br>
+            WAML provides a unique <a href="javascript:goTo('globalServiceModel')">global service model</a> which enables asset managers to distribute
+            their product in
+            multiple markets. At the core of this model is our single technology platform which leads to a high level of
+            global integration and coordination
+            <br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Our <a href="javascript:goTo('transferAgency')">Transfer Agency</a> offering is the cornerstone of our
+            distribution support model, allowing fully localized investor onboarding support with industry leading
+            technology <br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;WAML <a href="javascript:goTo('dataConnectivityAndApplicationsViaInfomediary')">Infomediary</a>® messaging and connectivity platform is
+            deployed to harmonize, translate, and transmit electronic data to facilitate fund distribution
+            efficiency<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;WAML <a href="javascript:goTo('fundOrderAndCustody')">Fund Order & Custody</a> includes a proprietary
+            investment fund order and processing platform, Fund WorldView®, which helps connect global asset managers
+            with local financial institutions that buy and hold funds<br><br>
+            <strong>Strategy Evaluation: Data Analysis</strong>
+            <br><br>
+            Asset managers need to monitor and regularly review the success of their distribution strategy. Based on a
+            client’s transfer agency data, and comparing that to market data, we can help evaluate distribution channel
+            performance in individual markets.
         </p>
     </div>
     <div class="five columns">

@@ -12,36 +12,55 @@
     <hr>
 </div>
 <div class="container">
-    <div class="five columns">
-        @include('web.investor-services._sidebar')
-    </div>
+
     <div class="eleven columns">
         <h2>Greater China</h2>
         <p style="padding-top: 10px;">
-            Wingate ("WAML") is a private equity strategy that provides highly customized, one-stop junior capital
-            solutions to lower middle‐market companies. We currently have committed capital of approximately $1.1
-            billion that is available to be invested. <br><br>
-
-            WAML invests between $10 million and $125 million in businesses with enterprise values of $10 million to
-            $500 million and can invest substantially more by partnering with strategic co-investors or through
-            co-investments from our limited partners. We focus our investments in the healthcare, technology, media and
-            telecommunications, and business products and services industries. Our capital supports a range of
-            transactions, from buyouts and growth equity to recapitalizations and acquisitions. <br><br>
-
-            <strong><span style="text-decoration: underline;">Benefits of Wingate as a Partner</span></strong><br><br>
-
-            <strong>The WAML Advantage</strong><br><br>
-
-            WAML utilizes WAML’s extensive global network to provide its portfolio companies with a wide array of
-            benefits, including access to new customer/vendor relationships, introductions to potential acquisition
-            targets, and assistance with implementing improved information systems.<br><br>
-
-            <strong>Flexible Mandate</strong><br><br>
-
-            Our flexible investment mandate gives us the ability to act as a control or non-control investor and to
-            structure our investments as a combination of equity and subordinated debt securities. This flexibility is
-            differentiated in that it provides WAML with the ability to structure investments that are specific to the
-            needs of each opportunity.
+            China is liberalizing its capital markets at a dramatic pace with cross-border flows into and out of the
+            country evolving into new access venues, which in itself, presents opportunities for global and regional
+            asset managers.
+            <br><br>
+            As a <a href="javascript:goTo('crossBorderFunds')">cross-border funds servicing specialist</a> for leading
+            asset gatherers and with a presence in Greater China for 30 years, we help our clients capture growing
+            opportunities through facilitating asset flows into and out of the region.
+            <br><br>
+            From our offices in Hong Kong and Beijing, we provide a full suite of services including custody, funds
+            servicing and markets products in our clients’ regional languages as part of our
+            <a href="javascript:goTo('globalServiceModel')">global service model</a>.
+            <br><br>
+            WAML is focused on Greater China, where it maintains a strong presence and provides services for
+            <a href="javascript:goTo('')">Hong Kong-domiciled funds</a>, UCITS, QFII, RQFII, RQFII ETF, and QDII
+            platforms.
+            <br><br>
+            <strong>Outbound Investment from China</strong>
+            <br><br>
+            Qualified Domestic Institutional Investor (QDII): WAML has been servicing QDII products for our Chinese
+            custodian bank clients since 2007. Our clients include the top 10 master custodian banks in China and the
+            leading Chinese asset managers as QDII sponsors.
+            CNH Share Class Funds: Our Foreign Exchange team in Hong Kong offers CNH hedging capabilities as well as
+            hedging for other restricted currencies.
+            <br><br>
+            <strong>Inbound Investment to China</strong>
+            <br><br>
+            Renminbi Qualified Foreign Institutional Investor (RQFII)/ Qualified Foreign Institutional Investor (QFII):
+            WAML is experienced in servicing RQFII and QFII products domiciled across the world. Our ETF servicing
+            expertise and local market experience helps clients launch products that meet the unique requirements of the
+            scheme.
+            Stock Connect: WAML supports our global clients utilizing the Shanghai-Hong Kong and Shenzhen-Hong Kong
+            Stock Connect platforms.
+            <br><br>
+            <strong>Distribution in Greater China</strong>
+            <br><br>
+            UCITS in Greater China: UCITS funds have a high penetration rate in Hong Kong and Taiwan. WAML has extensive
+            experience in servicing UCITS globally as we assist asset managers to tap into new market segments.
+            China-Hong Kong Mutual Recognition: The China-Hong Kong Mutual Recognition of Funds program allows global
+            asset managers to distribute Hong Kong-domiciled funds into mainland China and Chinese asset managers to
+            distribute their funds into Hong Kong. It is the first and only offshore fund vehicle allowed to be
+            distributed into Mainland China. WAML offers a comprehensive suite of services, including <a
+                href="javascript:goTo('depositaryAndTrustee')">Trustee services</a> in Hong Kong.
         </p>
+    </div>
+    <div class="five columns">
+        @include('web.investor-services._sidebar')
     </div>
 </div>

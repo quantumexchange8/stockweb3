@@ -15,30 +15,29 @@
     <div class="eleven columns">
         <h2>Fund Order & Custody</h2>
         <p style="padding-top: 10px;">
-            Wingate ("WAML") is a private equity strategy that provides highly customized, one-stop junior capital
-            solutions to lower middle‐market companies. We currently have committed capital of approximately $1.1
-            billion that is available to be invested. <br><br>
-
-            WAML invests between $10 million and $125 million in businesses with enterprise values of $10 million to
-            $500 million and can invest substantially more by partnering with strategic co-investors or through
-            co-investments from our limited partners. We focus our investments in the healthcare, technology, media and
-            telecommunications, and business products and services industries. Our capital supports a range of
-            transactions, from buyouts and growth equity to recapitalizations and acquisitions. <br><br>
-
-            <strong><span style="text-decoration: underline;">Benefits of Wingate as a Partner</span></strong><br><br>
-
-            <strong>The WAML Advantage</strong><br><br>
-
-            WAML utilizes WAML’s extensive global network to provide its portfolio companies with a wide array of
-            benefits, including access to new customer/vendor relationships, introductions to potential acquisition
-            targets, and assistance with implementing improved information systems.<br><br>
-
-            <strong>Flexible Mandate</strong><br><br>
-
-            Our flexible investment mandate gives us the ability to act as a control or non-control investor and to
-            structure our investments as a combination of equity and subordinated debt securities. This flexibility is
-            differentiated in that it provides WAML with the ability to structure investments that are specific to the
-            needs of each opportunity.
+            WAML Fund Order & Custody provides services to WAML custody clients that buy and hold investment funds. This
+            includes order processing via our proprietary online platform, Fund WorldView®.
+            <br><br>
+            With more than 25 years' experience servicing investment fund assets, we have developed a deep understanding
+            of the operational and regulatory complexities surrounding this asset class. We have well-established
+            relationships with fund companies globally, and support all fund types including alternatives.
+            <br><br>
+            We differentiate on the basis of our comprehensive client-driven offering, our expertise, and quick time to
+            market. We offer “smart order routing”; a unique capability in the market that will allow orders to route to
+            transfer agents, funds or intermediaries based on both the investment as well as the instructing client.
+            This will reduce risk, enhance efficiencies and allow for a best in class approach to order routing.
+            <br><br>
+            As fund buyers, financial institution clients benefit from broad and timely access to funds globally, as
+            well as operational and cost efficiencies. This results in a better overall service for their underlying
+            clients, helping to create competitive advantage and grow their businesses.
+            <br><br>
+            <strong>Fund Order & Custody services include:</strong>
+            <br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Order processing and automation via our proprietary online platform, Fund WorldView <br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Best in class order routing – “Smart Order Routing”<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Consolidated custody and settlement across funds and markets<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Access to a large and growing roster of funds<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Customized reporting<br>
         </p>
     </div>
     <div class="five columns">

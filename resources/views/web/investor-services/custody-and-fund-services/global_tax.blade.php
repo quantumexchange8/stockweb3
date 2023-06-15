@@ -15,30 +15,25 @@
     <div class="eleven columns">
         <h2>Global Tax</h2>
         <p style="padding-top: 10px;">
-            Wingate ("WAML") is a private equity strategy that provides highly customized, one-stop junior capital
-            solutions to lower middle‐market companies. We currently have committed capital of approximately $1.1
-            billion that is available to be invested. <br><br>
-
-            WAML invests between $10 million and $125 million in businesses with enterprise values of $10 million to
-            $500 million and can invest substantially more by partnering with strategic co-investors or through
-            co-investments from our limited partners. We focus our investments in the healthcare, technology, media and
-            telecommunications, and business products and services industries. Our capital supports a range of
-            transactions, from buyouts and growth equity to recapitalizations and acquisitions. <br><br>
-
-            <strong><span style="text-decoration: underline;">Benefits of Wingate as a Partner</span></strong><br><br>
-
-            <strong>The WAML Advantage</strong><br><br>
-
-            WAML utilizes WAML’s extensive global network to provide its portfolio companies with a wide array of
-            benefits, including access to new customer/vendor relationships, introductions to potential acquisition
-            targets, and assistance with implementing improved information systems.<br><br>
-
-            <strong>Flexible Mandate</strong><br><br>
-
-            Our flexible investment mandate gives us the ability to act as a control or non-control investor and to
-            structure our investments as a combination of equity and subordinated debt securities. This flexibility is
-            differentiated in that it provides WAML with the ability to structure investments that are specific to the
-            needs of each opportunity.
+            Wingate Global Tax Services provides expertise and strategic solutions in the areas of tax research, tax
+            operations, fund administration tax, and European tax reporting for global asset gatherers and financial
+            intermediaries. Our team of dedicated tax professionals located in Boston, Denver, London, Tokyo, Hong Kong,
+            and Krakow works with our clients to structure effective tax treatments across a wide range of investment
+            vehicles in 95+ markets.
+            <br><br>
+            <strong>Purposeful Tax Technology</strong>
+            <br><br>
+            WAML Global Tax Services delivers effective solutions to manage the complexity of U.S. and global
+            investment, such as our E-W8™ U.S. tax compliance solution. A risk mitigating, cost effective, scalable and
+            light solution, E-W8 addresses NRA and FATCA compliance obligations with respect to account opening,
+            remediation and tracking change of circumstances.
+            <br><br>
+            <strong>Skilled and Experienced Tax Professionals</strong>
+            <br><br>
+            Our skilled and experienced tax professionals actively monitor and track tax developments in 95+ markets. We
+            deliver regular updates and insights to clients via daily Global Update bulletins. Our team collects and
+            files documentation necessary for treaty relief or reclaims, and provides compliance and tax services for
+            mutual funds, partnerships, hedge funds, and many other investment types.
         </p>
     </div>
     <div class="five columns">

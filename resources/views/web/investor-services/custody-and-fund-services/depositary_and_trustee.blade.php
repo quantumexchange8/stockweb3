@@ -15,30 +15,25 @@
     <div class="eleven columns">
         <h2>Depositary & Trustee</h2>
         <p style="padding-top: 10px;">
-            Wingate ("WAML") is a private equity strategy that provides highly customized, one-stop junior capital
-            solutions to lower middle‐market companies. We currently have committed capital of approximately $1.1
-            billion that is available to be invested. <br><br>
-
-            WAML invests between $10 million and $125 million in businesses with enterprise values of $10 million to
-            $500 million and can invest substantially more by partnering with strategic co-investors or through
-            co-investments from our limited partners. We focus our investments in the healthcare, technology, media and
-            telecommunications, and business products and services industries. Our capital supports a range of
-            transactions, from buyouts and growth equity to recapitalizations and acquisitions. <br><br>
-
-            <strong><span style="text-decoration: underline;">Benefits of Wingate as a Partner</span></strong><br><br>
-
-            <strong>The WAML Advantage</strong><br><br>
-
-            WAML utilizes WAML’s extensive global network to provide its portfolio companies with a wide array of
-            benefits, including access to new customer/vendor relationships, introductions to potential acquisition
-            targets, and assistance with implementing improved information systems.<br><br>
-
-            <strong>Flexible Mandate</strong><br><br>
-
-            Our flexible investment mandate gives us the ability to act as a control or non-control investor and to
-            structure our investments as a combination of equity and subordinated debt securities. This flexibility is
-            differentiated in that it provides WAML with the ability to structure investments that are specific to the
-            needs of each opportunity.
+            With over 25 years of experience, Wingate is a leading provider of depositary and trustee services for
+            Luxembourg, Irish, Cayman Islands, and Hong Kong domiciled funds.
+            <br><br>
+            We design and deliver comprehensive operating models for complex products across a broad range of asset
+            classes and investment strategies. Working closely with our clients, we ensure that their assets are
+            adequately safeguarded and help them comply with their own fiduciary obligations.
+            <br><br>
+            <strong>Approach</strong>
+            <br><br>
+            WAML applies a risk-based, continuous oversight and monitoring approach. A thorough assessment of the risks
+            associated with the nature, scale and complexity of the fund’s strategy and fund manager’s organization
+            determines the appropriate scope and frequency of the oversight procedures applied.
+            <br><br>
+            The depositary and trustee services departments are functionally and hierarchically segregated from
+            operational activities. This enables independence and objectivity in the protection of investors.
+            <br><br>
+            Through our active engagement in various depositary industry forums and working groups we can translate
+            regulatory knowledge and marketplace intelligence into insights to help clients navigate the constantly
+            changing regulatory landscape.
         </p>
     </div>
     <div class="five columns">

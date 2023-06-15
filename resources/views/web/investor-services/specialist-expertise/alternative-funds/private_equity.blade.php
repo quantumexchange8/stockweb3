@@ -12,36 +12,28 @@
     <hr>
 </div>
 <div class="container">
-    <div class="five columns">
-        @include('web.investor-services._sidebar')
-    </div>
+
     <div class="eleven columns">
         <h2>Private Equity</h2>
         <p style="padding-top: 10px;">
-            Wingate ("WAML") is a private equity strategy that provides highly customized, one-stop junior capital
-            solutions to lower middle‐market companies. We currently have committed capital of approximately $1.1
-            billion that is available to be invested. <br><br>
-
-            WAML invests between $10 million and $125 million in businesses with enterprise values of $10 million to
-            $500 million and can invest substantially more by partnering with strategic co-investors or through
-            co-investments from our limited partners. We focus our investments in the healthcare, technology, media and
-            telecommunications, and business products and services industries. Our capital supports a range of
-            transactions, from buyouts and growth equity to recapitalizations and acquisitions. <br><br>
-
-            <strong><span style="text-decoration: underline;">Benefits of Wingate as a Partner</span></strong><br><br>
-
-            <strong>The WAML Advantage</strong><br><br>
-
-            WAML utilizes WAML’s extensive global network to provide its portfolio companies with a wide array of
-            benefits, including access to new customer/vendor relationships, introductions to potential acquisition
-            targets, and assistance with implementing improved information systems.<br><br>
-
-            <strong>Flexible Mandate</strong><br><br>
-
-            Our flexible investment mandate gives us the ability to act as a control or non-control investor and to
-            structure our investments as a combination of equity and subordinated debt securities. This flexibility is
-            differentiated in that it provides WAML with the ability to structure investments that are specific to the
-            needs of each opportunity.
+            Wingate is a leading global service provider for alternative funds, with over $275 billion* in assets under
+            administration.
+            <br><br>
+            Servicing $73 billion* in private equity funds, we have expertise across a variety of structures and
+            jurisdictions used by the world’s premier private equity managers.
+            <br><br>
+            As private equity attracts more institutional money, institutional grade fund servicing is becoming critical
+            in helping managers maintain and enhance their reputation with investors globally.
+            <br><br>
+            Using a specialist private equity administration platform, our dedicated teams are experienced in dealing
+            with the needs of the large bespoke complex structures typically used by these managers. Our clients
+            appreciate our single point of contact approach to client service helping them simplify the day to day
+            operational needs of their funds.
+            <br><br>
+            *as of December 2019.
         </p>
+    </div>
+    <div class="five columns">
+        @include('web.investor-services._sidebar')
     </div>
 </div>

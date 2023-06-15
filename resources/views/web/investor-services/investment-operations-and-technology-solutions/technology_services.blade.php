@@ -3,7 +3,7 @@
         <span>
             <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('investorServices')">Investor Services</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('investmentOperationsAndTechnologySolutions')">Investment Operations & Technology Solutions</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('investorServices')">Investment Operations & Technology Solutions</a>&nbsp;&nbsp;>
             &nbsp;&nbsp;<strong>Technology Services</strong>
         </span>
     </div>
@@ -13,33 +13,64 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Technology Services</h2>
+        <h1>Technology Services</h1>
         <p style="padding-top: 10px;">
-            Wingate ("WAML") is a private equity strategy that provides highly customized, one-stop junior capital
-            solutions to lower middle‐market companies. We currently have committed capital of approximately $1.1
-            billion that is available to be invested. <br><br>
-
-            WAML invests between $10 million and $125 million in businesses with enterprise values of $10 million to
-            $500 million and can invest substantially more by partnering with strategic co-investors or through
-            co-investments from our limited partners. We focus our investments in the healthcare, technology, media and
-            telecommunications, and business products and services industries. Our capital supports a range of
-            transactions, from buyouts and growth equity to recapitalizations and acquisitions. <br><br>
-
-            <strong><span style="text-decoration: underline;">Benefits of Wingate as a Partner</span></strong><br><br>
-
-            <strong>The WAML Advantage</strong><br><br>
-
-            WAML utilizes WAML’s extensive global network to provide its portfolio companies with a wide array of
-            benefits, including access to new customer/vendor relationships, introductions to potential acquisition
-            targets, and assistance with implementing improved information systems.<br><br>
-
-            <strong>Flexible Mandate</strong><br><br>
-
-            Our flexible investment mandate gives us the ability to act as a control or non-control investor and to
-            structure our investments as a combination of equity and subordinated debt securities. This flexibility is
-            differentiated in that it provides WAML with the ability to structure investments that are specific to the
-            needs of each opportunity.
+            Designed for asset gatherers who want to retain control over their operational processes while leveraging
+            cost effective, efficient and cutting-edge financial technology, Wingate makes key components of our
+            technology platform available to clients. With direct access to our Global Custody, US Custody, Fund
+            Accounting and Transfer Agency platforms, clients benefit from WAML's continuous product and regulatory
+            investments in these large, resource intensive systems. In addition, our suite of Infomediary applications
+            can provide the same access to WAML's connectivity, corporate actions, reconciliation and trade management
+            modules.
         </p>
+        <div class="five columns">
+            <div class="card" style="padding: 5px;">
+                <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
+                    <h6 style="text-align: left;">
+                        <a href="javascript:goTo('dataConnectivityAndApplicationsViaInfomediary')">Data Connectivity & Applications via
+                            Infomediary</a>
+                    </h6>
+                    <p>
+                        Providing connectivity options designed to streamline reconciliation, trade management,
+                        corporate actions, FX and other operational and technological challenges.
+                    </p>
+                    <div class="clear"></div>
+                    <div class="link-blog">
+                        <div class="cl-effect-14"><a href="javascript:goTo('dataConnectivityAndApplicationsViaInfomediary')">read more</a></div>
+                    </div>
+                </div>
+            </div>
+            <div class="card" style="padding: 5px;">
+                <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
+                    <h6 style="text-align: left;">
+                        <a href="javascript:goTo('accountOperatorDirectForUSDepositories')">Account Operator Direct for US Depositories</a>
+                    </h6>
+                    <p>
+                        Helping global financial institutions gain direct access to US central securities depositories.
+                    </p>
+                    <div class="clear"></div>
+                    <div class="link-blog">
+                        <div class="cl-effect-14"><a href="javascript:goTo('accountOperatorDirectForUSDepositories')">read more</a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="five columns">
+            <div class="card" style="padding: 5px;">
+                <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
+                    <h6 style="text-align: left;">
+                        <a href="javascript:goTo('globalCustodyDirect')">Global Custody Direct</a>
+                    </h6>
+                    <p>Helping global financial institutions expand and differentiate their global custody capabilities.
+                    </p>
+                    <div class="clear"></div>
+                    <div class="link-blog">
+                        <div class="cl-effect-14"><a href="javascript:goTo('globalCustodyDirect')">read more</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
     <div class="five columns">
         @include('web.investor-services._sidebar')

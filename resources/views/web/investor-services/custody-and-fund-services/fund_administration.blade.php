@@ -15,30 +15,38 @@
     <div class="eleven columns">
         <h2>Fund Administration</h2>
         <p style="padding-top: 10px;">
-            Wingate ("WAML") is a private equity strategy that provides highly customized, one-stop junior capital
-            solutions to lower middle‐market companies. We currently have committed capital of approximately $1.1
-            billion that is available to be invested. <br><br>
+            Wingate provides a comprehensive suite of modular compliance and administrative funds services designed to
+            support our clients’ most complex products. Our business is built on providing direct access to information
+            and expertise, and a synchronized global servicing service model that promotes client collaboration.
 
-            WAML invests between $10 million and $125 million in businesses with enterprise values of $10 million to
-            $500 million and can invest substantially more by partnering with strategic co-investors or through
-            co-investments from our limited partners. We focus our investments in the healthcare, technology, media and
-            telecommunications, and business products and services industries. Our capital supports a range of
-            transactions, from buyouts and growth equity to recapitalizations and acquisitions. <br><br>
+            Fund Administration services include:
 
-            <strong><span style="text-decoration: underline;">Benefits of Wingate as a Partner</span></strong><br><br>
-
-            <strong>The WAML Advantage</strong><br><br>
-
-            WAML utilizes WAML’s extensive global network to provide its portfolio companies with a wide array of
-            benefits, including access to new customer/vendor relationships, introductions to potential acquisition
-            targets, and assistance with implementing improved information systems.<br><br>
-
-            <strong>Flexible Mandate</strong><br><br>
-
-            Our flexible investment mandate gives us the ability to act as a control or non-control investor and to
-            structure our investments as a combination of equity and subordinated debt securities. This flexibility is
-            differentiated in that it provides WAML with the ability to structure investments that are specific to the
-            needs of each opportunity.
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Financial reporting<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Expense administration<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Performance measurement<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Portfolio compliance support<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;U.S. tax support<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Corporate secretary regulatory support<br>
+            <br>
+            <strong>Market and Regulatory Expertise</strong>
+            <br><br>
+            Understanding and staying informed of market trends and regulatory changes impacting the funds industry has
+            never been more important. In addition to generating clear and accurate financial, regulatory, and board
+            reporting that supports our clients’ goals and objectives, our service teams are trained to think critically
+            about the environment in which our clients operate and proactively communicate pending developments with
+            potential impact to our clients’ business models.
+            <br><br>
+            <strong>A Collaborative Approach and Service Model</strong>
+            <br><br>
+            Our <a href="javascript:goTo('globalServiceModel')">global service model</a>, single global technology platform and intelligent integration of business teams
+            and technologists are central to our goal of providing a superior client experience. Regardless of client
+            location or fund domicile, our service teams have access to the same systems and real-time information,
+            providing one common platform for quick inquiry turnaround and continuous improvement. Our platform enables
+            clients to receive information at the opening of their business day regardless of where they are located.
+            <br><br>
+            Serving select segments of the financial services industry, our investments are focused on improving the
+            efficiency, transparency and accessibility of our infrastructure and information provided to clients, rather
+            than integrating multiple operating environments.
         </p>
     </div>
     <div class="five columns">
