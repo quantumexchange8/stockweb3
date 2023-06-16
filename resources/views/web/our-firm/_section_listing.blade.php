@@ -33,12 +33,12 @@
             <img src="{{ asset('images/resource/the-partnership.jpg') }}" alt="" />
         </div>
         <div class="eight columns">
-            <h6><a href="{{ route('web.investor-services.custody-and-fund-services.listing') }}">The Partnership</a></h6>
+            <h6><a href="javascript:goTo('thePartnership')">The Partnership</a></h6>
             <p>Our esteemed global leadership team</p>
             <div class="clear"></div>
             <div class="link-blog">
                 <div class="cl-effect-14"><a
-                        href="{{ route('web.investor-services.custody-and-fund-services.listing') }}">read
+                        href="javascript:goTo('thePartnership')">read
                         more</a>
                 </div>
             </div>
@@ -53,14 +53,14 @@
             </ul>
         </div>
         <div class="eight columns">
-            <h6><a href="{{ route('web.investor-services.specialist-expertise.listing') }}">Sustainability</a>
+            <h6><a href="javascript:goTo('sustainability')">Sustainability</a>
             </h6>
             <p>Enriching our clients, our people, and our communities through positive contributions
             </p>
             <div class="clear"></div>
             <div class="link-blog">
                 <div class="cl-effect-14"><a
-                        href="{{ route('web.investor-services.specialist-expertise.listing') }}">read more</a>
+                        href="javascript:goTo('sustainability')">read more</a>
                 </div>
             </div>
         </div>
@@ -72,12 +72,12 @@
             <img src="{{ asset('images/resource/philanthropy.jpg') }}" alt="" />
         </div>
         <div class="eight columns">
-            <h6><a href="{{ route('web.investor-services.markets.listing') }}">Philanthropy</a></h6>
+            <h6><a href="javascript:goTo('philanthropy')">Philanthropy</a></h6>
             <p>Demonstrating compassion for the community while fostering strong relationships with our colleagues.
             </p>
             <div class="clear"></div>
             <div class="link-blog">
-                <div class="cl-effect-14"><a href="{{ route('web.investor-services.markets.listing') }}">read
+                <div class="cl-effect-14"><a href="javascript:goTo('philanthropy')">read
                         more</a>
                 </div>
             </div>

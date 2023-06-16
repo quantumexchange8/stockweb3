@@ -468,7 +468,83 @@ $('ul.slimmenu').slimmenu(
 					},
 					"ourFirm" : {
 						"background" : "",
-						"index" : 6
+						"index" : 5.5
+					},
+					"thePartnership" : {
+						"background" : "",
+						"index" : 5.51
+					},
+					"ourMissionAndProfile" : {
+						"background" : "",
+						"index" : 5.52
+					},
+					"sustainability" : {
+						"background" : "",
+						"index" : 5.53
+					},
+					"philanthropy" : {
+						"background" : "",
+						"index" : 5.54
+					},
+					"policiesAndDisclosures" : {
+						"background" : "",
+						"index" : 5.55
+					},
+					"importantStatementsAndDisclosures" : {
+						"background" : "",
+						"index" : 5.551
+					},
+					"dataProtectionNotice" : {
+						"background" : "",
+						"index" : 5.5511
+					},
+					"onlineSecurity" : {
+						"background" : "",
+						"index" : 5.5512
+					},
+					"bcpStatement" : {
+						"background" : "",
+						"index" : 5.5513
+					},
+					"regulationE" : {
+						"background" : "",
+						"index" : 5.5514
+					},
+					"additionalDisclosures" : {
+						"background" : "",
+						"index" : 5.5515
+					},
+					"confidentialEthicsReporting" : {
+						"background" : "",
+						"index" : 5.5516
+					},
+					"legal" : {
+						"background" : "",
+						"index" : 5.552
+					},
+					"privacyPolicy" : {
+						"background" : "",
+						"index" : 5.553
+					},
+					"cookiePolicy" : {
+						"background" : "",
+						"index" : 5.5531
+					},
+					"manageCookies" : {
+						"background" : "",
+						"index" : 5.5532
+					},
+					"personalInformationRequest" : {
+						"background" : "",
+						"index" : 5.5533
+					},
+					"newAccountPolicy" : {
+						"background" : "",
+						"index" : 5.554
+					},
+					"usaPatriotAct" : {
+						"background" : "",
+						"index" : 5.555
 					},
 					"careers" : {
 						"background" : "",

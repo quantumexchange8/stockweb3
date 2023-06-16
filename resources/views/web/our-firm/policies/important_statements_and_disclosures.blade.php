@@ -3,7 +3,7 @@
         <span>
             <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('ourFirm')">Our Firm</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Policies & Disclosures</strong>
+            &nbsp;&nbsp;<strong>Important Statements & Disclosures</strong>
         </span>
     </div>
     <br><br>
@@ -12,46 +12,39 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h1>Policies & Disclosures</h1>
-        <p style="padding-top: 10px;">
-            To ensure that our clients have access to the latest and most relevant information, we encourage you to
-            visit our website. There, you will find important updates and details regarding our legal and regulatory
-            statements, disclosures, and documents. We are committed to keeping our clients well-informed and providing
-            them with the necessary resources for a comprehensive understanding of our operations and offerings.
-            <br><br>
-            Please <a href="javascript:goTo('contact')">contact us</a> with questions.
-        </p>
+        <h1>Important Statements & Disclosures</h1>
         <div class="five columns">
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
                     <h6 style="text-align: left;">
-                        <a href="javascript:goTo('importantStatementsAndDisclosures')">Important Statements & Disclosures</a>
+                        <a href="javascript:goTo('dataProtectionNotice')">Data Protection Notice</a>
                     </h6>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('importantStatementsAndDisclosures')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('dataProtectionNotice')">read
+                                more</a></div>
                     </div>
                 </div>
             </div>
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
                     <h6 style="text-align: left;">
-                        <a href="javascript:goTo('legal')">Legal</a>
+                        <a href="javascript:goTo('bcpStatement')">BCP Statement</a>
                     </h6>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('legal')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('bcpStatement')">read more</a></div>
                     </div>
                 </div>
             </div>
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
                     <h6 style="text-align: left;">
-                        <a href="javascript:goTo('newAccountPolicy')">New Account Policy</a>
+                        <a href="javascript:goTo('additionalDisclosures')">Additional Disclosures</a>
                     </h6>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('newAccountPolicy')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('additionalDisclosures')">read more</a></div>
                     </div>
                 </div>
             </div>
@@ -60,33 +53,33 @@
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
                     <h6 style="text-align: left;">
-                        <a href="javascript:goTo('usaPatriotAct')">USA PATRIOT Act</a>
+                        <a href="javascript:goTo('onlineSecurity')">Online Security</a>
                     </h6>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('usaPatriotAct')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('onlineSecurity')">read more</a></div>
                     </div>
                 </div>
             </div>
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
                     <h6 style="text-align: left;">
-                        <a href="javascript:goTo('privacyPolicy')">Privacy Policy</a>
+                        <a href="javascript:goTo('regulationE')">Regulation E</a>
                     </h6>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('privacyPolicy')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('regulationE')">read more</a></div>
                     </div>
                 </div>
             </div>
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
                     <h6 style="text-align: left;">
-                        <a href="javascript:goTo('cookiePolicy')">Cookie Policy</a>
+                        <a href="javascript:goTo('confidentialEthicsReporting')">Confidential Ethics Reporting</a>
                     </h6>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('cookiePolicy')">read more</a>
+                        <div class="cl-effect-14"><a href="javascript:goTo('confidentialEthicsReporting')">read more</a>
                         </div>
                     </div>
                 </div>

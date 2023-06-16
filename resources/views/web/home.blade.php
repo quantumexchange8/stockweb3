@@ -573,6 +573,84 @@
         @include('web.our-firm._section_listing')
         @include('layouts.partials._footer')
     </article>
+    <article id="thePartnership" class="off" style="text-align: left;">
+        @include('web.our-firm.the_partnership')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="ourMissionAndProfile" class="off" style="text-align: left;">
+        @include('web.our-firm.our_mission_and_profile')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="sustainability" class="off" style="text-align: left;">
+        @include('web.our-firm.sustainability')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="philanthropy" class="off" style="text-align: left;">
+        @include('web.our-firm.philanthropy')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="policiesAndDisclosures" class="off" style="text-align: left;">
+        @include('web.our-firm.policies_and_disclosures')
+        @include('layouts.partials._footer')
+    </article>
+    <!-- Our Firm > Policies & Disclosures -->
+    <article id="importantStatementsAndDisclosures" class="off" style="text-align: left;">
+        @include('web.our-firm.policies.important_statements_and_disclosures')
+        @include('layouts.partials._footer')
+    </article>
+    <!-- Our Firm > Policies & Disclosures > Important Statement & Disclosures -->
+    <article id="dataProtectionNotice" class="off" style="text-align: left;">
+        @include('web.our-firm.policies.important.data_protection_notice')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="bcpStatement" class="off" style="text-align: left;">
+        @include('web.our-firm.policies.important.bcp_statement')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="additionalDisclosures" class="off" style="text-align: left;">
+        @include('web.our-firm.policies.important.additional_disclosures')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="onlineSecurity" class="off" style="text-align: left;">
+        @include('web.our-firm.policies.important.online_security')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="regulationE" class="off" style="text-align: left;">
+        @include('web.our-firm.policies.important.regulation_e')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="confidentialEthicsReporting" class="off" style="text-align: left;">
+        @include('web.our-firm.policies.important.confidential_ethics_reporting')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="legal" class="off" style="text-align: left;">
+        @include('web.our-firm.policies.legal')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="privacyPolicy" class="off" style="text-align: left;">
+        @include('web.our-firm.policies.privacy_policy')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="cookiePolicy" class="off" style="text-align: left;">
+        @include('web.our-firm.policies.privacy.cookie_policy')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="manageCookies" class="off" style="text-align: left;">
+        @include('web.our-firm.policies.privacy.manage_cookies')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="personalInformationRequest" class="off" style="text-align: left;">
+        @include('web.our-firm.policies.privacy.personal_information_request')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="newAccountPolicy" class="off" style="text-align: left;">
+        @include('web.our-firm.policies.new_account_policy')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="usaPatriotAct" class="off" style="text-align: left;">
+        @include('web.our-firm.policies.usa_patriot_act')
+        @include('layouts.partials._footer')
+    </article>
 
     <!-- Careers -->
     <article id="careers" class="off" style="text-align: left;">
