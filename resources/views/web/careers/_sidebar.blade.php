@@ -77,9 +77,9 @@
             <ul>
                 <li><a href="javascript:goTo('benefitsWellnessAndCompensation')">Benefits, Wellness and Compensation</a></li>
                 <ul>
-                    <li><a href="javascript:goTo('thrivePhysically')">Defining</a></li>
-                    <li><a href="javascript:goTo('thriveFinancially')">Building</a></li>
-                    <li><a href="javascript:goTo('thrivePersonally')">Succession</a></li>
+                    <li><a href="javascript:goTo('thrivePhysically')">Thrive Physically</a></li>
+                    <li><a href="javascript:goTo('thriveFinancially')">Thrive Financially</a></li>
+                    <li><a href="javascript:goTo('thrivePersonally')">Thrive Personally</a></li>
                 </ul>
                 <li><a href="javascript:goTo('careerManagement')">Career Management</a></li>
                 <li><a href="javascript:goTo('ongoingLearning')">Ongoing Learning</a></li>
