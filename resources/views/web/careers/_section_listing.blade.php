@@ -31,19 +31,19 @@
             <img src="{{ asset('images/resource/career1.jpeg') }}" alt="" />
         </div>
         <div class="eight columns">
-            <h6><a href="{{ route('web.investment-management.public-equity.listing') }}">What We Look For</a></h6>
+            <h6><a href="javascript:goTo('whatWeLookFor')">What We Look For</a></h6>
             <p>We actively seek individuals who bring diverse perspectives and experiences to our organization, as they
                 are crucial to our success. Our employees possess an entrepreneurial mindset and demonstrate ownership
                 thinking at every level of the organization.</p>
             <div class="blog-tag" style="padding-top: 10px;">
-                <a href="#">Undergraduate Internships</a>
-                <a href="#">Experienced Professionals</a>
-                <a href="#">Entry Level Professionals</a>
-                <a href="#">Restart@</a>
+                <a href="javascript:goTo('undergraduateInternships')">Undergraduate Internships</a>
+                <a href="javascript:goTo('ExperiencedProfessionals')">Experienced Professionals</a>
+                <a href="javascript:goTo('entryLevelProfessionals')">Entry Level Professionals</a>
+                <a href="javascript:goTo('restart')">Restart@</a>
             </div>
             <div class="clear"></div>
             <div class="link-blog">
-                <div class="cl-effect-14"><a href="{{ route('web.investment-management.public-equity.listing') }}">read
+                <div class="cl-effect-14"><a href="javascript:goTo('whatWeLookFor')">read
                         more</a>
                 </div>
             </div>
@@ -58,20 +58,20 @@
             </ul>
         </div>
         <div class="eight columns">
-            <h6><a href="{{ route('web.investment-management.fixed-income.listing') }}">Rewarding You</a></h6>
+            <h6><a href="javascript:goTo('totalRewards')">Rewarding You</a></h6>
             <p>At Wingate, we encourage continuous learning and growth by providing opportunities to acquire new skills,
                 collaborate across disciplines, and explore different roles. Our culture is results-oriented, meaning
                 that we focus on outcomes and value the impact you make. We believe in empowering our employees to live
                 their best lives, both personally and professionally.</p>
             <div class="blog-tag">
-                <a href="#">Benefits, Wellness and Compensation</a>
-                <a href="#">Ongoing Learning</a>
-                <a href="#">Career Management</a>
-                <a href="#">Mobility</a>
+                <a href="javascript:goTo('benefitsWellnessAndCompensation')">Benefits, Wellness and Compensation</a>
+                <a href="javascript:goTo('ongoingLearning')">Ongoing Learning</a>
+                <a href="javascript:goTo('careerManagement')">Career Management</a>
+                <a href="javascript:goTo('mobility')">Mobility</a>
             </div>
             <div class="clear"></div>
             <div class="link-blog">
-                <div class="cl-effect-14"><a href="{{ route('web.investment-management.fixed-income.listing') }}">read
+                <div class="cl-effect-14"><a href="javascript:goTo('totalRewards')">read
                         more</a>
                 </div>
             </div>
