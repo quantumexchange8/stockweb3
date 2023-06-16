@@ -676,7 +676,7 @@
         @include('layouts.partials._footer')
     </article>
     <article id="experiencedProfessionals" class="off" style="text-align: left;">
-        @include('web.careers.what-we-look-for.experienced_progessionals')
+        @include('web.careers.what-we-look-for.experienced_professionals')
         @include('layouts.partials._footer')
     </article>
     <article id="restart" class="off" style="text-align: left;">
