@@ -14,10 +14,7 @@
     <div class="eleven columns">
         <h2>USA Patriot Act</h2>
         <p style="padding-top: 10px;">
-            At Wingate ("WAML"), our purpose is clear and concise: to safeguard our clients' financial well-being and
-            foster the growth of their assets over extended periods. Placing our clients at the forefront of our
-            operations, we meticulously organize our firm, teams, and businesses accordingly. Upholding unwavering
-            integrity, we refuse to compromise on our principles.
+            The resource requested could not be found on this server.
         </p>
     </div>
     <div class="five columns">

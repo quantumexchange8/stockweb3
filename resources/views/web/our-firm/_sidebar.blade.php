@@ -60,6 +60,9 @@
         color: #ffffff;
         /* White text color */
     }
+    h2 {
+        padding-top: 20px;
+    }
 </style>
 
 <div id="sidebar">
@@ -86,13 +89,12 @@
                 <li><a href="javascript:goTo('privacyPolicy')">Privacy Policy</a>
                     <ul>
                         <li><a href="javascript:goTo('cookiePolicy')">Cookie Policy</a></li>
-                        <li><a href="javascript:goTo('manageCookies')"></a>Manage Cookies</li>
+                        <li><a href="javascript:goTo('manageCookies')">Manage Cookies</a></li>
                         <li><a href="javascript:goTo('personalInformationRequest')">Personal Information Request</a></li>
                     </ul>
                 </li>
                 <li><a href="javascript:goTo('newAccountPolicy')">New Account Policy</a></li>
                 <li><a href="javascript:goTo('usaPatriotAct')">USA PATRIOT Act</a></li>
-                <li><a href="javascript:goTo('cookiePolicy')">Cookie Policy</a></li>
             </ul>
         </li>
     </ul>

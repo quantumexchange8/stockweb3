@@ -16,10 +16,11 @@
     <div class="eleven columns">
         <h2>Online Security</h2>
         <p style="padding-top: 10px;">
-            Last Updated: November 11, 2022
+            <span style="font-style: italic;">Last Updated: November 11, 2022</span>
             <br><br>
-            Be aware of potential threats, steps you can take to protect yourself, staying informed and reporting Fraud
-            or Suspicious Activity to Wingate ("WAML").
+            <strong>Be aware of potential threats, steps you can take to protect yourself, staying informed and
+                reporting Fraud or Suspicious Activity to Wingate ("WAML").
+            </strong>
             <br><br>
             At WAML, the security of our client’s information is paramount. As part of our Information Security Program,
             we employ technology and processes to protect our clients’ information. However, there are steps you can
@@ -28,7 +29,7 @@
             The purpose of this page is to provide you with suggestions regarding actions that you can take to ensure
             the protection of your information.
             <br><br>
-            Be aware of potential threats
+            <strong>Be aware of potential threats</strong>
             <br><br>
             To protect your information, it is important to be vigilant to the potential threats that exist today. Cyber
             criminals looking to obtain confidential and/or personal information from an individual or company often
@@ -41,7 +42,7 @@
             information online and in your daily interactions. The following are some important considerations to be
             mindful of while performing your daily business and personal routines:
             <br><br>
-            WAML's website address is https://www.wgaml.com. All legitimate communications from WAML will come from a
+            WAML's website address is <a href="https://www.wgaml.com" target="_blank">www.wgaml.com.</a> All legitimate communications from WAML will come from a
             wgaml.com domain. All others should be considered suspect. If you have any questions about WAML's website or
             suspect you may have received a suspicious WAML link or WAML email you may call your WAML Relationship
             Manager or contact WAML at any of our main locations.
@@ -60,7 +61,7 @@
             Not all public Wi-Fi networks are secure, especially in café's, hotels and airports. Learn what to look for
             and how to protect yourself when using these networks.
             <br><br>
-            Steps you can take to protect yourself
+            <strong>Steps you can take to protect yourself</strong>
             <br><br>
             In addition to being aware of potential online security threats, there are several steps that can be taken
             to enhance the security of computer, network or personal devices. Below are some points to consider for
@@ -70,70 +71,85 @@
             For all internet capable devices, refer to your device's security protocols for a complete list of security
             related options, and consider the following:
             <br><br>
-            Securing the Computer
-            <br><br>
-            Enable automatic updates on security software
-            Enable personal firewalls as a protective barrier between the user and the internet
-            Operating systems should be updated to the latest version
-            Patches from the vendor should be updated on a regular basis
-            Web browsers should be updated on a regular basis
-            Web browsers should be configured to use the strongest encryption available
-            Virus protection and anti-spyware software should be installed and updated regularly
-            Periodic full scans should be performed
-            Where possible, access to the device should be limited to only the required individuals
-            Securing Wireless Networks
-            <br><br>
-            Wireless networks should be configured to use the strongest encryption available and password protected
-            Older, out dated wireless equipment should be replaced with newer, more secure models
-            Default router names and default passwords that were assigned by the manufacturer should be changed during
-            installation
-            Wireless networks should be disabled if they are not going to be used for long periods of time
-            Securing Personal and Confidential Information
-            <br><br>
-            Where possible, passwords should be complex and unique to each individual account
-            Passwords should be kept secure and not shared with anyone
-            Sharing personal and confidential information should be limited to trusted individuals and should only be
-            provided as required via secure websites
-            The transmission of personal and confidential information in an email should be limited as most email
-            systems are not secure
-            Important files should be backed up on a regular basis
-            Always "logout" of online sessions when exiting to ensure the session is completely terminated -simply
-            closing the browser may not terminate the sessions completely
-            Securing Mobile Devices
-            <br><br>
-            Enable the password lock functionality
-            Enable idle timeout to automatically lock the device when not in use
-            Operating systems and installed applications should be kept up to date
-            Where possible, encrypt data residing on personal devices
-            If disposing of a personal device, all personal data should be permanently deleted from the device's data
-            storage media
-            Simply deleting the file names may not permanently remove the data so use the device's wipe features, or
-            look for products designed to prepare a device for disposal
-            <br><br>
-            <strong>Stay Informed</strong>
-            <br><br>
-            There are many resources available online that provide information and tips about staying secure while on
-            the internet. Take the time and stay informed.
-            <br><br>
-            The Federal Trade Commission's (FTC) website is a resource for institutions and individuals alike.
-            Throughout the site, there are tips and information on preventative security and what to do in case of
-            fraud. Click this link for more information:
-            <br><br>
-            <a href="https://www.consumer.ftc.gov/topics/privacy-identity-online-security">Privacy Identity Online Security</a>
-            <br><br>
-            The Department of Homeland Security (DHS) website has many topics and links about the responsibilities of
-            the DHS including many useful tips and information sources. Click this link for more information:
-            <br><br>
-            <a href="http://www.dhs.gov/cybersecurity">Cybersecurity</a>
-            <br><br>
-            Reporting Fraud or suspicious activity to WAML
-            <br><br>
-            If you have a question regarding any WAML correspondence, or suspect any suspicious or fraudulent activity,
-            please contact us at any one of our locations or by calling your WAML Relationship Manager directly.
-            <br><br>
-            Locations can be viewed here:
-            <br><br>
-            <a href="https://www.wgaml.com/en-us/contact-us/office-locations">Office Locations</a>
+            <strong>Securing the Computer</strong>
+            <br>
+        </p>
+        <div style="padding-left: 30px">
+            <li>Enable automatic updates on security software</li>
+            <li>Enable personal firewalls as a protective barrier between the user and the internet</li>
+            <li>Operating systems should be updated to the latest version</li>
+            <li>Patches from the vendor should be updated on a regular basis</li>
+            <li>Web browsers should be updated on a regular basis</li>
+            <li>Web browsers should be configured to use the strongest encryption available</li>
+            <li>Virus protection and anti-spyware software should be installed and updated regularly</li>
+            <li>Periodic full scans should be performed</li>
+            <li>Where possible, access to the device should be limited to only the required individuals</li>
+        </div>
+        <br>
+        <strong>Securing Wireless Networks</strong>
+        <br>
+        <div style="padding-left: 30px">
+            <li>Wireless networks should be configured to use the strongest encryption available and password
+                protected</li>
+            <li>Older, out dated wireless equipment should be replaced with newer, more secure models</li>
+            <li>Default router names and default passwords that were assigned by the manufacturer should be
+                changed during installation</li>
+            <li>Wireless networks should be disabled if they are not going to be used for long periods of time</li>
+        </div>
+        <br>
+        <strong>Securing Personal and Confidential Information</strong>
+        <br>
+        <div style="padding-left: 30px">
+            <li>Where possible, passwords should be complex and unique to each individual account</li>
+            <li>Passwords should be kept secure and not shared with anyone</li>
+            <li>Sharing personal and confidential information should be limited to trusted individuals and
+                should only be provided as required via secure websites</li>
+            <li>The transmission of personal and confidential information in an email should be limited as most
+                email systems are not secure</li>
+            <li>Important files should be backed up on a regular basis</li>
+            <li>Always "logout" of online sessions when exiting to ensure the session is completely terminated
+                -simply closing the browser may not terminate the sessions completely</li>
+        </div>
+        <br>
+        <strong>Securing Mobile Devices</strong>
+        <br>
+        <div style="padding-left: 30px">
+            <li>Enable the password lock functionality</li>
+            <li>Enable idle timeout to automatically lock the device when not in use</li>
+            <li>Operating systems and installed applications should be kept up to date</li>
+            <li>Where possible, encrypt data residing on personal devices</li>
+            <li>If disposing of a personal device, all personal data should be permanently deleted from the device's
+                data
+                storage media</li>
+            <li>Simply deleting the file names may not permanently remove the data so use the device's wipe features, or
+                look for products designed to prepare a device for disposal</li>
+        </div>
+        <br>
+        <strong>Stay Informed</strong>
+        <br><br>
+        There are many resources available online that provide information and tips about staying secure while on
+        the internet. Take the time and stay informed.
+        <br><br>
+        The Federal Trade Commission's (FTC) website is a resource for institutions and individuals alike.
+        Throughout the site, there are tips and information on preventative security and what to do in case of
+        fraud. Click this link for more information:
+        <br><br>
+        <a href="https://www.consumer.ftc.gov/topics/privacy-identity-online-security" target="_blank">Privacy Identity Online
+            Security</a>
+        <br><br>
+        The Department of Homeland Security (DHS) website has many topics and links about the responsibilities of
+        the DHS including many useful tips and information sources. Click this link for more information:
+        <br><br>
+        <a href="http://www.dhs.gov/cybersecurity" target="_blank">Cybersecurity</a>
+        <br><br>
+        Reporting Fraud or suspicious activity to WAML
+        <br><br>
+        If you have a question regarding any WAML correspondence, or suspect any suspicious or fraudulent activity,
+        please contact us at any one of our locations or by calling your WAML Relationship Manager directly.
+        <br><br>
+        Locations can be viewed here:
+        <br><br>
+        <a href="https://www.wgaml.com/en-us/contact-us/office-locations" target="_blank">Office Locations</a>
         </p>
     </div>
     <div class="five columns">

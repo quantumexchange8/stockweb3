@@ -548,7 +548,123 @@ $('ul.slimmenu').slimmenu(
 					},
 					"careers" : {
 						"background" : "",
-						"index" : 7
+						"index" : 6
+					},
+					"whatWeLookFor" : {
+						"background" : "",
+						"index" : 6.1
+					},
+					"undergraduateInternships" : {
+						"background" : "",
+						"index" : 6.11
+					},
+					"entryLevelProfessionals" : {
+						"background" : "",
+						"index" : 6.12
+					},
+					"experiencedProfessionals" : {
+						"background" : "",
+						"index" : 6.13
+					},
+					"restart" : {
+						"background" : "",
+						"index" : 6.14
+					},
+					"totalRewards" : {
+						"background" : "",
+						"index" : 6.2
+					},
+					"benefitsWellnessAndCompensation" : {
+						"background" : "",
+						"index" : 6.21
+					},
+					"thrivePhysically" : {
+						"background" : "",
+						"index" : 6.211
+					},
+					"thriveFinancially" : {
+						"background" : "",
+						"index" : 6.212
+					},
+					"thrivePersonally" : {
+						"background" : "",
+						"index" : 6.213
+					},
+					"careerManagement" : {
+						"background" : "",
+						"index" : 6.22
+					},
+					"ongoingLearning" : {
+						"background" : "",
+						"index" : 6.23
+					},
+					"signaturePrograms" : {
+						"background" : "",
+						"index" : 6.231
+					},
+					"mobility" : {
+						"background" : "",
+						"index" : 6.24
+					},
+					"lifeHere" : {
+						"background" : "",
+						"index" : 6.3
+					},
+					"ourCulture" : {
+						"background" : "",
+						"index" : 6.31
+					},
+					"coreValues" : {
+						"background" : "",
+						"index" : 6.32
+					},
+					"affinityNetworkCommunity" : {
+						"background" : "",
+						"index" : 6.33
+					},
+					"asiaLinkNetwork" : {
+						"background" : "",
+						"index" : 6.331
+					},
+					"blackAffinityNetwork" : {
+						"background" : "",
+						"index" : 6.332
+					},
+					"diverseAbilityAlliesNetwork" : {
+						"background" : "",
+						"index" : 6.333
+					},
+					"globalEmployeeNetwork" : {
+						"background" : "",
+						"index" : 6.334
+					},
+					"latinoCulturalNetwork" : {
+						"background" : "",
+						"index" : 6.335
+					},
+					"militaryVeteransNetwork" : {
+						"background" : "",
+						"index" : 6.336
+					},
+					"parentingNetwork" : {
+						"background" : "",
+						"index" : 6.337
+					},
+					"prideNetwork" : {
+						"background" : "",
+						"index" : 6.338
+					},
+					"womensNetwork" : {
+						"background" : "",
+						"index" : 6.339
+					},
+					"youngProfessionalsNetwork" : {
+						"background" : "",
+						"index" : 6.34
+					},
+					"cares" : {
+						"background" : "",
+						"index" : 6.4
 					},
 					"sustainability" : {
 						"background" : "",

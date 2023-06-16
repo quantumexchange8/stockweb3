@@ -657,6 +657,127 @@
         @include('web.careers._section_listing')
         @include('layouts.partials._footer')
     </article>
+    <!-- Careers > * x 2 -->
+    <article id="whatWeLookFor" class="off" style="text-align: left;">
+        @include('web.careers.what_we_look_for')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="totalRewards" class="off" style="text-align: left;">
+        @include('web.careers.total_rewards')
+        @include('layouts.partials._footer')
+    </article>
+    <!-- Careers > What We Look For > * x 4 -->
+    <article id="undergraduateInternships" class="off" style="text-align: left;">
+        @include('web.careers.what-we-look-for.undergraduate_internships')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="entryLevelProfessionals" class="off" style="text-align: left;">
+        @include('web.careers.what-we-look-for.entry_level_professionals')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="experiencedProfessionals" class="off" style="text-align: left;">
+        @include('web.careers.what-we-look-for.experienced_progessionals')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="restart" class="off" style="text-align: left;">
+        @include('web.careers.what-we-look-for.restart')
+        @include('layouts.partials._footer')
+    </article>
+    <!-- Careers > Total Rewards > * x 4 -->
+    <article id="benefitsWellnessAndCompensation" class="off" style="text-align: left;">
+        @include('web.careers.total-rewards.benefits_wellness_and_compensation')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="thrivePhysically" class="off" style="text-align: left;">
+        @include('web.careers.total-rewards.benefits.thrive_physically')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="thriveFinancially" class="off" style="text-align: left;">
+        @include('web.careers.total-rewards.benefits.thrive_financially')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="thrivePersonally" class="off" style="text-align: left;">
+        @include('web.careers.total-rewards.benefits.thrive_personally')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="careerManagement" class="off" style="text-align: left;">
+        @include('web.careers.total-rewards.career_management')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="ongoingLearning" class="off" style="text-align: left;">
+        @include('web.careers.total-rewards.ongoing_learning')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="signaturePrograms" class="off" style="text-align: left;">
+        @include('web.careers.total-rewards.ongoing.signature_programs')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="mobility" class="off" style="text-align: left;">
+        @include('web.careers.total-rewards.mobility')
+        @include('layouts.partials._footer')
+    </article>
+    <!-- Careers > Life Here > * x 4 -->
+    <article id="lifeHere" class="off" style="text-align: left;">
+        @include('web.careers.life_here')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="ourCulture" class="off" style="text-align: left;">
+        @include('web.careers.life-here.our_culture')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="coreValues" class="off" style="text-align: left;">
+        @include('web.careers.life-here.core_values')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="affinityNetworkCommunity" class="off" style="text-align: left;">
+        @include('web.careers.life-here.affinity_network_community')
+        @include('layouts.partials._footer')
+    </article>
+    <!-- Careers > Life Here > Affinity > * x 10 -->
+    <article id="asiaLinkNetwork" class="off" style="text-align: left;">
+        @include('web.careers.life-here.affinity-network-community.asia_link_network')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="blackAffinityNetwork" class="off" style="text-align: left;">
+        @include('web.careers.life-here.affinity-network-community.black_affinity_network')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="diverseAbilityAlliesNetwork" class="off" style="text-align: left;">
+        @include('web.careers.life-here.affinity-network-community.diverse_ability_allies_network')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="globalEmployeeNetwork" class="off" style="text-align: left;">
+        @include('web.careers.life-here.affinity-network-community.global_employee_network')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="latinoCulturalNetwork" class="off" style="text-align: left;">
+        @include('web.careers.life-here.affinity-network-community.latino_cultural_network')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="militaryVeteransNetwork" class="off" style="text-align: left;">
+        @include('web.careers.life-here.affinity-network-community.military_veterans_network')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="parentingNetwork" class="off" style="text-align: left;">
+        @include('web.careers.life-here.affinity-network-community.parenting_network')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="prideNetwork" class="off" style="text-align: left;">
+        @include('web.careers.life-here.affinity-network-community.pride_network')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="womensNetwork" class="off" style="text-align: left;">
+        @include('web.careers.life-here.affinity-network-community.womens_network')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="youngProfessionalsNetwork" class="off" style="text-align: left;">
+        @include('web.careers.life-here.affinity-network-community.young_professionals_network')
+        @include('layouts.partials._footer')
+    </article>
+    <article id="cares" class="off" style="text-align: left;">
+        @include('web.careers.life-here.cares')
+        @include('layouts.partials._footer')
+    </article>
 
     <!-- Contact Us -->
     <article id="contact" class="off">

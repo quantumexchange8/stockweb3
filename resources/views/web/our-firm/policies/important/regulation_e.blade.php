@@ -3,7 +3,8 @@
         <span>
             <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('ourFirm')">Our Firm</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('importantStatementsAndDisclosures')">Important Statements & Disclosures</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('importantStatementsAndDisclosures')">Important Statements &
+                Disclosures</a>&nbsp;&nbsp;>
             &nbsp;&nbsp;<strong>Regulation E</strong>
         </span>
     </div>
@@ -15,10 +16,11 @@
     <div class="eleven columns">
         <h2>Regulation E</h2>
         <p style="padding-top: 10px;">
-            At Wingate ("WAML"), our purpose is clear and concise: to safeguard our clients' financial well-being and
-            foster the growth of their assets over extended periods. Placing our clients at the forefront of our
-            operations, we meticulously organize our firm, teams, and businesses accordingly. Upholding unwavering
-            integrity, we refuse to compromise on our principles.
+            Federal Reserve Board Regulation E provides for the rights, liabilities and responsibilities of our consumer
+            clients who use certain electronic funds transfer services. Regulation E does not apply to wire transfers.
+            For more information on Regulation E, please refer to this link and the relevant account agreements:
+            <br><br>
+            <a href="http://www.federalreserve.gov/bankinforeg/regecg.htm" target="_blank">www.federalreserve.gov/bankinforeg/regecg</a>
         </p>
     </div>
     <div class="five columns">
