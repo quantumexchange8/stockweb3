@@ -22,7 +22,7 @@
         margin: auto;
         display: flex;
         align-items: center;
-        justify-content: space-between;
+        justify-content: center;
         font-size: 12px !important;
     }
 
@@ -350,7 +350,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" />
 </head>
 
-<nav style="">
+<nav>
     <div class="container">
         <div class="wrapper">
             <div class="logos"><a href="#"></a></div>
