@@ -34,7 +34,7 @@
             <h2 style="padding-bottom: 20px;">Signature Events</h2>
             <hr>
             <div class="two columns">
-                <img src="{{ asset('images/companies/westrock-coffee-holdings-logo.png') }}" alt=""
+                <img src="{{ asset('images/affinity/lcn-1.jpg') }}" alt=""
                     width="75%" height="auto">
             </div>
             <div class="eight columns">
@@ -51,7 +51,7 @@
         <div style="padding-top: 30px;">
             <hr>
             <div class="two columns">
-                <img src="{{ asset('images/companies/westrock-coffee-holdings-logo.png') }}" alt=""
+                <img src="{{ asset('images/affinity/lcn-2.jpg') }}" alt=""
                     width="75%" height="auto">
             </div>
             <div class="eight columns">
@@ -70,7 +70,7 @@
         <div style="padding-top: 30px;">
             <hr>
             <div class="two columns">
-                <img src="{{ asset('images/companies/westrock-coffee-holdings-logo.png') }}" alt=""
+                <img src="{{ asset('images/affinity/perscholas.png') }}" alt=""
                     width="75%" height="auto">
             </div>
             <div class="eight columns">
@@ -89,7 +89,7 @@
         <div style="padding-top: 30px;">
             <hr>
             <div class="two columns">
-                <img src="{{ asset('images/companies/westrock-coffee-holdings-logo.png') }}" alt=""
+                <img src="{{ asset('images/affinity/img-0013.jpg') }}" alt=""
                     width="75%" height="auto">
             </div>
             <div class="eight columns">
@@ -107,7 +107,7 @@
         <div style="padding-top: 30px;">
             <hr>
             <div class="two columns">
-                <img src="{{ asset('images/companies/westrock-coffee-holdings-logo.png') }}" alt=""
+                <img src="{{ asset('images/affinity/cafecito.png') }}" alt=""
                     width="75%" height="auto">
             </div>
             <div class="eight columns">

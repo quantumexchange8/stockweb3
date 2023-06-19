@@ -33,7 +33,7 @@
             <h2 style="padding-bottom: 20px;">Signature Events</h2>
             <hr>
             <div class="two columns">
-                <img src="{{ asset('images/companies/westrock-coffee-holdings-logo.png') }}" alt=""
+                <img src="{{ asset('images/affinity/focusing-on-the-next-generation-image.jpg') }}" alt=""
                     width="75%" height="auto">
             </div>
             <div class="eight columns">
@@ -53,7 +53,7 @@
         <div style="padding-top: 30px;">
             <hr>
             <div class="two columns">
-                <img src="{{ asset('images/companies/westrock-coffee-holdings-logo.png') }}" alt=""
+                <img src="{{ asset('images/affinity/jazz---the-civil-rights-movement-image.jpg') }}" alt=""
                     width="75%" height="auto">
             </div>
             <div class="eight columns">
@@ -71,7 +71,7 @@
         <div style="padding-top: 30px;">
             <hr>
             <div class="two columns">
-                <img src="{{ asset('images/companies/westrock-coffee-holdings-logo.png') }}" alt=""
+                <img src="{{ asset('images/affinity/black-histories--black-futures-at-the-mfa-image.jpg') }}" alt=""
                     width="75%" height="auto">
             </div>
             <div class="eight columns">
@@ -89,7 +89,7 @@
         <div style="padding-top: 30px;">
             <hr>
             <div class="two columns">
-                <img src="{{ asset('images/companies/westrock-coffee-holdings-logo.png') }}" alt=""
+                <img src="{{ asset('images/affinity/img-0566.jpg') }}" alt=""
                     width="75%" height="auto">
             </div>
             <div class="eight columns">
@@ -106,7 +106,7 @@
         <div style="padding-top: 30px;">
             <hr>
             <div class="two columns">
-                <img src="{{ asset('images/companies/westrock-coffee-holdings-logo.png') }}" alt=""
+                <img src="{{ asset('images/affinity/fw-ban-60-minutes-clock1.jpg') }}" alt=""
                     width="75%" height="auto">
             </div>
             <div class="eight columns">

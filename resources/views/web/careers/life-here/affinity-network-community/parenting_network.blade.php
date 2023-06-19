@@ -42,7 +42,7 @@
             <h2 style="padding-bottom: 20px;">Signature Events</h2>
             <hr>
             <div class="two columns">
-                <img src="{{ asset('images/companies/westrock-coffee-holdings-logo.png') }}" alt=""
+                <img src="{{ asset('images/affinity/daughters-and-sons.jpg') }}" alt=""
                     width="75%" height="auto">
             </div>
             <div class="eight columns">
@@ -61,7 +61,7 @@
         <div style="padding-top: 30px;">
             <hr>
             <div class="two columns">
-                <img src="{{ asset('images/companies/westrock-coffee-holdings-logo.png') }}" alt=""
+                <img src="{{ asset('images/affinity/parent-icon-280.jpg') }}" alt=""
                     width="75%" height="auto">
             </div>
             <div class="eight columns">
@@ -78,7 +78,7 @@
         <div style="padding-top: 30px;">
             <hr>
             <div class="two columns">
-                <img src="{{ asset('images/companies/westrock-coffee-holdings-logo.png') }}" alt=""
+                <img src="{{ asset('images/affinity/pride.png') }}" alt=""
                     width="75%" height="auto">
             </div>
             <div class="eight columns">
