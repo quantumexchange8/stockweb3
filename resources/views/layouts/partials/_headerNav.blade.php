@@ -7,7 +7,7 @@
     }
 
     nav {
-        position: relative;
+        position: fixed;
         z-index: 99;
         width: 100%;
         background: #242526;
@@ -16,7 +16,7 @@
     nav .wrapper {
         position: relative;
         max-width: 1300px;
-        padding: 0px 30px;
+        padding: 0px 0px;
         height: 70px;
         line-height: 70px;
         margin: auto;
@@ -26,7 +26,7 @@
         font-size: 12px !important;
     }
 
-    .wrapper .logo a {
+    .wrapper .logos a {
         color: #f2f2f2;
         font-size: 30px;
         font-weight: 600;
@@ -346,13 +346,23 @@
     }
 </style>
 
-<nav style="margin-top: 63px;">
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" />
+</head>
+
+<nav style="">
     <div class="container">
         <div class="wrapper">
+            <div class="logos"><a href="#"></a></div>
             <input type="radio" name="slider" id="menu-btn">
             <input type="radio" name="slider" id="close-btn">
             <ul class="nav-links">
                 <label for="close-btn" class="btn close-btn"><i class="fas fa-times"></i></label>
+                <li><a href="https://client.wgaml.com/">CLIENT LOGIN</a></li>
+                <li><a href="javascript:goTo('ourFirm');">OUR FIRM</a></li>
+                <li><a href="javascript:goTo('careers');">CAREERS</a></li>
+                <li><a href="javascript:goTo('sustainability');">SUSTAINABILITY</a></li>
+                <li><a href="javascript:goTo('contact');">CONTACT US</a></li>
                 <li>
                     <a href="javascript:goTo('privateBanking')" class="desktop-item">PRIVATE BANKING</a>
                     <input type="checkbox" id="showPrivateBanking">

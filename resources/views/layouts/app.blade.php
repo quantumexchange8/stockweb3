@@ -16,7 +16,7 @@
     <!-- Primary Page Layout -->
     <div id="preloader"></div>
 
-    @include('layouts.partials._headerSticky')
+    {{-- @include('layouts.partials._headerSticky') --}}
     @include('layouts.partials._headerNav')
 
 
