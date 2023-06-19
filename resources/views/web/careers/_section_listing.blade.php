@@ -37,7 +37,7 @@
                 thinking at every level of the organization.</p>
             <div class="blog-tag" style="padding-top: 10px;">
                 <a href="javascript:goTo('undergraduateInternships')">Undergraduate Internships</a>
-                <a href="javascript:goTo('ExperiencedProfessionals')">Experienced Professionals</a>
+                <a href="javascript:goTo('experiencedProfessionals')">Experienced Professionals</a>
                 <a href="javascript:goTo('entryLevelProfessionals')">Entry Level Professionals</a>
                 <a href="javascript:goTo('restart')">Restart@</a>
             </div>
