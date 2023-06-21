@@ -14,10 +14,10 @@
     <div class="eleven columns">
         <h2>@lang('public.philanthropy')</h2>
         <p style="padding-top: 10px;">
-            At Wingate, it's good to share your time and talent.
+            At Vanward, it's good to share your time and talent.
             <br><br>
             Because of this, we created Cares, our philanthropic program dedicated to providing education and basic
-            necessities to those in need. Through this program, Wingate Employees are able to give back to our
+            necessities to those in need. Through this program, Vanward Employees are able to give back to our
             communities and help transform the lives of others while inspiring a spirit of citizenship and social
             responsibility.
             <br><br>

@@ -15,7 +15,7 @@
     <div class="eleven columns">
         <h2>@lang('public.alternative funds')</h2>
         <p style="padding-top: 10px;">
-            Wingate is a leading global service provider for alternative funds. Currently servicing over $275 billion*
+            Vanward is a leading global service provider for alternative funds. Currently servicing over $275 billion*
             in alternative assets, we offer comprehensive custody, administration and related services for all major
             alternative asset classes and strategies, across three broad categories:
             <br>
@@ -29,7 +29,7 @@
             <br><br>
             <strong>Enabling Growth</strong>
             <br><br>
-            WAML works with U.S., European and Asian managers and investors. Our experience in servicing both
+            Vanward works with U.S., European and Asian managers and investors. Our experience in servicing both
             traditional and alternative assets for some of the world’s most sophisticated asset managers allows us to
             truly understand the servicing requirements of a global and complex product set.
             <br><br>
@@ -38,7 +38,7 @@
             <br><br>
             <strong>Protecting your Brand</strong>
             <br><br>
-            WAML’s success is driven by that of our clients and we focus on protecting their businesses and reputations
+            Vanward’s success is driven by that of our clients and we focus on protecting their businesses and reputations
             as we do our own. We take a prudent approach to managing operational processes for alternative investment
             funds, founded on the principles of a privately owned and managed firm with a strong culture of risk
             management.
@@ -54,7 +54,7 @@
             handholding investors and our technology platforms provide the granularity of reporting required to fulfill
             complex investor needs.
             <br><br>
-            As a partnership, WAML has a more personal approach to the way we manage our client relationships offering
+            As a partnership, Vanward has a more personal approach to the way we manage our client relationships offering
             direct access to the owners and managers of the firm. This also promotes a more open and transparent
             approach.
         </p>

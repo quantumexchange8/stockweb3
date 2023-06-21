@@ -16,7 +16,7 @@
     <div class="eleven columns">
         <h2>Syndicated & Originated</h2>
         <p style="padding-top: 10px;">
-            Wingate is a leading global service provider for alternative funds, with over $275 billion* in assets under
+            Vanward is a leading global service provider for alternative funds, with over $275 billion* in assets under
             administration.
             <br><br>
             Servicing $72 billion* in syndicated debt funds and $33 billion* in originated debt funds, we have the
@@ -28,7 +28,7 @@
             efficient and streamlined service experience for managers requiring servicing across their full range of
             funds.
             <br><br>
-            WAML believes this is an important growth area for alternative managers and has invested in technology and
+            Vanward believes this is an important growth area for alternative managers and has invested in technology and
             people with the expertise required to support managers as they move into this space and grow their
             portfolios.
             <br><br>

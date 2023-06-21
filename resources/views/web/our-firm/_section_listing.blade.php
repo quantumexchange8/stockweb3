@@ -16,7 +16,7 @@
         <div class="sep"></div>
     </div>
     <div class="sixteen columns">
-        <p>Wingate Asset Management Limited ("WAML") is an independently owned and operated financial services firm.
+        <p>Vanward Asset Management Limited ("Vanward") is an independently owned and operated financial services firm.
             Our focus is on serving highly discerning individuals and institutions, offering specialized expertise
             in Private Banking, Investment Management, and Investor Services. <br><br>
 

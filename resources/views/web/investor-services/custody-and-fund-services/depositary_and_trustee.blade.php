@@ -15,7 +15,7 @@
     <div class="eleven columns">
         <h2>@lang('public.depositary & trustee')</h2>
         <p style="padding-top: 10px;">
-            With over 25 years of experience, Wingate is a leading provider of depositary and trustee services for
+            With over 25 years of experience, Vanward is a leading provider of depositary and trustee services for
             Luxembourg, Irish, Cayman Islands, and Hong Kong domiciled funds.
             <br><br>
             We design and deliver comprehensive operating models for complex products across a broad range of asset
@@ -24,7 +24,7 @@
             <br><br>
             <strong>Approach</strong>
             <br><br>
-            WAML applies a risk-based, continuous oversight and monitoring approach. A thorough assessment of the risks
+            Vanward applies a risk-based, continuous oversight and monitoring approach. A thorough assessment of the risks
             associated with the nature, scale and complexity of the fund’s strategy and fund manager’s organization
             determines the appropriate scope and frequency of the oversight procedures applied.
             <br><br>

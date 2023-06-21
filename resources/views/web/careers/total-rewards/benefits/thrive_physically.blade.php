@@ -17,7 +17,7 @@
     <div class="eleven columns">
         <h2>@lang('public.benefits, wellness and compensation')</h2>
         <p style="padding-top: 10px;">
-        <p>At Wingate ("WAML"), we prioritize the health and well-being of our employees and their
+        <p>At Vanward ("Vanward"), we prioritize the health and well-being of our employees and their
             families. That's why we offer a comprehensive Benefits Program that provides extensive
             healthcare coverage and additional benefits to support your overall well-being.</p>
             <br>

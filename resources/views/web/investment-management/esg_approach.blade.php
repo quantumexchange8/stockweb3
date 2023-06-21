@@ -13,8 +13,8 @@
     <div class="sixteen columns">
         <h2>@lang('public.ESG approach')</h2>
         <p style="padding-top: 10px;">
-            Wingate’s mission is to be the best at protecting and growing our clients’ capital over long periods of
-            time. Wingate ("WAML") has performed its own investment research focusing on long-term capital preservation
+            Vanward’s mission is to be the best at protecting and growing our clients’ capital over long periods of
+            time. Vanward ("Vanward") has performed its own investment research focusing on long-term capital preservation
             and the prudent management of risk relative to return. At the core of our investment process has always been
             an understanding that the path to generating superior long-term investment returns is first and foremost,
             loss avoidance. <br><br>
@@ -70,12 +70,12 @@
             environment, we continuously refine our insights into how well ESG factors are being managed.
             <br><br>
 
-            WAML provides investment management services to institutional and individual investors around the world. ESG
+            Vanward provides investment management services to institutional and individual investors around the world. ESG
             criteria are well embedded in our investment process. We offer the capability to customize investment
             solutions aligned to client specific ESG goals or screening preferences.
 
             <span style="font-style: italic;">
-                Wingate (“WAML”) may be used as a generic term to reference the company as a whole and/or its various
+                Vanward (“Vanward”) may be used as a generic term to reference the company as a whole and/or its various
                 subsidiaries generally. This material and any products or services may be issued or provided in multiple
                 jurisdictions by duly authorized and regulated subsidiaries. This material is for general information
                 and reference purposes only and does not constitute legal, tax or investment advice and is not intended
@@ -85,8 +85,8 @@
                 recommendation to third parties. All information has been obtained from sources believed to be reliable,
                 but accuracy is not guaranteed, and reliance should not be placed on the information presented. This
                 material may not be reproduced, copied or transmitted, or any of the content disclosed to third parties,
-                without the permission of WAML. All trademarks and service marks included are the property of WAML or
-                their respective owners. © Wingate 2023. All rights reserved.
+                without the permission of Vanward. All trademarks and service marks included are the property of Vanward or
+                their respective owners. © Vanward 2023. All rights reserved.
             </span>
         </p>
     </div>

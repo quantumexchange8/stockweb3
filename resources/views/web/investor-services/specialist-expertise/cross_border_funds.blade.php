@@ -15,7 +15,7 @@
     <div class="eleven columns">
         <h2>@lang('public.cross-border funds')</h2>
         <p style="padding-top: 10px;">
-            Wingate is a cross-border fund servicing specialist. We believe in the continued growth of cross-border
+            Vanward is a cross-border fund servicing specialist. We believe in the continued growth of cross-border
             distribution markets and have made this a core focus for our firm.
             <br><br>
             We provide <a href="javascript:goTo('custody')">@lang('public.custody')</a>, <a href="javascript:goTo('fundAccounting')">@lang('public.fund accounting')</a> and <a href="javascript:goTo('fundAdministration')">administration</a>, <a href="javascript:goTo('')">@lang('public.transfer agency')</a> and related services to many of the

@@ -16,9 +16,9 @@
         <h2>@lang('public.currency hedging')</h2>
         <p style="padding-top: 10px;">
             Whether managing an international portfolio with unwanted currency exposure or multi currency hedged share
-            class offerings, Wingate offers a comprehensive and flexible passive currency hedging solution.
+            class offerings, Vanward offers a comprehensive and flexible passive currency hedging solution.
             <br><br>
-            Created specifically for asset managers, WAML's currency hedging solution reduces the operational burden of
+            Created specifically for asset managers, Vanward's currency hedging solution reduces the operational burden of
             in-house program management, allowing managers to focus on core functions.
             <br><br>
             <strong>Delegate the Process, Not the Control</strong>
@@ -37,7 +37,7 @@
             <br><br>
             <strong>Operational Efficiency through Scalability</strong>
             <br><br>
-            Regardless of how simple or complex the operational process, WAML's systems are designed for efficiency and
+            Regardless of how simple or complex the operational process, Vanward's systems are designed for efficiency and
             scalability. Our comprehensive pre- and post-trade monitoring and validation help to confirm appropriate
             trades are consistently generated within agreed upon parameters.
             <br><br>

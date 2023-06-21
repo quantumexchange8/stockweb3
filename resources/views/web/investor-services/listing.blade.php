@@ -16,7 +16,7 @@
         <div class="sep"></div>
     </div>
     <div class="sixteen columns">
-        <p>Wingate Investor Services is dedicated to offering asset servicing and cutting-edge technology solutions
+        <p>Vanward Investor Services is dedicated to offering asset servicing and cutting-edge technology solutions
             to leading global asset gatherers. We specifically concentrate on a select group of clients who seek an
             engaged and proactive partner to gain a competitive advantage. Each client receives a highly customized
             and tailored service complemented by state-of-the-art technology. <br><br>
@@ -28,7 +28,7 @@
             Clients turn to us to unlock value, explore innovative approaches to risk and complexity management, and
             propel their businesses forward. They expect and receive exceptional service, as we are consistently
             described as their go-to resource when confronted with novel and challenging situations. Our clients
-            consistently rank Wingate as their top global service provider.
+            consistently rank Vanward as their top global service provider.
         </p>
     </div>
 </div>

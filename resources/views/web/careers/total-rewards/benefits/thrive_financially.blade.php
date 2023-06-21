@@ -29,7 +29,7 @@
         </div>
         <br>
         <p><strong>Financial Well-being</strong></p>
-        <p>As part of our commitment to providing a comprehensive total rewards package, WAML offers you
+        <p>As part of our commitment to providing a comprehensive total rewards package, Vanward offers you
             access to financial education, resources and programs including:</p>
         <div style="padding-left: 30px;">
             <li>Life and disability Insurance&nbsp;&nbsp;&nbsp;</li>

@@ -16,11 +16,11 @@
         <h2>@lang('public.transfer agency')</h2>
         <p style="padding-top: 10px;">
             Transfer Agency is critical to funds’ distribution success. Servicing many of the most sophisticated asset
-            managers in the world, Wingate is committed to providing global Transfer Agency. We support clients
+            managers in the world, Vanward is committed to providing global Transfer Agency. We support clients
             distributing cross-border Luxembourg, Ireland, Cayman, Bermuda and Hong Kong domiciled funds, as well as US
             domiciled alternative funds, to institutional and wholesale investors.
             <br><br>
-            Transfer Agency is a core component of WAML’s overall cross-border service offering. We support our clients
+            Transfer Agency is a core component of Vanward’s overall cross-border service offering. We support our clients
             and their investors in close to 100 countries throughout the world via our <a href="javascript:goTo('globalServiceModel')">@lang('public.global service model')</a>. Our service
             covers core processing and shareholder services as well as <a href="javascript:goTo('distributionIntelligence')">@lang('public.distribution intelligence')</a>.
             <br><br>
@@ -38,7 +38,7 @@
             <br><br>
             <strong>Robust Infrastructure</strong>
             <br><br>
-            We provide a single Transfer Agency platform globally. When combined with WAML <a href="javascript:goTo('dataConnectivityAndApplicationsViaInfomediary')">Infomediary</a>®, this offers a
+            We provide a single Transfer Agency platform globally. When combined with Vanward <a href="javascript:goTo('dataConnectivityAndApplicationsViaInfomediary')">Infomediary</a>®, this offers a
             unique connectivity solution for distributor communications.
             <br><br>
             <strong>Focus on Investor OnBoarding</strong>

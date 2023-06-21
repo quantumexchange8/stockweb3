@@ -16,7 +16,7 @@
         <h2>@lang('public.affinity network community')</h2>
         <p style="padding-top: 10px;">
         <p><em>“The greater our diversity and inclusion, the more we unlock human potential and the
-                greater the prosperity of WAML.” </em><strong>– <a
+                greater the prosperity of Vanward.” </em><strong>– <a
                     href="https://www.wgaml.com/en-us/our-firm/jeffrey-schoenfeld-7086.html" target="_blank">Jeff
                     Schoenfeld</a>, Partner and Pride Network Executive Sponsor
             </strong></p>

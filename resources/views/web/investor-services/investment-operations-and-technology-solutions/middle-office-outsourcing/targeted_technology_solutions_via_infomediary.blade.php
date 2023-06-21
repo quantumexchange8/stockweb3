@@ -17,7 +17,7 @@
     <div class="eleven columns">
         <h2>@lang('public.data connectivity & applications via infomediary')</h2>
         <p style="padding-top: 10px;">
-            A core component of Wingate’s single integrated technology platform is the robust WAML Infomediary®
+            A core component of Vanward’s single integrated technology platform is the robust Vanward Infomediary®
             messaging and connectivity engine, specially designed for asset managers, insurance companies, banks, fund
             distributors, industry infrastructures and other technology platforms. Infomediary helps clients focus on
             their core business and enhance their competitive edge by solving numerous operational challenges relating

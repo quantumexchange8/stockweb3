@@ -15,20 +15,20 @@
     <div class="eleven columns">
         <h2>@lang('public.exchange traded funds')</h2>
         <p style="padding-top: 10px;">
-            Wingate is a leading provider of asset servicing for the global ETF market. WAML is an ETF specialist for
+            Vanward is a leading provider of asset servicing for the global ETF market. Vanward is an ETF specialist for
             US, European and Asian-domiciled products, and works with both experienced ETF managers and new, innovative
             market entrants to introduce and grow their ETF products.
             <br><br>
             <strong>Deep and Diverse Product Expertise</strong>
             <br><br>
-            With a team comprised of specialists from all areas of the ETF industry, WAML maintains expertise across the
+            With a team comprised of specialists from all areas of the ETF industry, Vanward maintains expertise across the
             full realm of physical (in specie) and synthetic ETF and Exchange Traded Product (ETP) structures. Our
             clients employ active, passive and quantitative ETF strategies. We service emerging/developed equity and
             fixed income, inverse/leverage, currency, and commodity ETF products.
             <br><br>
             <strong>Consulting with Clients from Concept to Implementation</strong>
             <br><br>
-            WAML specialists consult with ETF sponsors through a variety of legal, research-oriented, and project
+            Vanward specialists consult with ETF sponsors through a variety of legal, research-oriented, and project
             management hurdles related to the launch and growth of ETF products. Our clients benefit from:
             <br><br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;Expertise in the ETF pre-launch process and across multiple asset classes and geographies
@@ -42,7 +42,7 @@
             <br><br>
             <strong>Scalable and Flexible ETF-Specific Technology</strong>
             <br><br>
-            WAML has made a strategic decision to invest in a custom, market leading technology platform specifically
+            Vanward has made a strategic decision to invest in a custom, market leading technology platform specifically
             designed to service ETFs:
             <br><br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;ETF ConnectTM, offering online access to client data, reporting and other powerful tools that promote
@@ -51,7 +51,7 @@
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;AP EXchange TM, offering trade functionality and the flexibility to submit and monitor, create and redeem
             activity
             <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;ETF Star, an ETF-specific platform that is fully integrated with WAML’s core accounting system with focus on
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;ETF Star, an ETF-specific platform that is fully integrated with Vanward’s core accounting system with focus on
             basket and Portfolio Composition File (PCF) generation
         </p>
     </div>

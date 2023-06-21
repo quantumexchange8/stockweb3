@@ -15,7 +15,7 @@
     <div class="eleven columns">
         <h2>@lang('public.mobility')</h2>
         <p style="padding-top: 10px;">
-        <p>Wingate ("WAML") provides countless opportunities throughout your career to hone your
+        <p>Vanward ("Vanward") provides countless opportunities throughout your career to hone your
             expertise, take on new challenges, and reinvent yourself in new roles and business areas. We
             look for ways to help our employees grow, creating succession plans, assigning stretch
             projects outside everyday responsibilities, and advertising all open roles and giving
@@ -28,7 +28,7 @@
         <br>
         <p>Interested in expanding your global mindset, developing language skills, and applying your
             expertise in different businesses and cultures? Our Global Assignment Program supports
-            WAML’s global strategy while providing employees development and cross-cultural
+            Vanward’s global strategy while providing employees development and cross-cultural
             opportunities. We offer both short-term and long-term assignments that run anywhere from
             three months to five years.&nbsp; These assignments provide you the opportunity to:</p>
         <div style="padding-left: 30px">

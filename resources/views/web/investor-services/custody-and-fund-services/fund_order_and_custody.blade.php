@@ -15,7 +15,7 @@
     <div class="eleven columns">
         <h2>@lang('public.fund order & custody')</h2>
         <p style="padding-top: 10px;">
-            WAML Fund Order & Custody provides services to WAML custody clients that buy and hold investment funds. This
+            Vanward Fund Order & Custody provides services to Vanward custody clients that buy and hold investment funds. This
             includes order processing via our proprietary online platform, Fund WorldView®.
             <br><br>
             With more than 25 years' experience servicing investment fund assets, we have developed a deep understanding

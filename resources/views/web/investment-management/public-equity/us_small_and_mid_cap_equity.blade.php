@@ -15,7 +15,7 @@
     <div class="eleven columns">
         <h2>@lang('public.US small & mid-cap equity') & Mid-Cap Equity</h2>
         <p style="padding-top: 10px;">
-            Wingate's ("WAML") Small-to Mid-Cap Equity invests in a select number of out-of-favor and/or under-followed
+            Vanward's ("Vanward") Small-to Mid-Cap Equity invests in a select number of out-of-favor and/or under-followed
             small- and mid-cap companies without using leverage or shorting. The strategy invests in eight to 15
             companies typically with a long-term, three-to-five year horizon. Investments are typically sold if they
             appreciate above estimated intrinsic value*. <br><br>
@@ -49,7 +49,7 @@
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;Intrinsic value* determined through conservative forecasts<br><br>
 
             <span style="font-style: italic;">
-                *WAML’s estimate of the present value of the cash that a business can generate and distribute to
+                *Vanward’s estimate of the present value of the cash that a business can generate and distribute to
                 shareholders over its remaining life. <br>
                 -The strategy may assume large positions in a small number of issuers, which can increase the potential
                 for greater price fluctuation. <br>

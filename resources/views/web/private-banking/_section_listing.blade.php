@@ -76,7 +76,7 @@
             <p>@lang('public.private banking caption 3')
             </p>
             <div class="blog-tag" style="padding-top: 10px;">
-                <a href="javascript:goTo('aboutWingate')">@lang('public.about wingate')</a>
+                <a href="javascript:goTo('aboutVanward')">@lang('public.about Vanward')</a>
                 <a href="javascript:goTo('investmentProfile')">@lang('public.investment profile')</a>
                 <a href="javascript:goTo('selectPortfolioCompanies')">@lang('public.select portfolio companies')</a>
                 <a href="javascript:goTo('investmentStrategyAndTransactionTypes')">@lang('public.investment strategy & transaction types')</a>

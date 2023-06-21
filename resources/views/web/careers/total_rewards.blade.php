@@ -14,7 +14,7 @@
     <div class="eleven columns">
         <h1>@lang('public.total rewards')</h1>
         <p style="padding-top: 10px;">
-            At Wingate ("WAML"), we recognize that our employees are integral to our success and the delivery of
+            At Vanward ("Vanward"), we recognize that our employees are integral to our success and the delivery of
             exceptional solutions to our clients. To show our appreciation and support, we offer a comprehensive Total
             Rewards package designed to assist you in managing your personal life while advancing your career.
         </p>

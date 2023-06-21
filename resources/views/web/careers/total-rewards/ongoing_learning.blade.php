@@ -15,8 +15,8 @@
     <div class="eleven columns">
         <h2>@lang('public.ongoing learning')</h2>
         <p style="padding-top: 10px;">
-        <p>Opportunities for learning and development begin on your first day of work at Wingate
-            ("WAML") and continue throughout your career. Our approach is a mix of collaborative
+        <p>Opportunities for learning and development begin on your first day of work at Vanward
+            ("Vanward") and continue throughout your career. Our approach is a mix of collaborative
             learning, on-the-job application, and online tools that help you apply new ideas and
             grow.&nbsp; Here are a few ways we support your development:</p>
         <br>
@@ -26,12 +26,12 @@
             our specialized courses prepare you to succeed. <a href="javascript:goTo('signaturePrograms')"
                 target="_blank  "><span style="text-decoration: underline;">Learn More</span></a></p>
         <br>
-        <p><strong>WAML Academy:</strong>&nbsp; Our online learning and career center provides the
+        <p><strong>Vanward Academy:</strong>&nbsp; Our online learning and career center provides the
             resources and guidance to help you realize your career aspirations. Enjoy 24/7 access to
             e-Learning courses, online business and technical articles, competency assessments, and
             interactive tools offering hundreds of learning opportunities.</p>
         <br>
-        <p><strong>WAML Scholars Program:</strong>&nbsp; Where the business need exists, WAML assists
+        <p><strong>Vanward Scholars Program:</strong>&nbsp; Where the business need exists, Vanward assists
             you in obtaining professional certifications, as well as continuing your formal education
             through tuition reimbursement.</p>
         <br>
@@ -39,7 +39,7 @@
             with a “learn-by-doing” approach while providing opportunities to network with colleagues.
         </p>
         <br>
-        <p><strong>Professional Memberships and Subscriptions:</strong>&nbsp; WAML pays for professional
+        <p><strong>Professional Memberships and Subscriptions:</strong>&nbsp; Vanward pays for professional
             organization membership fees and job-related subscriptions that are directly job related.
         </p>
         </p>

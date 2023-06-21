@@ -16,7 +16,7 @@
         <h2>@lang('public.undergraduate internships')</h2>
         <p style="padding-top: 10px;">
         <p>
-            At Wingate, we offer internship programs that provide valuable opportunities for students to
+            At Vanward, we offer internship programs that provide valuable opportunities for students to
             gain firsthand experience and knowledge about our services, our company culture, and the
             financial services industry. We believe in starting the learning journey early, even before
             graduation, to help interns develop a deep understanding of our organization and its
@@ -56,7 +56,7 @@
             August of each year. The program is directed at students in their penultimate year of a
             Bachelor or Masters Degree program. Interns will have the opportunity to work in one of our
             Investor Services areas, and can look forward to being fully integrated into our teams.
-            Interns are also supported by a WAML mentor while participating in the program.</p>
+            Interns are also supported by a Vanward mentor while participating in the program.</p>
         <p>In Krakow, Poland, a variety of opportunities are available in our Investor Services
             business. We offer a four to six month program throughout the year in areas within Finance,
             Systems and Administration, open to students in their fourth or final year of university.

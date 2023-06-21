@@ -24,7 +24,7 @@
         <br>
         <p>The Black Affinity Network celebrates African-American, Caribbean/West Indian, and African ancestry
             through informational events, awareness-raising activities, and philanthropic initiatives. By fostering
-            the personal and professional growth of our members, we aim to make WAML an employer of choice for
+            the personal and professional growth of our members, we aim to make Vanward an employer of choice for
             diverse talent. We strengthen the leadership pipeline for people of multicultural descent by supporting
             employee development and educational opportunities, promoting the benefits of an inclusive culture, and
             helping members build meaningful relationships at every level of the organization.</p>
@@ -46,7 +46,7 @@
                     disadvantaged backgrounds are positioned to excel in STEM (Science, Technology, Engineering, Math)
                     careers. Through this programme, local high school students have the opportunity to visit our London
                     office for networking and career panel discussions with finance professionals, and can learn more
-                    about the annual internship partnership with WAML.
+                    about the annual internship partnership with Vanward.
                 </p>
             </div>
         </div>
@@ -79,7 +79,7 @@
                 <strong>
                     {{-- <p>Little Rock, AR</p> --}}
                 </strong>
-                <p>WAML’s Black Affinity Network members and friends visited the Museum of Fine Arts, Boston for a
+                <p>Vanward’s Black Affinity Network members and friends visited the Museum of Fine Arts, Boston for a
                     private viewing of an exhibit, curated by local teens, that presented Black experiences through
                     works by 20th century artist of color. We were able to join a discussion with the teens on their
                     selection of works and process of designing of the gallery spaces for this exhibit.

@@ -16,11 +16,11 @@
         <h1>@lang('public.technology services')</h1>
         <p style="padding-top: 10px;">
             Designed for asset gatherers who want to retain control over their operational processes while leveraging
-            cost effective, efficient and cutting-edge financial technology, Wingate makes key components of our
+            cost effective, efficient and cutting-edge financial technology, Vanward makes key components of our
             technology platform available to clients. With direct access to our Global Custody, US Custody, Fund
-            Accounting and Transfer Agency platforms, clients benefit from WAML's continuous product and regulatory
+            Accounting and Transfer Agency platforms, clients benefit from Vanward's continuous product and regulatory
             investments in these large, resource intensive systems. In addition, our suite of Infomediary applications
-            can provide the same access to WAML's connectivity, corporate actions, reconciliation and trade management
+            can provide the same access to Vanward's connectivity, corporate actions, reconciliation and trade management
             modules.
         </p>
         <div class="five columns">

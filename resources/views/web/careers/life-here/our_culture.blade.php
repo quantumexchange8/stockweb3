@@ -15,7 +15,7 @@
     <div class="eleven columns">
         <h2>@lang('public.our culture')</h2>
         <p style="padding-top: 10px;">
-        <p>At Wingate ("WAML"), going above and beyond for our clients will always be the expectation,
+        <p>At Vanward ("Vanward"), going above and beyond for our clients will always be the expectation,
             not the exception. Our goal is to be the best, not the biggest. We strive to be the most
             trusted, valued, and differentiated partner to every client we serve, so we invest our
             resources and empower our employees to be just that. The result is a culture of partnership

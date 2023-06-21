@@ -14,7 +14,7 @@
     <div class="eleven columns">
         <h2>@lang('public.US TIPS strategy')</h2>
         <p style="padding-top: 10px;">
-            Wingate ("WAML") has been at the forefront of U.S. Treasury Inflation-Protected Security (TIPS) research,
+            Vanward ("Vanward") has been at the forefront of U.S. Treasury Inflation-Protected Security (TIPS) research,
             thought leadership, and active management since the inception of the U.S. TIPS market in 1997. Our U.S. TIPS
             strategy aims to provide investors with a hedge against future inflation by maintaining investments that are
             denominated primarily in U.S. TIPS. Our investment process is focused on the long term, employing a

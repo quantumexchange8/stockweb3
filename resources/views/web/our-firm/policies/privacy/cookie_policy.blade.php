@@ -18,7 +18,7 @@
         <div class="teaser-text">
             <p><strong>IMPORTANT NOTICE: PLEASE READ BEFORE USING THIS WEBSITE:</strong><br><em>Last
                     Updated: 29 May 2022</em></p>
-            <p>Wingate and all other related affiliates and subsidiaries (collectively “WAML”, “we” or “us”)
+            <p>Vanward and all other related affiliates and subsidiaries (collectively “Vanward”, “we” or “us”)
                 use cookies, web beacons and similar technologies ("Cookies") to store information, enhance
                 your web browsing experience and improve the functionality of our websites. The information
                 set out in this Cookie Policy is provided in addition to and should be read alongside our
@@ -141,7 +141,7 @@
                 have asked for such as watching a video or commenting on a blog. Subject to applicable legal
                 restrictions, we may use information collected from our Cookies to identify user behavior
                 and to serve content and information on products and services based on your profile. We may
-                pass or share this information within WAML for marketing or analysis purposes. However, we
+                pass or share this information within Vanward for marketing or analysis purposes. However, we
                 will not be able to associate this information with your name, unless you have previously
                 provided your contact information to us and are opening or clicking on a link in an email
                 which you have received from us.&nbsp;</p>

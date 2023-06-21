@@ -3,7 +3,7 @@
         <span>
             <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('careers')">@lang('public.careers')</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Life at Wingate</strong>
+            &nbsp;&nbsp;<strong>Life at Vanward</strong>
         </span>
     </div>
     <br><br>
@@ -12,9 +12,9 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h1>Life at Wingate</h1>
+        <h1>Life at Vanward</h1>
         <p style="padding-top: 10px;">
-            At Wingate ("WAML"), we understand that our success is built on the quality of our people and the culture we
+            At Vanward ("Vanward"), we understand that our success is built on the quality of our people and the culture we
             foster. In addition to providing meaningful work and development opportunities, we believe in creating an
             environment where you can make a positive impact, both within our firm and in your community. Here are some
             of the ways we support our employees and promote a culture of Teamwork, Integrity, and Excellence.

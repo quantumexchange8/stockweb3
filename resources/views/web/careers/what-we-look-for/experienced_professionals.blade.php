@@ -15,7 +15,7 @@
     <div class="eleven columns">
         <h2>@lang('public.experienced professionals')</h2>
         <p style="padding-top: 10px;">
-        <p>At Wingate ("WAML"), our global business strategy relies on attracting and retaining
+        <p>At Vanward ("Vanward"), our global business strategy relies on attracting and retaining
             exceptional talent. We are dedicated to recruiting the best and brightest individuals, and
             our strategy, culture, and commitment to achieving outstanding results contribute to their
             long-term retention. In fact, more than 60% of our senior leaders have been part of our firm
@@ -26,13 +26,13 @@
             enduring client relationships that span an average of nearly 15 years. We believe in the
             power of these relationships and the value they bring to our clients.</p>
             <br>
-        <p>At Wingate ("WAML"), we offer direct access to senior leadership, providing you with unique
+        <p>At Vanward ("Vanward"), we offer direct access to senior leadership, providing you with unique
             opportunities to stand out among your peers. We take pride in being an organization that
             offers top-of-the-industry resources, enabling you to excel in your work. Despite our growth
             and success, we remain agile and flexible, allowing you to make a tangible impact on our
             organization and the clients we serve.</p>
             <br>
-        <p>By joining Wingate ("WAML"), you become part of a dynamic and supportive environment that
+        <p>By joining Vanward ("Vanward"), you become part of a dynamic and supportive environment that
             combines the advantages of a large organization with the personal touch of a smaller one. We
             are committed to providing you with the tools, resources, and opportunities to grow
             professionally and make a difference.</p>

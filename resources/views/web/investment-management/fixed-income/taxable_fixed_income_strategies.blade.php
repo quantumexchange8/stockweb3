@@ -15,7 +15,7 @@
     <div class="eleven columns">
         <h2>@lang('public.fixed income')</h2>
         <p style="padding-top: 10px;">
-            Wingate’s ("WAML") Taxable Fixed Income Strategies combine our unique valuation framework and comprehensive
+            Vanward’s ("Vanward") Taxable Fixed Income Strategies combine our unique valuation framework and comprehensive
             credit review criteria to build portfolios of durable credits purchased when they are at attractive yields.
             Credit valuations are often disconnected from their underlying fundamentals and are prone to unjustifiably
             high levels of volatility, an inefficiency that provides the opportunity to enhance fixed income returns

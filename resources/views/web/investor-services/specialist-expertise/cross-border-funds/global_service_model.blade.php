@@ -19,7 +19,7 @@
             Sophisticated asset managers require the highest quality investor servicing, regardless of location or time
             zone.
             <br><br>
-            Wingate delivers this through a global service model tailored to the needs of each manager. We locate
+            Vanward delivers this through a global service model tailored to the needs of each manager. We locate
             servicing teams based on clients’ time zones, the location of their fund domiciles, and their markets of
             distribution.
             <br><br>
@@ -28,7 +28,7 @@
             <br><br>
             <strong>One Global Team</strong>
             <br><br>
-            With one global P&L and integrated team, the WAML service experience is seamless. We give clients the
+            With one global P&L and integrated team, the Vanward service experience is seamless. We give clients the
             ability to direct all inquiries and communications through one, multi-disciplinary, client-facing team in
             their time zone of choice. This facilitates the highest levels of client engagement, transparent
             communication, and measurably superior service.

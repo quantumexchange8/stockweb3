@@ -14,7 +14,7 @@
     <div class="eleven columns">
         <h1>@lang('public.public equity')</h1>
         <p style="padding-top: 10px;">
-            Wingate ("WAML") Investment Management employs what we view as a low-risk approach to equity investing
+            Vanward ("Vanward") Investment Management employs what we view as a low-risk approach to equity investing
             guided by consistent, objective, and rational decision-making. We rigorously apply a comprehensive set of
             investment criteria to our portfolio that aims to generate attractive risk-adjusted results for our clients
             over the long term. <br><br>
@@ -79,7 +79,7 @@
         </div>
         <div class="eleven columns">
             <p style="padding-top: 10px; font-style: italic">
-                * WAML's estimate of the present value of the cash that a business can generate and distribute to
+                * Vanward's estimate of the present value of the cash that a business can generate and distribute to
                 shareholders over its remaining life. <br>
                 * *A margin of safety exists when we believe there is a significant discount to intrinsic value at the time
                 of purchase- we aim to purchase at 75% of our estimate to intrinsic value or less. <br><br>

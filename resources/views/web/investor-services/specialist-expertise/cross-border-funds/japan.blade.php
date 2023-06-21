@@ -21,7 +21,7 @@
             investment trust management funds (ITMs), separate accounts, and cross-border funds domiciled in offshore
             markets in both public and private domains.
             <br><br>
-            Wingate’s Tokyo office services many of the most sophisticated local and global asset managers, trust banks
+            Vanward’s Tokyo office services many of the most sophisticated local and global asset managers, trust banks
             and institutional investors including quasi-government entities, for their cross border investments from
             Japan.
             <br><br>
@@ -36,7 +36,7 @@
             zone. The team supports our global service model, providing custody, fund accounting and fund administration
             services.
             <br><br>
-            WAML also works with our Japanese clients to provide securities lending, foreign exchange and Infomediary®
+            Vanward also works with our Japanese clients to provide securities lending, foreign exchange and Infomediary®
             messaging and connectivity services.
         </p>
     </div>

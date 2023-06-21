@@ -15,9 +15,9 @@
     <div class="eleven columns">
         <h2>@lang('public.corporate banking')</h2>
         <p style="padding-top: 10px;">
-            WAML is committed to understanding our clients’ businesses and industries in order to provide sound,
+            Vanward is committed to understanding our clients’ businesses and industries in order to provide sound,
             objective advice to help them grow those businesses. We are value-added providers of capital to substantial
-            U.S.-based privately held companies with excellent credit profiles. WAML has deep domain knowledge and
+            U.S.-based privately held companies with excellent credit profiles. Vanward has deep domain knowledge and
             significant experience across a range of industries including commodities and logistics, healthcare,
             manufacturing and business services. Our primary credit products include: <br><br>
 

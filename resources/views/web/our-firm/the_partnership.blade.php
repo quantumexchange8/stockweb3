@@ -22,7 +22,7 @@
             remain undivided.
             <br><br>
             As our Partners bear responsibility for the firm's obligations, we have cultivated a robust risk management
-            culture. Consequently, Wingate Partners are well-informed about the firm's operations and actively
+            culture. Consequently, Vanward Partners are well-informed about the firm's operations and actively
             participate in its daily management and decision-making processes.
         </p>
     </div>

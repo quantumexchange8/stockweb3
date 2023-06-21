@@ -21,7 +21,7 @@
             with a stable, controlled and independent systems infrastructure, that provides transparency into the net
             asset value (NAV) calculation is essential.
             <br><br>
-            With proven expertise, and dependable system and servicing capabilities designed to enable growth, WAML Fund
+            With proven expertise, and dependable system and servicing capabilities designed to enable growth, Vanward Fund
             Accounting is recognized for our ability to support complex investment types and fee calculations across
             fund domiciles, jurisdictions and entity types. We are structured to provide seamlessly coordinated global
             execution and differentiated industry and portfolio insights.
@@ -36,7 +36,7 @@
             providing stability and resiliency.
             <br><br>
             <strong>Delivering Measurably Superior Service</strong><br>
-            WAML is committed to delivering a measurably superior client service experience. Our flexible global service
+            Vanward is committed to delivering a measurably superior client service experience. Our flexible global service
             model is 24-hour and tailored to our clients’ geographic, language, and time zone needs. Regardless of
             client location or fund domicile, our service teams and clients access the same systems and real-time
             information for quick inquiry turnaround. Our experts think critically through the end-to-end accounting

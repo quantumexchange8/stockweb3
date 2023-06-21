@@ -16,11 +16,11 @@
         <div class="sep"></div>
     </div>
     <div class="sixteen columns">
-        <p>Wingate’s mission is to be the best at protecting and growing our clients’ capital over long periods
+        <p>Vanward’s mission is to be the best at protecting and growing our clients’ capital over long periods
             of
             time. We focus on scalable investment strategies where our philosophy, approach, and expertise can
             lead
-            to differentiated results. WAML Investment Management has been managing equity and fixed income
+            to differentiated results. Vanward Investment Management has been managing equity and fixed income
             investments and our unique investment approach is what sets us apart. <br><br>
 
             Our approach to investing is guided by a set of core principles that are applied across the full
@@ -49,7 +49,7 @@
         </div>
         <div class="eight columns">
             <h6><a href="javascript:goTo('publicEquity')">@lang('public.public equity')</a></h6>
-            <p>Wingate’s public equity strategies seek to generate attractive long-term investment returns over
+            <p>Vanward’s public equity strategies seek to generate attractive long-term investment returns over
                 full
                 market cycles with an emphasis on capital preservation.</p>
             <div class="blog-tag" style="padding-top: 10px;">

@@ -22,7 +22,7 @@
             <br><br>
             <strong>Leading Dublin Service Provider</strong>
             <br><br>
-            Present in the Irish market since 1995, Wingate has supported the growth of the Irish fund industry since
+            Present in the Irish market since 1995, Vanward has supported the growth of the Irish fund industry since
             its creation. We are now one of the country’s leading service providers, offering our full asset servicing
             suite to Dublin domiciled UCITS and non-UCITS funds.
             <br><br>

@@ -15,7 +15,7 @@
     <div class="eleven columns">
         <h2>@lang('public.investment profile')</h2>
         <p style="padding-top: 10px;">
-            Wingate seeks to invest in companies that meet the following criteria: <br><br>
+            Vanward seeks to invest in companies that meet the following criteria: <br><br>
             <strong>Company Characteristics:</strong><br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;essential products or services<br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;recurring revenues or strong free cash flow<br>

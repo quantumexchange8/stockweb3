@@ -17,7 +17,7 @@
         <div class="sep"></div>
     </div>
     <div class="sixteen columns">
-        <p>At Wingate ("WAML"), we highly value the perspectives and expertise of every employee. Our organizational
+        <p>At Vanward ("Vanward"), we highly value the perspectives and expertise of every employee. Our organizational
             structure is designed to be flat, fostering a collaborative culture where the contributions of all team
             members are integral to our success. We are committed to creating an environment where every idea is
             welcomed and shared, recognizing that each idea has the potential to make a significant impact on our
@@ -59,7 +59,7 @@
         </div>
         <div class="eight columns">
             <h6><a href="javascript:goTo('totalRewards')">Rewarding You</a></h6>
-            <p>At Wingate, we encourage continuous learning and growth by providing opportunities to acquire new skills,
+            <p>At Vanward, we encourage continuous learning and growth by providing opportunities to acquire new skills,
                 collaborate across disciplines, and explore different roles. Our culture is results-oriented, meaning
                 that we focus on outcomes and value the impact you make. We believe in empowering our employees to live
                 their best lives, both personally and professionally.</p>

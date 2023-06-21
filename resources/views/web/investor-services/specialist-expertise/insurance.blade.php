@@ -20,23 +20,23 @@
             rate environment. All the while, improved performance, increased efficiency, and enhanced enterprise risk
             management have become priorities based on increased client demand.
             <br><br>
-            Wingate helps firms deliver on these priorities, while managing the complexity of the ever changing
+            Vanward helps firms deliver on these priorities, while managing the complexity of the ever changing
             marketplace. We marry product, market, and regulatory expertise with proven technology and service
             excellence to deliver bespoke solutions that match our clients’ particular business needs.
             <br><br>
             <strong>Integrated and Modular Global Service Offering</strong><br>
             Whether (re)insurance companies are looking for a fully integrated solution or specific services on a
-            modular basis, they can leverage WAML’s wide ranging product suite to support their global service and
+            modular basis, they can leverage Vanward’s wide ranging product suite to support their global service and
             investment goals. With experience servicing the world’s most sophisticated asset managers, our dedicated
             (re)insurance team supports our clients in their efforts to minimize risk, optimize cost, and manage their
             unique asset/liability, accounting, collateral, regulatory, and reporting needs.
             <br><br>
             <strong>Powered by Technology</strong><br>
             Integrated, flexible technology applications are central to our goal of providing clients a superior service
-            experience. Regardless of location, WAML service teams have access to the same systems and real-time
+            experience. Regardless of location, Vanward service teams have access to the same systems and real-time
             information, ensuring quick inquiry turnaround and continuous improvement.
             <br><br>
-            As a NAIC approved bank, WAML offers the following services:
+            As a NAIC approved bank, Vanward offers the following services:
         </p>
     </div>
     <div class="five columns">

@@ -281,8 +281,8 @@
         @include('layouts.partials._footer')
     </article>
     <!-- Private Banking > Private Equity > * x 4 -->
-    <article id="aboutWingate" class="off" style="text-align: left;">
-        @include('web.private-banking.private-equity.about_wingate')
+    <article id="aboutVanward" class="off" style="text-align: left;">
+        @include('web.private-banking.private-equity.about_Vanward')
         @include('layouts.partials._footer')
     </article>
     <article id="investmentProfile" class="off" style="text-align: left;">

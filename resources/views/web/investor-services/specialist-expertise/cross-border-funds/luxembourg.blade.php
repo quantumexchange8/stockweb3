@@ -25,7 +25,7 @@
             <br><br>
             <strong>Leading Luxembourg Service Provider</strong>
             <br><br>
-            Present in the market since 1989, supporting our clients since the launch of the first UCITS funds, Wingate
+            Present in the market since 1989, supporting our clients since the launch of the first UCITS funds, Vanward
             is now one of the top third party custodians and administrators in Luxembourg. We offer our full asset
             servicing suite to Luxembourg domiciled UCITS and non-UCITS.
             <br><br>

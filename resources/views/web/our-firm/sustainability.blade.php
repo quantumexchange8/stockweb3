@@ -14,7 +14,7 @@
     <div class="eleven columns">
         <h2>@lang('public.the partnership')</h2>
         <p style="padding-top: 10px;">
-            With over 26 years of experience, Wingate has established itself as a stalwart in the industry.
+            With over 26 years of experience, Vanward has established itself as a stalwart in the industry.
             Sustainability, which entails a resolute dedication to long-term value and well-being, lies at the heart of
             our identity. We firmly believe that sustainability is achieved by conducting our business responsibly and
             ethically, all the while making positive contributions to our clients, our people, and our communities, with
@@ -36,7 +36,7 @@
         </p>
         <h2>Our People</h2>
         <p style="padding-top: 10px;">
-            Our people, the exceptional Wingate team, play a crucial role in meeting our clients' needs. They
+            Our people, the exceptional Vanward team, play a crucial role in meeting our clients' needs. They
             continuously strive for the highest standards of excellence and integrity. In order to foster innovation and
             achieve outstanding performance, we actively recruit and support a diverse range of skills and perspectives
             within our team. We are committed to creating an inclusive environment that prioritizes the well-being of

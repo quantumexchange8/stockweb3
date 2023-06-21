@@ -20,7 +20,7 @@
             families find that investing time to identify and nurture relationships with other families, contemporaries
             and professional advisors is of great benefit and value to the family and the business. <br><br>
 
-            WAML works with family business owner clients to help solidify their advisory teams by considering important
+            Vanward works with family business owner clients to help solidify their advisory teams by considering important
             questions, including: <br><br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;Who in the family or its professional network can owners confide in to discuss
             the business, their family, their family’s wealth and the intersection of these items?

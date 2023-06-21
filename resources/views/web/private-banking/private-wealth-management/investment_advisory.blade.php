@@ -29,7 +29,7 @@
 
             <strong>Asset Allocation Process</strong><br><br>
 
-            Wingate’s ("WAML") investment teams provide asset allocation recommendations for a range of client types,
+            Vanward’s ("Vanward") investment teams provide asset allocation recommendations for a range of client types,
             and our relationship teams use these recommendations as a starting point to combine our best thinking with
             investment and wealth planning advice tailored to the needs of you and your family. <br><br>
 

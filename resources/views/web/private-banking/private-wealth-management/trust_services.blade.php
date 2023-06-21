@@ -20,7 +20,7 @@
             specialized retirement and charitable foundation services. <br><br>
 
             Our trust offices are located regionally in the U.S. and operated under a national charter, allowing for the
-            local delivery of trust services. WAML’s Delaware-headquartered trust company offers our clients access to a
+            local delivery of trust services. Vanward’s Delaware-headquartered trust company offers our clients access to a
             beneficiary friendly, tax-efficient jurisdiction for trust administration. The firm also maintains a trust
             company headquartered in the Cayman Islands, primarily to serve the needs of our non-U.S. clients. <br><br>
 
@@ -38,7 +38,7 @@
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;IRA administration<br><br>
 
             <em>
-                Wingate and its affiliates do not provide legal advice and do not provide tax advice unless Private
+                Vanward and its affiliates do not provide legal advice and do not provide tax advice unless Private
                 Banking Private Client Tax Services is engaged for tax return preparation services. Clients should
                 consult with their legal or tax advisor before taking any action relating to the subject matter of
                 this communication.

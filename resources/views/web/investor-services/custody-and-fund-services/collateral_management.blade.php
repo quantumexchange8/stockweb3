@@ -22,7 +22,7 @@
             managers adapt their collateral management discipline will impact their ability to deliver investment
             performance.
             <br><br>
-            WAML provides comprehensive and operationally efficient collateral management services designed to control
+            Vanward provides comprehensive and operationally efficient collateral management services designed to control
             risk, improve front office decision making, and minimize the impact on portfolio performance. We work to
             insulate clients from the burdensome investments required to comply with complex collateral requirements,
             while they focus on generating investment returns.
@@ -30,7 +30,7 @@
             <strong>Control Risk</strong>
             <br><br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;Custom technology maximizes straight through processing and connectivity with multiple counterparties via
-            WAML Infomediary®, reducing operational risk<br>
+            Vanward Infomediary®, reducing operational risk<br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;Manage the counterparty credit risk inherent to derivatives trading by ensuring exposures to counterparties
             are managed<br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;Robust reporting provides key metrics, such as counterparty exposure and collateral transactions<br><br>
@@ -38,26 +38,26 @@
             <br><br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;Increase visibility into collateral usage across counterparties<br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;Real time views into settlement status, inventory, and collateral positions<br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Access to WAML collateral management business expertise<br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Access to Vanward collateral management business expertise<br><br>
             <strong>Minimize Impact on Portfolio Performance</strong>
             <br><br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;Select the optimal collateral based on client defined hierarchies and counterparty exposures<br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;Identify and pledge “cheapest to deliver” collateral based on client defined parameters<br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;Ensure collateral received complies with eligibility criteria<br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;Reduce amount of over-collateralization with counterparties <br><br>
-            <strong style="text-decoration: underline;">WAML Collateral Management Program</strong>
+            <strong style="text-decoration: underline;">Vanward Collateral Management Program</strong>
             <br><br>
-            The WAML Collateral Management program covers the entire collateral lifecycle, allowing us to support the
-            most complex derivatives trading strategies. Collateral management services also seamlessly links with WAML
+            The Vanward Collateral Management program covers the entire collateral lifecycle, allowing us to support the
+            most complex derivatives trading strategies. Collateral management services also seamlessly links with Vanward
             fund accounting and custody, providing additional efficiencies and risk management.
             <br><br>
-            WAML’s Collateral Management program is supported by a custom technology platform designed to improve your
+            Vanward’s Collateral Management program is supported by a custom technology platform designed to improve your
             operating model, incorporate industry best practices, and deliver real-time data reporting.
             <br><br>
-            WAML services multiples participants in the collateral lifecycle, including CCPs, FCMs, and asset managers.
+            Vanward services multiples participants in the collateral lifecycle, including CCPs, FCMs, and asset managers.
             Our clients benefit from the expertise gained.
             <br><br>
-            Clients additionally benefit from WAML’s measurably superior global client service model which incorporates
+            Clients additionally benefit from Vanward’s measurably superior global client service model which incorporates
             our operational expertise, local relationship management and market intelligence into client-specific
             relationship plans.
         </p>

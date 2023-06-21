@@ -15,7 +15,7 @@
     <div class="eleven columns">
         <h2>@lang('public.tax-exempt fixed income') Strategy</h2>
         <p style="padding-top: 10px;">
-            The Wingate Tax-Exempt Fixed Income Strategy seeks to protect investors’ capital and generate attractive
+            The Vanward Tax-Exempt Fixed Income Strategy seeks to protect investors’ capital and generate attractive
             after-tax returns by combining thorough, independent research with our valuation discipline to identify
             undervalued municipal securities. Our Intermediate municipal bond strategy targets between 75 and 125
             credits in major subsectors of the U.S. municipal bond market, including general obligation bonds, revenue
@@ -40,8 +40,8 @@
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;Sound capital expenditure plans<br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;Responsible use of derivatives<br><br>
 
-            Current and prospective clients should find added confidence in knowing that WAML Partners have entrusted
-            the investment team with managing WAML’s own investment portfolio, thereby aligning the firm’s interests
+            Current and prospective clients should find added confidence in knowing that Vanward Partners have entrusted
+            the investment team with managing Vanward’s own investment portfolio, thereby aligning the firm’s interests
             with those of our clients. <br><br>
 
             <span style="font-style: italic;">

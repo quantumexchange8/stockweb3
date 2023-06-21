@@ -15,7 +15,7 @@
     <div class="eleven columns">
         <h2>@lang('public.fund administration')</h2>
         <p style="padding-top: 10px;">
-            Wingate provides a comprehensive suite of modular compliance and administrative funds services designed to
+            Vanward provides a comprehensive suite of modular compliance and administrative funds services designed to
             support our clients’ most complex products. Our business is built on providing direct access to information
             and expertise, and a synchronized global servicing service model that promotes client collaboration.
 

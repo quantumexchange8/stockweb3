@@ -14,7 +14,7 @@
     <div class="eleven columns">
         <h1>@lang('public.specialist expertise')</h1>
         <p style="padding-top: 10px;">
-            Wingate focuses on providing specialist expertise to achieve deeper and long-lasting relationships with our
+            Vanward focuses on providing specialist expertise to achieve deeper and long-lasting relationships with our
             clients, in areas where we feel we can add the most value. <br><br>
 
             By focusing on providing asset servicing to a select number of leading global asset gatherers, we have

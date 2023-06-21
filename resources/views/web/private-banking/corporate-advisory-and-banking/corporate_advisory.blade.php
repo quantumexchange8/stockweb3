@@ -27,7 +27,7 @@
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;Assist with identifying and qualifying suitable capital providers<br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;Provide guidance and thoughtful, independent counsel throughout a
             financing or M&A transaction process<br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;Offer access to and support from the WAML network<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;Offer access to and support from the Vanward network<br>
 
         </p>
     </div>

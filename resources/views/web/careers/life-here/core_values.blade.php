@@ -23,9 +23,9 @@
             <br>
         <p><strong>What TIEs Us Together</strong></p>
         <br>
-        <p>Teamwork. Integrity. Excellence. What makes these values distinct at WAML is how we bring
+        <p>Teamwork. Integrity. Excellence. What makes these values distinct at Vanward is how we bring
             them to life. Recently, we celebrated our core values by asking employees to share how they
-            experience Teamwork, Integrity, and Excellence at WAML. We heard countless stories:
+            experience Teamwork, Integrity, and Excellence at Vanward. We heard countless stories:
             colleagues who went out of their way to help their teams; decisions made in the best
             interest of clients; times when we stuck to our principles even when our view was not
             popular; and leaders who inspired us by their commitment to our Values.&nbsp;</p>
@@ -33,7 +33,7 @@
         <p>Though we have varied years of tenure, sit in 18 locations around the world, come from
             diverse backgrounds, and work in different lines of business, a common set of values unites
             our diverse points of view in service to our clients and to each other. Daily and frequent
-            displays of our core values make WAML a place our employees want to work—and continue
+            displays of our core values make Vanward a place our employees want to work—and continue
             working, which helps us to build lasting, transparent, and meaningful relationships.</p>
         </p>
     </div>

@@ -35,7 +35,7 @@
                 href="javascript:goTo('womensNetwork')">Women's</a> networks to ensure support programs are
             appropriately tailored to employee needs. Our goal is to equip members with the knowledge and support
             needed to grow their careers while successfully balancing the competing demands of work and home. We
-            also help to evolve our workplace by providing input on WAML policies and products from a family and
+            also help to evolve our workplace by providing input on Vanward policies and products from a family and
             caregiver perspective.</p>
         </p>
         <div style="padding-top: 30px;">

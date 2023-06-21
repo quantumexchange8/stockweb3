@@ -16,7 +16,7 @@
     <div class="eleven columns">
         <h2>@lang('public.private equity')</h2>
         <p style="padding-top: 10px;">
-            Wingate is a leading global service provider for alternative funds, with over $275 billion* in assets under
+            Vanward is a leading global service provider for alternative funds, with over $275 billion* in assets under
             administration.
             <br><br>
             Servicing $73 billion* in private equity funds, we have expertise across a variety of structures and

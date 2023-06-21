@@ -15,7 +15,7 @@
     <div class="eleven columns">
         <h2>@lang('public.US funds')</h2>
         <p style="padding-top: 10px;">
-            Wingate ("WAML") is a leading solutions provider for US funds. Our solutions meet the evolving needs of our
+            Vanward ("Vanward") is a leading solutions provider for US funds. Our solutions meet the evolving needs of our
             clients across the middle and back office. Our single technology platform and unique client service
             experience helps streamline our client’s operational processes, protect performance, and provide a reliable
             foundation for growth.
@@ -58,20 +58,20 @@
         <br><br>
         <strong>Enabling Growth</strong>
         <br><br>
-        WAML’s experience in servicing all asset classes for some of the world’s most sophisticated asset managers
+        Vanward’s experience in servicing all asset classes for some of the world’s most sophisticated asset managers
         allows us to truly understand the evolving requirements of our US fund clients. We have created a single
         technology platform that supports our clients’ needs and provides a thoughtful approach to helping them meet
         their growth goals through streamlined technology offerings.
         <br><br>
         <strong>Protecting Brand</strong>
         <br><br>
-        As a privately owned and managed organization, WAML’s success is driven by that of our clients and we focus
+        As a privately owned and managed organization, Vanward’s success is driven by that of our clients and we focus
         on protecting their businesses and reputations as much as we do our own. We take a prudent approach to
         managing operational processes for US funds, guided by disciplined thinking and rigorous risk management.
         <br><br>
         <strong>Uncovering Efficiencies</strong>
         <br><br>
-        WAML is committed to delivering a measurably superior client service experience. Our service teams access
+        Vanward is committed to delivering a measurably superior client service experience. Our service teams access
         the same systems and real-time information globally, providing one common platform for efficiency and
         consistency. This integrated model streamlines operational requirements and provides consistent, high
         quality reporting to both our clients and their investors

@@ -15,11 +15,11 @@
     <div class="eleven columns">
         <h2>Info FX</h2>
         <p style="padding-top: 10px;">
-            Wingate's InfoFX® is a dynamic foreign exchange alternative to traditional operational FX management that
+            Vanward's InfoFX® is a dynamic foreign exchange alternative to traditional operational FX management that
             offers the ease of a low-touch solution with the insight and flexibility of an in-house desk in freely
             traded and select restricted markets.
             <br><br>
-            Created specifically for asset managers, InfoFX offers a fully automated, WAML-hosted approach built around
+            Created specifically for asset managers, InfoFX offers a fully automated, Vanward-hosted approach built around
             execution quality, operational efficiency, comprehensive reporting and the control to make real-time
             decisions.
             <br><br>
@@ -27,7 +27,7 @@
             <br><br>
             InfoFX automatically calculates FX trade requirements based on security settlement details, and offers
             netting and aggregation functionalities where applicable. Operational and settlement risk can be minimized
-            through our proprietary messaging platform, WAML
+            through our proprietary messaging platform, Vanward
             <a href="javascript:goTo('dataConnectivityAndApplicationsViaInfomediary')">Infomediary</a>®.
             <br><br>
             <strong>Choice through Control</strong>

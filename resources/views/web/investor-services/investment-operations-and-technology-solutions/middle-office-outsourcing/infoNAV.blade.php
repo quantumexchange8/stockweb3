@@ -36,7 +36,7 @@
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;Provides a primary NAV to secondary NAV comparison, detailing areas of deviation for our client’s further
             analysis <br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;Value-added servicing options with access to best-in-class Fund Accounting expertise<br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Integration with multiple data sources via WAML Infomediary®.
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Integration with multiple data sources via Vanward Infomediary®.
         </p>
     </div>
     <div class="five columns">

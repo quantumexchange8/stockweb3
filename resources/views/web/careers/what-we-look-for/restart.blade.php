@@ -31,7 +31,7 @@
             <li>Candidates must have left the workforce for a minimum of two years at the time
                 the&nbsp;Restart Assignment&nbsp;begins</li>
             <li>Candidates cannot leave a job to join the Restart Program</li>
-            <li>Former WAML Employees, as well as those new to the Firm, are encouraged to apply</li>
+            <li>Former Vanward Employees, as well as those new to the Firm, are encouraged to apply</li>
             <li>Candidates must be able to work in locations where the program is currently available
                 (Boston, New Jersey, New York & Dublin)</li>
             <li>The program runs for 10 weeks in U.S. locations and for 16 weeks in Dublin.</li>

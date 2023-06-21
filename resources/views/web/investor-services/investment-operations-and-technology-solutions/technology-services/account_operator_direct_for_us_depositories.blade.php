@@ -17,15 +17,15 @@
     <div class="eleven columns">
         <h2>@lang('public.account operator direct for US depositories')</h2>
         <p style="padding-top: 10px;">
-            Wingate Account Operator enables our global financial institution clients to gain direct access to US
-            central securities depositories leveraging WAML as a technology and service provider.
+            Vanward Account Operator enables our global financial institution clients to gain direct access to US
+            central securities depositories leveraging Vanward as a technology and service provider.
             <br><br>
             Clients maintain operational control over their US assets, acting as a direct depository participant and
             reducing third party risk. Clients can become more competitive in the US market allowing them to increase
             global reach. Direct market participation is available without the investment in local market infrastructure
             and staffing expertise, providing a quicker time to market than an internal build.
             <br><br>
-            Account Operator includes WAML’s integrated business continuity planning and risk management programs that
+            Account Operator includes Vanward’s integrated business continuity planning and risk management programs that
             are currently servicing the largest and most sophisticated institutions in the world.
         </p>
     </div>

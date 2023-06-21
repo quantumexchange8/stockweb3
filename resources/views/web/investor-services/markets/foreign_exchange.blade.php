@@ -15,14 +15,14 @@
     <div class="eleven columns">
         <h2>@lang('public.foreign exchange')</h2>
         <p style="padding-top: 10px;">
-            Wingate provides innovative and flexible foreign exchange solutions designed for the operational and
+            Vanward provides innovative and flexible foreign exchange solutions designed for the operational and
             strategic FX needs of global asset managers. Backed by a reputation for competitive execution and
             relationship excellence, our goal is to provide every client with a smooth, comprehensive FX program from
             start to finish.
             <br><br>
             <strong>@lang('public.foreign exchange') Expertise</strong>
             <br>
-            WAML is a proven and committed FX provider. We offer executions in spots and forwards for freely traded
+            Vanward is a proven and committed FX provider. We offer executions in spots and forwards for freely traded
             currencies, and specialize in trading select emerging and restricted markets. Our clients receive global
             market coverage through a centralized trading team with local relationship management, and a choice of how
             to deal with our trading desk. Our FX trading expertise is complemented by outstanding market and currency
@@ -30,7 +30,7 @@
             <br><br>
             <strong>Client Choice and Control</strong>
             <br>
-            From implementation to assisting with trade execution and reporting, WAML’s customized end-to-end FX
+            From implementation to assisting with trade execution and reporting, Vanward’s customized end-to-end FX
             solutions are co-created with clients to help meet their distinct needs. We offer FX products that leverage
             our configurable technology platform to provide clients execution options with varying degrees of client
             involvement.

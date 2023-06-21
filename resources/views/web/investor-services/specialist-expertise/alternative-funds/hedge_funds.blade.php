@@ -16,7 +16,7 @@
     <div class="eleven columns">
         <h2>@lang('public.hedge funds')</h2>
         <p style="padding-top: 10px;">
-            Wingate is a leading global service provider for alternative funds, with over $275 billion* in assets under
+            Vanward is a leading global service provider for alternative funds, with over $275 billion* in assets under
             administration.
             <br><br>
             Supporting $22 billion* in hedge fund strategies, including traditional hedge funds and other liquid

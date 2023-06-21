@@ -27,7 +27,7 @@
             absence of a clear articulation of long-term objectives and a carefully considered set of share ownership
             and transfer policies. <br><br>
 
-            WAML has worked with family-owned businesses for generations on management and ownership succession
+            Vanward has worked with family-owned businesses for generations on management and ownership succession
             planning, and we regularly consider this topic ourselves as a multigenerational partner-owned private
             business. When helping our clients create solutions to their succession challenges, we work with them to
             consider a number of questions, including: <br><br>

@@ -19,10 +19,10 @@
             <span style="font-style: italic;">Last Updated: November 11, 2022</span>
             <br><br>
             <strong>Be aware of potential threats, steps you can take to protect yourself, staying informed and
-                reporting Fraud or Suspicious Activity to Wingate ("WAML").
+                reporting Fraud or Suspicious Activity to Vanward ("Vanward").
             </strong>
             <br><br>
-            At WAML, the security of our client’s information is paramount. As part of our Information Security Program,
+            At Vanward, the security of our client’s information is paramount. As part of our Information Security Program,
             we employ technology and processes to protect our clients’ information. However, there are steps you can
             take to help further protect your information.
             <br><br>
@@ -42,12 +42,12 @@
             information online and in your daily interactions. The following are some important considerations to be
             mindful of while performing your daily business and personal routines:
             <br><br>
-            WAML's website address is <a href="https://www.wgaml.com" target="_blank">www.wgaml.com.</a> All legitimate communications from WAML will come from a
-            wgaml.com domain. All others should be considered suspect. If you have any questions about WAML's website or
-            suspect you may have received a suspicious WAML link or WAML email you may call your WAML Relationship
-            Manager or contact WAML at any of our main locations.
+            Vanward's website address is <a href="https://www.wgaml.com" target="_blank">www.wgaml.com.</a> All legitimate communications from Vanward will come from a
+            wgaml.com domain. All others should be considered suspect. If you have any questions about Vanward's website or
+            suspect you may have received a suspicious Vanward link or Vanward email you may call your Vanward Relationship
+            Manager or contact Vanward at any of our main locations.
             <br><br>
-            Be cautious of any emails requesting personal or confidential information. Under no circumstances will WAML
+            Be cautious of any emails requesting personal or confidential information. Under no circumstances will Vanward
             ever contact you on an unsolicited basis (by telephone, email or otherwise) and request that you provide
             your logon credentials, electronic banking or other personal information.
             <br><br>
@@ -142,10 +142,10 @@
         <br><br>
         <a href="http://www.dhs.gov/cybersecurity" target="_blank">Cybersecurity</a>
         <br><br>
-        Reporting Fraud or suspicious activity to WAML
+        Reporting Fraud or suspicious activity to Vanward
         <br><br>
-        If you have a question regarding any WAML correspondence, or suspect any suspicious or fraudulent activity,
-        please contact us at any one of our locations or by calling your WAML Relationship Manager directly.
+        If you have a question regarding any Vanward correspondence, or suspect any suspicious or fraudulent activity,
+        please contact us at any one of our locations or by calling your Vanward Relationship Manager directly.
         <br><br>
         Locations can be viewed here:
         <br><br>

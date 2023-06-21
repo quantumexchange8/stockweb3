@@ -12,7 +12,7 @@
 <div class="container">
     <div class="sixteen columns">
         <h1>@lang('public.open account')</h1>
-        <p style="padding-top: 10px;">At Wingate, our purpose is straightforward: to protect and grow your wealth.* Our
+        <p style="padding-top: 10px;">At Vanward, our purpose is straightforward: to protect and grow your wealth.* Our
             approach to doing so is
             what sets us apart. We start with a deeply rooted investment culture and combine that with insightful
             wealth planning and exemplary service to give you the most thoughtful and comprehensive long-term

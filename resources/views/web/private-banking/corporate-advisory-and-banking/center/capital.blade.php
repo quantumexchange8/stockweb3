@@ -19,7 +19,7 @@
             Capital policies are an important component of any business. For family businesses, these policies address
             important topics like allocation of capital, permissibility of raising equity and resultant ownership
             dilution, leverage, selling and redeeming shares and shareholder distributions. As a capital provider and
-            advisor to family businesses for more than 200 years, and as a private company itself, WAML has a depth of
+            advisor to family businesses for more than 200 years, and as a private company itself, Vanward has a depth of
             expertise working with family businesses to frame these policies. <br><br>
 
             We work with family businesses to help answer essential questions related to capital policies, such as:

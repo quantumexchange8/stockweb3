@@ -24,7 +24,7 @@
         <p><strong>– Andrew Hofer,&nbsp;Diverse Ability Allies Network Executive Sponsor</strong></p>
         <br>
         <p>The mission of the Diverse Ability Allies Network (DAAN) is to encourage and support every member of the
-            Firm in achieving their full potential by demonstrating that WAML is a supportive and inclusive
+            Firm in achieving their full potential by demonstrating that Vanward is a supportive and inclusive
             environment for employees who are disabled, or care for individuals with disabilities. By increasing
             awareness, collaboration, problem-solving, adaptation, innovation, and advocacy for community members
             with disabilities, we provide a more comfortable, inclusive, and understanding work environment for

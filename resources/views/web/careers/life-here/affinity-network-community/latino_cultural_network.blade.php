@@ -18,7 +18,7 @@
         <p style="padding-top: 10px;">
         <p><em>"Within the Latino Cultural Network (LCN), I found a home. LCN has connected me with mentorship and
                 networking opportunities that have helped me grow in my career. Together with leaders from across
-                the WAML Affinity Networks, LCN has inspired me to further integrate myself into the WAML community.
+                the Vanward Affinity Networks, LCN has inspired me to further integrate myself into the Vanward community.
                 It feels great to enhance my skills and personal development while celebrating and sharing my
                 culture with others.” </em></p>
         <br>

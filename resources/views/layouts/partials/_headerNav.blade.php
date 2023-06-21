@@ -393,7 +393,7 @@
                             <div class="row">
                                 <header>@lang('public.private equity')<br>&nbsp;</header>
                                 <ul class="mega-links">
-                                    <li><a href="javascript:goTo('aboutWingate')">@lang('public.about wingate')</a></li>
+                                    <li><a href="javascript:goTo('aboutVanward')">@lang('public.about Vanward')</a></li>
                                     <li><a href="javascript:goTo('investmentProfile')">@lang('public.investment profile')</a></li>
                                     <li><a href="javascript:goTo('investmentStrategyAndTransactionTypes')">@lang('public.investment strategy & transaction types')</a></li>
                                     <li><a href="javascript:goTo('selectPortfolioCompanies')">@lang('public.select portfolio companies')</a></li>

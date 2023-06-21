@@ -14,7 +14,7 @@
     <div class="eleven columns">
         <h1>@lang('public.markets')</h1>
         <p style="padding-top: 10px;">
-            Wingate Markets offers foreign exchange trading, currency hedging, and securities lending solutions to
+            Vanward Markets offers foreign exchange trading, currency hedging, and securities lending solutions to
             global asset gatherers. <br><br>
 
             Our strategy is to uncover opportunities and sources of value for our clients through a combination of
@@ -76,7 +76,7 @@
                     <h6 style="text-align: left;">
                         <a href="javascript:goTo('activeFxExecution')">@lang('public.active fx execution')</a>
                     </h6>
-                    <p>Supporting our clients’ strategic FX requirements through WAML’s principal FX trading desk and
+                    <p>Supporting our clients’ strategic FX requirements through Vanward’s principal FX trading desk and
                         industry execution platforms.
                     </p>
                     <div class="clear"></div>

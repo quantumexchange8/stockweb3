@@ -14,9 +14,9 @@
     <div class="eleven columns">
         <h2>@lang('public.legal')</h2>
         <p style="padding-top: 10px;">
-            These WAML Online Terms and Conditions (the “Terms”) comprise the “General Terms” and “Product Specific
-            Terms” set forth below. All use of the electronic and online services offered by Wingate (together with its
-            affiliates, “WAML” or “us”), including but not limited to the WAML WorldView® portal, any future release
+            These Vanward Online Terms and Conditions (the “Terms”) comprise the “General Terms” and “Product Specific
+            Terms” set forth below. All use of the electronic and online services offered by Vanward (together with its
+            affiliates, “Vanward” or “us”), including but not limited to the Vanward WorldView® portal, any future release
             thereof or successor thereto, and all products and services accessible or made available through such portal
             (collectively, the “Online Services”), is subject to the General Terms. By using any of the Online Services,
             you are agreeing to the General Terms.
@@ -25,7 +25,7 @@
             specifically referenced below under “Product Specific Terms,” you are also agreeing to the applicable Terms
             set forth under that heading. In the event of a conflict between the General Terms and any applicable
             Product Specific Terms, the Product Specific Terms shall prevail. The terms of each separate agreement
-            governing your business relationship with WAML (each, a “Client Agreement”) shall also apply to your use of
+            governing your business relationship with Vanward (each, a “Client Agreement”) shall also apply to your use of
             the Online Services in connection with such relationship, and the Terms are hereby incorporated in their
             entirety into such Client Agreement by reference. Except where specifically provided to the contrary in the
             Terms, in the event of a conflict between the terms of the Terms and those of any applicable Client
@@ -38,7 +38,7 @@
             1.1 <span style="text-decoration: underline">Security Credentials</span>. An identification code (“User ID”)
             and password(s) (“Password”) are required to
             access any of the Online Services. A digital certificate, an encryption key and/or other security devices
-            may also be required, at WAML’s discretion, to access certain Online Services. You are responsible: (a) for
+            may also be required, at Vanward’s discretion, to access certain Online Services. You are responsible: (a) for
             the security and confidentiality of all User IDs, Passwords, digital certificates, encryption keys and other
             security devices (collectively, “Security Credentials”): (b) to safeguard your Security Credentials and not
             to give or make available, intentionally or otherwise, any of your Security Credentials to any unauthorized
@@ -54,8 +54,8 @@
             unauthorized access to your account by means of the Online Services or otherwise, or if a person to whom a
             Security Credential has been assigned leaves your employment or is otherwise no longer permitted to access
             the Online Services on your behalf. An authorized person from your organization must communicate such
-            notification to WAML by submitting a completed user access request form, which can be obtained from your
-            organization’s relationship management contacts at WAML.
+            notification to Vanward by submitting a completed user access request form, which can be obtained from your
+            organization’s relationship management contacts at Vanward.
             <br><br>
             1.2 <span style="text-decoration: underline">Termination of Access</span>. We may terminate your access to
             the Online Services at any time, for any reason,
@@ -91,8 +91,8 @@
             stored for subsequent use or otherwise used in whole or in part in any manner without our prior written
             consent, except to the extent permitted by the Copyright Act of 1976 (17 U.S.C. § 107), as amended, and
             then, only with notices of our proprietary rights. Our trademarks and service marks include, but are not
-            limited to, “ActionView”, “ActionWorld”, “AP Exchange”, “APEX”, “WAML”, “WAML & Co.”, “WAML Comset Plus”,
-            “COnnect”, “WAML Direct”, “WAML INFOFX”, “BIDS”, “Wingate”, “DEALBOARD”, “ETF Connect”, “FX INDEXLINK”, “FX
+            limited to, “ActionView”, “ActionWorld”, “AP Exchange”, “APEX”, “Vanward”, “Vanward & Co.”, “Vanward Comset Plus”,
+            “COnnect”, “Vanward Direct”, “Vanward INFOFX”, “BIDS”, “Vanward”, “DEALBOARD”, “ETF Connect”, “FX INDEXLINK”, “FX
             OrderView”, “INFOACTION”, “INFOFX”, “INFOMEDIARY”, “INFOSETTLE”, “LIFE OF A TRADE”, “Shared Goals. Shared
             Success”, “Trust in Partnership”, “WorldView” and “59 Wall St.”. Other featured words or symbols, used to
             identify the source of goods and services, are the trademarks of their respective owners. You may not copy,
@@ -130,7 +130,7 @@
             <strong>5. INSTRUCTIONS</strong>
             <br><br>
             5.1 <span style="text-decoration: underline">Issuance of Instructions Generally</span>. Where applicable,
-            issuance of proper Instructions to WAML shall be
+            issuance of proper Instructions to Vanward shall be
             provided as designated in the applicable Client Agreement.
             <br><br>
             5.2 <span style="text-decoration: underline">Issuance of Instructions Via Online Services</span>. The
@@ -178,9 +178,9 @@
             <br>
             (a) If you access the Online Services via the Internet (including, without limitation, through a mobile
             device), you will be required to use a third-party provided Internet browser, such as Firefox or Internet
-            Explorer, Internet utility software from various software providers not affiliated with WAML, and/or a
-            WAML-provided mobile application. Your use of such software to access the Online Services shall be at your
-            own risk and shall be subject to terms and conditions imposed by WAML and such third parties in addition to
+            Explorer, Internet utility software from various software providers not affiliated with Vanward, and/or a
+            Vanward-provided mobile application. Your use of such software to access the Online Services shall be at your
+            own risk and shall be subject to terms and conditions imposed by Vanward and such third parties in addition to
             these Terms (e.g., the Apple Licensed Application End User License Agreement). We do not warrant the
             performance of, and bear no responsibility for, your use of any third party information, software,
             telecommunications hardware, or Internet connection. Some Online Services may be accessed via a direct
@@ -200,7 +200,7 @@
             that you will not use e-mail to request, authorize, or effect the purchase or sale of any securities,
             currency, or commodities, to send funds transfers instructions, or for any other transactions unless we
             mutually agree on procedures by which all such e-mail communications from you can be transmitted in
-            compliance with WAML’s applicable policies and procedures (e.g., Investor Services Client Email Instruction
+            compliance with Vanward’s applicable policies and procedures (e.g., Investor Services Client Email Instruction
             Policy). <br>
             (d) You are prohibited from deliberate misuse of any element of the Online Services, including, without
             limitation, hacking, disruption or excessive use or any use in contravention of applicable law, and making
@@ -268,7 +268,7 @@
             <br><br>
             10.2 <span style="text-decoration: underline">Changes to the Online Terms and Conditions</span>. We will
             inform you of any changes in these Terms by posting
-            notices of such changes on WAML WorldView or its successor. We will provide you with notices of such changes
+            notices of such changes on Vanward WorldView or its successor. We will provide you with notices of such changes
             at least fifteen (15) days in advance except when a shorter notice period is required, in which case we will
             provide you with as much prior notice as is reasonably possible under the circumstances. Continued use of
             the Online Services following the effective date of any such changes will be deemed your acceptance of and
@@ -276,13 +276,13 @@
             <br><br>
             <strong>11. PRIVACY POLICY</strong>
             Any personal information provided by you through the Online Services will be handled in accordance with the
-            WAML online privacy policy, which is incorporated herein by reference in its entirety.
+            Vanward online privacy policy, which is incorporated herein by reference in its entirety.
             <br><br>
             <strong>12. COOKIE POLICY</strong>
             <br><br>
-            The portions of WAML’s website where these Terms appear and the Online Services each employ cookies in their
+            The portions of Vanward’s website where these Terms appear and the Online Services each employ cookies in their
             operation. By using such website and the Online Services you agree to the placement of cookies on your
-            computer in accordance with the terms of the WAML cookie policy, which is incorporated herein by reference
+            computer in accordance with the terms of the Vanward cookie policy, which is incorporated herein by reference
             in its entirety.
             <br><br>
             If you do not wish to accept cookies from this website or the Online Services please either disable cookies
@@ -293,7 +293,7 @@
             As described above, your use of any product or service referenced below is subject to the applicable Product
             Specific Terms listed below with respect to such use, which are expressly incorporated herein by reference.
             <br><br>
-            <strong>A. WAML FX</strong>
+            <strong>A. Vanward FX</strong>
             <br><br>
             1. <a href="javascript:goTo('termsAndConditions')">FX Terms and Conditions</a>
             <br><br>

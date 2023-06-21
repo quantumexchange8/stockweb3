@@ -20,7 +20,7 @@
             alpha has resulted in investment in non-standard instruments and markets, and fragmented communications.
             High fixed costs and evolving regulatory requirements further complicate capital priorities.
             <br><br>
-            While the markets change quickly, Wingate's commitment to managing complexity for our clients does not. We
+            While the markets change quickly, Vanward's commitment to managing complexity for our clients does not. We
             help clients respond to challenges in their middle office operations through a differentiated, modular
             approach that addresses both aging technology and overloaded operational models. We work to address our
             clients’ current needs and help them create the scale and flexibility needed to address changing market

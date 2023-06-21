@@ -15,7 +15,7 @@
     <div class="eleven columns">
         <h2>@lang('public.distribution intelligence')</h2>
         <p style="padding-top: 10px;">
-            Core to Wingate’s <a href="javascript:goTo('crossBorderFunds')">cross-border fund servicing</a>, WAML distribution intelligence services
+            Core to Vanward’s <a href="javascript:goTo('crossBorderFunds')">cross-border fund servicing</a>, Vanward distribution intelligence services
             are designed to assist asset managers develop, execute, and evaluate their distribution strategy.
             <br><br>
             <strong>Strategy Development: Market Analysis</strong>
@@ -26,7 +26,7 @@
             <br><br>
             <strong>Strategy Execution: Operational Support</strong>
             <br><br>
-            WAML provides a unique <a href="javascript:goTo('globalServiceModel')">@lang('public.global service model')</a> which enables asset managers to distribute
+            Vanward provides a unique <a href="javascript:goTo('globalServiceModel')">@lang('public.global service model')</a> which enables asset managers to distribute
             their product in
             multiple markets. At the core of this model is our single technology platform which leads to a high level of
             global integration and coordination
@@ -34,10 +34,10 @@
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;Our <a href="javascript:goTo('transferAgency')">@lang('public.transfer agency')</a> offering is the cornerstone of our
             distribution support model, allowing fully localized investor onboarding support with industry leading
             technology <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;WAML <a href="javascript:goTo('dataConnectivityAndApplicationsViaInfomediary')">Infomediary</a>® messaging and connectivity platform is
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Vanward <a href="javascript:goTo('dataConnectivityAndApplicationsViaInfomediary')">Infomediary</a>® messaging and connectivity platform is
             deployed to harmonize, translate, and transmit electronic data to facilitate fund distribution
             efficiency<br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;WAML <a href="javascript:goTo('fundOrderAndCustody')">@lang('public.fund order & custody')</a> includes a proprietary
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Vanward <a href="javascript:goTo('fundOrderAndCustody')">@lang('public.fund order & custody')</a> includes a proprietary
             investment fund order and processing platform, Fund WorldView®, which helps connect global asset managers
             with local financial institutions that buy and hold funds<br><br>
             <strong>Strategy Evaluation: Data Analysis</strong>

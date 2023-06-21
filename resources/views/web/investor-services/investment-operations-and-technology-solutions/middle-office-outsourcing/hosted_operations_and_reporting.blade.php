@@ -17,7 +17,7 @@
     <div class="eleven columns">
         <h2>@lang('public.hosted operations & reporting')</h2>
         <p style="padding-top: 10px;">
-            Wingate offers middle office operational services across the entire post-trade execution lifecycle,
+            Vanward offers middle office operational services across the entire post-trade execution lifecycle,
             including trade management, cash administration, and collateral management. We specialize in solutions for
             alternative asset classes, such as derivatives, bank loans and other complex investments.
             <br><br>
@@ -31,7 +31,7 @@
             <br><br>
             <strong>Shared Infrastructure & Costs</strong>
             <br><br>
-            WAML’s <a href="javascript:goTo('globalServiceModel')">@lang('public.global service model')</a> offers access to local
+            Vanward’s <a href="javascript:goTo('globalServiceModel')">@lang('public.global service model')</a> offers access to local
             servicing teams and subject matter experts, as well as scalable, efficient technology solutions. Clients
             leverage our shared infrastructure and costs as they implement their own growth plans and distribution goals
             across trading strategies and instrument types.

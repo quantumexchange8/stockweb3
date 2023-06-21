@@ -17,13 +17,13 @@
         <h2>@lang('public.young professionals network')</h2>
         <p style="padding-top: 10px;">
         <p><em>"The Young Professionals Network offers fantastic opportunities for employees in the early stages of
-                their career to get involved at WAML, joining has helped me grow personally and professionally.”
+                their career to get involved at Vanward, joining has helped me grow personally and professionally.”
             </em></p>
         <br>
         <p><strong>– Sean Farrell, Young Professional Network Co-Chair</strong></p>
         <br>
         <p>The mission of the Young Professionals Network is to engage, develop, and connect employees who are early
-            in their careers, or new to WAML or the financial services industry. We offer opportunities for
+            in their careers, or new to Vanward or the financial services industry. We offer opportunities for
             employees to expand their professional networks, build their personal brands, and support our
             communities. Special programs promote constructive peer and mentor relationships while empowering
             members with the skills needed to drive success as future leaders. We create a forum for employees to
@@ -32,7 +32,7 @@
         <h2 style="padding-bottom: 20px;">YPN Survey</h2>
         <hr>
         <br>
-        <p>The Dublin chapter of Wingate’s Young Professionals Network marked the firm’s bicentennial anniversary in
+        <p>The Dublin chapter of Vanward’s Young Professionals Network marked the firm’s bicentennial anniversary in
             2018 by assessing the current and future shape of today’s workplace. The network conducted a survey of
             two distinct demographic groups in employment—under 30 and over 30—to understand their attitudes toward
             work and education. The survey tested the hypothesis that the current and future workforces are

@@ -21,11 +21,11 @@
             operations in the region.
             <br><br>
             With consistent service excellence over multiple decades, a customized approach to addressing local market
-            requirements, and strategic insights on global fund distribution, Wingate is the leading asset servicer for
+            requirements, and strategic insights on global fund distribution, Vanward is the leading asset servicer for
             Latin America’s largest asset gatherers.
             <br><br>
             <strong>Integrated Solutions</strong><br>
-            WAML offers a full range of investment servicing solutions including:
+            Vanward offers a full range of investment servicing solutions including:
             <br><br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;<a href="javascript:goTo('custody')">Global Custody</a><br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;<a href="javascript:goTo('privateBanking')">@lang('public.private banking')</a><br>
@@ -36,7 +36,7 @@
             <br><br>
             <strong>Commitment to the Region</strong>
             <br><br>
-            WAML has enjoyed close links to Latin America since our founding in 1818, and has been servicing the Latin
+            Vanward has enjoyed close links to Latin America since our founding in 1818, and has been servicing the Latin
             American pension fund system since its inception nearly 40 years ago. Our reputation as the region’s leading
             custodian is driven by our close working relationships with clients, local regulators and the market
             infrastructure. Backed by the long-term thinking and approach that comes with our partnership structure, we

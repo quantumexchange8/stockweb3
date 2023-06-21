@@ -15,7 +15,7 @@
     <div class="eleven columns">
         <h2>@lang('public.active fx execution')</h2>
         <p style="padding-top: 10px;">
-            Wingate’s global foreign exchange desk provides a combination of competitive execution with a reliable and
+            Vanward’s global foreign exchange desk provides a combination of competitive execution with a reliable and
             experienced sales team that is focused on servicing global asset managers and understanding their unique
             trading and operational needs.
             <br><br>

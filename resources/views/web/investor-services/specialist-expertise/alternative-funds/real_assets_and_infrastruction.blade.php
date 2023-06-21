@@ -16,14 +16,14 @@
     <div class="eleven columns">
         <h2>Real Assets & Infrastruction</h2>
         <p style="padding-top: 10px;">
-            Wingate is a leading global service provider for alternative funds, with over $275 billion* in assets under
+            Vanward is a leading global service provider for alternative funds, with over $275 billion* in assets under
             administration.
             <br><br>
-            Servicing real assets since 2004, WAML now supports $53 billion* in assets for some of the world’s most
+            Servicing real assets since 2004, Vanward now supports $53 billion* in assets for some of the world’s most
             sophisticated real estate and infrastructure managers investing across Europe, US and Asia.
             <br><br>
             Leveraging our core competencies in administration, accounting, custody, transfer agency and domiciliation,
-            and with dedicated servicing and business integration teams, WAML helps clients operate complex real estate
+            and with dedicated servicing and business integration teams, Vanward helps clients operate complex real estate
             and infrastructure funds.
             <br><br>
             We have a leading market share in servicing Luxembourg domiciled real estate investment funds with more than

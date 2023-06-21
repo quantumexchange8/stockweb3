@@ -19,12 +19,12 @@
         <p><em>“I’m proud to be part of the Pride Network and be part of a Firm where LGBTQ professionals and
                 supporters have a community of peers to come together for sharing, networking, and volunteering. The
                 greater our diversity and inclusion, the more we unlock human potential and the greater the
-                prosperity of WAML. Having a diverse set of colleagues who feel comfortable being themselves is our
+                prosperity of Vanward. Having a diverse set of colleagues who feel comfortable being themselves is our
                 culture in tangible and intangible ways.” </em></p>
         <br>
         <p><strong>– Jeff Schoenfeld, Partner and Pride Network</strong></p>
         <br>
-        <p>WAML believes everyone should feel empowered to bring their whole selves to work regardless of sexual
+        <p>Vanward believes everyone should feel empowered to bring their whole selves to work regardless of sexual
             orientation or gender identity. The Pride Network creates a welcoming community for employees who
             identify as LGBTQ (lesbian, gay, bisexual, transgender or questioning) and their allies. Through
             education and advocacy, we raise awareness of topics relevant to the LGBTQ community, helping to create
@@ -46,7 +46,7 @@
                 <strong>
                     {{-- <p>Little Rock, AR</p> --}}
                 </strong>
-                <p>The WAML Pride Network presented award-winning transgender storyteller, diversity speaker, educator,
+                <p>The Vanward Pride Network presented award-winning transgender storyteller, diversity speaker, educator,
                     and Ted Talk Presenter, Scott Turner Schofield, whose presentation touched on themes of "gender
                     diversity," identity, culture, language, and ally-ship. Scott's presentation included transgender
                     themes and introduced the concept of "inter-sectionality" — answering the question of how biological
@@ -63,17 +63,17 @@
                     width="75%" height="auto">
             </div>
             <div class="eight columns">
-                <h6 style="text-align: left; padding-bottom: 10px;">Leading the Way: WAML Hosts LGBT Workplace Summit in
+                <h6 style="text-align: left; padding-bottom: 10px;">Leading the Way: Vanward Hosts LGBT Workplace Summit in
                     Kraków
                 </h6>
                 <strong>
                     {{-- <p>Little Rock, AR</p> --}}
                 </strong>
-                <p>WAML Kraków Pride members hosted the third in a series of LGBT Symposia with organizations that
+                <p>Vanward Kraków Pride members hosted the third in a series of LGBT Symposia with organizations that
                     included US Consulate General, IBM, Shell, HSBC, Cisco, LGBT Business Forum, Heineken, CapGemini,
                     Akamai, ABB, Diversity Hub, and Stowarzyszenie Queerowy Maj. The symposium’s goal is to strengthen
                     alliances with other companies and share strategies on how to build LGBT networks and employee
-                    resource groups in Kraków, Poland. As an early member of this consortium, WAML is leading the way
+                    resource groups in Kraków, Poland. As an early member of this consortium, Vanward is leading the way
                     alongside our corporate partners in sharing information, experiences and knowledge on how to ensure
                     our workplaces remain welcoming and open to the LGBT community and allies.
                 </p>
@@ -92,7 +92,7 @@
                     {{-- <p>Little Rock, AR</p> --}}
                 </strong>
                 <p>Partner Jeff Schoenfeld, Pride Network’s Executive Sponsor, led a conversation with three of his
-                    fellow WAML Partners, Carter Sullivan, Rick Berk, and Digger Donahue, along with their LGBT+ family
+                    fellow Vanward Partners, Carter Sullivan, Rick Berk, and Digger Donahue, along with their LGBT+ family
                     members. Participants shared their perspectives on what it means to be a supportive parent or
                     sibling to an LGBT+ individual.
                 </p>

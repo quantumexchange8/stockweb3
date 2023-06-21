@@ -28,13 +28,13 @@
             servicing and markets products in our clients’ regional languages as part of our
             <a href="javascript:goTo('globalServiceModel')">@lang('public.global service model')</a>.
             <br><br>
-            WAML is focused on Greater China, where it maintains a strong presence and provides services for
+            Vanward is focused on Greater China, where it maintains a strong presence and provides services for
             <a href="javascript:goTo('')">Hong Kong-domiciled funds</a>, UCITS, QFII, RQFII, RQFII ETF, and QDII
             platforms.
             <br><br>
             <strong>Outbound Investment from China</strong>
             <br><br>
-            Qualified Domestic Institutional Investor (QDII): WAML has been servicing QDII products for our Chinese
+            Qualified Domestic Institutional Investor (QDII): Vanward has been servicing QDII products for our Chinese
             custodian bank clients since 2007. Our clients include the top 10 master custodian banks in China and the
             leading Chinese asset managers as QDII sponsors.
             CNH Share Class Funds: Our Foreign Exchange team in Hong Kong offers CNH hedging capabilities as well as
@@ -43,20 +43,20 @@
             <strong>Inbound Investment to China</strong>
             <br><br>
             Renminbi Qualified Foreign Institutional Investor (RQFII)/ Qualified Foreign Institutional Investor (QFII):
-            WAML is experienced in servicing RQFII and QFII products domiciled across the world. Our ETF servicing
+            Vanward is experienced in servicing RQFII and QFII products domiciled across the world. Our ETF servicing
             expertise and local market experience helps clients launch products that meet the unique requirements of the
             scheme.
-            Stock Connect: WAML supports our global clients utilizing the Shanghai-Hong Kong and Shenzhen-Hong Kong
+            Stock Connect: Vanward supports our global clients utilizing the Shanghai-Hong Kong and Shenzhen-Hong Kong
             Stock Connect platforms.
             <br><br>
             <strong>Distribution in Greater China</strong>
             <br><br>
-            UCITS in Greater China: UCITS funds have a high penetration rate in Hong Kong and Taiwan. WAML has extensive
+            UCITS in Greater China: UCITS funds have a high penetration rate in Hong Kong and Taiwan. Vanward has extensive
             experience in servicing UCITS globally as we assist asset managers to tap into new market segments.
             China-Hong Kong Mutual Recognition: The China-Hong Kong Mutual Recognition of Funds program allows global
             asset managers to distribute Hong Kong-domiciled funds into mainland China and Chinese asset managers to
             distribute their funds into Hong Kong. It is the first and only offshore fund vehicle allowed to be
-            distributed into Mainland China. WAML offers a comprehensive suite of services, including <a
+            distributed into Mainland China. Vanward offers a comprehensive suite of services, including <a
                 href="javascript:goTo('depositaryAndTrustee')">Trustee services</a> in Hong Kong.
         </p>
     </div>

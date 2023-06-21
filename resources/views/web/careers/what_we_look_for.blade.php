@@ -14,7 +14,7 @@
     <div class="eleven columns">
         <h1>@lang('public.what we look for')</h1>
         <p style="padding-top: 10px;">
-            At Wingate, your career path is yours to define. We hire bright self-starters,
+            At Vanward, your career path is yours to define. We hire bright self-starters,
             provide them the tools to succeed, and give them the freedom to excel.
         </p>
         <div class="five columns">

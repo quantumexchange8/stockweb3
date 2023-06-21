@@ -14,7 +14,7 @@
     <div class="eleven columns">
         <h1>@lang('public.custody & fund services')</h1>
         <p style="padding-top: 10px;">
-            Wingate offers a suite of asset servicing solutions designed to help institutional clients access and
+            Vanward offers a suite of asset servicing solutions designed to help institutional clients access and
             navigate cross-border investing. As a specialist in managing the new and difficult, we have earned the trust
             of the world’s most sophisticated asset gatherers to ensure timely settlement, accurate safekeeping and
             reporting, and error-free administration of their most complex funds and asset types. <br><br>
@@ -131,7 +131,7 @@
                     <h6 style="text-align: left;">
                         <a href="javascript:goTo('fundOrderAndCustody')">@lang('public.fund order & custody')</a>
                     </h6>
-                    <p>Order Processing and Custody Services for WAML clients that buy and hold investment funds.
+                    <p>Order Processing and Custody Services for Vanward clients that buy and hold investment funds.
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">

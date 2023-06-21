@@ -17,9 +17,9 @@
         <h2>@lang('public.military veterans network')</h2>
         <p style="padding-top: 10px;">
         <p><em>"As a Veteran of the United States Marine Corps, I understand the value a veteran can add to any
-                workplace. I take pride in seeing the commitment WAML has made in hiring and supporting veterans who
-                have or continue to serve in the Armed Forces. Through my involvement in the WAML Military Veterans
-                Network and other affinity groups I’ve seen firsthand the ways WAML is invested in employees and the
+                workplace. I take pride in seeing the commitment Vanward has made in hiring and supporting veterans who
+                have or continue to serve in the Armed Forces. Through my involvement in the Vanward Military Veterans
+                Network and other affinity groups I’ve seen firsthand the ways Vanward is invested in employees and the
                 community."</em></p>
         <br>
         <p><strong>– Travis Partington, Military Veterans Network </strong></p>
@@ -27,7 +27,7 @@
         <p>The Military Veterans Network supports active duty and reserve military personnel, veterans and their
             families through mentoring, professional development, and community outreach. We are committed to
             raising awareness for the complex issues Veterans face when transitioning into civilian employment. We
-            further WAML’s commitment to recruit, integrate, progress, and retain veterans by providing employees
+            further Vanward’s commitment to recruit, integrate, progress, and retain veterans by providing employees
             with valuable resources to advance their careers. We serve as advisors inside and outside the Firm to
             educate potential employers about veterans’ unique skills and experiences, and support talent
             development by interviewing candidates with military experience.</p>
@@ -79,7 +79,7 @@
                 <strong>
                     {{-- <p>Little Rock, AR</p> --}}
                 </strong>
-                <p>This informal series provides WAML Employees with an opportunity to meet veterans and friends for
+                <p>This informal series provides Vanward Employees with an opportunity to meet veterans and friends for
                     casual conversation.
                 </p>
             </div>
@@ -96,7 +96,7 @@
                 <strong>
                     {{-- <p>Little Rock, AR</p> --}}
                 </strong>
-                <p>The WAML <a href="javascript:goTo('prideNetwork')"></a> and Military Networks joined forces to
+                <p>The Vanward <a href="javascript:goTo('prideNetwork')"></a> and Military Networks joined forces to
                     present, Dan Woods, lead counsel on the team that took on Don't Ask, Don't Tell, and won. Dan spoke
                     about his role in this landmark case which led to the end of a law that prohibited gay and lesbian
                     Americans from serving in the armed forces and sent a message that discrimination was unacceptable.

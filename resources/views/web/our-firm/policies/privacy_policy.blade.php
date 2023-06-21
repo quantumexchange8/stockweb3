@@ -15,9 +15,9 @@
         <p style="padding-top: 10px;">
         <div>
             <div class="teaser-text">
-                <p><strong>Wingate Privacy Policy</strong></p>
+                <p><strong>Vanward Privacy Policy</strong></p>
                 <p><em>Last Updated: November 11 2022</em></p>
-                <p>Wingate and all other related affiliates and subsidiaries (collectively “WAML”, “we” or “us”)
+                <p>Vanward and all other related affiliates and subsidiaries (collectively “Vanward”, “we” or “us”)
                     respect your privacy and are committed to protecting it.&nbsp;</p>
                 <p><strong>Websites and Services Covered by This Privacy Policy</strong></p>
                 <p>This privacy policy applies to our privacy practices for handling information relating to
@@ -29,7 +29,7 @@
                     privacy policies or to websites of other companies or entities that are linked to this
                     website. To learn about the privacy policy of a linked site, please refer to the privacy
                     policy for that site.</p>
-                <p>WAML is the data controller for personal information that we collect through the Sites.&nbsp;
+                <p>Vanward is the data controller for personal information that we collect through the Sites.&nbsp;
                     We are also the controller for personal data we collect for our key business contacts.&nbsp;
                     For personal data provided in relation to our business products there are times when we are
                     a controller.&nbsp; If you have questions on when we are acting as a controller or questions
@@ -58,8 +58,8 @@
                     in connection with our Services.&nbsp; We also collect certain information when you:</p>
                 <div style="padding-left: 30px;">
                     <li>submit inquiries via an online form;</li>
-                    <li>sign up to Services offered by WAML;</li>
-                    <li>apply for jobs with WAML via our online portal;</li>
+                    <li>sign up to Services offered by Vanward;</li>
+                    <li>apply for jobs with Vanward via our online portal;</li>
                     <li>browse our Sites; or</li>
                     <li>engage with our electronic marketing communications (also referred to below as emails).
                     </li>
@@ -77,13 +77,13 @@
                     <li>if you sign up for any of the online Services we provide, you will generally provide
                         your name and contact information and any other information necessary to access the
                         feature;</li>
-                    <li>if you apply for a role with WAML via our online application facility, you will
+                    <li>if you apply for a role with Vanward via our online application facility, you will
                         generally provide your name, contact details and a copy of your CV or resume, and if you
                         apply using your LinkedIn profile, you will generally provide information about your
                         LinkedIn account.</li>
-                    <li>If you are a key contact in a business that has a business account with WAML, we
+                    <li>If you are a key contact in a business that has a business account with Vanward, we
                         generally have your name, email address, phone number, title and other information
-                        relevant to your interaction with WAML on behalf of your employer.&nbsp;</li>
+                        relevant to your interaction with Vanward on behalf of your employer.&nbsp;</li>
                     <li>if you are a person that we hold information on in relation to Services provided by us,
                         we generally have information you have provided to us in order to open and administer
                         your account and or the register of the Fund(s) you own shares of, which could include
@@ -116,7 +116,7 @@
                     the Services, unless you choose to directly provide such information to us when contacting
                     us via email or other method.&nbsp; We will use your personal information to process your
                     request and, when applicable, respond to you.&nbsp;</p>
-                <p><em>If you are a client of WAML</em></p>
+                <p><em>If you are a client of Vanward</em></p>
                 <p>In addition to collecting information directly from you, we may collect information from
                     third- party sources to satisfy our due diligence obligations in connection with your new
                     account opening.&nbsp; This third-party data allows us to verify the information you have
@@ -227,7 +227,7 @@
                     of a person; or (vi) in the event we sell or transfer all or a portion of our business or
                     assets (including in the event of a reorganization, dissolution, or liquidation).</p>
                 <p><strong>How we transfer and store personal information</strong></p>
-                <p>WAML is a global organization; personal information we collect may be transferred
+                <p>Vanward is a global organization; personal information we collect may be transferred
                     internationally throughout the world to countries where we do business, which may not have
                     the same data protection laws as the country in which you reside. We have internal policies
                     and procedures in place to achieve an equivalent level of protection in place across our
@@ -339,7 +339,7 @@
                 <p>By email at: <a href="mailto:dpo@wgaml.com" target="_blank">dpo@wgaml.com</a></p>
                 <p>In writing at:</p>
                 <p><em>Attention: Data Protection Officer</em></p>
-                <p><em>Wingate</em></p>
+                <p><em>Vanward</em></p>
                 <p><em>Unit 1 25/F Shanghai Commercial Bank Tower, 12 Queen's Road Central, Hong Kong </em></p>
                 <p></p>
                 <p></p>
@@ -354,8 +354,8 @@
                 <p>The California Consumer Privacy Act (“CCPA”) requires that we disclose certain information
                     regarding our collection, use, and disclosure of personal information of California
                     residents.&nbsp; These California Consumer Privacy Disclosures (“Disclosures”) supplement
-                    the Wingate Privacy Policy above and apply solely to California consumers. These Disclosures
-                    do not apply to Wingate personnel. Sections 2-4 of these Disclosures do not apply to Wingate
+                    the Vanward Privacy Policy above and apply solely to California consumers. These Disclosures
+                    do not apply to Vanward personnel. Sections 2-4 of these Disclosures do not apply to Vanward
                     job applicants.</p>
                 <p></p>
                 <p><strong>1. Notice of Collection and Use of Personal Information </strong></p>
@@ -416,7 +416,7 @@
                         device that is owned, manufactured, manufactured for, or controlled by us, and to
                         improve, upgrade, or enhance the service&nbsp; that is owned, manufactured, manufactured
                         for, or controlled by us.</li>
-                    <li>Managing career opportunities with Wingate.</li>
+                    <li>Managing career opportunities with Vanward.</li>
                 </div>
                 <p></p>
                 <p><strong>2. Sources of Personal Information </strong></p>
@@ -557,7 +557,7 @@
                     </li>
                     <li>You may submit a request via email to <a
                             href="mailto:globalprivacy@wgaml.com">globalprivacy@wgaml.com</a>; or<br></li>
-                    <li>You may call us toll-free at +852 5808 6078 and ask to speak to the WAML Privacy
+                    <li>You may call us toll-free at +852 5808 6078 and ask to speak to the Vanward Privacy
                         Officer.</li>
                 </ol>
                 <p>Please note that for us to act on your request, we must verify that you are the individual to

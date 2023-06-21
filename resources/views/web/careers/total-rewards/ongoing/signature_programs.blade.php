@@ -16,7 +16,7 @@
     <div class="eleven columns">
         <h2>@lang('public.signature programs')</h2>
         <p style="padding-top: 10px;">
-        <p>Our signature development programs are tailored to Wingate’s ("WAML") unique culture, helping
+        <p>Our signature development programs are tailored to Vanward’s ("Vanward") unique culture, helping
             you as you progress in your career to grow as a leader, build long-term relationships, and
             navigate the global marketplace. Some programs are designed for specific points in your
             career, such as a promotion to management, while others employ a competitive selection
@@ -31,7 +31,7 @@
             combination of on-the-job experiences and classroom training. Participants enroll in formal
             training classes and are assigned a mentor.</p>
             <br>
-        <p><strong>Foundations of WAML Management:</strong> This cohort-based program targets new and/or
+        <p><strong>Foundations of Vanward Management:</strong> This cohort-based program targets new and/or
             recently promoted managers, ensuring they are equipped to lead a global and diverse
             workforce. The curriculum engages a variety of learning styles by blending self-led,
             classroom, and e-Learning while ensuring application back on the job. This development
@@ -40,7 +40,7 @@
             <br>
         <p><strong>Leadership Education And Development: </strong>&nbsp;This two-year leadership
             commitment starts with a nine-week intensive program designed to help participants map their
-            leadership journey, deepen their financial acumen, and contribute to WAML’s strategic
+            leadership journey, deepen their financial acumen, and contribute to Vanward’s strategic
             objectives. Employees deepen their self-awareness; create a personal leadership brand;
             succeed in large, complex assignments; and develop a network within the firm and the
             industry.</p>

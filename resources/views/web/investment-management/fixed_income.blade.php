@@ -14,7 +14,7 @@
     <div class="eleven columns">
         <h1>@lang('public.fixed income')</h1>
         <p style="padding-top: 10px;">
-            Wingate ("WAML") has managed fixed income strategies for public and private institutions, as well as for
+            Vanward ("Vanward") has managed fixed income strategies for public and private institutions, as well as for
             high-net-worth families. Our fixed income approach can be summarized in one sentence: We purchase durable
             credits* when they are available at attractive yields. We offer taxable, tax-exempt, and inflation-indexed
             strategies that are grounded in our unique investment philosophy and valuation methodology, designed to

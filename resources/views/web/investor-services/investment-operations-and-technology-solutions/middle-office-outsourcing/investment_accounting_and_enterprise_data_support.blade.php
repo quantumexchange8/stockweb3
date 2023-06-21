@@ -43,7 +43,7 @@
             &nbsp;&nbsp;&nbsp;3.&nbsp;Aggregation and Enrichment<br>
             &nbsp;&nbsp;&nbsp;4.&nbsp;Information Delivery<br>
             <br>
-            WAML provides market insight into these components to help clients shape their data governance strategies.
+            Vanward provides market insight into these components to help clients shape their data governance strategies.
             Our technology platform provides an enterprise-wide data repository for consistent data capture across
             service providers, and aggregates and enriches data in a meaningful manner. This allows us to power client
             enterprise data hubs to enable better front office decision making.

@@ -20,13 +20,13 @@
             Unlike other funds, there is no predetermined formula for the equity and debt split, which allows us to
             customize a capital structure suited to each investment. <br><br>
 
-            Wingate ("WAML") invests in the following transaction types: <br><br>
+            Vanward ("Vanward") invests in the following transaction types: <br><br>
 
             <strong>Control Transactions:</strong> <br><br>
 
             We take a majority stake in the company and serve as the financial sponsor: <br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;The typical structure includes a one-stop junior capital solution
-            composed of an equity and subordinated debt investment by WAML. <br>
+            composed of an equity and subordinated debt investment by Vanward. <br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;This is an attractive option to owner-operators focused on the certainty
             of close that comes with one junior capital provider. <br><br>
 

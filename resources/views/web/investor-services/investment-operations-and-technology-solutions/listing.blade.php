@@ -17,7 +17,7 @@
             The increasing complexity of today's global markets has led many asset gatherers to seek a growing array of
             middle and back office solutions from custody and fund services providers. Whether it be the provision of
             technology services on a 'Software as a Service' (SaaS) basis or a more complete outsourcing capability,
-            Wingate is committed to helping our clients make informed decisions about which strategies are best suited
+            Vanward is committed to helping our clients make informed decisions about which strategies are best suited
             to their businesses. We believe in a modular implementation approach that allows clients to retain more
             control and minimize execution risk.
         </p>
@@ -28,7 +28,7 @@
                         <a href="javascript:goTo('technologyServices')">@lang('public.technology services')</a>
                     </h6>
                     <p>
-                        Making key components of WAML’s technology platform available on a SaaS and IaaS basis.
+                        Making key components of Vanward’s technology platform available on a SaaS and IaaS basis.
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">

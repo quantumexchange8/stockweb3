@@ -17,7 +17,7 @@
     <div class="eleven columns">
         <h2>@lang('public.inforecon')</h2>
         <p style="padding-top: 10px;">
-            WAML Infomediary® offers a number of exclusive modular applications layered atop the messaging and
+            Vanward Infomediary® offers a number of exclusive modular applications layered atop the messaging and
             connectivity engine, including InfoRecon®, a scalable outsource solution that provides an automated process
             for reconciling cash data (transactions and balances) and securities data (positions and transactions)
             across all of our client’s service providers.
@@ -35,12 +35,12 @@
             <strong>Industry Best Practices</strong>
             <br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;Daily reconciliation at the transaction level<br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;WAML works with clients providers to increase STP in order to maximize efficiency and reduce the risk of
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Vanward works with clients providers to increase STP in order to maximize efficiency and reduce the risk of
             errors and omissions
             <br><br>
             <strong>Superior Client Service</strong>
             <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;A centralized team of reconciliation and market specialists supported by WAML’s award winning client service
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;A centralized team of reconciliation and market specialists supported by Vanward’s award winning client service
             organization <br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;Follows best practices of identifying reconciliation exceptions
         </p>

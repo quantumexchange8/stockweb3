@@ -15,7 +15,7 @@
     <div class="eleven columns">
         <h2>@lang('public.career management')</h2>
         <p style="padding-top: 10px;">
-        <p>At Wingate ("WAML"), we believe in fostering the growth and development of our employees. We are
+        <p>At Vanward ("Vanward"), we believe in fostering the growth and development of our employees. We are
             dedicated to providing you with the necessary tools and resources to take ownership of your career and
             achieve your long-term goals. Our firm-employee partnership is built on continuous learning and
             development, and we offer a range of resources to support your professional growth, including:</p>
@@ -44,7 +44,7 @@
                 towards achieving them.</li>
         </div>
         <br>
-        <p>At Wingate ("WAML"), we are committed to your professional growth and development. We provide the
+        <p>At Vanward ("Vanward"), we are committed to your professional growth and development. We provide the
             necessary support, resources, and opportunities for you to thrive in your current role and advance in
             your career. By taking advantage of our performance management processes, development planning
             initiatives, mentorship programs, and career-driven e-Learning series, you can actively shape your

@@ -18,7 +18,7 @@
             Consultants and advisors are playing an increasingly significant role in our clients’ strategic
             decision-making processes, as well as in our own engagement with the industry.
             <br><br>
-            Wingate has built a discipline around consultant and advisor engagement with two main goals:
+            Vanward has built a discipline around consultant and advisor engagement with two main goals:
             <br><br>
             &nbsp;&nbsp;&nbsp;&nbsp;1. To ensure consultants and advisors have the tools they need to help their clients meet their changing and
             evolving needs. <br>

@@ -21,7 +21,7 @@
             shareholders want to know if they will receive distributions and if they can redeem or transfer shares. They
             also want to have a voice in return expectations inherent in owning shares. Successful businesses often
             extoll the virtues of long-term ownership for family members and how patient capital can benefit the value
-            of the business and family over time. As a private firm that has endured for centuries, we at WAML
+            of the business and family over time. As a private firm that has endured for centuries, we at Vanward
             understand the balance between capital reinvestment and owner returns. <br><br>
 
             When working with family business clients on distribution and liquidity matters, we help them answer

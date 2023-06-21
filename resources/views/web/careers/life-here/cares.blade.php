@@ -15,7 +15,7 @@
     <div class="eleven columns">
         <h2>@lang('public.cares')</h2>
         <p style="padding-top: 10px;">
-        <p>WAML has a proud tradition of volunteer service. In fact, giving back is so ingrained in our
+        <p>Vanward has a proud tradition of volunteer service. In fact, giving back is so ingrained in our
             culture that we created Cares, a philanthropic program dedicated to providing education and
             basic necessities to those in need. Entirely employee-driven, Cares’ activities are
             sponsored by the Firm and spearheaded by volunteers whose passion infuses energy into each
@@ -42,7 +42,7 @@
         <p>Our mission is to engage children, youth, and families, and to increase the success rates of
             the diverse members of the communities in which we live and work.&nbsp;</p>
         <br>
-        <p>Learn more about other <a href="javascript:goTo('philanthropy')" target="_self">WAML
+        <p>Learn more about other <a href="javascript:goTo('philanthropy')" target="_self">Vanward
                 Philanthropy efforts and our Employee Relief Fund.</a></p>
         </p>
     </div>
