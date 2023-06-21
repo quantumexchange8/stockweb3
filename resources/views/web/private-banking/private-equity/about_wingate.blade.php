@@ -15,30 +15,19 @@
     <div class="eleven columns">
         <h2>@lang('public.about Vanward')</h2>
         <p style="padding-top: 10px;">
-            Vanward ("Vanward") is a private equity strategy that provides highly customized, one-stop junior capital
-            solutions to lower middle‐market companies. We currently have committed capital of approximately $1.1
-            billion that is available to be invested. <br><br>
+            Vanward is a private equity strategy that provides lower middle-market companies with highly customised, one-stop junior capital solutions. We presently have approximately $1.1 billion in committed capital that is available for investment. <br><br>
 
-            Vanward invests between $10 million and $125 million in businesses with enterprise values of $10 million to
-            $500 million and can invest substantially more by partnering with strategic co-investors or through
-            co-investments from our limited partners. We focus our investments in the healthcare, technology, media and
-            telecommunications, and business products and services industries. Our capital supports a range of
-            transactions, from buyouts and growth equity to recapitalizations and acquisitions. <br><br>
+            Vanward invests between $10 million and $125 million in businesses with enterprise values between $10 million and $500 million and can invest substantially more by partnering with strategic co-investors or limited partner co-investments. Our investments are concentrated in the industries of healthcare, technology, media and telecommunications, and business products and services. Our capital facilitates a variety of transactions, including buyouts, growth equity, recapitalizations, and acquisitions. <br><br>
 
-            <strong><span style="text-decoration: underline;">Benefits of Vanward as a Partner</span></strong><br><br>
+            <strong><span style="text-decoration: underline;">Advantages of Vanward as an Associate</span></strong><br><br>
 
-            <strong>The Vanward Advantage</strong><br><br>
+            <strong>The Vanward Benefit</strong><br><br>
 
-            Vanward utilizes Vanward’s extensive global network to provide its portfolio companies with a wide array of
-            benefits, including access to new customer/vendor relationships, introductions to potential acquisition
-            targets, and assistance with implementing improved information systems.<br><br>
+            Vanward utilises its extensive global network to provide its portfolio companies with a variety of advantages, such as access to new customer/vendor relationships, introductions to potential acquisition targets, and assistance with the implementation of enhanced information systems.<br><br>
 
             <strong>Flexible Mandate</strong><br><br>
 
-            Our flexible investment mandate gives us the ability to act as a control or non-control investor and to
-            structure our investments as a combination of equity and subordinated debt securities. This flexibility is
-            differentiated in that it provides Vanward with the ability to structure investments that are specific to the
-            needs of each opportunity.
+            Our flexible investment mandate allows us to operate as a controlling or non-controlling investor and to structure our investments as a mix of equity and subordinated debt securities. This flexibility is unique in that it enables Vanward to structure investments in accordance with the requirements of each opportunity.
         </p>
     </div>
     <div class="five columns">

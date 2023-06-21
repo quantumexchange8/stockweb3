@@ -24,8 +24,7 @@
                 <strong>
                     <p>Little Rock, AR</p>
                 </strong>
-                <p>Westrock Coffee Holdings is an integrated coffee, tea, and extract company that provides coffee
-                    sourcing and financing, supply chain management, roasting, packaging, and distribution services.
+                <p>Westrock Coffee Holdings provides coffee sourcing and financing, supply chain management, roasting, packaging, and distribution services.
                 </p>
             </div>
         </div>
@@ -39,10 +38,7 @@
                 <strong>
                     <p>Pittsburgh, PA</p>
                 </strong>
-                <p>Precision Terminal Logistics operates, builds, and acquires transloading terminals across the U.S.
-                    PTL’s terminals will provide a full suite of logistics solutions to transportation companies,
-                    including materials handling, logistics services, transloading, secure bulk commodity storage, and
-                    facility construction.
+                <p>Precision Terminal Logistics operates, constructs, and acquires transloading terminals across the United States. PTL's terminals will provide transportation companies with a comprehensive suite of logistics solutions, including materials handling, logistics services, transloading, secure bulk commodity storage, and facility construction.
                 </p>
             </div>
         </div>
@@ -57,10 +53,7 @@
                     <p>Houston, TX</p>
                 </strong>
                 <a href="http://www.airportlogistics.org/">www.airportlogistics.org</a>
-                <p>Bradford Airport Logistics is the leading provider of Centralized Receiving and Distribution Center
-                    (CRDC) services for commercial airports in the U.S., which are highly secure temporary storage and
-                    throughput facilities that service goods bound for the post-security but pre-plane part of the
-                    airport.
+                <p>Bradford Airport Logistics is the leading provider of Centralised Receiving and Distribution Centre (CRDC) services for commercial airports in the United States. These highly secure temporary storage and throughput facilities service goods destined for the post-security but pre-plane portion of the airport.
                 </p>
             </div>
         </div>
@@ -75,10 +68,7 @@
                     <p>Stafford, TX</p>
                 </strong>
                 <a href="http://www.700valvesupply.com/">www.700valvesupply.com</a>
-                <p>700 Valve Supply is a master distributor of specialty industrial valves for MRO use in numerous
-                    industrial and energy-related applications. The Company uses best-in-class technical valve knowledge
-                    to effectively represent its manufacturing partners' product lines while serving as a value-added
-                    resource to customers.
+                <p>700 Valve Supply is a master distributor of specialty industrial valves for MRO applications in a variety of industrial and energy-related industries. The company effectively represents the product lines of its manufacturing partners while serving as a resource of value to its customers by utilising its superior technical knowledge of valves.
                 </p>
             </div>
         </div>
@@ -93,9 +83,7 @@
                     <p>Woburn, MA</p>
                 </strong>
                 <a href="http://www.ethosvet.com/">www.ethosvet.com</a>
-                <p>Ethos Veterinary Health LLC is one of the largest pure-play independent providers of specialty
-                    veterinary health services, including 24/7 emergency care, surgical procedures, radiology services
-                    and internal medicine.
+                <p>Ethos Veterinary Health LLC is one of the largest independent providers of specialty veterinary health services, such as emergency care 24 hours a day, seven days a week, surgical procedures, radiology services, and internal medicine.
                 </p>
             </div>
         </div>
@@ -111,9 +99,7 @@
                     <p>Atlanta, GA</p>
                 </strong>
                 <a href="http://www.noblesys.com/">www.noblesys.com</a>
-                <p>Noble Systems Corp. develops, markets and supports software-based productivity tools used by contact
-                    centers to manage customer interactions, including communications between contact center agents and
-                    individuals via phone, email, text, chat and web.
+                <p>Noble Systems Corporation develops, markets, and provides support for software-based productivity tools used by contact centres to manage consumer interactions, including communications between contact centre agents and individuals via phone, email, text, chat, and web.
                 </p>
             </div>
         </div>
@@ -128,9 +114,7 @@
                     <p>Canton, Ohio</p>
                 </strong>
                 <a href="http://www.utilitypipelineltd.com/">www.utilitypipelineltd.com</a>
-                <p>Utility Pipeline, Ltd. is a provider of natural gas distribution and related services serving
-                    residential, commercial, industrial and government customers in rural and suburban areas of Ohio,
-                    Pennsylvania, Indiana, Virginia and West Virginia.
+                <p>Utility Pipeline, Ltd. is a provider of natural gas distribution and related services in rural and suburban areas of Ohio, Pennsylvania, Indiana, Virginia, and West Virginia.
                 </p>
             </div>
         </div>
@@ -145,8 +129,7 @@
                     <p>Brentwood, Tennessee</p>
                 </strong>
                 <a href="http://www.appartners.com/">www.appartners.com</a>
-                <p>American Physician Partners is a provider of turnkey outsourced emergency department and hospitalist
-                    management services to medical surgical hospitals in the U.S.
+                <p>American Physician Partners provides emergency department and hospitalist administration services to medical and surgical hospitals in the United States.
                 </p>
             </div>
         </div>
@@ -161,10 +144,7 @@
                     <p>Nashville, Tennessee</p>
                 </strong>
                 <a href="http://www.havenbehavioral.com/">www.havenbehavioral.com</a>
-                <p>Haven Behavioral Healthcare, Inc. is a behavioral healthcare company with a network of seven
-                    specialty hospitals focused primarily on the inpatient stabilization and treatment
-                    of adult and geriatric patients who are experiencing acute symptoms of depression, anxiety,
-                    psychosis and other severe behavioral problems.
+                <p>Haven Behavioural Healthcare, Inc. is a behavioural healthcare company with a network of seven specialty hospitals primarily focused on the stabilisation and treatment of adult and geriatric patients with acute symptoms of depression, anxiety, psychosis, and other severe behavioural problems.
                 </p>
             </div>
         </div>
@@ -179,8 +159,7 @@
                     <p>Atlanta, GA</p>
                 </strong>
                 <a href="http://www.primerevenue.com/">www.primerevenue.com</a>
-                <p>PrimeRevenue, Inc. is a provider of cloud-based financial supply chain solutions to large
-                    multinational organizations to optimize cash flows.
+                <p>PrimeRevenue, Inc. is a provider of cloud-based financial supply chain optimisation solutions for multinational corporations.
                 </p>
             </div>
         </div>
@@ -195,8 +174,7 @@
                     <p>Herndon, VA</p>
                 </strong>
                 <a href="http://www.edgeconnex.com/">www.edgeconnex.com</a>
-                <p>EdgeConneX, Inc. is an Infrastructure-as-a-Service (IaaS) provider focusing on data center and
-                    network interconnection services.
+                <p>EdgeConneX, Inc. is an IaaS provider that specialises in data centre and network interconnection services.
                 </p>
             </div>
         </div>
@@ -211,9 +189,7 @@
                     <p>Huntersville, NC</p>
                 </strong>
                 <a href="http://www.microban.com/">www.microban.com</a>
-                <p>Microban International, Ltd. Inc. is a market leader in the design, engineering, testing and
-                    marketing of highly engineered, built-in branded antimicrobial ingredient solutions for consumer,
-                    industrial and medical products.
+                <p>Microban International, Ltd., Inc. is a market leader in the development, engineering, testing, and promotion of highly engineered, branded antimicrobial ingredient solutions for consumer, industrial, and medical products.
                 </p>
             </div>
         </div>

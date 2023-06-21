@@ -15,14 +15,9 @@
     <div class="eleven columns">
         <h2>@lang('public.philanthropic advisory')</h2>
         <p style="padding-top: 10px;">
-            Philanthropy can be a way to give back, help others and your community, set an example for your family
-            and/or leave a legacy. Because philanthropy is so personal and unique to individuals and families, it
-            typically involves a number of considerations on a range of topics, from articulating a mission and
-            identifying the best legal structure to selecting grant recipients and monitoring impact. <br><br>
+            Philanthropy can be a means of giving back, assisting others and your community, setting an example for your family, and/or leaving a legacy. Because philanthropy is so personal and unique to individuals and families, it typically involves a number of considerations on a variety of topics, such as articulating a mission and determining the best legal structure, as well as selecting grant recipients and assessing impact. <br><br>
 
-            We help our clients address all elements of their philanthropic plans and goals, no matter where they are in
-            their philanthropic journey, so that they can create a lasting and positive impact that supports their
-            causes, communities and loved ones.
+            We assist our clients in addressing all aspects of their philanthropic plans and objectives, regardless of where they are in their philanthropic journey, so that they can have a positive and enduring impact on their causes, communities, and loved ones.
         </p>
 
     </div>

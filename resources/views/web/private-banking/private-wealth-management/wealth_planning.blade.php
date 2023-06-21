@@ -15,11 +15,7 @@
     <div class="eleven columns">
         <h2>@lang('public.wealth planning')</h2>
         <p style="padding-top: 10px;">
-            Our experienced wealth planners work closely with your legal and tax advisors to
-            design and implement a wealth and estate plan that is driven by your personal goals and values and aligned
-            with your overall investment strategy. This integrated approach allows us to proactively present you with
-            appropriate planning opportunities as your wealth grows, your family changes over time, and the legislative
-            and financial landscape shifts. <br><br>
+            Our experienced wealth planners work closely with your legal and tax advisors to design and implement a wealth and estate plan that is driven by your personal goals and values and aligned with your overall investment strategy. This integrated approach allows us to proactively present you with appropriate planning opportunities as your wealth grows, your family changes over time, and the legislative and financial landscape shifts. <br><br>
 
             <strong><span style="text-decoration: underline;">@lang('public.wealth planning') Advisory Services</span></strong> <br><br>
 

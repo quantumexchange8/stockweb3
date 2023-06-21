@@ -15,30 +15,24 @@
     <div class="eleven columns">
         <h2>@lang('public.private client lending')</h2>
         <p style="padding-top: 10px;">
-            We offer our clients flexible, secured lending in the form of personal loans and lines of credit. Proceeds
-            are often used to acquire real estate, invest in a business, purchase a significant asset, or make gifts to
-            family members. Our relationship teams work with you and your family to implement financial strategies that
-            help you achieve your objectives. <br><br>
+            We offer our customers flexible, secured lending in the form of personal loans and lines of credit. Typically, the proceeds are used to purchase real estate, invest in a business, acquire a valuable asset, or give gifts to family members. Our relationship teams collaborate with you and your family to implement financial strategies that will assist you in achieving your goals. <br><br>
 
-            <strong><span style="text-decoration: underline;">Lending for Private Clients</span></strong> <br><br>
+            <strong><span style="text-decoration: underline;">Lending to Private Customers</span></strong> <br><br>
 
             <strong>Deposit Services</strong><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;Money market and cash reserve accounts<br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;Domestic and international wire transfers<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;Currency exchange and currency reserve accounts<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;Domestic and international electronic funds transfers<br>
 
-            <strong>Flexible Lending Services</strong><br>
+            <strong>Modular Lending Services</strong><br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;Investment lines of credit<br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;Swing loans and bridge loans<br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;Other personal loans<br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;Transitional and bridge loans<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;Other individual loans<br><br>
 
-            <strong><span style="text-decoration: underline;">Benefits of Secured Lending</span></strong> <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;We offer attractive advance rates on widely held, non-restricted
-            tradable securities.<br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;Financial statements and tax returns are not required for loans with
-            adequate collateral coverage.<br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;Real estate liens may be taken for a client’s tax purposes.<br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;Clients may choose to borrow rather than liquidate securities due to tax
-            concerns or timing issues or to take advantage of interest deductions.<br>
+            <strong><span style="text-decoration: underline;">Advantages of Secured Loans</span></strong> <br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;We provide advantageous advance rates on extensively held, freely tradable securities.<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;Financial statements and tax returns are not required for loans secured by sufficient collateral.<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;A client may acquire real estate liens for tax purposes.<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;Due to tax concerns or timing issues, or to take advantage of interest deductions, clients may choose to borrow securities rather than liquidate them.<br>
         </p>
     </div>
     <div class="five columns">
