@@ -16,19 +16,12 @@
     <div class="eleven columns">
         <h2>@lang('public.balancing competing interests')</h2>
         <p style="padding-top: 10px;">
-            Most companies at some point face the challenge of balancing competing interests among stakeholders, and
-            family businesses are unique in that the family is one of the key constituents. While competing interests
-            may be inevitable, creating a protocol for addressing them and encouraging communication among all relevant
-            groups is paramount to resolving issues. When consensus is unattainable, engaging outside parties to
-            facilitate discussions and act as an objective sounding board can lead to resolution.
+            Family businesses are unique in that the family is one of the key constituents, whereas the majority of companies confront the challenge of balancing competing stakeholder interests at some point. Even though competing interests may be unavoidable, establishing a protocol for addressing them and promoting communication between all relevant parties is essential for resolving problems. When consensus cannot be reached, bringing in outside parties to facilitate discussions and serve as an objective sounding board can result in a resolution.
 
-            When working with family businesses to address and balance competing interests, we discuss questions such
-            as:<br><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;How is conflict typically handled within the family, concerning ownership
-            and/or management of the business?<br><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;What mediation practices have been developed for resolving conflicts?<br><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;What has the family done in terms of engaging third parties to facilitate
-            conflict resolution or improve communication and decision-making?<br><br>
+            When assisting family enterprises in addressing and balancing competing interests, we discuss the following:<br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;How are family disputes regarding the possession and/or management of the business typically resolved?<br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;What mediation techniques have been developed for conflict resolution?<br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;What steps has the family taken to engage third parties in order to facilitate conflict resolution and enhance communication and decision-making?<br><br>
         </p>
         <h2 style="padding-top: 10px;">Insights</h2>
         <p style="padding-top: 10px;">

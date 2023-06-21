@@ -15,17 +15,10 @@
     <div class="eleven columns">
         <h2>@lang('public.center for family business')</h2>
         <p style="padding-top: 10px;">
-            How does one succeed at managing, growing and transitioning a business while caring for the family and its
-            legacy? We have counseled many family business clients, helping them address this age-old question. Whether
-            our clients are founders or next-generation owner-operators of family businesses, our experience is that
-            they will be confronted with a complex set of issues specific to both family and family business ownership.
+            How can one successfully manage, expand, and transition a business while also caring for the family and its legacy? We have assisted a large number of family business clients in addressing this age-old question. Whether our clients are progenitors or next-generation owner-operators of family businesses, they will face a complex set of issues unique to both family and family business ownership, according to our experience.
             <br><br>
 
-            The Center for Family Business seeks to help family businesses and their owners achieve their objectives and
-            address issues where family and business intersect. We provide family businesses with advice, insights and
-            resources on a range of topics related to family business ownership, derived from years of honing our deep
-            subject-matter expertise and stewarding an institution that began as a family business itself more than 200
-            years ago. Our areas of focus include the following:
+            The mission of the Centre for Family Business is to assist family businesses and their proprietors in achieving their goals and addressing issues at the intersection of family and business. We provide family businesses with advice, insights, and resources on a variety of topics pertaining to family business ownership, based on our years of developing profound subject matter expertise and stewarding an institution that began as a family business more than two centuries ago. Among our primary concerns are the following:
             <br><br>
         </p>
     </div>
