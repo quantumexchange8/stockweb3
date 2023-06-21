@@ -358,138 +358,128 @@
             <input type="radio" name="slider" id="close-btn">
             <ul class="nav-links">
                 <label for="close-btn" class="btn close-btn"><i class="fas fa-times"></i></label>
-                <li><a href="https://client.wgaml.com/">CLIENT LOGIN</a></li>
-                <li><a href="javascript:goTo('ourFirm');">OUR FIRM</a></li>
-                <li><a href="javascript:goTo('careers');">CAREERS</a></li>
-                <li><a href="javascript:goTo('sustainability');">SUSTAINABILITY</a></li>
-                <li><a href="javascript:goTo('contact');">CONTACT US</a></li>
+                <li><a href="#">@lang('public.client login')</a></li>
+                <li><a href="javascript:goTo('ourFirm');">@lang('public.our firm')</a></li>
+                <li><a href="javascript:goTo('careers');">@lang('public.careers')</a></li>
+                <li><a href="javascript:goTo('sustainability');">@lang('public.sustainability')</a></li>
+                <li><a href="javascript:goTo('contact');">@lang('public.contact us')</a></li>
                 <li>
-                    <a href="javascript:goTo('privateBanking')" class="desktop-item">PRIVATE BANKING</a>
+                    <a href="javascript:goTo('privateBanking')" class="desktop-item">@lang('public.private banking')</a>
                     <input type="checkbox" id="showPrivateBanking">
-                    <label for="showPrivateBanking" class="mobile-item">PRIVATE BANKING</label>
+                    <label for="showPrivateBanking" class="mobile-item">@lang('public.private banking')</label>
                     <div class="mega-box">
                         <div class="content">
                             <div class="row">
-                                <header>Private Wealth Management</header>
+                                <header>@lang('public.private wealth management')</header>
                                 <ul class="mega-links">
-                                    <li><a href="javascript:goTo('investmentAdvisory')">Investment Advisory</a></li>
-                                    <li><a href="javascript:goTo('wealthPlanning')">Wealth Planning</a></li>
-                                    <li><a href="javascript:goTo('philanthropicAdvisory')">Philanthropic Advisory</a>
+                                    <li><a href="javascript:goTo('investmentAdvisory')">@lang('public.investment advisory')</a></li>
+                                    <li><a href="javascript:goTo('wealthPlanning')">@lang('public.wealth planning')</a></li>
+                                    <li><a href="javascript:goTo('philanthropicAdvisory')">@lang('public.philanthropic advisory')</a>
                                     </li>
-                                    <li><a href="javascript:goTo('trustServices')">Trust Services</a></li>
-                                    <li><a href="javascript:goTo('privateClientLending')">Private Client Lending</a>
+                                    <li><a href="javascript:goTo('trustServices')">@lang('public.trust services')</a></li>
+                                    <li><a href="javascript:goTo('privateClientLending')">@lang('public.private client lending')</a>
                                     </li>
-                                    <li><a href="javascript:goTo('centerForWomenAndWealth')">Center for Women &
-                                            Wealth</a></li>
+                                    <li><a href="javascript:goTo('centerForWomenAndWealth')">@lang('public.center for women & wealth')</a></li>
                                 </ul>
                             </div>
                             <div class="row">
-                                <header>Corporate Advisory & Banking</header>
+                                <header>@lang('public.corporate advisory & banking')</header>
                                 <ul class="mega-links">
-                                    <li><a href="javascript:goTo('corporateAdvisory')">Corporate Advisory</a></li>
-                                    <li><a href="javascript:goTo('corporateBanking')">Corporate Banking</a></li>
-                                    <li><a href="javascript:goTo('centerForFamilyBusiness')">Center for Family
-                                            Business</a></li>
+                                    <li><a href="javascript:goTo('corporateAdvisory')">@lang('public.corporate advisory')</a></li>
+                                    <li><a href="javascript:goTo('corporateBanking')">@lang('public.corporate banking')</a></li>
+                                    <li><a href="javascript:goTo('centerForFamilyBusiness')">@lang('public.center for family business')</a></li>
                                 </ul>
                             </div>
                             <div class="row">
-                                <header>Private Equity<br>&nbsp;</header>
+                                <header>@lang('public.private equity')<br>&nbsp;</header>
                                 <ul class="mega-links">
-                                    <li><a href="javascript:goTo('aboutWingate')">About Wingate</a></li>
-                                    <li><a href="javascript:goTo('investmentProfile')">Investment Profile</a></li>
-                                    <li><a href="javascript:goTo('investmentStrategyAndTransactionTypes')">Investment
-                                            Strategy & Transaction Types</a></li>
-                                    <li><a href="javascript:goTo('selectPortfolioCompanies')">Select Portfolio
-                                            Companies</a></li>
+                                    <li><a href="javascript:goTo('aboutWingate')">@lang('public.about wingate')</a></li>
+                                    <li><a href="javascript:goTo('investmentProfile')">@lang('public.investment profile')</a></li>
+                                    <li><a href="javascript:goTo('investmentStrategyAndTransactionTypes')">@lang('public.investment strategy & transaction types')</a></li>
+                                    <li><a href="javascript:goTo('selectPortfolioCompanies')">@lang('public.select portfolio companies')</a></li>
                                 </ul>
                             </div>
                         </div>
                     </div>
                 </li>
                 <li>
-                    <a href="javascript:goTo('investmentManagement')" class="desktop-item">INVESTMENT MANAGEMENT</a>
+                    <a href="javascript:goTo('investmentManagement')" class="desktop-item">@lang('public.investment management')</a>
                     <input type="checkbox" id="showInvestmentManagement">
-                    <label for="showInvestmentManagement" class="mobile-item">INVESTMENT MANAGEMENT</label>
+                    <label for="showInvestmentManagement" class="mobile-item">@lang('public.investment management')</label>
                     <div class="mega-box">
                         <div class="content">
                             <div class="row">
-                                <header>Public Equity</header>
+                                <header>@lang('public.public equity')</header>
                                 <ul class="mega-links">
-                                    <li><a href="javascript:goTo('usLargeCapEquity')">U.S. Large Cap Equity</a></li>
-                                    <li><a href="javascript:goTo('globalEquity')">Global Equity</a></li>
-                                    <li><a href="javascript:goTo('usSmallAndMidCapEquity')">U.S. Small & Mid-Cap
-                                            Equity</a></li>
+                                    <li><a href="javascript:goTo('usLargeCapEquity')">@lang('public.US large cap equity')</a></li>
+                                    <li><a href="javascript:goTo('globalEquity')">@lang('public.global equity')</a></li>
+                                    <li><a href="javascript:goTo('usSmallAndMidCapEquity')">@lang('public.US small & mid-cap equity')</a></li>
                                 </ul>
                             </div>
                             <div class="row">
-                                <header>Fixed Income</header>
+                                <header>@lang('public.fixed income')</header>
                                 <ul class="mega-links">
-                                    <li><a href="javascript:goTo('taxableFixedIncomeStrategies')">Taxable Fixed Income
-                                            Strategies</a></li>
-                                    <li><a href="javascript:goTo('taxExemptFixedIncomeStrategy')">Tax-Exempt Fixed
-                                            Income Strategy</a></li>
-                                    <li><a href="javascript:goTo('usTipsStrategy')">U.S. TIPS Strategy</a></li>
+                                    <li><a href="javascript:goTo('taxableFixedIncomeStrategies')">@lang('public.taxable fixed income strategies')</a></li>
+                                    <li><a href="javascript:goTo('taxExemptFixedIncomeStrategy')">@lang('public.tax-exempt fixed income')</a></li>
+                                    <li><a href="javascript:goTo('usTipsStrategy')">@lang('public.US TIPS strategy')</a></li>
                                 </ul>
                             </div>
                             <div class="row">
-                                <header>Open Account</header>
+                                <header>@lang('public.open account')</header>
                             </div>
                         </div>
                     </div>
                 </li>
                 <li>
-                    <a href="javascript:goTo('investorServices')" class="desktop-item">INVESTOR SERVICES</a>
+                    <a href="javascript:goTo('investorServices')" class="desktop-item">@lang('public.investor services')</a>
                     <input type="checkbox" id="showInvestorServices">
-                    <label for="showInvestorServices" class="mobile-item">INVESTOR SERVICES</label>
+                    <label for="showInvestorServices" class="mobile-item">@lang('public.investor services')</label>
                     <div class="mega-box">
                         <div class="content">
                             <div class="row">
-                                <header>Custody & Fund Services<br>&nbsp;</header>
+                                <header>@lang('public.custody & fund services')<br>&nbsp;</header>
                                 <ul class="mega-links">
-                                    <li><a href="javascript:goTo('custody')">Custody</a></li>
-                                    <li><a href="javascript:goTo('depositaryAndTrustee')">Depositary & Trustee</a></li>
-                                    <li><a href="javascript:goTo('fundAccounting')">Fund Accounting</a></li>
-                                    <li><a href="javascript:goTo('fundAdministration')">Fund Administration</a></li>
-                                    <li><a href="javascript:goTo('transferAgency')">Transfer Agency</a></li>
-                                    <li><a href="javascript:goTo('globalTax')">Global Tax</a></li>
-                                    <li><a href="javascript:goTo('collateralManagementCustody')">Collateral
-                                            Management</a></li>
-                                    <li><a href="javascript:goTo('fundOrderAndCustody')">Fund Order & Custody</a></li>
+                                    <li><a href="javascript:goTo('custody')">@lang('public.custody')</a></li>
+                                    <li><a href="javascript:goTo('depositaryAndTrustee')">@lang('public.depositary & trustee')</a></li>
+                                    <li><a href="javascript:goTo('fundAccounting')">@lang('public.fund accounting')</a></li>
+                                    <li><a href="javascript:goTo('fundAdministration')">@lang('public.fund administration')</a></li>
+                                    <li><a href="javascript:goTo('transferAgency')">@lang('public.transfer agency')</a></li>
+                                    <li><a href="javascript:goTo('globalTax')">@lang('public.global tax')</a></li>
+                                    <li><a href="javascript:goTo('collateralManagementCustody')">@lang('public.collateral management')</a></li>
+                                    <li><a href="javascript:goTo('fundOrderAndCustody')">@lang('public.fund order & custody')</a></li>
                                 </ul>
                             </div>
                             <div class="row">
-                                <header>Specialist Expertise<br>&nbsp;</header>
+                                <header>@lang('public.specialist expertise')<br>&nbsp;</header>
                                 <ul class="mega-links">
-                                    <li><a href="javascript:goTo('crossBorderFunds')">Cross-Border Funds</a></li>
-                                    <li><a href="javascript:goTo('usFunds')">US Funds</a></li>
-                                    <li><a href="javascript:goTo('consultantsAndAdvisors')">Consultants and Advisors</a>
+                                    <li><a href="javascript:goTo('crossBorderFunds')">@lang('public.cross-border funds')</a></li>
+                                    <li><a href="javascript:goTo('usFunds')">@lang('public.US funds')</a></li>
+                                    <li><a href="javascript:goTo('consultantsAndAdvisors')">@lang('public.consultants and advisors')</a>
                                     </li>
-                                    <li><a href="javascript:goTo('distributionIntelligence')">Distribution
-                                            Intelligence</a></li>
-                                    <li><a href="javascript:goTo('alternativeFunds')">Alternative Funds</a></li>
-                                    <li><a href="javascript:goTo('exchangeTradedFunds')">Exchange Traded Funds</a></li>
-                                    <li><a href="javascript:goTo('insurance')">Insurance</a></li>
-                                    <li><a href="javascript:goTo('regulatoryIntelligence')">Regulatory Intelligence</a>
+                                    <li><a href="javascript:goTo('distributionIntelligence')">@lang('public.distribution and intelligence')</a></li>
+                                    <li><a href="javascript:goTo('alternativeFunds')">@lang('public.alternative funds')</a></li>
+                                    <li><a href="javascript:goTo('exchangeTradedFunds')">@lang('public.exchange traded funds')</a></li>
+                                    <li><a href="javascript:goTo('insurance')">@lang('public.insurance')</a></li>
+                                    <li><a href="javascript:goTo('regulatoryIntelligence')">@lang('public.regulatory intelligence')</a>
                                     </li>
                                 </ul>
                             </div>
                             <div class="row">
-                                <header>Markets<br>&nbsp;</header>
+                                <header>@lang('public.markets')<br>&nbsp;</header>
                                 <ul class="mega-links">
-                                    <li><a href="javascript:goTo('foreignExchange')">Foreign Exchange</a></li>
-                                    <li><a href="javascript:goTo('activeFxExecution')">Active FX Execution</a></li>
-                                    <li><a href="javascript:goTo('infoFx')">InfoFX</a></li>
-                                    <li><a href="javascript:goTo('currencyHedging')">Currency Hedging</a></li>
-                                    <li><a href="javascript:goTo('securitiesLending')">Securities Lending</a></li>
-                                    <li><a href="javascript:goTo('marketIntelligence')">Market Intelligence</a></li>
+                                    <li><a href="javascript:goTo('foreignExchange')">@lang('public.foreign exchange')</a></li>
+                                    <li><a href="javascript:goTo('activeFxExecution')">@lang('public.active fx execution')</a></li>
+                                    <li><a href="javascript:goTo('infoFx')">@lang('public.infofx')</a></li>
+                                    <li><a href="javascript:goTo('currencyHedging')">@lang('public.currency hedging')</a></li>
+                                    <li><a href="javascript:goTo('securitiesLending')">@lang('public.securities lending')</a></li>
+                                    <li><a href="javascript:goTo('marketIntelligence')">@lang('public.market intelligence')</a></li>
                                 </ul>
                             </div>
                             <div class="row">
-                                <header>Investment Operations & Technology Solutions</header>
+                                <header>@lang('public.investment operations & technology solutions')</header>
                                 <ul class="mega-links">
-                                    <li><a href="javascript:goTo('technologyServices')">Technology Services</a></li>
-                                    <li><a href="javascript:goTo('middleOfficeOutsourcing')">Middle Office
-                                            Outsourcing</a></li>
+                                    <li><a href="javascript:goTo('technologyServices')">@lang('public.technology services')</a></li>
+                                    <li><a href="javascript:goTo('middleOfficeOutsourcing')">@lang('public.middle office outsourcing')</a></li>
                                 </ul>
                             </div>
                         </div>

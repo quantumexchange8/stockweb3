@@ -1,10 +1,10 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('privateBanking')">Private Banking</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('privateWealthManagement')">Private Equity</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Investment Profile</strong>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('privateBanking')">@lang('public.private banking')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('privateWealthManagement')">@lang('public.private equity')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.investment profile')</strong>
         </span>
     </div>
     <br><br>
@@ -13,7 +13,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Investment Profile</h2>
+        <h2>@lang('public.investment profile')</h2>
         <p style="padding-top: 10px;">
             Wingate seeks to invest in companies that meet the following criteria: <br><br>
             <strong>Company Characteristics:</strong><br>

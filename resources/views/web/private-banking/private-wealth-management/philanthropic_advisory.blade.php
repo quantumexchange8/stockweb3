@@ -1,10 +1,10 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('privateBanking')">Private Banking</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('privateWealthManagement')">Private Wealth Management</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Philanthropic Advisory</strong>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('privateBanking')">@lang('public.private banking')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('privateWealthManagement')">@lang('public.private wealth management')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.philanthropic advisory')</strong>
         </span>
     </div>
     <br><br>
@@ -13,7 +13,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Philanthropic Advisory</h2>
+        <h2>@lang('public.philanthropic advisory')</h2>
         <p style="padding-top: 10px;">
             Philanthropy can be a way to give back, help others and your community, set an example for your family
             and/or leave a legacy. Because philanthropy is so personal and unique to individuals and families, it

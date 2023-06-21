@@ -1,10 +1,10 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('investorServices')">Investor Services</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('investorServices')">@lang('public.investor services')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('specialistExpertise')">Sepcialist Expertise</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Exchange Traded Funds</strong>
+            &nbsp;&nbsp;<strong>@lang('public.exchange traded funds')</strong>
         </span>
     </div>
     <br><br>
@@ -13,7 +13,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Exchange Traded Funds</h2>
+        <h2>@lang('public.exchange traded funds')</h2>
         <p style="padding-top: 10px;">
             Wingate is a leading provider of asset servicing for the global ETF market. WAML is an ETF specialist for
             US, European and Asian-domiciled products, and works with both experienced ETF managers and new, innovative

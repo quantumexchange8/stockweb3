@@ -1,7 +1,7 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>&nbsp;&nbsp;<strong>Investment Management</strong>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>&nbsp;&nbsp;<strong>@lang('public.investment management')</strong>
         </span>
     </div>
     <br><br>
@@ -10,7 +10,7 @@
 
 <div class="container">
     <div class="sixteen columns">
-        <h1>Investment Management</h1>
+        <h1>@lang('public.investment management')</h1>
     </div>
     <div class="sixteen columns">
         <div class="sep"></div>
@@ -48,14 +48,14 @@
             <img src="{{ asset('images/resource/tax-image.jpeg') }}" alt="" />
         </div>
         <div class="eight columns">
-            <h6><a href="javascript:goTo('publicEquity')">Public Equity</a></h6>
+            <h6><a href="javascript:goTo('publicEquity')">@lang('public.public equity')</a></h6>
             <p>Wingate’s public equity strategies seek to generate attractive long-term investment returns over
                 full
                 market cycles with an emphasis on capital preservation.</p>
             <div class="blog-tag" style="padding-top: 10px;">
-                <a href="javascript:goTo('usLargeCapEquity')">U.S. Large Cap Equity</a>
-                <a href="javascript:goTo('usSmallAndMidCapEquity')">U.S. Small & Mid-Cap Equity</a>
-                <a href="javascript:goTo('globalEquity')">Global Equity</a>
+                <a href="javascript:goTo('usLargeCapEquity')">@lang('public.US large cap equity')</a>
+                <a href="javascript:goTo('usSmallAndMidCapEquity')">@lang('public.US small & mid-cap equity') & Mid-Cap Equity</a>
+                <a href="javascript:goTo('globalEquity')">@lang('public.global equity')</a>
             </div>
             <div class="clear"></div>
             <div class="link-blog">
@@ -74,13 +74,13 @@
             </ul>
         </div>
         <div class="eight columns">
-            <h6><a href="javascript:goTo('fixedIncome')">Fixed Income</a></h6>
+            <h6><a href="javascript:goTo('fixedIncome')">@lang('public.fixed income')</a></h6>
             <p>We offer taxable, tax-exempt, and inflation-indexed strategies that utilize our unique investment
                 philosophy and valuation methodology that seeks to generate long-term, peer-leading returns.</p>
             <div class="blog-tag">
-                <a href="javascript:goTo('taxableFixedIncomeStrategies')">Taxable Fixed Income Strategies</a>
-                <a href="javascript:goTo('usTipsStrategy')">U.S. TIPS Strategy</a>
-                <a href="javascript:goTo('taxExemptFixedIncomeStrategy')">Tax-Exempt Fixed Income Strategy</a>
+                <a href="javascript:goTo('taxableFixedIncomeStrategies')">@lang('public.fixed income')</a>
+                <a href="javascript:goTo('usTipsStrategy')">@lang('public.US TIPS strategy')</a>
+                <a href="javascript:goTo('taxExemptFixedIncomeStrategy')">@lang('public.tax-exempt fixed income') Strategy</a>
             </div>
             <div class="clear"></div>
             <div class="link-blog">
@@ -97,9 +97,9 @@
             <img src="{{ asset('images/resource/open-account.jpeg') }}" alt="" />
         </div>
         <div class="eight columns">
-            <h6><a href="javascript:goTo('openAccount')">Open Account</a></h6>
+            <h6><a href="javascript:goTo('openAccount')">@lang('public.open account')</a></h6>
             <div class="blog-tag" style="padding-top: 10px;">
-                {{-- <a href="#">Investment Profile</a> --}}
+                {{-- <a href="#">@lang('public.investment profile')</a> --}}
             </div>
             <div class="clear"></div>
             <div class="link-blog">

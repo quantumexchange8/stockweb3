@@ -1,11 +1,11 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('investorServices')">Investor Services</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('investorServices')">@lang('public.investor services')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('investmentOperationsAndTechnologySolutions')">Investment Operations & Technology
                 Solutions</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('middleOfficeOutsourcing')">Middle Office Outsourcing</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('middleOfficeOutsourcing')">@lang('public.middle office outsourcing')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('targetedTechnologySolutionsViaInfomediary')">Targeted Technology Solutions via
                 Infomediary</a>&nbsp;&nbsp;>
             &nbsp;&nbsp;<strong>InfoNAV</strong>

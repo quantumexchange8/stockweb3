@@ -1,9 +1,9 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('investmentManagement')">Investment Management</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Public Equity</strong>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('investmentManagement')">@lang('public.investment management')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.public equity')</strong>
         </span>
     </div>
     <br><br>
@@ -12,7 +12,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h1>Public Equity</h1>
+        <h1>@lang('public.public equity')</h1>
         <p style="padding-top: 10px;">
             Wingate ("WAML") Investment Management employs what we view as a low-risk approach to equity investing
             guided by consistent, objective, and rational decision-making. We rigorously apply a comprehensive set of
@@ -43,13 +43,13 @@
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('usLargeCapEquity')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('usLargeCapEquity')">@lang('public.read more')</a></div>
                     </div>
                 </div>
             </div>
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;"><a href="javascript:goTo('usSmallAndMidCapEquity')">U.S. Small &
+                    <h6 style="text-align: left;"><a href="javascript:goTo('usSmallAndMidCapEquity')">@lang('public.US small & mid-cap equity') &
                             Mid-Cap
                             Equity</a></h6>
                     <p>Small & mid-cap equity strategy that aims to invest in a select number of out-of-favor or
@@ -57,7 +57,7 @@
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('usSmallAndMidCapEquity')">read more</a>
+                        <div class="cl-effect-14"><a href="javascript:goTo('usSmallAndMidCapEquity')">@lang('public.read more')</a>
                         </div>
                     </div>
                 </div>
@@ -66,13 +66,13 @@
         <div class="five columns">
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;"><a href="javascript:goTo('globalEquity')">Global Equity</a></h6>
-                    <p>Global equity strategy that aims to invest in leading providers of essential products and
+                    <h6 style="text-align: left;"><a href="javascript:goTo('globalEquity')">@lang('public.global equity')</a></h6>
+                    <p>@lang('public.global equity') strategy that aims to invest in leading providers of essential products and
                         services that are domiciled in North America and internationally.
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('globalEquity')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('globalEquity')">@lang('public.read more')</a></div>
                     </div>
                 </div>
             </div>

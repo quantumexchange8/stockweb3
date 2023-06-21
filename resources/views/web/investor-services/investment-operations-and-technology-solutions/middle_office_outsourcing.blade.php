@@ -1,10 +1,10 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('investorServices')">Investor Services</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('investorServices')">Investment Operations & Technology Solutions</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Middle Office Outsourcing</strong>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('investorServices')">@lang('public.investor services')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('investorServices')">@lang('public.investment operations & technology solutions')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.middle office outsourcing')</strong>
         </span>
     </div>
     <br><br>
@@ -13,7 +13,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h1>Middle Office Outsourcing</h1>
+        <h1>@lang('public.middle office outsourcing')</h1>
         <p style="padding-top: 10px;">
             The middle office landscape is shifting dramatically as a result of evolving best practices, heightened
             institutional due diligence, and the expansion of alternative products and strategies. The need to generate
@@ -39,7 +39,7 @@
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('targetedTechnologySolutionsViaInfomediary')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('targetedTechnologySolutionsViaInfomediary')">@lang('public.read more')</a></div>
                     </div>
                 </div>
             </div>
@@ -55,7 +55,7 @@
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('investmentAccountingAndEnterpriseDataSupport')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('investmentAccountingAndEnterpriseDataSupport')">@lang('public.read more')</a></div>
                     </div>
                 </div>
             </div>
@@ -71,7 +71,7 @@
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('hostedOperationsAndReporting')">read more</a>
+                        <div class="cl-effect-14"><a href="javascript:goTo('hostedOperationsAndReporting')">@lang('public.read more')</a>
                         </div>
                     </div>
                 </div>
@@ -79,14 +79,14 @@
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
                     <h6 style="text-align: left;">
-                        <a href="javascript:goTo('collateralManagement')">Collateral Management</a>
+                        <a href="javascript:goTo('collateralManagement')">@lang('public.collateral management')</a>
                     </h6>
                     <p>Designing services to help insulate asset managers from the investments needed to comply with
                         complex collateral requirements.
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('collateralManagement')">read more</a>
+                        <div class="cl-effect-14"><a href="javascript:goTo('collateralManagement')">@lang('public.read more')</a>
                         </div>
                     </div>
                 </div>

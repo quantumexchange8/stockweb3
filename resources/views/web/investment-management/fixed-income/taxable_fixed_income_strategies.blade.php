@@ -1,10 +1,10 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('investmentManagement')">Investment Management</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('fixedIncome')">Fixed Income</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Taxable Fixed Income Strategies</strong>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('investmentManagement')">@lang('public.investment management')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('fixedIncome')">@lang('public.fixed income')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.fixed income')</strong>
         </span>
     </div>
     <br><br>
@@ -13,7 +13,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Taxable Fixed Income Strategies</h2>
+        <h2>@lang('public.fixed income')</h2>
         <p style="padding-top: 10px;">
             Wingate’s ("WAML") Taxable Fixed Income Strategies combine our unique valuation framework and comprehensive
             credit review criteria to build portfolios of durable credits purchased when they are at attractive yields.

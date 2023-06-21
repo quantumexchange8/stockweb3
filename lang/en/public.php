@@ -1,0 +1,91 @@
+<?php
+return [
+    // navbar
+    "client login"                                  => "Client Login",
+    "our firm"                                      => "Our Firm",
+    "careers"                                       => "Careers",
+    "sustainability"                                => "Sustainability",
+    "contact us"                                    => "Contact Us",
+    "private banking"                               => "Private Banking",
+    "investment management"                         => "Investment Management",
+    "investor services"                             => "Investor Services",
+    "private wealth management"                     => "Private Wealth Management",
+    "investment advisory"                           => "Investment Advisory",
+    "wealth planning"                               => "Wealth Planning",
+    "philanthropic advisory"                        => "Philanthropic Advisory",
+    "trust services"                                => "Trust Services",
+    "private client lending"                        => "Private Client Lending",
+    "center for women & wealth"                     => "Center For Women & Wealth",
+    "corporate advisory & banking"                  => "Corporate Advisory & Banking",
+    "corporate advisory"                            => "Corporate Advisory",
+    "corporate banking"                             => "Corporate Banking",
+    "center for family business"                    => "Center For Family Business",
+    "private equity"                                => "Private Equity",
+    "about wingate"                                 => "About Wingate",
+    "investment profile"                            => "Investment Profile",
+    "investment strategy & transaction types"       => "Investment Strategy & Transaction Types",
+    "select portfolio companies"                    => "Select Portfolio Companies",
+    "public equity"                                 => "Public Equity",
+    "US large cap equity"                           => "US Large Cap Equity",
+    "global equity"                                 => "Global Equity",
+    "US small & mid-cap equity"                     => "US Small & Mid-Cap Equity",
+    "fixed income"                                  => "Fixed Income",
+    "taxable fixed income strategies"               => "Taxable Fixed Income Strategies",
+    "tax-exempt fixed income"                       => "Tax-Exempt Fixed Income",
+    "US TIPS strategy"                              => "US TIPS Strategy",
+    "open account"                                  => "Open Account",
+    "custody & fund services"                       => "Custody & Fund Services",
+    "custody"                                       => "Custody",
+    "depositary & trustee"                          => "Depositary & Trustee",
+    "fund accounting"                               => "Fund Accounting",
+    "fund administration"                           => "Fund Administration",
+    "transfer agency"                               => "Transfer Agency",
+    "global tax"                                    => "Global Tax",
+    "collateral management"                         => "Collateral Management",
+    "fund order & custody"                          => "Fund Order & Custody",
+    "specialist expertise"                          => "Specialist Expertise",
+    "cross-border funds"                            => "Cross-Border Funds",
+    "US funds"                                      => "US Funds",
+    "consultants and advisors"                      => "Consultants And Advisors",
+    "distribution and intelligence"                 => "Distribution And Intelligence",
+    "distribution intelligence"                     => "Distribution Intelligence",
+    "alternative funds"                             => "Alternative Funds",
+    "exchange traded funds"                         => "Exchange Traded Funds",
+    "insurance"                                     => "Insurance",
+    "regulatory intelligence"                       => "Regulatory Intelligence",
+    "markets"                                       => "Markets",
+    "foreign exchange"                              => "Foreign Exchange",
+    "active fx execution"                           => "Active FX Execution",
+    "infofx"                                        => "InfoFX",
+    "currency hedging"                              => "Currency Hedging",
+    "securities lending"                            => "Securities Lending",
+    "market intelligence"                           => "Market Intelligence",
+    "investment operations & technology solutions"  => "Investment Operations & Technology Solutions",
+    "technology services"                           => "Technology Services",
+    "middle office outsourcing"                     => "Middle Office Outsourcing",
+
+
+    // breadcrumb
+    "home" => "Home",
+    "read more" => "Read more",
+
+    // private banking
+    "private banking title 1"   => "Private Banking",
+    "private banking desc 1"    => "At Vanward, our exclusive mission within Private Banking is to assist private business owners and wealthy individuals with the generational administration of
+                                    their wealth, ensuring its creation, transfer, preservation, and growth. We provide impartial financial and investment advice to corporate and
+                                    individual clients, as well as facilitate access to debt and equity capital. Our dedication to superior service fosters enduring relationships
+                                    based on trust, allowing us to be a dependable financial partner for our clients.",
+    "private banking heading 1" => "Private Wealth Management",
+    "private banking heading 2" => "Corporate Advisory & Banking",
+    "private banking heading 3" => "Private Equity",
+    "private banking caption 1" => "By combining our deeply ingrained investment culture with insightful wealth planning and exemplary service, we offer our clients the most deliberate and comprehensive long-term investment experience possible.",
+    "private banking caption 2" => "We provide substantial privately held businesses with objective corporate finance advice and capital in order to help their proprietors achieve their business and personal objectives.",
+    "private banking caption 3" => "As active investors in lower middle-market private equity, we seek to support and partner with talented management teams and owner-operators by providing individualised junior capital solutions.",
+    "subheading" => "",
+    "subheading" => "",
+
+
+
+
+
+];

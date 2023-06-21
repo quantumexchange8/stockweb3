@@ -1,10 +1,10 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('investorServices')">Investor Services</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('markets')">Markets</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Currency Hedging</strong>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('investorServices')">@lang('public.investor services')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('markets')">@lang('public.markets')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.currency hedging')</strong>
         </span>
     </div>
     <br><br>
@@ -13,7 +13,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Currency Hedging</h2>
+        <h2>@lang('public.currency hedging')</h2>
         <p style="padding-top: 10px;">
             Whether managing an international portfolio with unwanted currency exposure or multi currency hedged share
             class offerings, Wingate offers a comprehensive and flexible passive currency hedging solution.

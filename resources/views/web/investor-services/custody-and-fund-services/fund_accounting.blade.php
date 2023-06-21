@@ -1,10 +1,10 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('investorServices')">Investor Services</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('custodyAndFundServices')">Custody & Fund Services</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Fund Accounting</strong>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('investorServices')">@lang('public.investor services')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('custodyAndFundServices')">@lang('public.custody & fund services')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.fund accounting')</strong>
         </span>
     </div>
     <br><br>
@@ -13,7 +13,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Fund Accounting</h2>
+        <h2>@lang('public.fund accounting')</h2>
         <p style="padding-top: 10px;">
             The complex business and regulatory landscape is driving more asset managers to redefine their fund
             accounting strategy. Technological stability, business continuity and risk management have moved to the

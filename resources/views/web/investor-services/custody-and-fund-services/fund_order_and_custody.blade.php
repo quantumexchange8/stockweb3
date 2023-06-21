@@ -1,10 +1,10 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('investorServices')">Investor Services</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('custodyAndFundServices')">Custody & Fund Services</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Fund Order & Custody</strong>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('investorServices')">@lang('public.investor services')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('custodyAndFundServices')">@lang('public.custody & fund services')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.fund order & custody')</strong>
         </span>
     </div>
     <br><br>
@@ -13,7 +13,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Fund Order & Custody</h2>
+        <h2>@lang('public.fund order & custody')</h2>
         <p style="padding-top: 10px;">
             WAML Fund Order & Custody provides services to WAML custody clients that buy and hold investment funds. This
             includes order processing via our proprietary online platform, Fund WorldView®.
@@ -31,7 +31,7 @@
             well as operational and cost efficiencies. This results in a better overall service for their underlying
             clients, helping to create competitive advantage and grow their businesses.
             <br><br>
-            <strong>Fund Order & Custody services include:</strong>
+            <strong>@lang('public.fund order & custody') services include:</strong>
             <br><br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;Order processing and automation via our proprietary online platform, Fund WorldView <br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;Best in class order routing – “Smart Order Routing”<br>

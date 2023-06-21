@@ -1,10 +1,10 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('investorServices')">Investor Services</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('investorServices')">@lang('public.investor services')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('specialistExpertise')">Sepcialist Expertise</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('crossBorderFunds')">Cross-Border Funds</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('crossBorderFunds')">@lang('public.cross-border funds')</a>&nbsp;&nbsp;>
             &nbsp;&nbsp;<strong>Latin America</strong>
         </span>
     </div>
@@ -28,11 +28,11 @@
             WAML offers a full range of investment servicing solutions including:
             <br><br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;<a href="javascript:goTo('custody')">Global Custody</a><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;<a href="javascript:goTo('privateBanking')">Private Banking</a><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;<a href="javascript:goTo('investmentManagement')">Investment Management</a><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Fund Servicing (<a href="javascript:goTo('fundAccounting')">Fund Accounting</a>/<a href="javascript:goTo('fundAdministration')">Fund Administration</a>)<br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;<a href="javascript:goTo('foreignExchange')">Foreign Exchange</a><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;<a href="javascript:goTo('securitiesLending')">Securities Lending</a><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;<a href="javascript:goTo('privateBanking')">@lang('public.private banking')</a><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;<a href="javascript:goTo('investmentManagement')">@lang('public.investment management')</a><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Fund Servicing (<a href="javascript:goTo('fundAccounting')">@lang('public.fund accounting')</a>/<a href="javascript:goTo('fundAdministration')">@lang('public.fund administration')</a>)<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;<a href="javascript:goTo('foreignExchange')">@lang('public.foreign exchange')</a><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;<a href="javascript:goTo('securitiesLending')">@lang('public.securities lending')</a><br>
             <br><br>
             <strong>Commitment to the Region</strong>
             <br><br>

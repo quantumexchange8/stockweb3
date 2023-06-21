@@ -1,10 +1,10 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('investmentManagement')">Investment Management</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('publicEquity')">Public Equity</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Global Equity</strong>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('investmentManagement')">@lang('public.investment management')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('publicEquity')">@lang('public.public equity')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.global equity')</strong>
         </span>
     </div>
     <br><br>
@@ -13,7 +13,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Global Equity</h2>
+        <h2>@lang('public.global equity')</h2>
         <p style="padding-top: 10px;">
             WAML Global Core Select, our global equity strategy, employs a long-term business-ownership approach within
             a discount to intrinsic value framework. We search for established, cash-generative, well-managed businesses

@@ -1,7 +1,7 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>&nbsp;&nbsp;<strong>Private Banking</strong>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>&nbsp;&nbsp;<strong>@lang('public.private banking title 1')</strong>
         </span>
     </div>
     <br><br>
@@ -10,18 +10,13 @@
 
 <div class="container">
     <div class="sixteen columns">
-        <h1>Private Banking</h1>
+        <h1>@lang('public.private banking title 1')</h1>
     </div>
     <div class="sixteen columns">
         <div class="sep"></div>
     </div>
     <div class="sixteen columns">
-        <p>At Wingate ("WAML"), our exclusive focus within Private Banking is to assist private business owners
-            and affluent individuals in the strategic management of their wealth, ensuring its creation, transition,
-            preservation, and growth across generations. We cater to both corporate and private clients,
-            delivering impartial financial and investment guidance, as well as facilitating access to debt and equity
-            capital. Our commitment to exceptional service fosters enduring relationships built on trust, allowing us to
-            be a trusted partner in our clients' financial journeys.</p>
+        <p>@lang('public.private banking desc 1')</p>
     </div>
 </div>
 <div class="blog-wrap post1">
@@ -30,22 +25,19 @@
             <img src="{{ asset('images/resource/wealth1.jpeg') }}" alt="" />
         </div>
         <div class="eight columns">
-            <h6><a href="javascript:goTo('privateWealthManagement')">Private Wealth Management</a></h6>
-            <p>We provide our clients with the most thoughtful and comprehensive long-term investment experience
-                possible by combining our deeply ingrained investment culture with insightful wealth planning
-                and
-                exemplary service.</p>
+            <h6><a href="javascript:goTo('privateWealthManagement')">@lang('public.private wealth management')</a></h6>
+            <p>@lang('public.private banking caption 1')</p>
             <div class="blog-tag" style="padding-top: 10px;">
-                <a href="javascript:goTo('investmentAdvisory')">Investment Advisory</a>
-                <a href="javascript:goTo('trustServices')">Trust Services</a>
-                <a href="javascript:goTo('wealthPlanning')">Wealth Planning</a>
-                <a href="javascript:goTo('privateClientLending')">Private Client Lending</a>
-                <a href="javascript:goTo('philanthropicAdvisory')">Philanthropic Advisory</a>
-                <a href="javascript:goTo('centerForWomenAndWealth')">Center for Women & Wealth</a>
+                <a href="javascript:goTo('investmentAdvisory')">@lang('public.investment advisory')</a>
+                <a href="javascript:goTo('trustServices')">@lang('public.trust services')</a>
+                <a href="javascript:goTo('wealthPlanning')">@lang('public.wealth planning')</a>
+                <a href="javascript:goTo('privateClientLending')">@lang('public.private client lending')</a>
+                <a href="javascript:goTo('philanthropicAdvisory')">@lang('public.philanthropic advisory')</a>
+                <a href="javascript:goTo('centerForWomenAndWealth')">@lang('public.center for women & wealth')</a>
             </div>
             <div class="clear"></div>
             <div class="link-blog">
-                <div class="cl-effect-14"><a href="javascript:goTo('privateWealthManagement')">read more</a></div>
+                <div class="cl-effect-14"><a href="javascript:goTo('privateWealthManagement')">@lang('public.read more')</a></div>
             </div>
         </div>
     </div>
@@ -58,20 +50,17 @@
             </ul>
         </div>
         <div class="eight columns">
-            <h6><a href="javascript:goTo('corporateAdvisoryAndBanking')">Corporate Advisory
-                    & Banking</a></h6>
-            <p>We offer objective corporate finance advice and capital to substantial privately held businesses
-                to
-                help owners accomplish both their business and personal goals.</p>
+            <h6><a href="javascript:goTo('corporateAdvisoryAndBanking')">@lang('public.corporate advisory & banking')</a></h6>
+            <p>@lang('public.private banking caption 2')</p>
             <div class="blog-tag">
-                <a href="javascript:goTo('corporateAdvisory')">Corporate Advisory</a>
-                <a href="javascript:goTo('centerForFamilyBusiness')">Center for Family Business</a>
-                <a href="javascript:goTo('corporateBanking')">Corporate Banking</a>
+                <a href="javascript:goTo('corporateAdvisory')">@lang('public.corporate advisory')</a>
+                <a href="javascript:goTo('centerForFamilyBusiness')">@lang('public.center for family business')</a>
+                <a href="javascript:goTo('corporateBanking')">@lang('public.corporate banking')</a>
             </div>
             <div class="clear"></div>
             <div class="link-blog">
                 <div class="cl-effect-14"><a
-                        href="javascript:goTo('corporateAdvisoryAndBanking')">read more</a>
+                        href="javascript:goTo('corporateAdvisoryAndBanking')">@lang('public.read more')</a>
                 </div>
             </div>
         </div>
@@ -83,19 +72,18 @@
             <img src="{{ asset('images/resource/private-equity1.jpeg') }}" alt="" />
         </div>
         <div class="eight columns">
-            <h6><a href="javascript:goTo('privateEquity')">Private Equity</a></h6>
-            <p>As active investors in lower middle-market private equity, we look to partner with and support
-                talented management teams and owner-operators by providing customized junior capital solutions.
+            <h6><a href="javascript:goTo('privateEquity')">@lang('public.private equity')</a></h6>
+            <p>@lang('public.private banking caption 3')
             </p>
             <div class="blog-tag" style="padding-top: 10px;">
-                <a href="javascript:goTo('aboutWingate')">About Wingate</a>
-                <a href="javascript:goTo('investmentProfile')">Investment Profile</a>
-                <a href="javascript:goTo('selectPortfolioCompanies')">Select Portfolio Companies</a>
-                <a href="javascript:goTo('investmentStrategyAndTransactionTypes')">Investment Strategy & Transaction Types</a>
+                <a href="javascript:goTo('aboutWingate')">@lang('public.about wingate')</a>
+                <a href="javascript:goTo('investmentProfile')">@lang('public.investment profile')</a>
+                <a href="javascript:goTo('selectPortfolioCompanies')">@lang('public.select portfolio companies')</a>
+                <a href="javascript:goTo('investmentStrategyAndTransactionTypes')">@lang('public.investment strategy & transaction types')</a>
             </div>
             <div class="clear"></div>
             <div class="link-blog">
-                <div class="cl-effect-14"><a href="javascript:goTo('privateEquity')">read more</a></div>
+                <div class="cl-effect-14"><a href="javascript:goTo('privateEquity')">@lang('public.read more')</a></div>
             </div>
         </div>
     </div>
@@ -109,22 +97,22 @@
                 <img src="{{ asset('images/gallery/8.jpg') }}" alt="" />
             </div>
             <div class="eight columns">
-                <h6><a href="javascript:goTo('privateWealthManagement')">Private Wealth Management</a></h6>
+                <h6><a href="javascript:goTo('privateWealthManagement')">@lang('public.private wealth management')</a></h6>
                 <p>We provide our clients with the most thoughtful and comprehensive long-term investment experience
                     possible by combining our deeply ingrained investment culture with insightful wealth planning
                     and
                     exemplary service.</p>
                 <div class="blog-tag" style="padding-top: 10px;">
-                    <a href="#">Investment Advisory</a>
-                    <a href="#">Trust Services</a>
-                    <a href="#">Wealth Planning</a>
-                    <a href="#">Private Client Lending</a>
-                    <a href="#">Philanthropic Advisory</a>
-                    <a href="#">Center for Women & Wealth</a>
+                    <a href="#">@lang('public.investment advisory')</a>
+                    <a href="#">@lang('public.trust services')</a>
+                    <a href="#">@lang('public.wealth planning')</a>
+                    <a href="#">@lang('public.private client lending')</a>
+                    <a href="#">@lang('public.philanthropic advisory')</a>
+                    <a href="#">@lang('public.center for women & wealth')</a>
                 </div>
                 <div class="clear"></div>
                 <div class="link-blog">
-                    <div class="cl-effect-14"><a href="javascript:goTo('privateWealthManagement')">read more</a></div>
+                    <div class="cl-effect-14"><a href="javascript:goTo('privateWealthManagement')">@lang('public.read more')</a></div>
                 </div>
             </div>
         </div>

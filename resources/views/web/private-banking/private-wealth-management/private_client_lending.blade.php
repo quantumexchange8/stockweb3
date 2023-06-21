@@ -1,10 +1,10 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('privateBanking')">Private Banking</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('privateWealthManagement')">Private Wealth Management</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Private Client Lending</strong>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('privateBanking')">@lang('public.private banking')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('privateWealthManagement')">@lang('public.private wealth management')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.private client lending')</strong>
         </span>
     </div>
     <br><br>
@@ -13,7 +13,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Private Client Lending</h2>
+        <h2>@lang('public.private client lending')</h2>
         <p style="padding-top: 10px;">
             We offer our clients flexible, secured lending in the form of personal loans and lines of credit. Proceeds
             are often used to acquire real estate, invest in a business, purchase a significant asset, or make gifts to

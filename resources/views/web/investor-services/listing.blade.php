@@ -1,7 +1,7 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>&nbsp;&nbsp;<strong>Investor Services</strong>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>&nbsp;&nbsp;<strong>@lang('public.investor services')</strong>
         </span>
     </div>
     <br><br>
@@ -10,7 +10,7 @@
 
 <div class="container">
     <div class="sixteen columns">
-        <h1>Investor Services</h1>
+        <h1>@lang('public.investor services')</h1>
     </div>
     <div class="sixteen columns">
         <div class="sep"></div>
@@ -38,19 +38,19 @@
             <img src="{{ asset('images/resource/custody-and-fund-services.jpeg') }}" alt="" />
         </div>
         <div class="eight columns">
-            <h6><a href="javascript:goTo('custodyAndFundServices')">Custody & Fund
+            <h6><a href="javascript:goTo('custodyAndFundServices')">@lang('public.custody') & Fund
                     Services</a></h6>
             <p>Ensuring the accurate trade settlement, safekeeping, reporting and administration of our clients’
                 most complex funds and asset types</p>
             <div class="blog-tag" style="padding-top: 10px;">
-                <a href="javascript:goTo('custody')">Custody</a>
-                <a href="javascript:goTo('transferAgency')">Transfer Agency</a>
+                <a href="javascript:goTo('custody')">@lang('public.custody')</a>
+                <a href="javascript:goTo('transferAgency')">@lang('public.transfer agency')</a>
                 <a href="javascript:goTo('depositaryAndTrustee')">Depository & Trustee</a>
-                <a href="javascript:goTo('globalTax')">Global Tax</a>
-                <a href="javascript:goTo('fundAccounting')">Fund Accounting</a>
-                <a href="javascript:goTo('collateralManagementCustody')">Collateral Management</a>
-                <a href="javascript:goTo('fundAdministration')">Fund Administration</a>
-                <a href="javascript:goTo('fundOrderAndCustody')">Fund Order & Custody</a>
+                <a href="javascript:goTo('globalTax')">@lang('public.global tax')</a>
+                <a href="javascript:goTo('fundAccounting')">@lang('public.fund accounting')</a>
+                <a href="javascript:goTo('collateralManagementCustody')">@lang('public.collateral management')</a>
+                <a href="javascript:goTo('fundAdministration')">@lang('public.fund administration')</a>
+                <a href="javascript:goTo('fundOrderAndCustody')">@lang('public.fund order & custody')</a>
             </div>
             <div class="clear"></div>
             <div class="link-blog">
@@ -77,18 +77,18 @@
             </p>
             <div class="blog-tag">
                 <a href="javascript:goTo('crossBorderFunds')">Cross Border Funds</a>
-                <a href="javascript:goTo('alternativeFunds')">Alternative Funds</a>
-                <a href="javascript:goTo('usFunds')">US Funds</a>
-                <a href="javascript:goTo('exchangeTradedFunds')">Exchange Traded Funds</a>
-                <a href="javascript:goTo('consultantsAndAdvisors')">Consultants and Advisors</a>
-                <a href="javascript:goTo('insurance')">Insurance</a>
-                <a href="javascript:goTo('distributionIntelligence')">Distribution Intelligence</a>
-                <a href="javascript:goTo('regulatoryIntelligence')">Regulatory Intelligence</a>
+                <a href="javascript:goTo('alternativeFunds')">@lang('public.alternative funds')</a>
+                <a href="javascript:goTo('usFunds')">@lang('public.US funds')</a>
+                <a href="javascript:goTo('exchangeTradedFunds')">@lang('public.exchange traded funds')</a>
+                <a href="javascript:goTo('consultantsAndAdvisors')">@lang('public.consultants and advisors')</a>
+                <a href="javascript:goTo('insurance')">@lang('public.insurance')</a>
+                <a href="javascript:goTo('distributionIntelligence')">@lang('public.distribution intelligence')</a>
+                <a href="javascript:goTo('regulatoryIntelligence')">@lang('public.regulatory intelligence')</a>
             </div>
             <div class="clear"></div>
             <div class="link-blog">
                 <div class="cl-effect-14"><a
-                        href="javascript:goTo('specialistExpertise')">read more</a>
+                        href="javascript:goTo('specialistExpertise')">@lang('public.read more')</a>
                 </div>
             </div>
         </div>
@@ -100,18 +100,18 @@
             <img src="{{ asset('images/resource/market.jpeg') }}" alt="" />
         </div>
         <div class="eight columns">
-            <h6><a href="javascript:goTo('markets')">Markets</a></h6>
+            <h6><a href="javascript:goTo('markets')">@lang('public.markets')</a></h6>
             <p>Providing foreign exchange trading, currency administration, and securities lending solutions
                 centered on execution quality and leading levels of operational efficiency, transparency, and client
                 control.
             </p>
             <div class="blog-tag" style="padding-top: 10px;">
-                <a href="javascript:goTo('foreignExchange')">Foreign Exchange</a>
-                <a href="javascript:goTo('currencyHedging')">Currency Hedging</a>
-                <a href="javascript:goTo('activeFxExecution')">Active FX Execution</a>
-                <a href="javascript:goTo('securitiesLending')">Securities Lending</a>
-                <a href="javascript:goTo('infoFx')">InfoFX</a>
-                <a href="javascript:goTo('marketIntelligence')">Market Intelligence</a>
+                <a href="javascript:goTo('foreignExchange')">@lang('public.foreign exchange')</a>
+                <a href="javascript:goTo('currencyHedging')">@lang('public.currency hedging')</a>
+                <a href="javascript:goTo('activeFxExecution')">@lang('public.active fx execution')</a>
+                <a href="javascript:goTo('securitiesLending')">@lang('public.securities lending')</a>
+                <a href="javascript:goTo('infoFx')">@lang('public.infofx')</a>
+                <a href="javascript:goTo('marketIntelligence')">@lang('public.market intelligence')</a>
             </div>
             <div class="clear"></div>
             <div class="link-blog">
@@ -136,8 +136,8 @@
                 outsourced basis.
             </p>
             <div class="blog-tag">
-                <a href="javascript:goTo('technologyServices')">Technology Services</a>
-                <a href="javascript:goTo('middleOfficeOutsourcing')">Middle Office Outsourcing</a>
+                <a href="javascript:goTo('technologyServices')">@lang('public.technology services')</a>
+                <a href="javascript:goTo('middleOfficeOutsourcing')">@lang('public.middle office outsourcing')</a>
             </div>
             <div class="clear"></div>
             <div class="link-blog">

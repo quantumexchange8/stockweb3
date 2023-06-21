@@ -1,7 +1,7 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>&nbsp;&nbsp;<strong>Our Firm</strong>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>&nbsp;&nbsp;<strong>@lang('public.our firm')</strong>
         </span>
     </div>
     <br><br>
@@ -10,7 +10,7 @@
 
 <div class="container">
     <div class="sixteen columns">
-        <h1>Our Firm</h1>
+        <h1>@lang('public.our firm')</h1>
     </div>
     <div class="sixteen columns">
         <div class="sep"></div>
@@ -53,14 +53,14 @@
             </ul>
         </div>
         <div class="eight columns">
-            <h6><a href="javascript:goTo('sustainability')">Sustainability</a>
+            <h6><a href="javascript:goTo('sustainability')">@lang('public.sustainability')</a>
             </h6>
             <p>Enriching our clients, our people, and our communities through positive contributions
             </p>
             <div class="clear"></div>
             <div class="link-blog">
                 <div class="cl-effect-14"><a
-                        href="javascript:goTo('sustainability')">read more</a>
+                        href="javascript:goTo('sustainability')">@lang('public.read more')</a>
                 </div>
             </div>
         </div>

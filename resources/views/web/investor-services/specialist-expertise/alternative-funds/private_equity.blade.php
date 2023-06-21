@@ -1,11 +1,11 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('investorServices')">Investor Services</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('investorServices')">@lang('public.investor services')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('specialistExpertise')">Sepcialist Expertise</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('alternativeFunds')">Alternative Funds</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Private Equity</strong>
+            <a href="javascript:goTo('alternativeFunds')">@lang('public.alternative funds')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.private equity')</strong>
         </span>
     </div>
     <br><br>
@@ -14,7 +14,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Private Equity</h2>
+        <h2>@lang('public.private equity')</h2>
         <p style="padding-top: 10px;">
             Wingate is a leading global service provider for alternative funds, with over $275 billion* in assets under
             administration.

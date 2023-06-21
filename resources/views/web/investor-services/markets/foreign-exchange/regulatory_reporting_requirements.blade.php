@@ -1,10 +1,10 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('investorServices')">Investor Services</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('markets')">Markets</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('foreignExchange')">Foreign Exchange</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('investorServices')">@lang('public.investor services')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('markets')">@lang('public.markets')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('foreignExchange')">@lang('public.foreign exchange')</a>&nbsp;&nbsp;>
             &nbsp;&nbsp;<strong>Regulatory Reporting Requirements</strong>
         </span>
     </div>

@@ -1,10 +1,10 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('privateBanking')">Private Banking</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('privateWealthManagement')">Private Wealth Management</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('centerForWomenAndWealth')">Center For Women & Wealth</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('privateBanking')">@lang('public.private banking')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('privateWealthManagement')">@lang('public.private wealth management')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('centerForWomenAndWealth')">@lang('public.center for women & wealth')</a>&nbsp;&nbsp;>
             &nbsp;&nbsp;<strong>Conversations on Women, Wealth & Leadership</strong>
         </span>
     </div>

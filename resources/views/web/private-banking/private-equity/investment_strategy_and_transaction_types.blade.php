@@ -1,10 +1,10 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('privateBanking')">Private Banking</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('privateWealthManagement')">Private Equity</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Investment Strategy & Transaction Types</strong>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('privateBanking')">@lang('public.private banking')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('privateWealthManagement')">@lang('public.private equity')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.investment strategy & transaction types')</strong>
         </span>
     </div>
     <br><br>
@@ -13,7 +13,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Investment Strategy & Transaction Types</h2>
+        <h2>@lang('public.investment strategy & transaction types')</h2>
         <p style="padding-top: 10px;">
             The flexibility of our investment mandate is a key differentiator for management teams and co-investors. We
             can invest in a range of securities, including equity, subordinated debt, or some combination of the two.

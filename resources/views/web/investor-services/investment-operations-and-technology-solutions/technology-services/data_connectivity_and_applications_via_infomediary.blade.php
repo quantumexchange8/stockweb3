@@ -1,11 +1,11 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('investorServices')">Investor Services</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('investorServices')">@lang('public.investor services')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('investmentOperationsAndTechnologySolutions')">Investment Operations & Technology
                 Solutions</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('technologyServices')">Technology Services</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('technologyServices')">@lang('public.technology services')</a>&nbsp;&nbsp;>
             &nbsp;&nbsp;<strong>Data Connectivity & Applications Via Infomediary</strong>
         </span>
     </div>
@@ -35,7 +35,7 @@
             applications such as:
             <br><br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;<a href="https://wgaml.com/files/infoaction_dhwpo5pohshw0nea3j8pfs.html">InfoAction</a>®: multi-provider automation for the entire corporate actions event lifecycle
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;<a href="javascript:goTo('infoFx')">InfoFX</a>®: a dynamic foreign exchange alternative that combines quality execution with cost efficiencies and
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;<a href="javascript:goTo('infoFx')">@lang('public.infofx')</a>®: a dynamic foreign exchange alternative that combines quality execution with cost efficiencies and
             clear, comprehensive reporting – all through a fully automated, efficient workflow
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;<a href="javascript:goTo('infoRecon')">InfoRecon</a>™: a scalable outsource solution that provides an automated process for reconciling cash data and
             securities data across all service providers

@@ -1,10 +1,10 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('investorServices')">Investor Services</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('investorServices')">@lang('public.investor services')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('specialistExpertise')">Sepcialist Expertise</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('crossBorderFunds')">Cross-Border Funds</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('crossBorderFunds')">@lang('public.cross-border funds')</a>&nbsp;&nbsp;>
             &nbsp;&nbsp;<strong>Greater China</strong>
         </span>
     </div>
@@ -20,7 +20,7 @@
             country evolving into new access venues, which in itself, presents opportunities for global and regional
             asset managers.
             <br><br>
-            As a <a href="javascript:goTo('crossBorderFunds')">cross-border funds servicing specialist</a> for leading
+            As a <a href="javascript:goTo('crossBorderFunds')">@lang('public.cross-border funds') servicing specialist</a> for leading
             asset gatherers and with a presence in Greater China for 30 years, we help our clients capture growing
             opportunities through facilitating asset flows into and out of the region.
             <br><br>

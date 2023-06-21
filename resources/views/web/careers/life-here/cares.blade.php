@@ -1,8 +1,8 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('careers')">Careers</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('careers')">@lang('public.careers')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('lifeHere')">Life Here</a>&nbsp;&nbsp;>
             &nbsp;&nbsp;<strong>Cares</strong>
         </span>

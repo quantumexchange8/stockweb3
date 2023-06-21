@@ -1,8 +1,8 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('careers')">Careers</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('careers')">@lang('public.careers')</a>&nbsp;&nbsp;>
             &nbsp;&nbsp;<strong>Life at Wingate</strong>
         </span>
     </div>
@@ -43,7 +43,7 @@
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('affinityNetworkCommunity')">read more</a>
+                        <div class="cl-effect-14"><a href="javascript:goTo('affinityNetworkCommunity')">@lang('public.read more')</a>
                         </div>
                     </div>
                 </div>
@@ -58,7 +58,7 @@
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('coreValues')">read more</a>
+                        <div class="cl-effect-14"><a href="javascript:goTo('coreValues')">@lang('public.read more')</a>
                         </div>
                     </div>
                 </div>
@@ -70,7 +70,7 @@
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('cares')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('cares')">@lang('public.read more')</a></div>
                     </div>
                 </div>
             </div>

@@ -1,10 +1,10 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('investorServices')">Investor Services</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('custodyAndFundServices')">Custody & Fund Services</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Fund Administration</strong>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('investorServices')">@lang('public.investor services')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('custodyAndFundServices')">@lang('public.custody & fund services')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.fund administration')</strong>
         </span>
     </div>
     <br><br>
@@ -13,7 +13,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Fund Administration</h2>
+        <h2>@lang('public.fund administration')</h2>
         <p style="padding-top: 10px;">
             Wingate provides a comprehensive suite of modular compliance and administrative funds services designed to
             support our clients’ most complex products. Our business is built on providing direct access to information

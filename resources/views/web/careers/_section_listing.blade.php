@@ -1,8 +1,8 @@
 <div class="container breadcrumb" style="text-align: left;">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;
-            >&nbsp;&nbsp;<strong>Careers</strong>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;
+            >&nbsp;&nbsp;<strong>@lang('public.careers')</strong>
         </span>
     </div>
     <br><br>
@@ -11,7 +11,7 @@
 
 <div class="container">
     <div class="sixteen columns">
-        <h1>Careers</h1>
+        <h1>@lang('public.careers')</h1>
     </div>
     <div class="sixteen columns">
         <div class="sep"></div>

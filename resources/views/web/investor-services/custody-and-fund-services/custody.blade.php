@@ -1,10 +1,10 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('investorServices')">Investor Services</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('custodyAndFundServices')">Custody & Fund Services</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Custody</strong>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('investorServices')">@lang('public.investor services')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('custodyAndFundServices')">@lang('public.custody & fund services')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.custody')</strong>
         </span>
     </div>
     <br><br>
@@ -13,7 +13,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Custody</h2>
+        <h2>@lang('public.custody')</h2>
         <p style="padding-top: 10px;">
             The competitive marketplace is driving asset gatherers of all sizes to broaden the scope of their
             investments, and look to a greater range of products, instruments, and markets to improve returns for their

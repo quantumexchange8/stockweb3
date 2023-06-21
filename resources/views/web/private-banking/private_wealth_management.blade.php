@@ -1,9 +1,9 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('privateBanking')">Private Banking</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Private Wealth Management</strong>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('privateBanking')">@lang('public.private banking')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.private wealth management')</strong>
         </span>
     </div>
     <br><br>
@@ -12,7 +12,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h1>Private Wealth Management</h1>
+        <h1>@lang('public.private wealth management')</h1>
         <p style="padding-top: 10px;">At Wingate, our purpose is straightforward: to protect and grow your wealth.* Our
             approach to doing so is
             what sets us apart. We start with a deeply rooted investment culture and combine that with insightful
@@ -30,7 +30,7 @@
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('investmentAdvisory')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('investmentAdvisory')">@lang('public.read more')</a></div>
                     </div>
                 </div>
             </div>
@@ -43,7 +43,7 @@
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('philanthropicAdvisory')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('philanthropicAdvisory')">@lang('public.read more')</a></div>
                     </div>
                 </div>
             </div>
@@ -56,7 +56,7 @@
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('privateClientLending')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('privateClientLending')">@lang('public.read more')</a></div>
                     </div>
                 </div>
             </div>
@@ -72,19 +72,19 @@
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('wealthPlanning')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('wealthPlanning')">@lang('public.read more')</a></div>
                     </div>
                 </div>
             </div>
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;"><a href="javascript:goTo('trustServices')">Trust Services</a></h6>
+                    <h6 style="text-align: left;"><a href="javascript:goTo('trustServices')">@lang('public.trust services')</a></h6>
                     <p>The core of our offering is our expertise in acting as a trustee or executor for you and your
                         family.
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('trustServices')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('trustServices')">@lang('public.read more')</a></div>
                     </div>
                 </div>
             </div>
@@ -97,7 +97,7 @@
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('centerForWomenAndWealth')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('centerForWomenAndWealth')">@lang('public.read more')</a></div>
                     </div>
                 </div>
             </div>

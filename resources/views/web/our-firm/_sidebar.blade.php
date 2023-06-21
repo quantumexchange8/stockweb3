@@ -66,12 +66,12 @@
 </style>
 
 <div id="sidebar">
-    <h5>Our Firm</h5>
+    <h5>@lang('public.our firm')</h5>
     <hr>
     <ul>
         <li><a href="javascript:goTo('thePartnership')">The Partnership</a>
         <li><a href="javascript:goTo('ourMissionAndProfile')">Our Mission & Profile</a>
-        <li><a href="javascript:goTo('sustainability')">Sustainability</a>
+        <li><a href="javascript:goTo('sustainability')">@lang('public.sustainability')</a>
         <li><a href="javascript:goTo('philanthropy')">Philanthropy</a>
         <li><a href="javascript:goTo('policiesAndDisclosures')">Policies & Disclosures</a>
             <ul>

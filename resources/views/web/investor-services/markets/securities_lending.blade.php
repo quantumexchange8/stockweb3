@@ -1,10 +1,10 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('investorServices')">Investor Services</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('markets')">Markets</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Securities Lending</strong>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('investorServices')">@lang('public.investor services')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('markets')">@lang('public.markets')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.securities lending')</strong>
         </span>
     </div>
     <br><br>
@@ -13,7 +13,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Securities Lending</h2>
+        <h2>@lang('public.securities lending')</h2>
         <p style="padding-top: 10px;">
             Wingate specializes in securities lending for asset managers, with approximately 90% of our clients
             representing this industry segment. Asset managers who work with WAML are assured of a specialized program

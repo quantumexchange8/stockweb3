@@ -1,10 +1,10 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('privateBanking')">Private Banking</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('privateWealthManagement')">Private Wealth Management</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Trust Services</strong>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('privateBanking')">@lang('public.private banking')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('privateWealthManagement')">@lang('public.private wealth management')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.trust services')</strong>
         </span>
     </div>
     <br><br>
@@ -13,7 +13,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Trust Services</h2>
+        <h2>@lang('public.trust services')</h2>
         <p style="padding-top: 10px;">
             As experienced trustees and executors, we work with clients and their advisors to administer all types of
             trusts, from simple living trusts to complicated tax-driven estate planning vehicles. We also offer

@@ -1,10 +1,10 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('investorServices')">Investor Services</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('investorServices')">@lang('public.investor services')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('specialistExpertise')">Sepcialist Expertise</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Alternative Funds</strong>
+            &nbsp;&nbsp;<strong>@lang('public.alternative funds')</strong>
         </span>
     </div>
     <br><br>
@@ -13,13 +13,13 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Alternative Funds</h2>
+        <h2>@lang('public.alternative funds')</h2>
         <p style="padding-top: 10px;">
             Wingate is a leading global service provider for alternative funds. Currently servicing over $275 billion*
             in alternative assets, we offer comprehensive custody, administration and related services for all major
             alternative asset classes and strategies, across three broad categories:
             <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;<a href="javascript:goTo('realAssetsAndInfrastructure')">Real Assets</a> and <a href="javascript:goTo('privateEquityAlternativeFunds')">Private Equity</a><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;<a href="javascript:goTo('realAssetsAndInfrastructure')">Real Assets</a> and <a href="javascript:goTo('privateEquityAlternativeFunds')">@lang('public.private equity')</a><br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;<a href="javascript:goTo('syndicatedAndOriginatedDebt')">Syndicated and originated debt</a><br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;<a href="javascript:goTo('hedgeFunds')">Hedge and other liquid strategies</a><br>
             Our offering helps clients manage the complexity of their alternative funds business, grow and compete

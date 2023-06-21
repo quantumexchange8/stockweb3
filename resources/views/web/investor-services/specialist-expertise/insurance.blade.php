@@ -1,10 +1,10 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('investorServices')">Investor Services</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('investorServices')">@lang('public.investor services')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('specialistExpertise')">Sepcialist Expertise</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Insurance</strong>
+            &nbsp;&nbsp;<strong>@lang('public.insurance')</strong>
         </span>
     </div>
     <br><br>
@@ -13,7 +13,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Insurance</h2>
+        <h2>@lang('public.insurance')</h2>
         <p style="padding-top: 10px;">
             (Re)insurance firms are facing a rapidly changing market environment characterized by stricter capital
             adequacy requirements, reserve deterioration, limited financial flexibility, and the prolonged low-interest

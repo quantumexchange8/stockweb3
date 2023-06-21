@@ -1,10 +1,10 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('investorServices')">Investor Services</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('investorServices')">@lang('public.investor services')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('specialistExpertise')">Sepcialist Expertise</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>US Funds</strong>
+            &nbsp;&nbsp;<strong>@lang('public.US funds')</strong>
         </span>
     </div>
     <br><br>
@@ -13,7 +13,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>US Funds</h2>
+        <h2>@lang('public.US funds')</h2>
         <p style="padding-top: 10px;">
             Wingate ("WAML") is a leading solutions provider for US funds. Our solutions meet the evolving needs of our
             clients across the middle and back office. Our single technology platform and unique client service
@@ -30,26 +30,26 @@
                         <p><strong>Funds Servicing</strong></p>
                         <p>
                             - <a href="javascript:goTo('globalCustody')">Global Custody</a><br>
-                            - <a href="javascript:goTo('fundAccounting')">Fund Accounting</a><br>
-                            - <a href="javascript:goTo('fundAdministration')">Fund Administration</a><br>
-                            - <a href="javascript:goTo('globalTaxServices')">Global Tax Services</a><br>
+                            - <a href="javascript:goTo('fundAccounting')">@lang('public.fund accounting')</a><br>
+                            - <a href="javascript:goTo('fundAdministration')">@lang('public.fund administration')</a><br>
+                            - <a href="javascript:goTo('globalTaxServices')">@lang('public.global tax') Services</a><br>
                         </p>
                     </td>
                     <td style="padding: 10px;">
                         <p><strong>Investment Operations & Technology</strong></p>
                         <p>
-                            - <a href="javascript:goTo('technologyServices')">Technology Services</a><br>
+                            - <a href="javascript:goTo('technologyServices')">@lang('public.technology services')</a><br>
                             - <a href="javascript:goTo('dataConnectivityAndApplicationsViaInfomediary')">Data and Connectivity Solutions</a><br>
                             - <a href="javascript:goTo('middleOfficeOutsourcing')">Middle Office</a><br>
                         </p>
                     </td>
                     <td style="padding: 10px;">
-                        <p><strong>Markets</strong></p>
+                        <p><strong>@lang('public.markets')</strong></p>
                         <p>
-                            - <a href="javascript:goTo('securitiesLending')">Securities Lending</a><br>
-                            - <a href="javascript:goTo('foreignExchange')">Foreign Exchange</a><br>
-                            - <a href="javascript:goTo('currencyHedging')">Currency Hedging</a><br>
-                            - <a href="javascript:goTo('infoFx')">InfoFX</a><br>
+                            - <a href="javascript:goTo('securitiesLending')">@lang('public.securities lending')</a><br>
+                            - <a href="javascript:goTo('foreignExchange')">@lang('public.foreign exchange')</a><br>
+                            - <a href="javascript:goTo('currencyHedging')">@lang('public.currency hedging')</a><br>
+                            - <a href="javascript:goTo('infoFx')">@lang('public.infofx')</a><br>
                         </p>
                     </td>
                 </tr>

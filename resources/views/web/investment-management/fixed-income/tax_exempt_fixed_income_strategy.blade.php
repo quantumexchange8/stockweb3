@@ -1,10 +1,10 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('investmentManagement')">Investment Management</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('investmentManagement')">Fixed Income</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Tax-Exempt Fixed Income Strategy</strong>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('investmentManagement')">@lang('public.investment management')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('investmentManagement')">@lang('public.fixed income')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.tax-exempt fixed income') Strategy</strong>
         </span>
     </div>
     <br><br>
@@ -13,7 +13,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Tax-Exempt Fixed Income Strategy</h2>
+        <h2>@lang('public.tax-exempt fixed income') Strategy</h2>
         <p style="padding-top: 10px;">
             The Wingate Tax-Exempt Fixed Income Strategy seeks to protect investors’ capital and generate attractive
             after-tax returns by combining thorough, independent research with our valuation discipline to identify

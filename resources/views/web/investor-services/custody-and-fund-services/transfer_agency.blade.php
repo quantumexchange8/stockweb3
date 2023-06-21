@@ -1,10 +1,10 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('investorServices')">Investor Services</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('custodyAndFundServices')">Custody & Fund Services</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Transfer Agency</strong>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('investorServices')">@lang('public.investor services')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('custodyAndFundServices')">@lang('public.custody & fund services')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.transfer agency')</strong>
         </span>
     </div>
     <br><br>
@@ -13,7 +13,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Transfer Agency</h2>
+        <h2>@lang('public.transfer agency')</h2>
         <p style="padding-top: 10px;">
             Transfer Agency is critical to funds’ distribution success. Servicing many of the most sophisticated asset
             managers in the world, Wingate is committed to providing global Transfer Agency. We support clients
@@ -22,7 +22,7 @@
             <br><br>
             Transfer Agency is a core component of WAML’s overall cross-border service offering. We support our clients
             and their investors in close to 100 countries throughout the world via our <a href="javascript:goTo('globalServiceModel')">global service model</a>. Our service
-            covers core processing and shareholder services as well as <a href="javascript:goTo('distributionIntelligence')">distribution intelligence</a>.
+            covers core processing and shareholder services as well as <a href="javascript:goTo('distributionIntelligence')">@lang('public.distribution intelligence')</a>.
             <br><br>
             We excel in servicing complex fund structures and key features of our offering include:
             <br><br>

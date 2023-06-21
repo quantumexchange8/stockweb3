@@ -1,10 +1,10 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('investorServices')">Investor Services</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('markets')">Markets</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Foreign Exchange</strong>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('investorServices')">@lang('public.investor services')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('markets')">@lang('public.markets')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.foreign exchange')</strong>
         </span>
     </div>
     <br><br>
@@ -13,14 +13,14 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Foreign Exchange</h2>
+        <h2>@lang('public.foreign exchange')</h2>
         <p style="padding-top: 10px;">
             Wingate provides innovative and flexible foreign exchange solutions designed for the operational and
             strategic FX needs of global asset managers. Backed by a reputation for competitive execution and
             relationship excellence, our goal is to provide every client with a smooth, comprehensive FX program from
             start to finish.
             <br><br>
-            <strong>Foreign Exchange Expertise</strong>
+            <strong>@lang('public.foreign exchange') Expertise</strong>
             <br>
             WAML is a proven and committed FX provider. We offer executions in spots and forwards for freely traded
             currencies, and specialize in trading select emerging and restricted markets. Our clients receive global

@@ -1,10 +1,10 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('privateBanking')">Private Banking</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('privateWealthManagement')">Private Equity</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Select Portfolio Companies</strong>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('privateBanking')">@lang('public.private banking')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('privateWealthManagement')">@lang('public.private equity')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.select portfolio companies')</strong>
         </span>
     </div>
     <br><br>
@@ -13,7 +13,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Select Portfolio Companies</h2>
+        <h2>@lang('public.select portfolio companies')</h2>
         <div style="padding-top: 30px;">
             <hr>
             <div class="three columns">

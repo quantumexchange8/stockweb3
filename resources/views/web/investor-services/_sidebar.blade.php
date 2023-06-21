@@ -62,24 +62,24 @@
 </style>
 
 <div id="sidebar">
-    <h5>Investor Services</h5>
+    <h5>@lang('public.investor services')</h5>
     <hr>
     <ul>
-        <li><a href="javascript:goTo('custodyAndFundServices')">Custody & Fund Services</a>
+        <li><a href="javascript:goTo('custodyAndFundServices')">@lang('public.custody & fund services')</a>
             <ul>
-                <li><a href="javascript:goTo('custody')">Custody</a></li>
-                <li><a href="javascript:goTo('depositaryAndTrustee')">Depositary & Trustee</a></li>
-                <li><a href="javascript:goTo('fundAccounting')">Fund Accounting</a></li>
-                <li><a href="javascript:goTo('fundAdministration')">Fund Administration</a></li>
-                <li><a href="javascript:goTo('transferAgency')">Transfer Agency</a></li>
-                <li><a href="javascript:goTo('globalTax')">Global Tax</a></li>
-                <li><a href="javascript:goTo('collateralManagementCustody')">Collateral Management</a></li>
-                <li><a href="javascript:goTo('fundOrderAndCustody')">Fund Order & Custody</a></li>
+                <li><a href="javascript:goTo('custody')">@lang('public.custody')</a></li>
+                <li><a href="javascript:goTo('depositaryAndTrustee')">@lang('public.depositary & trustee')</a></li>
+                <li><a href="javascript:goTo('fundAccounting')">@lang('public.fund accounting')</a></li>
+                <li><a href="javascript:goTo('fundAdministration')">@lang('public.fund administration')</a></li>
+                <li><a href="javascript:goTo('transferAgency')">@lang('public.transfer agency')</a></li>
+                <li><a href="javascript:goTo('globalTax')">@lang('public.global tax')</a></li>
+                <li><a href="javascript:goTo('collateralManagementCustody')">@lang('public.collateral management')</a></li>
+                <li><a href="javascript:goTo('fundOrderAndCustody')">@lang('public.fund order & custody')</a></li>
             </ul>
         </li>
-        <li><a href="javascript:goTo('specialistExpertise')">Specialist Expertise</a>
+        <li><a href="javascript:goTo('specialistExpertise')">@lang('public.specialist expertise')</a>
             <ul>
-                <li><a href="javascript:goTo('crossBorderFunds')">Cross-Border Funds</a></li>
+                <li><a href="javascript:goTo('crossBorderFunds')">@lang('public.cross-border funds')</a></li>
                 <ul>
                     <li><a href="javascript:goTo('greaterChina')">Greater China</a></li>
                     <li><a href="javascript:goTo('latinAmerica')">Latin America</a></li>
@@ -88,46 +88,46 @@
                     <li><a href="javascript:goTo('luxembourg')">Luxembourg</a></li>
                     <li><a href="javascript:goTo('globalServiceModel')">Global Service Model</a></li>
                 </ul>
-                <li><a href="javascript:goTo('usFunds')">US Funds</a></li>
-                <li><a href="javascript:goTo('consultantsAndAdvisors')">Consultants and Advisors</a></li>
-                <li><a href="javascript:goTo('distributionIntelligence')">Distribution Intelligence</a></li>
-                <li><a href="javascript:goTo('alternativeFunds')">Alternative Funds</a></li>
+                <li><a href="javascript:goTo('usFunds')">@lang('public.US funds')</a></li>
+                <li><a href="javascript:goTo('consultantsAndAdvisors')">@lang('public.consultants and advisors')</a></li>
+                <li><a href="javascript:goTo('distributionIntelligence')">@lang('public.distribution intelligence')</a></li>
+                <li><a href="javascript:goTo('alternativeFunds')">@lang('public.alternative funds')</a></li>
                 <ul>
                     <li><a href="javascript:goTo('realAssetsAndInfrastructure')">Real Assets & Infrastructure</a></li>
-                    <li><a href="javascript:goTo('privateEquityAlternativeFunds')">Private Equity</a></li>
+                    <li><a href="javascript:goTo('privateEquityAlternativeFunds')">@lang('public.private equity')</a></li>
                     <li><a href="javascript:goTo('hedgeFunds')">Hedge Funds</a></li>
                     <li><a href="javascript:goTo('syndicatedAndOriginatedDebt')">Syndicated And Original Debt</a></li>
                 </ul>
-                <li><a href="javascript:goTo('exchangeTradedFunds')">Exchange Traded Funds</a></li>
-                <li><a href="javascript:goTo('insurance')">Insurance</a></li>
-                <li><a href="javascript:goTo('regulatoryIntelligence')">Regulatory Intelligence</a></li>
+                <li><a href="javascript:goTo('exchangeTradedFunds')">@lang('public.exchange traded funds')</a></li>
+                <li><a href="javascript:goTo('insurance')">@lang('public.insurance')</a></li>
+                <li><a href="javascript:goTo('regulatoryIntelligence')">@lang('public.regulatory intelligence')</a></li>
             </ul>
         </li>
-        <li><a href="javascript:goTo('markets')">Markets</a>
+        <li><a href="javascript:goTo('markets')">@lang('public.markets')</a>
             <ul>
-                <li><a href="javascript:goTo('foreignExchange')">Foreign Exchange</a></li>
+                <li><a href="javascript:goTo('foreignExchange')">@lang('public.foreign exchange')</a></li>
                 <ul>
                     <li><a href="javascript:goTo('tokyoFixingRates')">Tokyo Fixing Rates</a></li>
                     <li><a href="javascript:goTo('termsAndConditions')">Terms And Conditions</a></li>
                     <li><a href="javascript:goTo('regulatoryReportingRequirements')">Regulatory Reporting Requirements</a></li>
                     <li><a href="javascript:goTo('fxDisclosure')">FX Disclosure</a></li>
                 </ul>
-                <li><a href="javascript:goTo('activeFxExecution')">Active FX Execution</a></li>
-                <li><a href="javascript:goTo('infoFx')">InfoFX</a></li>
-                <li><a href="javascript:goTo('currencyHedging')">Currency Hedging</a></li>
-                <li><a href="javascript:goTo('securitiesLending')">Securities Lending</a></li>
-                <li><a href="javascript:goTo('marketIntelligence')">Market Intelligence</a></li>
+                <li><a href="javascript:goTo('activeFxExecution')">@lang('public.active fx execution')</a></li>
+                <li><a href="javascript:goTo('infoFx')">@lang('public.infofx')</a></li>
+                <li><a href="javascript:goTo('currencyHedging')">@lang('public.currency hedging')</a></li>
+                <li><a href="javascript:goTo('securitiesLending')">@lang('public.securities lending')</a></li>
+                <li><a href="javascript:goTo('marketIntelligence')">@lang('public.market intelligence')</a></li>
             </ul>
         </li>
-        <li><a href="javascript:goTo('investmentOperationsAndTechnologySolutions')">Investment Operations & Technology Solutions</a>
+        <li><a href="javascript:goTo('investmentOperationsAndTechnologySolutions')">@lang('public.investment operations & technology solutions')</a>
             <ul>
-                <li><a href="javascript:goTo('technologyServices')">Technology Services</a></li>
+                <li><a href="javascript:goTo('technologyServices')">@lang('public.technology services')</a></li>
                 <ul>
                     <li><a href="javascript:goTo('dataConnectivityAndApplicationsViaInfomediary')">Data Connectivity & Applications via Infomediary</a></li>
                     <li><a href="javascript:goTo('globalCustodyDirect')">Global Custody Direct</a></li>
                     <li><a href="javascript:goTo('accountOperatorDirectForUSDepositories')">Account Operator Direct for US Depositories</a></li>
                 </ul>
-                <li><a href="javascript:goTo('middleOfficeOutsourcing')">Middle Office Outsourcing</a></li>
+                <li><a href="javascript:goTo('middleOfficeOutsourcing')">@lang('public.middle office outsourcing')</a></li>
                 <ul>
                     <li><a href="javascript:goTo('targetedTechnologySolutionsViaInfomediary')">Targeted Technology Solutions via Infomediary</a></li>
                     <ul>
@@ -136,7 +136,7 @@
                     </ul>
                     <li><a href="javascript:goTo('hostedOperationsAndReporting')">Hosted Operations & Reporting</a></li>
                     <li><a href="javascript:goTo('investmentAccountingAndEnterpriseDataSupport')">Investment Accounting & Enterprise Data Support</a></li>
-                    <li><a href="javascript:goTo('collateralManagementCustody')">Collateral Management</a></li>
+                    <li><a href="javascript:goTo('collateralManagementCustody')">@lang('public.collateral management')</a></li>
                 </ul>
             </ul>
         </li>

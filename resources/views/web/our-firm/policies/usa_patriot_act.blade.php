@@ -1,8 +1,8 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('ourFirm')">Our Firm</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('ourFirm')">@lang('public.our firm')</a>&nbsp;&nbsp;>
             &nbsp;&nbsp;<strong>USA Patriot Act</strong>
         </span>
     </div>

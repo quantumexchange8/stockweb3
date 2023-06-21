@@ -1,10 +1,10 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('investmentManagement')">Investment Management</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('fixedIncome')">Fixed Income</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>U.S. TIPS Strategy</strong>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('investmentManagement')">@lang('public.investment management')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('fixedIncome')">@lang('public.fixed income')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.US TIPS strategy')</strong>
         </span>
     </div>
     <br><br>
@@ -12,7 +12,7 @@
 </div>
 <div class="container">
     <div class="eleven columns">
-        <h2>U.S. TIPS Strategy</h2>
+        <h2>@lang('public.US TIPS strategy')</h2>
         <p style="padding-top: 10px;">
             Wingate ("WAML") has been at the forefront of U.S. Treasury Inflation-Protected Security (TIPS) research,
             thought leadership, and active management since the inception of the U.S. TIPS market in 1997. Our U.S. TIPS

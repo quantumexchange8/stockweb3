@@ -1,9 +1,9 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('privateBanking')">Private Banking</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Private Equity</strong>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('privateBanking')">@lang('public.private banking')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.private equity')</strong>
         </span>
     </div>
     <br><br>
@@ -12,7 +12,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h1>Private Equity</h1>
+        <h1>@lang('public.private equity')</h1>
         <p style="padding-top: 10px;">
             Wingate ("WAML") private equity has deployed more than $2.5 billion of growth capital in closely held
             private companies across a range of industries since 1996. WAML works with high-quality management teams
@@ -27,13 +27,13 @@
         <div class="five columns">
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;"><a href="javascript:goTo('aboutWingate')">About Wingate</a></h6>
+                    <h6 style="text-align: left;"><a href="javascript:goTo('aboutWingate')">@lang('public.about wingate')</a></h6>
                     <p>A growth capital provider offering highly customized capital solutions to lower middle-market
                         businesses.
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('aboutWingate')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('aboutWingate')">@lang('public.read more')</a></div>
                     </div>
                 </div>
             </div>
@@ -46,7 +46,7 @@
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('investmentStrategyAndTransactionTypes')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('investmentStrategyAndTransactionTypes')">@lang('public.read more')</a></div>
                     </div>
                 </div>
             </div>
@@ -54,14 +54,14 @@
         <div class="five columns">
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;"><a href="javascript:goTo('investmentProfile')">Investment Profile</a>
+                    <h6 style="text-align: left;"><a href="javascript:goTo('investmentProfile')">@lang('public.investment profile')</a>
                     </h6>
                     <p>Investing in attractive lower middle-market companies with strong business attributes through a
                         range of deal structures.
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('investmentProfile')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('investmentProfile')">@lang('public.read more')</a></div>
                     </div>
                 </div>
             </div>
@@ -74,7 +74,7 @@
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('selectPortfolioCompanies')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('selectPortfolioCompanies')">@lang('public.read more')</a></div>
                     </div>
                 </div>
             </div>

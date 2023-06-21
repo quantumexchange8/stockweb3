@@ -1,10 +1,10 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('privateBanking')">Private Banking</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('privateWealthManagement')">Private Wealth Management</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Wealth Planning</strong>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('privateBanking')">@lang('public.private banking')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('privateWealthManagement')">@lang('public.private wealth management')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.wealth planning')</strong>
         </span>
     </div>
     <br><br>
@@ -13,7 +13,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Wealth Planning</h2>
+        <h2>@lang('public.wealth planning')</h2>
         <p style="padding-top: 10px;">
             Our experienced wealth planners work closely with your legal and tax advisors to
             design and implement a wealth and estate plan that is driven by your personal goals and values and aligned
@@ -21,7 +21,7 @@
             appropriate planning opportunities as your wealth grows, your family changes over time, and the legislative
             and financial landscape shifts. <br><br>
 
-            <strong><span style="text-decoration: underline;">Wealth Planning Advisory Services</span></strong> <br><br>
+            <strong><span style="text-decoration: underline;">@lang('public.wealth planning') Advisory Services</span></strong> <br><br>
 
             <strong>Personal and Family Objectives</strong><br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;planning for both near- and long-term personal and financial goals<br>

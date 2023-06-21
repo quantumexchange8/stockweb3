@@ -1,8 +1,8 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('ourFirm')">Our Firm</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('ourFirm')">@lang('public.our firm')</a>&nbsp;&nbsp;>
             &nbsp;&nbsp;<strong>Policies & Disclosures</strong>
         </span>
     </div>
@@ -19,7 +19,7 @@
             statements, disclosures, and documents. We are committed to keeping our clients well-informed and providing
             them with the necessary resources for a comprehensive understanding of our operations and offerings.
             <br><br>
-            Please <a href="javascript:goTo('contact')">contact us</a> with questions.
+            Please <a href="javascript:goTo('contact')">@lang('public.contact us')</a> with questions.
         </p>
         <div class="five columns">
             <div class="card" style="padding: 5px;">
@@ -29,7 +29,7 @@
                     </h6>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('importantStatementsAndDisclosures')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('importantStatementsAndDisclosures')">@lang('public.read more')</a></div>
                     </div>
                 </div>
             </div>
@@ -40,7 +40,7 @@
                     </h6>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('legal')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('legal')">@lang('public.read more')</a></div>
                     </div>
                 </div>
             </div>
@@ -51,7 +51,7 @@
                     </h6>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('newAccountPolicy')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('newAccountPolicy')">@lang('public.read more')</a></div>
                     </div>
                 </div>
             </div>
@@ -64,7 +64,7 @@
                     </h6>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('usaPatriotAct')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('usaPatriotAct')">@lang('public.read more')</a></div>
                     </div>
                 </div>
             </div>
@@ -75,7 +75,7 @@
                     </h6>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('privacyPolicy')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('privacyPolicy')">@lang('public.read more')</a></div>
                     </div>
                 </div>
             </div>
@@ -86,7 +86,7 @@
                     </h6>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('cookiePolicy')">read more</a>
+                        <div class="cl-effect-14"><a href="javascript:goTo('cookiePolicy')">@lang('public.read more')</a>
                         </div>
                     </div>
                 </div>

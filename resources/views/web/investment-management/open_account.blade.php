@@ -1,9 +1,9 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('investmentManagement')">Investment Management</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Open Account</strong>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('investmentManagement')">@lang('public.investment management')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.open account')</strong>
         </span>
     </div>
     <br><br>
@@ -11,7 +11,7 @@
 </div>
 <div class="container">
     <div class="sixteen columns">
-        <h1>Open Account</h1>
+        <h1>@lang('public.open account')</h1>
         <p style="padding-top: 10px;">At Wingate, our purpose is straightforward: to protect and grow your wealth.* Our
             approach to doing so is
             what sets us apart. We start with a deeply rooted investment culture and combine that with insightful

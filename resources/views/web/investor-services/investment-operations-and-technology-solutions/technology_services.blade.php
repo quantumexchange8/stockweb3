@@ -1,10 +1,10 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('investorServices')">Investor Services</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('investorServices')">Investment Operations & Technology Solutions</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Technology Services</strong>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('investorServices')">@lang('public.investor services')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('investorServices')">@lang('public.investment operations & technology solutions')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.technology services')</strong>
         </span>
     </div>
     <br><br>
@@ -13,7 +13,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h1>Technology Services</h1>
+        <h1>@lang('public.technology services')</h1>
         <p style="padding-top: 10px;">
             Designed for asset gatherers who want to retain control over their operational processes while leveraging
             cost effective, efficient and cutting-edge financial technology, Wingate makes key components of our
@@ -36,7 +36,7 @@
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('dataConnectivityAndApplicationsViaInfomediary')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('dataConnectivityAndApplicationsViaInfomediary')">@lang('public.read more')</a></div>
                     </div>
                 </div>
             </div>
@@ -50,7 +50,7 @@
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('accountOperatorDirectForUSDepositories')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('accountOperatorDirectForUSDepositories')">@lang('public.read more')</a></div>
                     </div>
                 </div>
             </div>
@@ -65,7 +65,7 @@
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('globalCustodyDirect')">read more</a>
+                        <div class="cl-effect-14"><a href="javascript:goTo('globalCustodyDirect')">@lang('public.read more')</a>
                         </div>
                     </div>
                 </div>

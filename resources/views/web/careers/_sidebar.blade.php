@@ -62,7 +62,7 @@
 </style>
 
 <div id="sidebar">
-    <h5>Careers</h5>
+    <h5>@lang('public.careers')</h5>
     <hr>
     <ul>
         <li><a href="javascript:goTo('whatWeLookFor')">What We Look For</a>

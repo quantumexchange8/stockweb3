@@ -1,9 +1,9 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('investmentManagement')">Investment Management</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Fixed Income</strong>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('investmentManagement')">@lang('public.investment management')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.fixed income')</strong>
         </span>
     </div>
     <br><br>
@@ -12,7 +12,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h1>Fixed Income</h1>
+        <h1>@lang('public.fixed income')</h1>
         <p style="padding-top: 10px;">
             Wingate ("WAML") has managed fixed income strategies for public and private institutions, as well as for
             high-net-worth families. Our fixed income approach can be summarized in one sentence: We purchase durable
@@ -59,12 +59,12 @@
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
                     <h6 style="text-align: left;">
-                        <a href="javascript:goTo('usTipsStrategy')">U.S. TIPS Strategy</a>
+                        <a href="javascript:goTo('usTipsStrategy')">@lang('public.US TIPS strategy')</a>
                     </h6>
                     <p>“Pure Play,” actively managed strategy employed within the inflation-indexed market.</p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('usTipsStrategy')">read more</a>
+                        <div class="cl-effect-14"><a href="javascript:goTo('usTipsStrategy')">@lang('public.read more')</a>
                         </div>
                     </div>
                 </div>
@@ -74,7 +74,7 @@
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
                     <h6 style="text-align: left;">
-                        <a href="javascript:goTo('taxExemptFixedIncomeStrategy')">Tax-Exempt Fixed Income Strategy</a>
+                        <a href="javascript:goTo('taxExemptFixedIncomeStrategy')">@lang('public.tax-exempt fixed income') Strategy</a>
                     </h6>
                     <p>Bottom-up credit research designed to uncover strong value in major subsectors of the U.S.
                         municipal bond market.

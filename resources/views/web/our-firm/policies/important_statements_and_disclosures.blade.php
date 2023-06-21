@@ -1,8 +1,8 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('ourFirm')">Our Firm</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('ourFirm')">@lang('public.our firm')</a>&nbsp;&nbsp;>
             &nbsp;&nbsp;<strong>Important Statements & Disclosures</strong>
         </span>
     </div>
@@ -33,7 +33,7 @@
                     </h6>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('bcpStatement')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('bcpStatement')">@lang('public.read more')</a></div>
                     </div>
                 </div>
             </div>
@@ -44,7 +44,7 @@
                     </h6>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('additionalDisclosures')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('additionalDisclosures')">@lang('public.read more')</a></div>
                     </div>
                 </div>
             </div>
@@ -57,7 +57,7 @@
                     </h6>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('onlineSecurity')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('onlineSecurity')">@lang('public.read more')</a></div>
                     </div>
                 </div>
             </div>
@@ -68,7 +68,7 @@
                     </h6>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('regulationE')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('regulationE')">@lang('public.read more')</a></div>
                     </div>
                 </div>
             </div>
@@ -79,7 +79,7 @@
                     </h6>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('confidentialEthicsReporting')">read more</a>
+                        <div class="cl-effect-14"><a href="javascript:goTo('confidentialEthicsReporting')">@lang('public.read more')</a>
                         </div>
                     </div>
                 </div>

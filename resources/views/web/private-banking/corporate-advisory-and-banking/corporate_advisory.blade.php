@@ -1,10 +1,10 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('privateBanking')">Private Banking</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('privateWealthManagement')">Corporate Advisory & Banking</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Corporate Advisory</strong>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('privateBanking')">@lang('public.private banking')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('privateWealthManagement')">@lang('public.corporate advisory & banking')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.corporate advisory')</strong>
         </span>
     </div>
     <br><br>
@@ -13,7 +13,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Corporate Advisory</h2>
+        <h2>@lang('public.corporate advisory')</h2>
         <p style="padding-top: 10px;">
             The Corporate Advisory team is composed of senior corporate finance professionals with significant
             experience working with business owner managers on M&A and financing transactions. We are dedicated to

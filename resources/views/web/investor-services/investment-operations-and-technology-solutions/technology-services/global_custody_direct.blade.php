@@ -1,11 +1,11 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('investorServices')">Investor Services</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('investorServices')">@lang('public.investor services')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('investmentOperationsAndTechnologySolutions')">Investment Operations & Technology
                 Solutions</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('technologyServices')">Technology Services</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('technologyServices')">@lang('public.technology services')</a>&nbsp;&nbsp;>
             &nbsp;&nbsp;<strong>Global Custody Direct</strong>
         </span>
     </div>

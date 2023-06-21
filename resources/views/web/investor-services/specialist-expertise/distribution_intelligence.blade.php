@@ -1,10 +1,10 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('investorServices')">Investor Services</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('investorServices')">@lang('public.investor services')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('specialistExpertise')">Sepcialist Expertise</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Distribution Intelligence</strong>
+            &nbsp;&nbsp;<strong>@lang('public.distribution intelligence')</strong>
         </span>
     </div>
     <br><br>
@@ -13,7 +13,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Distribution Intelligence</h2>
+        <h2>@lang('public.distribution intelligence')</h2>
         <p style="padding-top: 10px;">
             Core to Wingate’s <a href="javascript:goTo('crossBorderFunds')">cross-border fund servicing</a>, WAML distribution intelligence services
             are designed to assist asset managers develop, execute, and evaluate their distribution strategy.
@@ -31,13 +31,13 @@
             multiple markets. At the core of this model is our single technology platform which leads to a high level of
             global integration and coordination
             <br><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Our <a href="javascript:goTo('transferAgency')">Transfer Agency</a> offering is the cornerstone of our
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Our <a href="javascript:goTo('transferAgency')">@lang('public.transfer agency')</a> offering is the cornerstone of our
             distribution support model, allowing fully localized investor onboarding support with industry leading
             technology <br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;WAML <a href="javascript:goTo('dataConnectivityAndApplicationsViaInfomediary')">Infomediary</a>® messaging and connectivity platform is
             deployed to harmonize, translate, and transmit electronic data to facilitate fund distribution
             efficiency<br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;WAML <a href="javascript:goTo('fundOrderAndCustody')">Fund Order & Custody</a> includes a proprietary
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;WAML <a href="javascript:goTo('fundOrderAndCustody')">@lang('public.fund order & custody')</a> includes a proprietary
             investment fund order and processing platform, Fund WorldView®, which helps connect global asset managers
             with local financial institutions that buy and hold funds<br><br>
             <strong>Strategy Evaluation: Data Analysis</strong>

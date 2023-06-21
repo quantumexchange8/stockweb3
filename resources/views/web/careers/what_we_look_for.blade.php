@@ -1,8 +1,8 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('careers')">Careers</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('careers')">@lang('public.careers')</a>&nbsp;&nbsp;>
             &nbsp;&nbsp;<strong>What We Look For</strong>
         </span>
     </div>
@@ -27,7 +27,7 @@
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('undergraduateInternships')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('undergraduateInternships')">@lang('public.read more')</a></div>
                     </div>
                 </div>
             </div>
@@ -40,7 +40,7 @@
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('experiencedProfessionals')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('experiencedProfessionals')">@lang('public.read more')</a></div>
                     </div>
                 </div>
             </div>
@@ -55,7 +55,7 @@
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('entryLevelProfessionals')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('entryLevelProfessionals')">@lang('public.read more')</a></div>
                     </div>
                 </div>
             </div>
@@ -67,7 +67,7 @@
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('restart')">read more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('restart')">@lang('public.read more')</a></div>
                     </div>
                 </div>
             </div>

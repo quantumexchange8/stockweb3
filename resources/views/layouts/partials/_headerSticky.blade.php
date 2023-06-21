@@ -6,15 +6,15 @@
         <div class="logo"></div>
     <ul class="slimmenu">
         <li><a href="https://client.wgaml.com/">Client Login</a></li>
-        {{-- <li><a href="javascript:goTo('home')">Home</a></li> --}}
+        {{-- <li><a href="javascript:goTo('home')">@lang('public.home')</a></li> --}}
         {{-- <li><a href="javascript:goTo('about');">About</a></li> --}}
-        {{-- <li><a href="javascript:goTo('privateBanking');">Private Banking</a></li>
-        <li><a href="javascript:goTo('investmentManagement');">Investment Management</a></li>
-        <li><a href="javascript:goTo('investorServices');">Investor Services</a></li> --}}
-        <li><a href="javascript:goTo('ourFirm');">Our Firm</a></li>
-        <li><a href="javascript:goTo('careers');">Careers</a></li>
-        <li><a href="javascript:goTo('sustainability');">Sustainability</a></li>
-        <li><a href="javascript:goTo('contact');">Contact Us</a></li>
+        {{-- <li><a href="javascript:goTo('privateBanking');">@lang('public.private banking')</a></li>
+        <li><a href="javascript:goTo('investmentManagement');">@lang('public.investment management')</a></li>
+        <li><a href="javascript:goTo('investorServices');">@lang('public.investor services')</a></li> --}}
+        <li><a href="javascript:goTo('ourFirm');">@lang('public.our firm')</a></li>
+        <li><a href="javascript:goTo('careers');">@lang('public.careers')</a></li>
+        <li><a href="javascript:goTo('sustainability');">@lang('public.sustainability')</a></li>
+        <li><a href="javascript:goTo('contact');">@lang('public.contact us')</a></li>
     </ul>
     </div>
 </div>

@@ -62,16 +62,16 @@
 </style>
 
 <div id="sidebar">
-    <h5>Private Banking</h5>
+    <h5>@lang('public.private banking')</h5>
     <hr>
     <ul>
-        <li><a href="javascript:goTo('privateWealthManagement')">Private Wealth Management</a>
+        <li><a href="javascript:goTo('privateWealthManagement')">@lang('public.private wealth management')</a>
             <ul>
-                <li><a href="javascript:goTo('investmentAdvisory')">Investment Advisory</a></li>
-                <li><a href="javascript:goTo('wealthPlanning')">Wealth Planning</a></li>
-                <li><a href="javascript:goTo('philanthropicAdvisory')">Philanthropic Advisory</a></li>
-                <li><a href="javascript:goTo('trustServices')">Trust Services</a></li>
-                <li><a href="javascript:goTo('privateClientLending')">Private Client Lending</a></li>
+                <li><a href="javascript:goTo('investmentAdvisory')">@lang('public.investment advisory')</a></li>
+                <li><a href="javascript:goTo('wealthPlanning')">@lang('public.wealth planning')</a></li>
+                <li><a href="javascript:goTo('philanthropicAdvisory')">@lang('public.philanthropic advisory')</a></li>
+                <li><a href="javascript:goTo('trustServices')">@lang('public.trust services')</a></li>
+                <li><a href="javascript:goTo('privateClientLending')">@lang('public.private client lending')</a></li>
                 <li><a href="javascript:goTo('centerForWomenAndWealth')">Center For Women &amp; Wealth</a></li>
                 <ul>
                     <li><a href="javascript:goTo('conversationsOnWomenWealthAndLeadership')">Conversations On Women,
@@ -79,11 +79,11 @@
                 </ul>
             </ul>
         </li>
-        <li><a href="javascript:goTo('corporateAdvisoryAndBanking')">Corporate Advisory &amp; Banking</a>
+        <li><a href="javascript:goTo('corporateAdvisoryAndBanking')">@lang('public.corporate advisory') &amp; Banking</a>
             <ul>
-                <li><a href="javascript:goTo('corporateAdvisory')">Corporate Advisory</a></li>
-                <li><a href="javascript:goTo('corporateBanking')">Corporate Banking</a></li>
-                <li><a href="javascript:goTo('centerForFamilyBusiness')">Center For Family Business</a></li>
+                <li><a href="javascript:goTo('corporateAdvisory')">@lang('public.corporate advisory')</a></li>
+                <li><a href="javascript:goTo('corporateBanking')">@lang('public.corporate banking')</a></li>
+                <li><a href="javascript:goTo('centerForFamilyBusiness')">@lang('public.center for family business')</a></li>
                 <ul>
                     <li><a href="javascript:goTo('definingLegacyAndTheFutureOfTheBusiness')">Defining Legacy and the Future of the Business</a></li>
                     <li><a href="javascript:goTo('buildingASupportTeam')">Building a Support Team</a></li>
@@ -96,13 +96,13 @@
                 </ul>
             </ul>
         </li>
-        <li><a href="javascript:goTo('privateEquity')">Private Equity</a>
+        <li><a href="javascript:goTo('privateEquity')">@lang('public.private equity')</a>
             <ul>
-                <li><a href="javascript:goTo('aboutWingate')">About Wingate</a></li>
-                <li><a href="javascript:goTo('investmentProfile')">Investment Profile</a></li>
+                <li><a href="javascript:goTo('aboutWingate')">@lang('public.about wingate')</a></li>
+                <li><a href="javascript:goTo('investmentProfile')">@lang('public.investment profile')</a></li>
                 <li><a href="javascript:goTo('investmentStrategyAndTransactionTypes')">Investment Strategy &amp;
                         Transaction Types</a></li>
-                <li><a href="javascript:goTo('selectPortfolioCompanies')">Select Portfolio Companies</a></li>
+                <li><a href="javascript:goTo('selectPortfolioCompanies')">@lang('public.select portfolio companies')</a></li>
             </ul>
         </li>
     </ul>

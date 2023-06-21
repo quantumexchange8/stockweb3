@@ -1,10 +1,10 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">Home</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('investmentManagement')">Investment Management</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('publicEquity')">Public Equity</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>U.S. Small & Mid-Cap Equity</strong>
+            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('investmentManagement')">@lang('public.investment management')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('publicEquity')">@lang('public.public equity')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.US small & mid-cap equity') & Mid-Cap Equity</strong>
         </span>
     </div>
     <br><br>
@@ -13,7 +13,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>U.S. Small & Mid-Cap Equity</h2>
+        <h2>@lang('public.US small & mid-cap equity') & Mid-Cap Equity</h2>
         <p style="padding-top: 10px;">
             Wingate's ("WAML") Small-to Mid-Cap Equity invests in a select number of out-of-favor and/or under-followed
             small- and mid-cap companies without using leverage or shorting. The strategy invests in eight to 15
