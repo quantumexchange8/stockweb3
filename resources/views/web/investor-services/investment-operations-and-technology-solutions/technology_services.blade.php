@@ -43,7 +43,7 @@
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
                     <h6 style="text-align: left;">
-                        <a href="javascript:goTo('accountOperatorDirectForUSDepositories')">Account Operator Direct for US Depositories</a>
+                        <a href="javascript:goTo('accountOperatorDirectForUSDepositories')">@lang('public.account operator direct for US depositories')</a>
                     </h6>
                     <p>
                         Helping global financial institutions gain direct access to US central securities depositories.
@@ -59,7 +59,7 @@
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
                     <h6 style="text-align: left;">
-                        <a href="javascript:goTo('globalCustodyDirect')">Global Custody Direct</a>
+                        <a href="javascript:goTo('globalCustodyDirect')">@lang('public.global custody direct')</a>
                     </h6>
                     <p>Helping global financial institutions expand and differentiate their global custody capabilities.
                     </p>

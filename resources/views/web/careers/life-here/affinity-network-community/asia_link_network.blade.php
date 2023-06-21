@@ -3,9 +3,9 @@
         <span>
             <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('careers')">@lang('public.careers')</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('lifeHere')">Life Here</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('affinityNetworkCommunity')">Affinity Network Community</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Asia Link Network</strong>
+            <a href="javascript:goTo('lifeHere')">@lang('public.life here')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('affinityNetworkCommunity')">@lang('public.affinity network community')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.asia link network')</strong>
         </span>
     </div>
     <br><br>
@@ -14,7 +14,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Asia Link Network</h2>
+        <h2>@lang('public.asia link network')</h2>
         <p style="padding-top: 10px;">
         <p><em>"The BANC networks have allowed me to create professional development opportunities for our members
                 while connecting with us from across the globe."</em></p>

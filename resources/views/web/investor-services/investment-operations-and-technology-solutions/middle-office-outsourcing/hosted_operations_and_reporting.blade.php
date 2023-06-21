@@ -6,7 +6,7 @@
             <a href="javascript:goTo('investmentOperationsAndTechnologySolutions')">Investment Operations & Technology
                 Solutions</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('middleOfficeOutsourcing')">@lang('public.middle office outsourcing')</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Hosted Operations & Reporting</strong>
+            &nbsp;&nbsp;<strong>@lang('public.hosted operations & reporting')</strong>
         </span>
     </div>
     <br><br>
@@ -15,7 +15,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Hosted Operations & Reporting</h2>
+        <h2>@lang('public.hosted operations & reporting')</h2>
         <p style="padding-top: 10px;">
             Wingate offers middle office operational services across the entire post-trade execution lifecycle,
             including trade management, cash administration, and collateral management. We specialize in solutions for
@@ -31,7 +31,7 @@
             <br><br>
             <strong>Shared Infrastructure & Costs</strong>
             <br><br>
-            WAML’s <a href="javascript:goTo('globalServiceModel')">global service model</a> offers access to local
+            WAML’s <a href="javascript:goTo('globalServiceModel')">@lang('public.global service model')</a> offers access to local
             servicing teams and subject matter experts, as well as scalable, efficient technology solutions. Clients
             leverage our shared infrastructure and costs as they implement their own growth plans and distribution goals
             across trading strategies and instrument types.

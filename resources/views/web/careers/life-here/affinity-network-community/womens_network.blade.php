@@ -3,9 +3,9 @@
         <span>
             <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('careers')">@lang('public.careers')</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('lifeHere')">Life Here</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('affinityNetworkCommunity')">Affinity Network Community</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Women's Network</strong>
+            <a href="javascript:goTo('lifeHere')">@lang('public.life here')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('affinityNetworkCommunity')">@lang('public.affinity network community')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.womens network')</strong>
         </span>
     </div>
     <br><br>
@@ -14,7 +14,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Women's Network</h2>
+        <h2>@lang('public.womens network')</h2>
         <p style="padding-top: 10px;">
         <p><em>“</em> <em>My involvement in the Women’s Network has provided great opportunities for me to build
                 long-term relationships with other members. This has helped me professionally, as well as given me a
@@ -94,7 +94,7 @@
                     width="75%" height="auto">
             </div>
             <div class="eight columns">
-                <h6 style="text-align: left; padding-bottom: 10px;">Greater China's Women's Network Clothing Drive
+                <h6 style="text-align: left; padding-bottom: 10px;">@lang('public.greater china')'s Women's Network Clothing Drive
                 </h6>
                 <strong>
                     {{-- <p>Little Rock, AR</p> --}}

@@ -5,7 +5,7 @@
             <a href="javascript:goTo('investorServices')">@lang('public.investor services')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('markets')">@lang('public.markets')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('foreignExchange')">@lang('public.foreign exchange')</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>FX Disclosure Statement</strong>
+            &nbsp;&nbsp;<strong>@lang('public.fx disclosure') Statement</strong>
         </span>
     </div>
     <br><br>
@@ -14,7 +14,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>FX Disclosure Statement</h2>
+        <h2>@lang('public.fx disclosure') Statement</h2>
         <p style="padding-top: 10px;">
             Introduction
             <br><br>

@@ -3,8 +3,8 @@
         <span>
             <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('careers')">@lang('public.careers')</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('lifeHere')">Life Here</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Affinity Network Community</strong>
+            <a href="javascript:goTo('lifeHere')">@lang('public.life here')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.affinity network community')</strong>
         </span>
     </div>
     <br><br>
@@ -13,7 +13,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Affinity Network Community</h2>
+        <h2>@lang('public.affinity network community')</h2>
         <p style="padding-top: 10px;">
         <p><em>“The greater our diversity and inclusion, the more we unlock human potential and the
                 greater the prosperity of WAML.” </em><strong>– <a

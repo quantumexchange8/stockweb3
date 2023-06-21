@@ -3,7 +3,7 @@
         <span>
             <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('careers')">@lang('public.careers')</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('totalRewards')">Total Rewards</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('totalRewards')">@lang('public.total rewards')</a>&nbsp;&nbsp;>
             &nbsp;&nbsp;<strong>Benefits, Wellness & Compensation</strong>
         </span>
     </div>

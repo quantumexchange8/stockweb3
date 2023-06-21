@@ -5,7 +5,7 @@
             <a href="javascript:goTo('privateBanking')">@lang('public.private banking')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('privateWealthManagement')">@lang('public.private wealth management')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('centerForWomenAndWealth')">@lang('public.center for women & wealth')</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Conversations on Women, Wealth & Leadership</strong>
+            &nbsp;&nbsp;<strong>@lang('public.conversations on women, wealth & leadership')</strong>
         </span>
     </div>
     <br><br>
@@ -14,7 +14,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Conversations on Women, Wealth & Leadership</h2>
+        <h2>@lang('public.conversations on women, wealth & leadership')</h2>
         <p style="padding-top: 10px;">
             Encouraging dialogue is the first step to creating a dynamic and inclusive environment where women can
             engage in productive conversations on topics that are of interest to them. <br><br>

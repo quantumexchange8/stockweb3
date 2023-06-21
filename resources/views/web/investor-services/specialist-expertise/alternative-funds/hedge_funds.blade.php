@@ -5,7 +5,7 @@
             <a href="javascript:goTo('investorServices')">@lang('public.investor services')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('specialistExpertise')">Sepcialist Expertise</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('alternativeFunds')">@lang('public.alternative funds')</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Hedge Funds</strong>
+            &nbsp;&nbsp;<strong>@lang('public.hedge funds')</strong>
         </span>
     </div>
     <br><br>
@@ -14,7 +14,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Hedge Funds</h2>
+        <h2>@lang('public.hedge funds')</h2>
         <p style="padding-top: 10px;">
             Wingate is a leading global service provider for alternative funds, with over $275 billion* in assets under
             administration.

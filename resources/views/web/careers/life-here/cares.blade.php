@@ -3,8 +3,8 @@
         <span>
             <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('careers')">@lang('public.careers')</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('lifeHere')">Life Here</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Cares</strong>
+            <a href="javascript:goTo('lifeHere')">@lang('public.life here')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.cares')</strong>
         </span>
     </div>
     <br><br>
@@ -13,7 +13,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Cares</h2>
+        <h2>@lang('public.cares')</h2>
         <p style="padding-top: 10px;">
         <p>WAML has a proud tradition of volunteer service. In fact, giving back is so ingrained in our
             culture that we created Cares, a philanthropic program dedicated to providing education and

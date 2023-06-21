@@ -5,7 +5,7 @@
             <a href="javascript:goTo('ourFirm')">@lang('public.our firm')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('importantStatementsAndDisclosures')">Important Statements &
                 Disclosures</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>BCP Statement</strong>
+            &nbsp;&nbsp;<strong>@lang('public.BCP statement')</strong>
         </span>
     </div>
     <br><br>
@@ -14,7 +14,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>BCP Statement</h2>
+        <h2>@lang('public.BCP statement')</h2>
         <p style="padding-top: 10px;">
             Wingate's ("WAML") Business Continuity Planning Program is a comprehensive and ongoing initiative that
             encompasses various measures to ensure the continuity of our operations. These include implementing

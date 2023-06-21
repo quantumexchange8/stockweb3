@@ -6,7 +6,7 @@
             <a href="javascript:goTo('investmentOperationsAndTechnologySolutions')">Investment Operations & Technology
                 Solutions</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('technologyServices')">@lang('public.technology services')</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Global Custody Direct</strong>
+            &nbsp;&nbsp;<strong>@lang('public.global custody direct')</strong>
         </span>
     </div>
     <br><br>
@@ -15,7 +15,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Global Custody Direct</h2>
+        <h2>@lang('public.global custody direct')</h2>
         <p style="padding-top: 10px;">
             Financial institutions seeking to expand and differentiate their global custody capabilities and more
             effectively service their clients can partner with WAML as an alternative to continued investment in legacy

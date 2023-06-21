@@ -22,11 +22,11 @@
             most successful global cross-border asset managers. In doing so we have developed a deep understanding of
             complex fund structures distributed globally.
             <br><br>
-            Our <a href="javascript:goTo('globalServiceModel')">global service model</a> assists managers to access capital pools globally, with a focus on servicing
-            <a href="javascript:goTo('luxembourg')">Luxembourg</a> and <a href="javascript:goTo('dublin')">Irish</a> domiciled UCITS and non-UCITS, U.S., Cayman, and Hong Kong domiciled funds.
+            Our <a href="javascript:goTo('globalServiceModel')">@lang('public.global service model')</a> assists managers to access capital pools globally, with a focus on servicing
+            <a href="javascript:goTo('luxembourg')">@lang('public.luxembourg')</a> and <a href="javascript:goTo('dublin')">Irish</a> domiciled UCITS and non-UCITS, U.S., Cayman, and Hong Kong domiciled funds.
             <br><br>
-            We have developed specialist expertise in supporting asset flows into and out of Europe, the <a href="javascript:goTo('greaterChina')">Greater China</a>
-            region, <a href="javascript:goTo('latinAmerica')">Latin America</a>, the U.S. and <a href="javascript:goTo('japan')">Japan</a>.
+            We have developed specialist expertise in supporting asset flows into and out of Europe, the <a href="javascript:goTo('greaterChina')">@lang('public.greater china')</a>
+            region, <a href="javascript:goTo('latinAmerica')">@lang('public.latin america')</a>, the U.S. and <a href="javascript:goTo('japan')">@lang('public.japan')</a>.
             <br><br>
             Our offering is based on three core principles:
             <br><br>

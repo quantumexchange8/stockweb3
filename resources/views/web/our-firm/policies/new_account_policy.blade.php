@@ -3,7 +3,7 @@
         <span>
             <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('ourFirm')">@lang('public.our firm')</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>New Account Policy</strong>
+            &nbsp;&nbsp;<strong>@lang('public.new account policy')</strong>
         </span>
     </div>
     <br><br>
@@ -12,7 +12,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>New Account Policy</h2>
+        <h2>@lang('public.new account policy')</h2>
         <p style="padding-top: 10px;">
             <strong>Important Information About Procedures for Opening a New Account</strong>
             <br><br>

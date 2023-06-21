@@ -5,7 +5,7 @@
             <a href="javascript:goTo('privateBanking')">@lang('public.private banking')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('corporateAdvisoryAndBanking')">@lang('public.corporate advisory & banking')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('centerForFamilyBusiness')">@lang('public.center for family business')</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Balancing Competing Interests</strong>
+            &nbsp;&nbsp;<strong>@lang('public.balancing competing interests')</strong>
         </span>
     </div>
     <br><br>
@@ -14,7 +14,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Balancing Competing Interests</h2>
+        <h2>@lang('public.balancing competing interests')</h2>
         <p style="padding-top: 10px;">
             Most companies at some point face the challenge of balancing competing interests among stakeholders, and
             family businesses are unique in that the family is one of the key constituents. While competing interests

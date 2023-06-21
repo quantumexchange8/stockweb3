@@ -5,7 +5,7 @@
             <a href="javascript:goTo('investorServices')">@lang('public.investor services')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('specialistExpertise')">Sepcialist Expertise</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('crossBorderFunds')">@lang('public.cross-border funds')</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Japan</strong>
+            &nbsp;&nbsp;<strong>@lang('public.japan')</strong>
         </span>
     </div>
     <br><br>
@@ -14,7 +14,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Japan</h2>
+        <h2>@lang('public.japan')</h2>
         <p style="padding-top: 10px;">
             Increasingly in search of diversification, retail investors, pension funds and institutional investors are
             shifting their allocation to cross-border securities. These investments are being made through Japanese

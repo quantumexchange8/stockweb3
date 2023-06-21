@@ -3,8 +3,8 @@
         <span>
             <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('careers')">@lang('public.careers')</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('whatWeLookFor')">What We Look For</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Entry Level Professionals</strong>
+            <a href="javascript:goTo('whatWeLookFor')">@lang('public.what we look for')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.entry level professionals')</strong>
         </span>
     </div>
     <br><br>
@@ -13,7 +13,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Entry Level Professionals</h2>
+        <h2>@lang('public.entry level professionals')</h2>
         <p style="padding-top: 10px;">
         <p>Are you a recent graduate searching for an ideal starting point for your professional career?
             At our organization, we seek individuals who are committed to fostering Teamwork,

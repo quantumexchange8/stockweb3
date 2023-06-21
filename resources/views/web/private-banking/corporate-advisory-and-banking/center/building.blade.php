@@ -5,7 +5,7 @@
             <a href="javascript:goTo('privateBanking')">@lang('public.private banking')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('corporateAdvisoryAndBanking')">@lang('public.corporate advisory & banking')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('centerForFamilyBusiness')">@lang('public.center for family business')</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Building a Support Team</strong>
+            &nbsp;&nbsp;<strong>@lang('public.building a support team')</strong>
         </span>
     </div>
     <br><br>
@@ -14,7 +14,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Building a Support Team</h2>
+        <h2>@lang('public.building a support team')</h2>
         <p style="padding-top: 10px;">
             Family businesses benefit meaningfully from having a network of external advisors. In our experience, many
             families find that investing time to identify and nurture relationships with other families, contemporaries

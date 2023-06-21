@@ -3,8 +3,8 @@
         <span>
             <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('careers')">@lang('public.careers')</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('totalRewards')">Total Rewards</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Ongoing Learning</strong>
+            <a href="javascript:goTo('totalRewards')">@lang('public.total rewards')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.ongoing learning')</strong>
         </span>
     </div>
     <br><br>
@@ -13,14 +13,14 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Ongoing Learning</h2>
+        <h2>@lang('public.ongoing learning')</h2>
         <p style="padding-top: 10px;">
         <p>Opportunities for learning and development begin on your first day of work at Wingate
             ("WAML") and continue throughout your career. Our approach is a mix of collaborative
             learning, on-the-job application, and online tools that help you apply new ideas and
             grow.&nbsp; Here are a few ways we support your development:</p>
         <br>
-        <p><strong>Signature Programs:</strong>&nbsp; Our custom-designed developmental programs prepare
+        <p><strong>@lang('public.signature programs'):</strong>&nbsp; Our custom-designed developmental programs prepare
             you to be a trusted advisor to our clients, providing innovative solutions to address their
             financial needs.&nbsp; We look to develop leaders at all levels within our organization and
             our specialized courses prepare you to succeed. <a href="javascript:goTo('signaturePrograms')"

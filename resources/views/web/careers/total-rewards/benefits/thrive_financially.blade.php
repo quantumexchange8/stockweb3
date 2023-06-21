@@ -3,10 +3,10 @@
         <span>
             <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('careers')">@lang('public.careers')</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('totalRewards')">Total Rewards</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('totalRewards')">@lang('public.total rewards')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('benefitsWellnessAndCompensation')">Benefits, Wellness &
                 Compensation</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Thrive Financially</strong>
+            &nbsp;&nbsp;<strong>@lang('public.thrive financially')</strong>
         </span>
     </div>
     <br><br>
@@ -15,7 +15,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Thrive Financially</h2>
+        <h2>@lang('public.thrive financially')</h2>
         <p style="padding-top: 10px;">
         <p>Our people are the cornerstone of our long-term success and a key competitive advantage. We
             strive to ensure our compensation and financial benefit programs are competitive and

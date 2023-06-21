@@ -5,8 +5,8 @@
             <a href="javascript:goTo('investorServices')">@lang('public.investor services')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('investmentOperationsAndTechnologySolutions')">@lang('public.investment operations & technology solutions')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('middleOfficeOutsourcing')">@lang('public.middle office outsourcing')</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('targetedTechnologySolutionsViaInfomediary')">Targeted Technology Solutions via Infomediary</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>InfoRecon</strong>
+            <a href="javascript:goTo('targetedTechnologySolutionsViaInfomediary')">@lang('public.targeted technology solutions via infomediary')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.inforecon')</strong>
         </span>
     </div>
     <br><br>
@@ -15,7 +15,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>InfoRecon</h2>
+        <h2>@lang('public.inforecon')</h2>
         <p style="padding-top: 10px;">
             WAML Infomediary® offers a number of exclusive modular applications layered atop the messaging and
             connectivity engine, including InfoRecon®, a scalable outsource solution that provides an automated process

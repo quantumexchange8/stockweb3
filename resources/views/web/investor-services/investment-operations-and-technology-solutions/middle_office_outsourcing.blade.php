@@ -64,7 +64,7 @@
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
                     <h6 style="text-align: left;">
-                        <a href="javascript:goTo('hostedOperationsAndReporting')">Hosted Operations & Reporting</a>
+                        <a href="javascript:goTo('hostedOperationsAndReporting')">@lang('public.hosted operations & reporting')</a>
                     </h6>
                     <p>Offering middle office operational services that add transparency and efficiency across the
                         entire post-trade lifecycle.

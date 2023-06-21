@@ -3,9 +3,9 @@
         <span>
             <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('careers')">@lang('public.careers')</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('lifeHere')">Life Here</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('affinityNetworkCommunity')">Affinity Network Community</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Black Affinity Network</strong>
+            <a href="javascript:goTo('lifeHere')">@lang('public.life here')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('affinityNetworkCommunity')">@lang('public.affinity network community')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.black affinity network')</strong>
         </span>
     </div>
     <br><br>
@@ -14,7 +14,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Black Affinity Network</h2>
+        <h2>@lang('public.black affinity network')</h2>
         <p style="padding-top: 10px;">
         <p><em>“I am proud to be part of an organization that celebrates diversity and doesn’t ask people to conform
                 in order to belong. We are naturally curious and look to broaden their knowledge by collaborating
@@ -97,7 +97,7 @@
                 <strong>
                     {{-- <p>Little Rock, AR</p> --}}
                 </strong>
-                <p>Black Affinity Network members gathered for their annual poetry reading during Black History Month to
+                <p>@lang('public.black affinity network') members gathered for their annual poetry reading during Black History Month to
                     celebrate literary works and poems that honor ground-breakers and courageous innovators who have
                     changed the world.
                 </p>

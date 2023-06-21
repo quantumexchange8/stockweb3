@@ -5,7 +5,7 @@
             <a href="javascript:goTo('investorServices')">@lang('public.investor services')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('markets')">@lang('public.markets')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('foreignExchange')">@lang('public.foreign exchange')</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Regulatory Reporting Requirements</strong>
+            &nbsp;&nbsp;<strong>@lang('public.regulatory reporting requirements')</strong>
         </span>
     </div>
     <br><br>
@@ -14,7 +14,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Regulatory Reporting Requirements</h2>
+        <h2>@lang('public.regulatory reporting requirements')</h2>
         <p style="padding-top: 10px;">
             In accordance with relevant Dodd-Frank/CFTC reporting requirements, Wingate (“WAML”) began reporting certain
             Covered FX Transactions to its swap data repository, DTCC Data Repository (U.S.) LLC, on April 10, 2013.

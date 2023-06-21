@@ -21,7 +21,7 @@
             domiciled alternative funds, to institutional and wholesale investors.
             <br><br>
             Transfer Agency is a core component of WAML’s overall cross-border service offering. We support our clients
-            and their investors in close to 100 countries throughout the world via our <a href="javascript:goTo('globalServiceModel')">global service model</a>. Our service
+            and their investors in close to 100 countries throughout the world via our <a href="javascript:goTo('globalServiceModel')">@lang('public.global service model')</a>. Our service
             covers core processing and shareholder services as well as <a href="javascript:goTo('distributionIntelligence')">@lang('public.distribution intelligence')</a>.
             <br><br>
             We excel in servicing complex fund structures and key features of our offering include:

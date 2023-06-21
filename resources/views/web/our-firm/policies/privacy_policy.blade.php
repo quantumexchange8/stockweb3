@@ -3,7 +3,7 @@
         <span>
             <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('ourFirm')">@lang('public.our firm')</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Privacy Policy</strong>
+            &nbsp;&nbsp;<strong>@lang('public.privacy policy')</strong>
         </span>
     </div>
     <br><br>
@@ -11,7 +11,7 @@
 </div>
 <div class="container">
     <div class="eleven columns">
-        <h2>Privacy Policy</h2>
+        <h2>@lang('public.privacy policy')</h2>
         <p style="padding-top: 10px;">
         <div>
             <div class="teaser-text">
@@ -102,7 +102,7 @@
                     link web pages to particular web servers and their cookies. We may also collect information
                     from your browser, such as your browsing history on the Sites, and use it in conjunction
                     with data gathered from forms and emails to help understand and respond to your needs. See
-                    our <a href="privacy-policy/cookie-policy.html" target="_blank">Cookie Policy</a> for more
+                    our <a href="privacy-policy/cookie-policy.html" target="_blank">@lang('public.cookie policy')</a> for more
                     information.</p>
                 <p><em>“Do Not Track” Signals</em></p>
                 <p>Your browser settings may allow you to transmit a “Do Not Track” signal to websites and
@@ -167,13 +167,13 @@
                     personal information for the purposes described above because we have a legitimate interest
                     in operating and improving our Sites that is not overridden by your interests, rights and
                     freedoms to protect personal information about you.&nbsp; See our <a
-                        href="privacy-policy/cookie-policy.html" target="_blank">Cookie Policy</a> for more
+                        href="privacy-policy/cookie-policy.html" target="_blank">@lang('public.cookie policy')</a> for more
                     information.&nbsp;</p>
                 <p>We also collect personal information when you engage with our email communications.&nbsp;
                     This includes email open and click information, and any responses submitted to our event
                     communications.&nbsp; We use personal information for these purposes because we have a
                     legitimate interest in growing our business and developing our marketing strategy. See our
-                    <a href="privacy-policy/cookie-policy.html" target="_blank">Cookie Policy</a> for more
+                    <a href="privacy-policy/cookie-policy.html" target="_blank">@lang('public.cookie policy')</a> for more
                     information.
                 </p>
                 <p><em>Other uses of your personal information</em></p>
@@ -187,7 +187,7 @@
                     which purport to come from you by calling back a telephone number which you have previously
                     provided to us.&nbsp; By providing us with a mobile phone number for call back purposes, or
                     by submitting an instruction, you authorize (on behalf of yourself and any Authorized
-                    Person) that the appropriate carrier (AT&amp;T, Sprint, T-Mobile, U.S. Cellular, Verizon or
+                    Person) that the appropriate carrier (AT&T, Sprint, T-Mobile, U.S. Cellular, Verizon or
                     any other branded operator) may disclose to us and our third-party service providers the
                     mobile number, network status, customer type, customer’s role, billing type, mobile device
                     identifiers (IMSI [International Mobile Subscriber Identity] and IMEI [International Mobile

@@ -3,8 +3,8 @@
         <span>
             <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('careers')">@lang('public.careers')</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('totalRewards')">Total Rewards</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Mobility</strong>
+            <a href="javascript:goTo('totalRewards')">@lang('public.total rewards')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.mobility')</strong>
         </span>
     </div>
     <br><br>
@@ -13,7 +13,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Mobility</h2>
+        <h2>@lang('public.mobility')</h2>
         <p style="padding-top: 10px;">
         <p>Wingate ("WAML") provides countless opportunities throughout your career to hone your
             expertise, take on new challenges, and reinvent yourself in new roles and business areas. We

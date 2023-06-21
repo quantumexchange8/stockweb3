@@ -5,7 +5,7 @@
             <a href="javascript:goTo('investorServices')">@lang('public.investor services')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('specialistExpertise')">Sepcialist Expertise</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('crossBorderFunds')">@lang('public.cross-border funds')</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Greater China</strong>
+            &nbsp;&nbsp;<strong>@lang('public.greater china')</strong>
         </span>
     </div>
     <br><br>
@@ -14,7 +14,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Greater China</h2>
+        <h2>@lang('public.greater china')</h2>
         <p style="padding-top: 10px;">
             China is liberalizing its capital markets at a dramatic pace with cross-border flows into and out of the
             country evolving into new access venues, which in itself, presents opportunities for global and regional
@@ -26,7 +26,7 @@
             <br><br>
             From our offices in Hong Kong and Beijing, we provide a full suite of services including custody, funds
             servicing and markets products in our clients’ regional languages as part of our
-            <a href="javascript:goTo('globalServiceModel')">global service model</a>.
+            <a href="javascript:goTo('globalServiceModel')">@lang('public.global service model')</a>.
             <br><br>
             WAML is focused on Greater China, where it maintains a strong presence and provides services for
             <a href="javascript:goTo('')">Hong Kong-domiciled funds</a>, UCITS, QFII, RQFII, RQFII ETF, and QDII

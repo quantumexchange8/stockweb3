@@ -3,7 +3,7 @@
         <span>
             <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('ourFirm')">@lang('public.our firm')</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Our Mission & Profile</strong>
+            &nbsp;&nbsp;<strong>@lang('public.our mission & profile')</strong>
         </span>
     </div>
     <br><br>
@@ -12,7 +12,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Our Mission & Profile</h2>
+        <h2>@lang('public.our mission & profile')</h2>
         <p style="padding-top: 10px;">
             At Wingate ("WAML"), our purpose is clear and concise: to safeguard our clients' financial well-being and
             foster the growth of their assets over extended periods. Placing our clients at the forefront of our

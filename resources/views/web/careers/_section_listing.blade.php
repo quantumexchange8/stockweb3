@@ -31,15 +31,15 @@
             <img src="{{ asset('images/resource/career1.jpeg') }}" alt="" />
         </div>
         <div class="eight columns">
-            <h6><a href="javascript:goTo('whatWeLookFor')">What We Look For</a></h6>
+            <h6><a href="javascript:goTo('whatWeLookFor')">@lang('public.what we look for')</a></h6>
             <p>We actively seek individuals who bring diverse perspectives and experiences to our organization, as they
                 are crucial to our success. Our employees possess an entrepreneurial mindset and demonstrate ownership
                 thinking at every level of the organization.</p>
             <div class="blog-tag" style="padding-top: 10px;">
-                <a href="javascript:goTo('undergraduateInternships')">Undergraduate Internships</a>
-                <a href="javascript:goTo('experiencedProfessionals')">Experienced Professionals</a>
-                <a href="javascript:goTo('entryLevelProfessionals')">Entry Level Professionals</a>
-                <a href="javascript:goTo('restart')">Restart@</a>
+                <a href="javascript:goTo('undergraduateInternships')">@lang('public.undergraduate internships')</a>
+                <a href="javascript:goTo('experiencedProfessionals')">@lang('public.experienced professionals')</a>
+                <a href="javascript:goTo('entryLevelProfessionals')">@lang('public.entry level professionals')</a>
+                <a href="javascript:goTo('restart')">@lang('public.restart')@</a>
             </div>
             <div class="clear"></div>
             <div class="link-blog">
@@ -64,10 +64,10 @@
                 that we focus on outcomes and value the impact you make. We believe in empowering our employees to live
                 their best lives, both personally and professionally.</p>
             <div class="blog-tag">
-                <a href="javascript:goTo('benefitsWellnessAndCompensation')">Benefits, Wellness and Compensation</a>
-                <a href="javascript:goTo('ongoingLearning')">Ongoing Learning</a>
-                <a href="javascript:goTo('careerManagement')">Career Management</a>
-                <a href="javascript:goTo('mobility')">Mobility</a>
+                <a href="javascript:goTo('benefitsWellnessAndCompensation')">@lang('public.benefits, wellness and compensation')</a>
+                <a href="javascript:goTo('ongoingLearning')">@lang('public.ongoing learning')</a>
+                <a href="javascript:goTo('careerManagement')">@lang('public.career management')</a>
+                <a href="javascript:goTo('mobility')">@lang('public.mobility')</a>
             </div>
             <div class="clear"></div>
             <div class="link-blog">

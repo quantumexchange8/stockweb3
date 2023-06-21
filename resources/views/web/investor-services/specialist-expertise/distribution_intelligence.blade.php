@@ -26,7 +26,7 @@
             <br><br>
             <strong>Strategy Execution: Operational Support</strong>
             <br><br>
-            WAML provides a unique <a href="javascript:goTo('globalServiceModel')">global service model</a> which enables asset managers to distribute
+            WAML provides a unique <a href="javascript:goTo('globalServiceModel')">@lang('public.global service model')</a> which enables asset managers to distribute
             their product in
             multiple markets. At the core of this model is our single technology platform which leads to a high level of
             global integration and coordination

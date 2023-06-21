@@ -5,7 +5,7 @@
             <a href="javascript:goTo('ourFirm')">@lang('public.our firm')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('importantStatementsAndDisclosures')">Important Statements &
                 Disclosures</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Data Protection Notice</strong>
+            &nbsp;&nbsp;<strong>@lang('public.data protection notice')</strong>
         </span>
     </div>
     <br><br>
@@ -14,7 +14,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Data Protection Notice</h2>
+        <h2>@lang('public.data protection notice')</h2>
         <p style="padding-top: 10px;">
             This notice is to make you aware of how the personal data that you provide to Wingate is processed. In this
             notice, “WAML” means one or more of the following Wingate entities with which you are contracted: Wingate

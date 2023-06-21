@@ -3,7 +3,7 @@
         <span>
             <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('careers')">@lang('public.careers')</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Total Rewards</strong>
+            &nbsp;&nbsp;<strong>@lang('public.total rewards')</strong>
         </span>
     </div>
     <br><br>
@@ -12,7 +12,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h1>Total Rewards</h1>
+        <h1>@lang('public.total rewards')</h1>
         <p style="padding-top: 10px;">
             At Wingate ("WAML"), we recognize that our employees are integral to our success and the delivery of
             exceptional solutions to our clients. To show our appreciation and support, we offer a comprehensive Total
@@ -64,7 +64,7 @@
             </div>
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;"><a href="javascript:goTo('mobility')">Mobility</a></h6>
+                    <h6 style="text-align: left;"><a href="javascript:goTo('mobility')">@lang('public.mobility')</a></h6>
                     <p>Opportunities to grow your expertise, take on new challenges, and reinvent yourself—without
                         leaving the firm.
                     </p>

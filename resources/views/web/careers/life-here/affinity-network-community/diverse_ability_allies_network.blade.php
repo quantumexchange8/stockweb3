@@ -3,9 +3,9 @@
         <span>
             <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('careers')">@lang('public.careers')</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('lifeHere')">Life Here</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('affinityNetworkCommunity')">Affinity Network Community</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Diverse Ability Allies Network</strong>
+            <a href="javascript:goTo('lifeHere')">@lang('public.life here')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('affinityNetworkCommunity')">@lang('public.affinity network community')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.diverse ability allies network')</strong>
         </span>
     </div>
     <br><br>
@@ -14,7 +14,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Diverse Ability Allies Network</h2>
+        <h2>@lang('public.diverse ability allies network')</h2>
         <p style="padding-top: 10px;">
         <p><em>"Learning how to harness your abilities, whatever they may be, is key to professional and personal
                 development. Diverse Ability Allies Network was created to connect with and without disabilities to
@@ -42,7 +42,7 @@
                 <strong>
                     {{-- <p>Little Rock, AR</p> --}}
                 </strong>
-                <p>DAAN and the <a href="javascript:goTo('parentingNetwork')">Parenting Network</a> hosted the
+                <p>DAAN and the <a href="javascript:goTo('parentingNetwork')">@lang('public.parenting network')</a> hosted the
                     International Dyslexia Association to learn about dyslexia, dispel any myths and discuss ways to
                     support those with dyslexia. Attendees also had an opportunity to experience what it feels like to
                     have dyslexia first-hand through simulation exercises.

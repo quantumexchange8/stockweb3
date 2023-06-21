@@ -5,7 +5,7 @@
             <a href="javascript:goTo('privateBanking')">@lang('public.private banking')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('corporateAdvisoryAndBanking')">@lang('public.corporate advisory & banking')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('centerForFamilyBusiness')">@lang('public.center for family business')</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Capital Policies</strong>
+            &nbsp;&nbsp;<strong>@lang('public.capital policies')</strong>
         </span>
     </div>
     <br><br>
@@ -14,7 +14,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Capital Policies</h2>
+        <h2>@lang('public.capital policies')</h2>
         <p style="padding-top: 10px;">
             Capital policies are an important component of any business. For family businesses, these policies address
             important topics like allocation of capital, permissibility of raising equity and resultant ownership

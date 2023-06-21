@@ -5,7 +5,7 @@
             <a href="javascript:goTo('ourFirm')">@lang('public.our firm')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('importantStatementsAndDisclosures')">Important Statements &
                 Disclosures</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Confidential Ethics Reporting</strong>
+            &nbsp;&nbsp;<strong>@lang('public.confidential ethics reporting')</strong>
         </span>
     </div>
     <br><br>
@@ -14,7 +14,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Confidential Ethics Reporting</h2>
+        <h2>@lang('public.confidential ethics reporting')</h2>
         <p style="padding-top: 10px;">
             This system makes it easy to report possible illegal or unethical activity.
             <br><br>

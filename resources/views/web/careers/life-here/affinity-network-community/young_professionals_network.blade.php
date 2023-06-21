@@ -3,9 +3,9 @@
         <span>
             <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('careers')">@lang('public.careers')</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('lifeHere')">Life Here</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('affinityNetworkCommunity')">Affinity Network Community</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Young Professionals Network</strong>
+            <a href="javascript:goTo('lifeHere')">@lang('public.life here')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('affinityNetworkCommunity')">@lang('public.affinity network community')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.young professionals network')</strong>
         </span>
     </div>
     <br><br>
@@ -14,7 +14,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Young Professionals Network</h2>
+        <h2>@lang('public.young professionals network')</h2>
         <p style="padding-top: 10px;">
         <p><em>"The Young Professionals Network offers fantastic opportunities for employees in the early stages of
                 their career to get involved at WAML, joining has helped me grow personally and professionally.”
@@ -53,7 +53,7 @@
                 <strong>
                     {{-- <p>Little Rock, AR</p> --}}
                 </strong>
-                <p>Cares and YPN New York City hosted an Urban Garden Rooftop event. The volunteers spent a morning
+                <p>@lang('public.cares') and YPN New York City hosted an Urban Garden Rooftop event. The volunteers spent a morning
                     planting new vegetables, weeding and watering the garden. The garden benefits local residents who
                     are learning how to farm, cook and serve more nutritious meals to their families.
                 </p>

@@ -3,8 +3,8 @@
         <span>
             <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('careers')">@lang('public.careers')</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('whatWeLookFor')">What We Look For</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Undergraduate Internships</strong>
+            <a href="javascript:goTo('whatWeLookFor')">@lang('public.what we look for')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.undergraduate internships')</strong>
         </span>
     </div>
     <br><br>
@@ -13,7 +13,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Undergraduate Internships</h2>
+        <h2>@lang('public.undergraduate internships')</h2>
         <p style="padding-top: 10px;">
         <p>
             At Wingate, we offer internship programs that provide valuable opportunities for students to

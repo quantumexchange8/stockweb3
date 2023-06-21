@@ -6,7 +6,7 @@
             <a href="javascript:goTo('investmentOperationsAndTechnologySolutions')">Investment Operations & Technology
                 Solutions</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('middleOfficeOutsourcing')">@lang('public.middle office outsourcing')</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Investment Accounting & Enterprise Data Support</strong>
+            &nbsp;&nbsp;<strong>@lang('public.investment accounting & enterprise data support')</strong>
         </span>
     </div>
     <br><br>
@@ -15,7 +15,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Investment Accounting & Enterprise Data Support</h2>
+        <h2>@lang('public.investment accounting & enterprise data support')</h2>
         <p style="padding-top: 10px;">
             The increasing complexity of capital markets, investment products, and the regulatory environment
             necessitates greater clarity and a real-time view into investment activity. There is a premium associated

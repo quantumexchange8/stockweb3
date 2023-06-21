@@ -3,8 +3,8 @@
         <span>
             <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('ourFirm')">@lang('public.our firm')</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('privacyPolicy')">Privacy Policy</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Cookie Policy</strong>
+            <a href="javascript:goTo('privacyPolicy')">@lang('public.privacy policy')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.cookie policy')</strong>
         </span>
     </div>
     <br><br>
@@ -13,7 +13,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Cookie Policy</h2>
+        <h2>@lang('public.cookie policy')</h2>
         <p style="padding-top: 10px;">
         <div class="teaser-text">
             <p><strong>IMPORTANT NOTICE: PLEASE READ BEFORE USING THIS WEBSITE:</strong><br><em>Last

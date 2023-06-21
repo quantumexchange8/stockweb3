@@ -69,32 +69,32 @@
     <h5>@lang('public.our firm')</h5>
     <hr>
     <ul>
-        <li><a href="javascript:goTo('thePartnership')">The Partnership</a>
-        <li><a href="javascript:goTo('ourMissionAndProfile')">Our Mission & Profile</a>
+        <li><a href="javascript:goTo('thePartnership')">@lang('public.the partnership')</a>
+        <li><a href="javascript:goTo('ourMissionAndProfile')">@lang('public.our mission & profile')</a>
         <li><a href="javascript:goTo('sustainability')">@lang('public.sustainability')</a>
-        <li><a href="javascript:goTo('philanthropy')">Philanthropy</a>
-        <li><a href="javascript:goTo('policiesAndDisclosures')">Policies & Disclosures</a>
+        <li><a href="javascript:goTo('philanthropy')">@lang('public.philanthropy')</a>
+        <li><a href="javascript:goTo('policiesAndDisclosures')">@lang('public.policies & disclosures')</a>
             <ul>
-                <li><a href="javascript:goTo('importantStatementsAndDisclosures')">Important Statements & Disclosures</a>
+                <li><a href="javascript:goTo('importantStatementsAndDisclosures')">@lang('public.important statements & disclosures')</a>
                     <ul>
-                        <li><a href="javascript:goTo('dataProtectionNotice')">Data Protection Notice</a></li>
-                        <li><a href="javascript:goTo('onlineSecurity')">Online Security</a></li>
-                        <li><a href="javascript:goTo('bcpStatement')">BCP Statement</a></li>
-                        <li><a href="javascript:goTo('regulationE')">Regulation E</a></li>
-                        <li><a href="javascript:goTo('additionalDisclosures')">Additional Disclosures</a></li>
-                        <li><a href="javascript:goTo('confidentialEthicsReporting')">Confidential Ethics Reporting</a></li>
+                        <li><a href="javascript:goTo('dataProtectionNotice')">@lang('public.data protection notice')</a></li>
+                        <li><a href="javascript:goTo('onlineSecurity')">@lang('public.online security')</a></li>
+                        <li><a href="javascript:goTo('bcpStatement')">@lang('public.BCP statement')</a></li>
+                        <li><a href="javascript:goTo('regulationE')">@lang('public.regulation E')</a></li>
+                        <li><a href="javascript:goTo('additionalDisclosures')">@lang('public.additional disclosures')</a></li>
+                        <li><a href="javascript:goTo('confidentialEthicsReporting')">@lang('public.confidential ethics reporting')</a></li>
                     </ul>
                 </li>
-                <li><a href="javascript:goTo('legal')">Legal</a></li>
-                <li><a href="javascript:goTo('privacyPolicy')">Privacy Policy</a>
+                <li><a href="javascript:goTo('legal')">@lang('public.legal')</a></li>
+                <li><a href="javascript:goTo('privacyPolicy')">@lang('public.privacy policy')</a>
                     <ul>
-                        <li><a href="javascript:goTo('cookiePolicy')">Cookie Policy</a></li>
-                        <li><a href="javascript:goTo('manageCookies')">Manage Cookies</a></li>
-                        <li><a href="javascript:goTo('personalInformationRequest')">Personal Information Request</a></li>
+                        <li><a href="javascript:goTo('cookiePolicy')">@lang('public.cookie policy')</a></li>
+                        <li><a href="javascript:goTo('manageCookies')">@lang('public.manage cookies')</a></li>
+                        <li><a href="javascript:goTo('personalInformationRequest')">@lang('public.personal information request')</a></li>
                     </ul>
                 </li>
-                <li><a href="javascript:goTo('newAccountPolicy')">New Account Policy</a></li>
-                <li><a href="javascript:goTo('usaPatriotAct')">USA PATRIOT Act</a></li>
+                <li><a href="javascript:goTo('newAccountPolicy')">@lang('public.new account policy')</a></li>
+                <li><a href="javascript:goTo('usaPatriotAct')">@lang('public.USA patriot act')</a></li>
             </ul>
         </li>
     </ul>

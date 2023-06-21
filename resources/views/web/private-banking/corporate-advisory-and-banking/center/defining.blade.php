@@ -5,7 +5,7 @@
             <a href="javascript:goTo('privateBanking')">@lang('public.private banking')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('corporateAdvisoryAndBanking')">@lang('public.corporate advisory & banking')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('centerForFamilyBusiness')">@lang('public.center for family business')</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Defining Legacy and The Future of The Business</strong>
+            &nbsp;&nbsp;<strong>@lang('public.defining legacy and the future of the business')</strong>
         </span>
     </div>
     <br><br>
@@ -14,7 +14,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Defining Legacy and The Future of The Business</h2>
+        <h2>@lang('public.defining legacy and the future of the business')</h2>
         <p style="padding-top: 10px;">
             Many successful families create legacies. In families that manage multigenerational family businesses,
             legacy is often deliberately built, enhanced and passed from generation to generation. For family business

@@ -5,7 +5,7 @@
             <a href="javascript:goTo('privateBanking')">@lang('public.private banking')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('corporateAdvisoryAndBanking')">@lang('public.corporate advisory & banking')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('centerForFamilyBusiness')">@lang('public.center for family business')</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Governance and Communications</strong>
+            &nbsp;&nbsp;<strong>@lang('public.governance and communications')</strong>
         </span>
     </div>
     <br><br>
@@ -14,7 +14,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Governance and Communications</h2>
+        <h2>@lang('public.governance and communications')</h2>
         <p style="padding-top: 10px;">
             As family businesses grow over time, the number of shareholders across generations tends to increase. In
             many cases, the majority of family members who own shares do not work for the business. Yet, as family

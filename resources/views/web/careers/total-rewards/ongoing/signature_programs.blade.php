@@ -3,9 +3,9 @@
         <span>
             <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('careers')">@lang('public.careers')</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('totalRewards')">Total Rewards</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('benefitsWellnessAndCompensation')">Ongoing Learning</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Signature Programs</strong>
+            <a href="javascript:goTo('totalRewards')">@lang('public.total rewards')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('benefitsWellnessAndCompensation')">@lang('public.ongoing learning')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.signature programs')</strong>
         </span>
     </div>
     <br><br>
@@ -14,7 +14,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Signature Programs</h2>
+        <h2>@lang('public.signature programs')</h2>
         <p style="padding-top: 10px;">
         <p>Our signature development programs are tailored to Wingate’s ("WAML") unique culture, helping
             you as you progress in your career to grow as a leader, build long-term relationships, and

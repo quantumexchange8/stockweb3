@@ -3,9 +3,9 @@
         <span>
             <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('careers')">@lang('public.careers')</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('lifeHere')">Life Here</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('affinityNetworkCommunity')">Affinity Network Community</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Latino Cultural Network</strong>
+            <a href="javascript:goTo('lifeHere')">@lang('public.life here')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('affinityNetworkCommunity')">@lang('public.affinity network community')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.latino cultural network')</strong>
         </span>
     </div>
     <br><br>
@@ -14,7 +14,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Latino Cultural Network</h2>
+        <h2>@lang('public.latino cultural network')</h2>
         <p style="padding-top: 10px;">
         <p><em>"Within the Latino Cultural Network (LCN), I found a home. LCN has connected me with mentorship and
                 networking opportunities that have helped me grow in my career. Together with leaders from across
@@ -79,7 +79,7 @@
                 <strong>
                     {{-- <p>Little Rock, AR</p> --}}
                 </strong>
-                <p>Cares and LCN Jersey City partnered with PerScholas New York City to review resumes and conduct mock
+                <p>@lang('public.cares') and LCN Jersey City partnered with PerScholas New York City to review resumes and conduct mock
                     interviews with students seeking employment in the technical industry. PerScholas is a school that
                     helps individuals in under‐represented communities receive training in the skills required to
                     broaden their qualifications for IT jobs and succeed in the technical industry.

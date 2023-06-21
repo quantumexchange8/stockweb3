@@ -5,7 +5,7 @@
             <a href="javascript:goTo('ourFirm')">@lang('public.our firm')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('importantStatementsAndDisclosures')">Important Statements &
                 Disclosures</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Online Security</strong>
+            &nbsp;&nbsp;<strong>@lang('public.online security')</strong>
         </span>
     </div>
     <br><br>
@@ -14,7 +14,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Online Security</h2>
+        <h2>@lang('public.online security')</h2>
         <p style="padding-top: 10px;">
             <span style="font-style: italic;">Last Updated: November 11, 2022</span>
             <br><br>

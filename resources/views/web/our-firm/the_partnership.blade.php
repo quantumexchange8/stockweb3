@@ -3,7 +3,7 @@
         <span>
             <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('ourFirm')">@lang('public.our firm')</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>The Partnership</strong>
+            &nbsp;&nbsp;<strong>@lang('public.the partnership')</strong>
         </span>
     </div>
     <br><br>
@@ -12,7 +12,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>The Partnership</h2>
+        <h2>@lang('public.the partnership')</h2>
         <p style="padding-top: 10px;">
             Our partnership is characterized by its flat hierarchy, collaboration, and transparency. It serves as an
             organizational structure that fosters innovation and agility, ensuring that the best ideas swiftly emerge.

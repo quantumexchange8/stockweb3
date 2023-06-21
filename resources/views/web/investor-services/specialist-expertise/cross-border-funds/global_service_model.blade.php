@@ -5,7 +5,7 @@
             <a href="javascript:goTo('investorServices')">@lang('public.investor services')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('specialistExpertise')">Sepcialist Expertise</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('crossBorderFunds')">@lang('public.cross-border funds')</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Global Service Model</strong>
+            &nbsp;&nbsp;<strong>@lang('public.global service model')</strong>
         </span>
     </div>
     <br><br>
@@ -14,7 +14,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Global Service Model</h2>
+        <h2>@lang('public.global service model')</h2>
         <p style="padding-top: 10px;">
             Sophisticated asset managers require the highest quality investor servicing, regardless of location or time
             zone.

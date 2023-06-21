@@ -33,7 +33,7 @@
             <img src="{{ asset('images/resource/the-partnership.jpg') }}" alt="" />
         </div>
         <div class="eight columns">
-            <h6><a href="javascript:goTo('thePartnership')">The Partnership</a></h6>
+            <h6><a href="javascript:goTo('thePartnership')">@lang('public.the partnership')</a></h6>
             <p>Our esteemed global leadership team</p>
             <div class="clear"></div>
             <div class="link-blog">
@@ -72,7 +72,7 @@
             <img src="{{ asset('images/resource/philanthropy.jpg') }}" alt="" />
         </div>
         <div class="eight columns">
-            <h6><a href="javascript:goTo('philanthropy')">Philanthropy</a></h6>
+            <h6><a href="javascript:goTo('philanthropy')">@lang('public.philanthropy')</a></h6>
             <p>Demonstrating compassion for the community while fostering strong relationships with our colleagues.
             </p>
             <div class="clear"></div>

@@ -3,7 +3,7 @@
         <span>
             <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('careers')">@lang('public.careers')</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>What We Look For</strong>
+            &nbsp;&nbsp;<strong>@lang('public.what we look for')</strong>
         </span>
     </div>
     <br><br>
@@ -12,7 +12,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h1>What We Look For</h1>
+        <h1>@lang('public.what we look for')</h1>
         <p style="padding-top: 10px;">
             At Wingate, your career path is yours to define. We hire bright self-starters,
             provide them the tools to succeed, and give them the freedom to excel.
@@ -61,7 +61,7 @@
             </div>
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;"><a href="javascript:goTo('restart')">Restart@</a></h6>
+                    <h6 style="text-align: left;"><a href="javascript:goTo('restart')">@lang('public.restart')@</a></h6>
                     <p>Build valuable experience and refresh your skills while transitioning back into the corporate
                         workforce after a personal absence through a paid, 10-week Restart Assignment.
                     </p>

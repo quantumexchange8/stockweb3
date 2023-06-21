@@ -3,8 +3,8 @@
         <span>
             <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('careers')">@lang('public.careers')</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('lifeHere')">Life Here</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Our Culture</strong>
+            <a href="javascript:goTo('lifeHere')">@lang('public.life here')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.our culture')</strong>
         </span>
     </div>
     <br><br>
@@ -13,7 +13,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Our Culture</h2>
+        <h2>@lang('public.our culture')</h2>
         <p style="padding-top: 10px;">
         <p>At Wingate ("WAML"), going above and beyond for our clients will always be the expectation,
             not the exception. Our goal is to be the best, not the biggest. We strive to be the most

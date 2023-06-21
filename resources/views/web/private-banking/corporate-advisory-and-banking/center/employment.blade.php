@@ -5,7 +5,7 @@
             <a href="javascript:goTo('privateBanking')">@lang('public.private banking')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('corporateAdvisoryAndBanking')">@lang('public.corporate advisory & banking')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('centerForFamilyBusiness')">@lang('public.center for family business')</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Employment Policies</strong>
+            &nbsp;&nbsp;<strong>@lang('public.employment policies')</strong>
         </span>
     </div>
     <br><br>
@@ -14,7 +14,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Employment Policies</h2>
+        <h2>@lang('public.employment policies')</h2>
         <p style="padding-top: 10px;">
             All businesses that reach a critical size should have employment policies. For family businesses
             –particularly those owned by large multigenerational families – employment policies are more nuanced. One

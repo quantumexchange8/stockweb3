@@ -42,13 +42,13 @@
             <br><br>
             Click to view our:
             <br><br>
-            <a href="javascript:goTo('tokyoFixingRates')">Tokyo Fixing Rates</a>
+            <a href="javascript:goTo('tokyoFixingRates')">@lang('public.tokyo fixing rates')</a>
             <br><br>
-            <a href="javascript:goTo('termsAndConditions')">Terms and Conditions</a>
+            <a href="javascript:goTo('termsAndConditions')">@lang('public.terms and conditions')</a>
             <br><br>
-            <a href="javascript:goTo('regulatoryReportingRequirements')">Regulatory Reporting Requirements</a>
+            <a href="javascript:goTo('regulatoryReportingRequirements')">@lang('public.regulatory reporting requirements')</a>
             <br><br>
-            <a href="javascript:goTo('fxDisclosure')">FX Disclosure Statement</a>
+            <a href="javascript:goTo('fxDisclosure')">@lang('public.fx disclosure') Statement</a>
         </p>
     </div>
     <div class="five columns">

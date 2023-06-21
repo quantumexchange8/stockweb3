@@ -3,8 +3,8 @@
         <span>
             <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('careers')">@lang('public.careers')</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('whatWeLookFor')">What We Look For</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Restart@</strong>
+            <a href="javascript:goTo('whatWeLookFor')">@lang('public.what we look for')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.restart')@</strong>
         </span>
     </div>
     <br><br>
@@ -13,13 +13,13 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Restart@</h2>
+        <h2>@lang('public.restart')@</h2>
         <p style="padding-top: 10px;">
         <p><strong>Are you or is someone you know considering a return to the workforce following a
                 break from the corporate world?</strong>
         </p>
         <br>
-        <p>Restart@ enables candidates who've been out of the workforce for two years or more to return
+        <p>@lang('public.restart')@ enables candidates who've been out of the workforce for two years or more to return
             to a corporate setting through a paid Restart Assignment. Skills and interests are matched
             with business needs to create successful outcomes and lasting partnerships. Along with
             gaining valuable experience and refreshing skills, participants will receive training and
@@ -33,7 +33,7 @@
             <li>Candidates cannot leave a job to join the Restart Program</li>
             <li>Former WAML Employees, as well as those new to the Firm, are encouraged to apply</li>
             <li>Candidates must be able to work in locations where the program is currently available
-                (Boston, New Jersey, New York &amp; Dublin)</li>
+                (Boston, New Jersey, New York & Dublin)</li>
             <li>The program runs for 10 weeks in U.S. locations and for 16 weeks in Dublin.</li>
         </div>
         <br>

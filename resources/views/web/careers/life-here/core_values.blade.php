@@ -3,8 +3,8 @@
         <span>
             <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('careers')">@lang('public.careers')</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('lifeHere')">Life Here</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Core Values</strong>
+            <a href="javascript:goTo('lifeHere')">@lang('public.life here')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.core values')</strong>
         </span>
     </div>
     <br><br>
@@ -13,7 +13,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Core Values</h2>
+        <h2>@lang('public.core values')</h2>
         <p style="padding-top: 10px;">
         <p>While times have changed since we opened our doors, one thing that has remained constant is
             our commitment to our clients and core values. Bringing together people and capabilities to

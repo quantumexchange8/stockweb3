@@ -5,7 +5,7 @@
             <a href="javascript:goTo('ourFirm')">@lang('public.our firm')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('importantStatementsAndDisclosures')">Important Statements &
                 Disclosures</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Additional Disclosures</strong>
+            &nbsp;&nbsp;<strong>@lang('public.additional disclosures')</strong>
         </span>
     </div>
     <br><br>
@@ -14,7 +14,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Additional Disclosures</h2>
+        <h2>@lang('public.additional disclosures')</h2>
         <p style="padding-top: 10px;">
             The information provided in this material is solely for informational purposes and should not be considered
             as legal, tax, or investment advice. It does not constitute an offer to sell or a solicitation to buy

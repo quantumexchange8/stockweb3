@@ -5,7 +5,7 @@
             <a href="javascript:goTo('privateBanking')">@lang('public.private banking')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('corporateAdvisoryAndBanking')">@lang('public.corporate advisory & banking')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('centerForFamilyBusiness')">@lang('public.center for family business')</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Distributions and Family Liquidity</strong>
+            &nbsp;&nbsp;<strong>@lang('public.distributions and family liquidity')</strong>
         </span>
     </div>
     <br><br>
@@ -14,7 +14,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Distributions and Family Liquidity</h2>
+        <h2>@lang('public.distributions and family liquidity')</h2>
         <p style="padding-top: 10px;">
             Many family businesses have family members who own shares but do not work at the company. As such, it is
             important to set policies for generating liquidity for shareholders and communicate them. Family

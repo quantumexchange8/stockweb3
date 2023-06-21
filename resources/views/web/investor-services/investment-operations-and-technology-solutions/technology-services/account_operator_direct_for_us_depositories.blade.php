@@ -6,7 +6,7 @@
             <a href="javascript:goTo('investmentOperationsAndTechnologySolutions')">Investment Operations & Technology
                 Solutions</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('technologyServices')">@lang('public.technology services')</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Account Operator Direct For US Depositories</strong>
+            &nbsp;&nbsp;<strong>@lang('public.account operator direct for US depositories')</strong>
         </span>
     </div>
     <br><br>
@@ -15,7 +15,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Account Operator Direct For US Depositories</h2>
+        <h2>@lang('public.account operator direct for US depositories')</h2>
         <p style="padding-top: 10px;">
             Wingate Account Operator enables our global financial institution clients to gain direct access to US
             central securities depositories leveraging WAML as a technology and service provider.

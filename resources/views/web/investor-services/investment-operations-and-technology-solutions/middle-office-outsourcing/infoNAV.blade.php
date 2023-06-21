@@ -8,7 +8,7 @@
             <a href="javascript:goTo('middleOfficeOutsourcing')">@lang('public.middle office outsourcing')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('targetedTechnologySolutionsViaInfomediary')">Targeted Technology Solutions via
                 Infomediary</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>InfoNAV</strong>
+            &nbsp;&nbsp;<strong>@lang('public.infonav')</strong>
         </span>
     </div>
     <br><br>
@@ -17,7 +17,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>InfoNAV</h2>
+        <h2>@lang('public.infonav')</h2>
         <p style="padding-top: 10px;">
             InfoNAV® is a scalable, independent, secondary NAV calculation tool which enables asset managers to monitor
             the NAV production process across all their administrators. The application provides clients with

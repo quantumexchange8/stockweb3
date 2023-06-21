@@ -52,7 +52,7 @@
         <div class="five columns">
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;"><a href="javascript:goTo('coreValues')">Core Values</a></h6>
+                    <h6 style="text-align: left;"><a href="javascript:goTo('coreValues')">@lang('public.core values')</a></h6>
                     <p>A unique culture that emphasizes Teamwork, Integrity, and Excellence—the values that drive our
                         success.
                     </p>
@@ -65,7 +65,7 @@
             </div>
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;"><a href="javascript:goTo('cares')">Cares</a></h6>
+                    <h6 style="text-align: left;"><a href="javascript:goTo('cares')">@lang('public.cares')</a></h6>
                     <p>Give back to your community and help transform the lives of others while inspiring a spirit of citizenship.
                     </p>
                     <div class="clear"></div>

@@ -3,7 +3,7 @@
         <span>
             <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('ourFirm')">@lang('public.our firm')</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>The Partnership</strong>
+            &nbsp;&nbsp;<strong>@lang('public.the partnership')</strong>
         </span>
     </div>
     <br><br>
@@ -12,7 +12,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>The Partnership</h2>
+        <h2>@lang('public.the partnership')</h2>
         <p style="padding-top: 10px;">
             With over 26 years of experience, Wingate has established itself as a stalwart in the industry.
             Sustainability, which entails a resolute dedication to long-term value and well-being, lies at the heart of

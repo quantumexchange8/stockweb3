@@ -14,8 +14,8 @@
         <span>
             <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('ourFirm')">@lang('public.our firm')</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('privacyPolicy')">Privacy Policy</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Manage Cookies</strong>
+            <a href="javascript:goTo('privacyPolicy')">@lang('public.privacy policy')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.manage cookies')</strong>
         </span>
     </div>
     <br><br>
@@ -24,7 +24,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Manage Cookies</h2>
+        <h2>@lang('public.manage cookies')</h2>
         <p style="padding-top: 10px;">
         <div class="teaser-text">
             <p>Based on your browser version, browser settings, and device settings, the below instructions

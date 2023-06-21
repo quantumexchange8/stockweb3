@@ -5,7 +5,7 @@
             <a href="javascript:goTo('privateBanking')">@lang('public.private banking')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('corporateAdvisoryAndBanking')">@lang('public.corporate advisory & banking')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('centerForFamilyBusiness')">@lang('public.center for family business')</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Succession Planning – Management and Ownership</strong>
+            &nbsp;&nbsp;<strong>@lang('public.succession planning – management and ownership')</strong>
         </span>
     </div>
     <br><br>
@@ -14,7 +14,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Succession Planning – Management and Ownership</h2>
+        <h2>@lang('public.succession planning – management and ownership')</h2>
         <p style="padding-top: 10px;">
             Most enduring businesses consider and plan for management succession. For family businesses, this topic can
             be particularly pertinent, especially where management is deciding between multiple family members or a

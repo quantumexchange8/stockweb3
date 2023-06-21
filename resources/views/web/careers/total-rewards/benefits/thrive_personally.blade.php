@@ -3,10 +3,10 @@
         <span>
             <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('careers')">@lang('public.careers')</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('totalRewards')">Total Rewards</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('totalRewards')">@lang('public.total rewards')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('benefitsWellnessAndCompensation')">Benefits, Wellness &
                 Compensation</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Thrive Personally</strong>
+            &nbsp;&nbsp;<strong>@lang('public.thrive personally')</strong>
         </span>
     </div>
     <br><br>
@@ -15,7 +15,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Thrive Personally</h2>
+        <h2>@lang('public.thrive personally')</h2>
         <p style="padding-top: 10px;">
         <p>Wingate ("WAML") recognizes that each employee has different needs both inside and outside
             the workplace. Our goal is to ensure you have a rewarding and productive work experience

@@ -3,9 +3,9 @@
         <span>
             <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('careers')">@lang('public.careers')</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('lifeHere')">Life Here</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('affinityNetworkCommunity')">Affinity Network Community</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Global Employee Network</strong>
+            <a href="javascript:goTo('lifeHere')">@lang('public.life here')</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('affinityNetworkCommunity')">@lang('public.affinity network community')</a>&nbsp;&nbsp;>
+            &nbsp;&nbsp;<strong>@lang('public.global employee network')</strong>
         </span>
     </div>
     <br><br>
@@ -14,7 +14,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Global Employee Network</h2>
+        <h2>@lang('public.global employee network')</h2>
         <p style="padding-top: 10px;">
         <p><em>"I’ve had the opportunity to do business in 11 of our offices over the course of my career at WAML.
                 Each new experience has positively impacted my professional and personal development. The Global
@@ -61,7 +61,7 @@
                 <strong>
                     {{-- <p>Little Rock, AR</p> --}}
                 </strong>
-                <p>Global Employee Network Kraków hosted a lunch and learn panel that discussed how to embrace and
+                <p>@lang('public.global employee network') Kraków hosted a lunch and learn panel that discussed how to embrace and
                     collaborate in a global workforce. Each panelist shared personal experiences that have positively
                     shaped their global mentality.
                 </p>

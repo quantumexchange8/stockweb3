@@ -3,7 +3,7 @@
         <span>
             <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('investmentManagement')">@lang('public.investment management')</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>ESG Approach</strong>
+            &nbsp;&nbsp;<strong>@lang('public.ESG approach')</strong>
         </span>
     </div>
     <br><br>
@@ -11,7 +11,7 @@
 </div>
 <div class="container">
     <div class="sixteen columns">
-        <h2>ESG Approach</h2>
+        <h2>@lang('public.ESG approach')</h2>
         <p style="padding-top: 10px;">
             Wingate’s mission is to be the best at protecting and growing our clients’ capital over long periods of
             time. Wingate ("WAML") has performed its own investment research focusing on long-term capital preservation

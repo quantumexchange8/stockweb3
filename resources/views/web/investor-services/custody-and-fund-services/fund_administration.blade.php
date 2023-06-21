@@ -38,7 +38,7 @@
             <br><br>
             <strong>A Collaborative Approach and Service Model</strong>
             <br><br>
-            Our <a href="javascript:goTo('globalServiceModel')">global service model</a>, single global technology platform and intelligent integration of business teams
+            Our <a href="javascript:goTo('globalServiceModel')">@lang('public.global service model')</a>, single global technology platform and intelligent integration of business teams
             and technologists are central to our goal of providing a superior client experience. Regardless of client
             location or fund domicile, our service teams have access to the same systems and real-time information,
             providing one common platform for quick inquiry turnaround and continuous improvement. Our platform enables
