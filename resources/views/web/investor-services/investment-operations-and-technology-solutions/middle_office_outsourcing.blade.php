@@ -79,7 +79,7 @@
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
                     <h6 style="text-align: left;">
-                        <a href="javascript:goTo('collateralManagement')">@lang('public.collateral management')</a>
+                        <a href="javascript:goTo('collateralManagementCustody')">@lang('public.collateral management')</a>
                     </h6>
                     <p>Designing services to help insulate asset managers from the investments needed to comply with
                         complex collateral requirements.
