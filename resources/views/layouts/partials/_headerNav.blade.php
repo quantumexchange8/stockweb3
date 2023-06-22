@@ -10,14 +10,16 @@
         position: fixed;
         z-index: 99;
         width: 100%;
-        background: #242526;
+        background: #FFEBCD;
+        padding-left: 20px;
+        padding-right: 20px;
     }
 
     nav .wrapper {
         position: relative;
-        max-width: 1300px;
+        max-width: 1000px;
         padding: 0px 0px;
-        height: 70px;
+        height: 80px;
         line-height: 70px;
         margin: auto;
         display: flex;
@@ -26,11 +28,30 @@
         font-size: 12px !important;
     }
 
-    .wrapper .logos a {
+    .logo {
+        display: inline-block;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: auto;
+        height: 40px;
+        background-size:auto 40px;
+    }
+
+    .wrapper .logo a {
         color: #f2f2f2;
         font-size: 30px;
         font-weight: 600;
         text-decoration: none;
+        text-align: center;
+        margin: auto;
+        background-color: #F76F1F;
+        background-image: linear-gradient(45deg, #F76F1F, #fad65f);
+        background-size: 100%;
+        -webkit-background-clip: text;
+        -moz-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        -moz-text-fill-color: transparent;
     }
 
     .wrapper .nav-links {
@@ -44,16 +65,18 @@
     }
 
     .nav-links li a {
-        color: #f2f2f2;
+        color: #333333;
         text-decoration: none;
         font-size: 12px;
-        font-weight: 500;
+        font-weight: 700;
         padding: 9px 15px;
         border-radius: 5px;
     }
 
     .nav-links li a:hover {
-        background: #3A3B3C;
+        color: #000000;
+        background: #F89F3C;
+        transition: 0.3s ease,
     }
 
     .nav-links .mobile-item {
@@ -107,11 +130,11 @@
     }
 
     .mega-box .content {
-        background: #242526;
+        background: #FFEBCD;
         padding: 25px 20px;
         display: flex;
         width: 100%;
-        justify-content: space-between;
+        justify-content: space-around;
         flex-wrap: wrap;
         box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
     }
@@ -128,31 +151,31 @@
     }
 
     .content .row header {
-        color: #f2f2f2;
+        color: #333333;
         font-size: 16px;
-        font-weight: 500;
+        font-weight: 800;
         justify-content: center;
     }
 
     .content .row .mega-links {
-        margin-left: -40px;
-        border-top: 1px solid rgba(255, 255, 255, 0.09);
+        margin-left: -20px;
+        border-top: 1px solid rgba(0, 0, 0, 0.09);
     }
 
     .row .mega-links li {
-        padding: 0 20px;
+        padding: 0 0px;
     }
 
     .row .mega-links li a {
         padding: 0px;
         padding: 10px 20px;
-        color: #d9d9d9;
+        color: #333333;
         font-size: 12px;
         display: block;
     }
 
     .row .mega-links li a:hover {
-        color: #f2f2f2;
+        color: #000000;
     }
 
     .wrapper .btn {
@@ -168,9 +191,10 @@
         top: 10px;
     }
 
-    @media screen and (max-width: 970px) {
+    @media screen and (max-width: 821px) {
         .wrapper .btn {
             display: block;
+            color: #333333;
         }
 
         .wrapper .nav-links {
@@ -180,7 +204,7 @@
             max-width: 350px;
             top: 0;
             left: -100%;
-            background: #242526;
+            background: #FFEBCD;
             display: block;
             padding: 50px 10px;
             line-height: 50px;
@@ -195,11 +219,11 @@
         }
 
         ::-webkit-scrollbar-track {
-            background: #242526;
+            background: #FFEBCD;
         }
 
         ::-webkit-scrollbar-thumb {
-            background: #3A3B3C;
+            background: #F89F3C;
         }
 
         #menu-btn:checked~.nav-links {
@@ -219,9 +243,10 @@
         }
 
         .nav-links li a {
-            padding: 0 20px;
+            padding: 20px 20px;
             display: block;
             font-size: 20px;
+            font-weight: 700;
         }
 
         .nav-links .drop-menu {
@@ -258,17 +283,17 @@
 
         .nav-links .mobile-item {
             display: block;
-            color: #f2f2f2;
+            color: #333333;
             font-size: 20px;
-            font-weight: 500;
-            padding-left: 20px;
+            font-weight: 700;
+            padding: 15px 20px;
             cursor: pointer;
             border-radius: 5px;
             transition: all 0.3s ease;
         }
 
         .nav-links .mobile-item:hover {
-            background: #3A3B3C;
+            background: #F89F3C;
         }
 
         .drop-menu li {
@@ -300,7 +325,7 @@
         .mega-box .content .row {
             width: 100%;
             margin-bottom: 15px;
-            border-top: 1px solid rgba(255, 255, 255, 0.08);
+            border-top: 1px solid rgba(0, 0, 0, 0.08);
         }
 
         .mega-box .content .row:nth-child(1),
@@ -318,7 +343,7 @@
         }
 
         .content .row header {
-            font-size: 16px;
+            font-size: 18px;
         }
 
         .content:hover {
@@ -351,143 +376,149 @@
 </head>
 
 <nav>
-    <div class="container">
-        <div class="wrapper">
-            <div class="logos"><a href="#"></a></div>
-            <input type="radio" name="slider" id="menu-btn">
-            <input type="radio" name="slider" id="close-btn">
-            <ul class="nav-links">
-                <label for="close-btn" class="btn close-btn"><i class="fas fa-times"></i></label>
-                <li><a href="#">@lang('public.client login')</a></li>
-                <li><a href="javascript:goTo('ourFirm');">@lang('public.our firm')</a></li>
-                <li><a href="javascript:goTo('careers');">@lang('public.careers')</a></li>
-                <li><a href="javascript:goTo('sustainability');">@lang('public.sustainability')</a></li>
-                <li><a href="javascript:goTo('contact');">@lang('public.contact us')</a></li>
-                <li>
-                    <a href="javascript:goTo('privateBanking')" class="desktop-item">@lang('public.private banking')</a>
-                    <input type="checkbox" id="showPrivateBanking">
-                    <label for="showPrivateBanking" class="mobile-item">@lang('public.private banking')</label>
-                    <div class="mega-box">
-                        <div class="content">
-                            <div class="row">
-                                <header>@lang('public.private wealth management')</header>
-                                <ul class="mega-links">
-                                    <li><a href="javascript:goTo('investmentAdvisory')">@lang('public.investment advisory')</a></li>
-                                    <li><a href="javascript:goTo('wealthPlanning')">@lang('public.wealth planning')</a></li>
-                                    <li><a href="javascript:goTo('philanthropicAdvisory')">@lang('public.philanthropic advisory')</a>
-                                    </li>
-                                    <li><a href="javascript:goTo('trustServices')">@lang('public.trust services')</a></li>
-                                    <li><a href="javascript:goTo('privateClientLending')">@lang('public.private client lending')</a>
-                                    </li>
-                                    <li><a href="javascript:goTo('centerForWomenAndWealth')">@lang('public.center for women & wealth')</a></li>
-                                </ul>
-                            </div>
-                            <div class="row">
-                                <header>@lang('public.corporate advisory & banking')</header>
-                                <ul class="mega-links">
-                                    <li><a href="javascript:goTo('corporateAdvisory')">@lang('public.corporate advisory')</a></li>
-                                    <li><a href="javascript:goTo('corporateBanking')">@lang('public.corporate banking')</a></li>
-                                    <li><a href="javascript:goTo('centerForFamilyBusiness')">@lang('public.center for family business')</a></li>
-                                </ul>
-                            </div>
-                            <div class="row">
-                                <header>@lang('public.private equity')<br>&nbsp;</header>
-                                <ul class="mega-links">
-                                    <li><a href="javascript:goTo('aboutVanward')">@lang('public.about Vanward')</a></li>
-                                    <li><a href="javascript:goTo('investmentProfile')">@lang('public.investment profile')</a></li>
-                                    <li><a href="javascript:goTo('investmentStrategyAndTransactionTypes')">@lang('public.investment strategy & transaction types')</a></li>
-                                    <li><a href="javascript:goTo('selectPortfolioCompanies')">@lang('public.select portfolio companies')</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </li>
-                <li>
-                    <a href="javascript:goTo('investmentManagement')" class="desktop-item">@lang('public.investment management')</a>
-                    <input type="checkbox" id="showInvestmentManagement">
-                    <label for="showInvestmentManagement" class="mobile-item">@lang('public.investment management')</label>
-                    <div class="mega-box">
-                        <div class="content">
-                            <div class="row">
-                                <header>@lang('public.public equity')</header>
-                                <ul class="mega-links">
-                                    <li><a href="javascript:goTo('usLargeCapEquity')">@lang('public.US large cap equity')</a></li>
-                                    <li><a href="javascript:goTo('globalEquity')">@lang('public.global equity')</a></li>
-                                    <li><a href="javascript:goTo('usSmallAndMidCapEquity')">@lang('public.US small & mid-cap equity')</a></li>
-                                </ul>
-                            </div>
-                            <div class="row">
-                                <header>@lang('public.fixed income')</header>
-                                <ul class="mega-links">
-                                    <li><a href="javascript:goTo('taxableFixedIncomeStrategies')">@lang('public.taxable fixed income strategies')</a></li>
-                                    <li><a href="javascript:goTo('taxExemptFixedIncomeStrategy')">@lang('public.tax-exempt fixed income')</a></li>
-                                    <li><a href="javascript:goTo('usTipsStrategy')">@lang('public.US TIPS strategy')</a></li>
-                                </ul>
-                            </div>
-                            <div class="row">
-                                <header>@lang('public.open account')</header>
-                            </div>
-                        </div>
-                    </div>
-                </li>
-                <li>
-                    <a href="javascript:goTo('investorServices')" class="desktop-item">@lang('public.investor services')</a>
-                    <input type="checkbox" id="showInvestorServices">
-                    <label for="showInvestorServices" class="mobile-item">@lang('public.investor services')</label>
-                    <div class="mega-box">
-                        <div class="content">
-                            <div class="row">
-                                <header>@lang('public.custody & fund services')<br>&nbsp;</header>
-                                <ul class="mega-links">
-                                    <li><a href="javascript:goTo('custody')">@lang('public.custody')</a></li>
-                                    <li><a href="javascript:goTo('depositaryAndTrustee')">@lang('public.depositary & trustee')</a></li>
-                                    <li><a href="javascript:goTo('fundAccounting')">@lang('public.fund accounting')</a></li>
-                                    <li><a href="javascript:goTo('fundAdministration')">@lang('public.fund administration')</a></li>
-                                    <li><a href="javascript:goTo('transferAgency')">@lang('public.transfer agency')</a></li>
-                                    <li><a href="javascript:goTo('globalTax')">@lang('public.global tax')</a></li>
-                                    <li><a href="javascript:goTo('collateralManagementCustody')">@lang('public.collateral management')</a></li>
-                                    <li><a href="javascript:goTo('fundOrderAndCustody')">@lang('public.fund order & custody')</a></li>
-                                </ul>
-                            </div>
-                            <div class="row">
-                                <header>@lang('public.specialist expertise')<br>&nbsp;</header>
-                                <ul class="mega-links">
-                                    <li><a href="javascript:goTo('crossBorderFunds')">@lang('public.cross-border funds')</a></li>
-                                    <li><a href="javascript:goTo('usFunds')">@lang('public.US funds')</a></li>
-                                    <li><a href="javascript:goTo('consultantsAndAdvisors')">@lang('public.consultants and advisors')</a>
-                                    </li>
-                                    <li><a href="javascript:goTo('distributionIntelligence')">@lang('public.distribution and intelligence')</a></li>
-                                    <li><a href="javascript:goTo('alternativeFunds')">@lang('public.alternative funds')</a></li>
-                                    <li><a href="javascript:goTo('exchangeTradedFunds')">@lang('public.exchange traded funds')</a></li>
-                                    <li><a href="javascript:goTo('insurance')">@lang('public.insurance')</a></li>
-                                    <li><a href="javascript:goTo('regulatoryIntelligence')">@lang('public.regulatory intelligence')</a>
-                                    </li>
-                                </ul>
-                            </div>
-                            <div class="row">
-                                <header>@lang('public.markets')<br>&nbsp;</header>
-                                <ul class="mega-links">
-                                    <li><a href="javascript:goTo('foreignExchange')">@lang('public.foreign exchange')</a></li>
-                                    <li><a href="javascript:goTo('activeFxExecution')">@lang('public.active fx execution')</a></li>
-                                    <li><a href="javascript:goTo('infoFx')">@lang('public.infofx')</a></li>
-                                    <li><a href="javascript:goTo('currencyHedging')">@lang('public.currency hedging')</a></li>
-                                    <li><a href="javascript:goTo('securitiesLending')">@lang('public.securities lending')</a></li>
-                                    <li><a href="javascript:goTo('marketIntelligence')">@lang('public.market intelligence')</a></li>
-                                </ul>
-                            </div>
-                            <div class="row">
-                                <header>@lang('public.investment operations & technology solutions')</header>
-                                <ul class="mega-links">
-                                    <li><a href="javascript:goTo('technologyServices')">@lang('public.technology services')</a></li>
-                                    <li><a href="javascript:goTo('middleOfficeOutsourcing')">@lang('public.middle office outsourcing')</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </li>
-            </ul>
-            <label for="menu-btn" class="btn menu-btn"><i class="fas fa-bars"></i></label>
+    <div class="wrapper">
+        <div class="logo">
+            <a href="#">
+                <img src="{{ asset('images/logo-vanward/fulllogo_transparent_nobuffer.png') }}" alt="" height="50px" width="auto">
+            </a>
         </div>
+        <input type="radio" name="slider" id="menu-btn">
+        <input type="radio" name="slider" id="close-btn">
+        <ul class="nav-links">
+            <label for="close-btn" class="btn close-btn"><i class="fas fa-times"></i></label>
+            <li><a href="#">@lang('public.client login')</a></li>
+            <li><a href="javascript:goTo('ourFirm');">@lang('public.our firm')</a></li>
+            <li><a href="javascript:goTo('careers');">@lang('public.careers')</a></li>
+            <li><a href="javascript:goTo('sustainability');">@lang('public.sustainability')</a></li>
+            <li><a href="javascript:goTo('contact');">@lang('public.contact us')</a></li>
+            <li>
+                <a href="javascript:goTo('privateBanking')" class="desktop-item">@lang('public.private banking')</a>
+                <input type="checkbox" id="showPrivateBanking">
+                <label for="showPrivateBanking" class="mobile-item">@lang('public.private banking')</label>
+                <div class="mega-box">
+                    <div class="content">
+                        <div class="row">
+                            <header>@lang('public.private wealth management')</header>
+                            <ul class="mega-links">
+                                <li><a href="javascript:goTo('investmentAdvisory')">@lang('public.investment advisory')</a></li>
+                                <li><a href="javascript:goTo('wealthPlanning')">@lang('public.wealth planning')</a></li>
+                                <li><a href="javascript:goTo('philanthropicAdvisory')">@lang('public.philanthropic advisory')</a>
+                                </li>
+                                <li><a href="javascript:goTo('trustServices')">@lang('public.trust services')</a></li>
+                                <li><a href="javascript:goTo('privateClientLending')">@lang('public.private client lending')</a>
+                                </li>
+                                <li><a href="javascript:goTo('centerForWomenAndWealth')">@lang('public.center for women & wealth')</a></li>
+                            </ul>
+                        </div>
+                        <div class="row">
+                            <header>@lang('public.corporate advisory & banking')</header>
+                            <ul class="mega-links">
+                                <li><a href="javascript:goTo('corporateAdvisory')">@lang('public.corporate advisory')</a></li>
+                                <li><a href="javascript:goTo('corporateBanking')">@lang('public.corporate banking')</a></li>
+                                <li><a href="javascript:goTo('centerForFamilyBusiness')">@lang('public.center for family business')</a></li>
+                            </ul>
+                        </div>
+                        <div class="row">
+                            <header>@lang('public.private equity')<br>&nbsp;</header>
+                            <ul class="mega-links">
+                                <li><a href="javascript:goTo('aboutWingate')">@lang('public.about vanward')</a></li>
+                                <li><a href="javascript:goTo('investmentProfile')">@lang('public.investment profile')</a></li>
+                                <li><a
+                                        href="javascript:goTo('investmentStrategyAndTransactionTypes')">@lang('public.investment strategy & transaction types')</a>
+                                </li>
+                                <li><a href="javascript:goTo('selectPortfolioCompanies')">@lang('public.select portfolio companies')</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <a href="javascript:goTo('investmentManagement')" class="desktop-item">@lang('public.investment management')</a>
+                <input type="checkbox" id="showInvestmentManagement">
+                <label for="showInvestmentManagement" class="mobile-item">@lang('public.investment management')</label>
+                <div class="mega-box">
+                    <div class="content">
+                        <div class="row">
+                            <header>@lang('public.public equity')</header>
+                            <ul class="mega-links">
+                                <li><a href="javascript:goTo('usLargeCapEquity')">@lang('public.US large cap equity')</a></li>
+                                <li><a href="javascript:goTo('globalEquity')">@lang('public.global equity')</a></li>
+                                <li><a href="javascript:goTo('usSmallAndMidCapEquity')">@lang('public.US small & mid-cap equity')</a></li>
+                            </ul>
+                        </div>
+                        <div class="row">
+                            <header>@lang('public.fixed income')</header>
+                            <ul class="mega-links">
+                                <li><a href="javascript:goTo('taxableFixedIncomeStrategies')">@lang('public.taxable fixed income strategies')</a>
+                                </li>
+                                <li><a href="javascript:goTo('taxExemptFixedIncomeStrategy')">@lang('public.tax-exempt fixed income strategy')</a>
+                                </li>
+                                <li><a href="javascript:goTo('usTipsStrategy')">@lang('public.US TIPS strategy')</a></li>
+                            </ul>
+                        </div>
+                        <div class="row">
+                            <header>@lang('public.open account')</header>
+                        </div>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <a href="javascript:goTo('investorServices')" class="desktop-item">@lang('public.investor services')</a>
+                <input type="checkbox" id="showInvestorServices">
+                <label for="showInvestorServices" class="mobile-item">@lang('public.investor services')</label>
+                <div class="mega-box">
+                    <div class="content">
+                        <div class="row">
+                            <header>@lang('public.custody & fund services')<br>&nbsp;</header>
+                            <ul class="mega-links">
+                                <li><a href="javascript:goTo('custody')">@lang('public.custody')</a></li>
+                                <li><a href="javascript:goTo('depositaryAndTrustee')">@lang('public.depositary & trustee')</a></li>
+                                <li><a href="javascript:goTo('fundAccounting')">@lang('public.fund accounting')</a></li>
+                                <li><a href="javascript:goTo('fundAdministration')">@lang('public.fund administration')</a></li>
+                                <li><a href="javascript:goTo('transferAgency')">@lang('public.transfer agency')</a></li>
+                                <li><a href="javascript:goTo('globalTax')">@lang('public.global tax')</a></li>
+                                <li><a href="javascript:goTo('collateralManagementCustody')">@lang('public.collateral management')</a></li>
+                                <li><a href="javascript:goTo('fundOrderAndCustody')">@lang('public.fund order & custody')</a></li>
+                            </ul>
+                        </div>
+                        <div class="row">
+                            <header>@lang('public.specialist expertise')<br>&nbsp;</header>
+                            <ul class="mega-links">
+                                <li><a href="javascript:goTo('crossBorderFunds')">@lang('public.cross-border funds')</a></li>
+                                <li><a href="javascript:goTo('usFunds')">@lang('public.US funds')</a></li>
+                                <li><a href="javascript:goTo('consultantsAndAdvisors')">@lang('public.consultants and advisors')</a>
+                                </li>
+                                <li><a href="javascript:goTo('distributionIntelligence')">@lang('public.distribution and intelligence')</a></li>
+                                <li><a href="javascript:goTo('alternativeFunds')">@lang('public.alternative funds')</a></li>
+                                <li><a href="javascript:goTo('exchangeTradedFunds')">@lang('public.exchange traded funds')</a></li>
+                                <li><a href="javascript:goTo('insurance')">@lang('public.insurance')</a></li>
+                                <li><a href="javascript:goTo('regulatoryIntelligence')">@lang('public.regulatory intelligence')</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="row">
+                            <header>@lang('public.markets')<br>&nbsp;</header>
+                            <ul class="mega-links">
+                                <li><a href="javascript:goTo('foreignExchange')">@lang('public.foreign exchange')</a></li>
+                                <li><a href="javascript:goTo('activeFxExecution')">@lang('public.active fx execution')</a></li>
+                                <li><a href="javascript:goTo('infoFx')">@lang('public.infofx')</a></li>
+                                <li><a href="javascript:goTo('currencyHedging')">@lang('public.currency hedging')</a></li>
+                                <li><a href="javascript:goTo('securitiesLending')">@lang('public.securities lending')</a></li>
+                                <li><a href="javascript:goTo('marketIntelligence')">@lang('public.market intelligence')</a></li>
+                            </ul>
+                        </div>
+                        <div class="row">
+                            <header>@lang('public.investment operations & technology solutions')</header>
+                            <ul class="mega-links">
+                                <li><a href="javascript:goTo('technologyServices')">@lang('public.technology services')</a></li>
+                                <li><a href="javascript:goTo('middleOfficeOutsourcing')">@lang('public.middle office outsourcing')</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </li>
+        </ul>
+        <label for="menu-btn" class="btn menu-btn"><i class="fas fa-bars"></i></label>
     </div>
 </nav>
 

@@ -1,10 +1,10 @@
 <div class="footer" style="margin-top: 40px !important;">
     <div class="container">
         <div class="sixteen columns">
-            <a href="{{ route('web.home') }}"><img src="{{ asset('images/logo.png') }}" alt="" /></a>
+            <a href="{{ route('web.home') }}"><img src="{{ asset('images/logo-vanward/fulllogo_transparent_nobuffer.png') }}" alt="" /></a>
         </div>
         <div class="sixteen columns">
-            <p><span>Vanward © 2023 Created by</span> Current Tech</p>
+            <p><span>© Vanward 2023</span></p>
         </div>
         <div class="sixteen columns">
             <div class="social-bottom">

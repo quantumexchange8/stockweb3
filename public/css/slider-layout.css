@@ -371,19 +371,18 @@ article .cnt{
 	        box-shadow: 0 8px 6px -6px rgba(0,0,0,.6);
 }
 
-.logo{
-	position:fixed;
+.logo-vanward{
 	width:90px;
 	height:26px;
 	z-index:10000;
 	left:40px;
 	top:20px;
-	background:url('../images/logo.png') no-repeat center center;
+	background:url('../images/logo-vanward/fulllogo_nobuffer.jpg') no-repeat center center;
 	background-size:90px 26px;
 }
 
 @media only screen and (max-width: 800px) {
-.logo{
+.logo-vanward{
 	left:20px;
 	top:12px;
 }
@@ -1114,23 +1113,23 @@ left: 0;
 	width:100%;
 	margin:0 auto;
 	text-align:center;
-	background:#292929;
+	background:#FFEBCD;
 	padding-top:50px;
 	padding-bottom:50px;
 }
 .footer img{
-	width:102px;
-	height:30px;
+	width:auto;
+	height:70px;
 }
 
 
 .footer p{
 	font-size: 14px;
 	line-height:18px;
-	color:#fff;
+	color:#000000;
 }
 .footer p span{
-	color:#b5b5b5;
+	color:#000000;
 }
 .social-bottom{
 	position:relative;
