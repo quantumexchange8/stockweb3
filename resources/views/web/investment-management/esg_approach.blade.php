@@ -13,80 +13,92 @@
     <div class="sixteen columns">
         <h2>@lang('public.ESG approach')</h2>
         <p style="padding-top: 10px;">
-            Vanward’s mission is to be the best at protecting and growing our clients’ capital over long periods of
-            time. Vanward ("Vanward") has performed its own investment research focusing on long-term capital preservation
-            and the prudent management of risk relative to return. At the core of our investment process has always been
-            an understanding that the path to generating superior long-term investment returns is first and foremost,
-            loss avoidance. <br><br>
+            Vanward's mission is to be the greatest at long-term capital preservation and growth for our clients.
+            Vanward ("Vanward") has conducted its own investment research with a concentration on the long-term
+            preservation of capital and the prudent management of risk in relation to return. At the core of our
+            investment process has always been the understanding that loss avoidance is the key to generating superior
+            long-term investment returns.
+            <br><br>
 
-            We believe that inclusion of environmental, social and governance (ESG) criteria in our investment process
-            enhances our ability to manage risk and achieve our long-term objectives. Across equity and fixed income
-            investments, we believe that ESG criteria are important factors in our investment process. <br><br>
+            We believe that incorporating environmental, social, and governance (ESG) criteria into our investment
+            process improves our ability to manage risk and attain long-term goals. We believe that environmental,
+            social, and governance (ESG) criteria are integral to our equity and fixed income investment processes.
+            <br><br>
 
-            Our approach to investing explicitly includes the consideration of ESG criteria and is guided by a set of
-            core principles that are applied across the full breadth of our investment portfolios. Together they
-            represent a timetested approach that has built lasting client relationships and set us apart from our peers.
+            Our investment strategy explicitly incorporates ESG criteria and is governed by a set of fundamental
+            principles that are applied to the entirety of our investment portfolios. Together, they constitute a
+            tried-and-true strategy that has established long-lasting client relationships and set us apart from our
+            competitors.
             <br><br>
 
             Our investment principles: <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;focus on capital preservation
-            <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;conduct deep, bottom-up, fundamental research<br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;invest with a long-term perspective<br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;be disciplined and patient<br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;employ a value-based approach<br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;concentrate on asset preservation
 
-            The evaluation of ESG factors as part of our investment research process helps us effectively assess the
-            long-term sustainability and durability of our companies and credits: <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Environmental – Entities that are judicious in their use of resources, are
-            aware of climate risks and are appropriately mindful in their environmental impact may gain efficiencies
-            that drive profitability. They are also less likely to create unforeseen liabilities that can erode
-            enterprise value.<br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Social – Maintaining high standards for internal and external conduct can help
-            entities to build strong cultures, drive better long-term outcomes for all stakeholders, and limit adverse
-            regulatory action.
             <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Analyzing the quality of management teams, ownership structures, and the
-            framework of rules, practices and incentives under which organizations operate are cornerstone elements of
-            long-term sustainability. Our view is that well-managed businesses, where management teams act like owners,
-            are more likely to manage resources efficiently, create value for shareholders over the long-term, protect
-            the rights of creditors and to maintain access to the credit markets. These are essential characteristics of
-            businesses that we choose to own for our clients.
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;conduct fundamental, bottom-up research<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Invest with a long-term outlook<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Be resolute and patient
+            <br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;adopt a value-based strategy
             <br><br>
 
-            ESG Integration: Embedded within our bottom-up approach: <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Our team of approximately 50 equity and fixed income investment professionals
-            are responsible for incorporating key ESG criteria into our investment analysis and decision-making process.
+            The evaluation of ESG factors as part of our investment research process enables us to effectively evaluate
+            the long-term sustainability and resilience of our companies and credits:
             <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Each of our investment teams employ a tailored approach that is best suited to
-            their specific strategy while remaining consistent with our overall investment philosophy and process.
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Environmental – Entities that are judicious with their use of resources,
+            cognizant of climate risks, and appropriately conscientious of their environmental impact may gain
+            efficiencies that contribute to their profitability. They are also less likely to incur unanticipated
+            liabilities that can diminish enterprise value.
             <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;We commit ourselves to the careful study of factors that could cause
-            impairment of capital. As with any potential risk, if those associated with ESG are not adequately addressed
-            and mitigated, it may inform our decision on a course of action with respect to that security.
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Social – Maintaining high standards for internal and external conduct can
+            assist organisations in establishing robust cultures, generating improved long-term results for all
+            stakeholders, and limiting adverse regulatory action.
             <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Through our bottom-up research on companies and industries, strong engagement
-            with management and issuers, as well as our continual efforts to monitor the regulatory and governmental
-            environment, we continuously refine our insights into how well ESG factors are being managed.
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Analysing the quality of management teams, governance structures, and the
+            framework of rules, practises, and incentives under which organisations operate are fundamental components
+            of long-term viability. Our view is that well-managed businesses, whose management teams behave like owners,
+            are more likely to manage resources efficiently, create long-term value for shareholders, safeguard creditor
+            rights, and maintain access to credit markets. These are essential qualities of the enterprises we choose to
+            own for our clients.
             <br><br>
 
-            Vanward provides investment management services to institutional and individual investors around the world. ESG
-            criteria are well embedded in our investment process. We offer the capability to customize investment
-            solutions aligned to client specific ESG goals or screening preferences.
+            ESG Integration: Integral to our bottom-up strategy:
+            <br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Our team of roughly 50 equity and fixed income investment professionals is
+            responsible for integrating critical ESG criteria into our investment analysis and decision-making process.
+            <br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Each of our investment teams utilises a strategy-specific approach that is
+            consistent with our investment philosophy and procedure.
+            <br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;We commit to a thorough investigation of factors that could result in capital
+            impairment. As with any other potential risk, if ESG-related risks are not adequately addressed and
+            mitigated, it may influence our decision with regard to that security.
+
+            <br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Through our bottom-up research on companies and industries, robust engagement
+            with management and issuers, and ongoing efforts to monitor the regulatory and governmental environment, we
+            perpetually enhance our understanding of how well ESG factors are managed.
+
+            <br><br>
+
+            Vanward provides global institutional and individual investors with investment management services. ESG
+            criteria are thoroughly incorporated into our investment procedure. We have the ability to tailor investment
+            solutions to the ESG objectives or screening preferences of individual clients.
 
             <span style="font-style: italic;">
-                Vanward (“Vanward”) may be used as a generic term to reference the company as a whole and/or its various
-                subsidiaries generally. This material and any products or services may be issued or provided in multiple
-                jurisdictions by duly authorized and regulated subsidiaries. This material is for general information
-                and reference purposes only and does not constitute legal, tax or investment advice and is not intended
-                as an offer to sell, or a solicitation to buy securities, services or investment products. Any reference
-                to tax matters is not intended to be used, and may not be used, for purposes of avoiding penalties under
-                the U.S. Internal Revenue Code, or other applicable tax regimes, or for promotion, marketing or
-                recommendation to third parties. All information has been obtained from sources believed to be reliable,
-                but accuracy is not guaranteed, and reliance should not be placed on the information presented. This
-                material may not be reproduced, copied or transmitted, or any of the content disclosed to third parties,
-                without the permission of Vanward. All trademarks and service marks included are the property of Vanward or
-                their respective owners. © Vanward 2023. All rights reserved.
+                Vanward may be used as a generic term to refer to the entire company and/or its various subsidiaries.
+                This information and any products or services may be issued or provided in multiple jurisdictions by
+                subsidiaries that have been duly authorised and regulated. This content is for informational and
+                reference purposes only; it does not constitute legal, tax, or investment advice, nor is it an offer to
+                sell or a solicitation to purchase securities, services, or investment products. Any reference to tax
+                matters is not intended to be used, and may not be used, to circumvent penalties under the U.S. Internal
+                Revenue Code or other applicable tax regimes, or for promotion, marketing, or recommending services to
+                third parties. All information has been obtained from what are believed to be reliable sources; however,
+                its accuracy cannot be guaranteed and should not be relied upon. Without Vanward's permission, this
+                content may not be reproduced, duplicated, or transmitted, nor may it be disclosed to third parties. All
+                included trademarks and service marks belong to Vanward or their respective proprietors. © Vanward 2023.
+                All privileges reserved.
+
             </span>
         </p>
     </div>

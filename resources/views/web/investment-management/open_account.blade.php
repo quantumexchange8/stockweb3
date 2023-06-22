@@ -12,12 +12,7 @@
 <div class="container">
     <div class="sixteen columns">
         <h1>@lang('public.open account')</h1>
-        <p style="padding-top: 10px;">At Vanward, our purpose is straightforward: to protect and grow your wealth.* Our
-            approach to doing so is
-            what sets us apart. We start with a deeply rooted investment culture and combine that with insightful
-            wealth planning and exemplary service to give you the most thoughtful and comprehensive long-term
-            private wealth management experience possible. Our client relationships are underpinned by the
-            stability, longevity, and alignment of interests created by our partnership structure.
+        <p style="padding-top: 10px;">Our mission at Vanward is straightforward: to preserve and grow your wealth*. Our approach distinguishes us in this regard. We combine a deeply rooted investment culture with insightful wealth planning and exemplary service to provide you with the most deliberate and comprehensive private wealth management experience possible over the long term. Our client relationships are supported by the partnership structure's stability, longevity, and alignment of interests.
         </p>
     </div>
 </div>

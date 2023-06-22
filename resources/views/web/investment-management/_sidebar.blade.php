@@ -74,7 +74,7 @@
         </li>
         <li><a href="javascript:goTo('fixedIncome')">@lang('public.fixed income')</a>
             <ul>
-                <li><a href="javascript:goTo('taxableFixedIncomeStrategies')">@lang('public.fixed income')</a></li>
+                <li><a href="javascript:goTo('taxableFixedIncomeStrategies')">@lang('public.taxable fixed income strategies')</a></li>
                 <li><a href="javascript:goTo('taxExemptFixedIncomeStrategy')">@lang('public.tax-exempt fixed income strategy')</a></li>
                 <li><a href="javascript:goTo('usTipsStrategy')">@lang('public.US TIPS strategy')</a></li>
             </ul>

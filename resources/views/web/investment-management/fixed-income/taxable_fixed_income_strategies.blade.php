@@ -4,7 +4,7 @@
             <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('investmentManagement')">@lang('public.investment management')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('fixedIncome')">@lang('public.fixed income')</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>@lang('public.fixed income')</strong>
+            &nbsp;&nbsp;<strong>@lang('public.taxable fixed income strategies')</strong>
         </span>
     </div>
     <br><br>
@@ -13,7 +13,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>@lang('public.fixed income')</h2>
+        <h2>@lang('public.taxable fixed income strategies')</h2>
         <p style="padding-top: 10px;">
             Vanward’s ("Vanward") Taxable Fixed Income Strategies combine our unique valuation framework and comprehensive
             credit review criteria to build portfolios of durable credits purchased when they are at attractive yields.

@@ -4,7 +4,7 @@
             <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('investmentManagement')">@lang('public.investment management')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('publicEquity')">@lang('public.public equity')</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>@lang('public.US small & mid-cap equity') & Mid-Cap Equity</strong>
+            &nbsp;&nbsp;<strong>@lang('public.US small & mid-cap equity')</strong>
         </span>
     </div>
     <br><br>
@@ -13,48 +13,60 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>@lang('public.US small & mid-cap equity') & Mid-Cap Equity</h2>
+        <h2>@lang('public.US small & mid-cap equity')</h2>
         <p style="padding-top: 10px;">
-            Vanward's ("Vanward") Small-to Mid-Cap Equity invests in a select number of out-of-favor and/or under-followed
-            small- and mid-cap companies without using leverage or shorting. The strategy invests in eight to 15
-            companies typically with a long-term, three-to-five year horizon. Investments are typically sold if they
-            appreciate above estimated intrinsic value*. <br><br>
+            Without using leverage or shorting, Vanward's Small-to-Mid-Cap Equity invests in a select number of
+            out-of-favor and/or under-followed small and mid-cap companies. The strategy typically invests in eight to
+            fifteen companies with a three- to five-year horizon. Typically, investments are traded if their price
+            appreciation exceeds their estimated intrinsic value*.
+            <br><br>
 
-            We maintain a disciplined investment process and use demanding criteria to select a group of well-positioned
-            companies that are trading at a substantial discount to our estimate of intrinsic value. We perform
-            extensive due diligence on each portfolio company and we concentrate investments in companies and industries
-            we know and understand, including information services and software, outsourced business services, cable
-            television and programming, manufacturers or distributors of consumer products, and financial services.
-            After we make an investment, we monitor it through ongoing discussions with industry participants and an
-            active dialogue with the company’s management team. <br><br>
+            We adhere to a rigorous investment process and select a group of well-positioned companies trading at a
+            substantial discount to our estimate of their intrinsic value. We conduct extensive due diligence on each
+            portfolio company, and we focus our investments on companies and industries that we know and understand,
+            such as information services and software, outsourced business services, cable television and programming,
+            consumer goods or services manufacturers, and financial services. After making an investment, we conduct
+            ongoing discussions with industry participants and maintain an ongoing dialogue with the company's
+            management.
+            <br><br>
 
             <strong><span style="text-decoration: underline;">Investment Criteria</span></strong><br><br>
 
-            We believe companies that possess the following business, management, financial, and valuation attributes
-            are well positioned to create value for shareholders through varying economic and market environments.
+            We believe that companies with the following business, management, financial, and valuation characteristics
+            are well positioned to create shareholder value regardless of economic and market conditions.
+
             <br><br>
 
             <strong>Business Attributes</strong><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Essential products and services<br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;High customer loyalty<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Important goods and services
+            <br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Excellent customer loyalty
+            <br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;Sustainable competitive advantages<br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;High levels of recurring revenues<br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;High returns on invested capital<br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;High rates of return on capital
+            <br><br>
             <strong>Management Attributes</strong><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Strong operators with integrity<br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Favorable capital allocations<br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Strong managers with moral character
+            <br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Favourable capital allocations
+            <br><br>
             <strong>Financial Attributes</strong><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Strong balance sheet and free cash flow<br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Excellent balance sheet and capital flow
+            <br><br>
             <strong>Valuation Attributes</strong><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Intrinsic value* determined through conservative forecasts<br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Value intrinsic derived from conservative projections
+            <br><br>
 
             <span style="font-style: italic;">
-                *Vanward’s estimate of the present value of the cash that a business can generate and distribute to
-                shareholders over its remaining life. <br>
-                -The strategy may assume large positions in a small number of issuers, which can increase the potential
-                for greater price fluctuation. <br>
-                -International investing involves special risks including currency risk, increased volatility, political
-                risks, and differences in auditing and other financial standards. <br><br>
+                *Vanward's estimate of the cash that a business can generate and distribute to its shareholders over the
+                remainder of its tenure.
+                <br>
+                -This may increase the potential for larger price fluctuations.
+                <br>
+                -There are unique risks associated with international investing, such as currency risk, increased
+                volatility, political risk, and differences in auditing and other financial standards.
+                <br><br>
             </span>
 
             <strong>NOT FDIC INSURED&nbsp;&nbsp;&nbsp;NO BANK GUARANTEE&nbsp;&nbsp;&nbsp;MAY LOSE VALUE</strong>

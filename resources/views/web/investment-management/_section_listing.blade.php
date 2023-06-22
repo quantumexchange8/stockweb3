@@ -16,29 +16,16 @@
         <div class="sep"></div>
     </div>
     <div class="sixteen columns">
-        <p>Vanward’s mission is to be the best at protecting and growing our clients’ capital over long periods
-            of
-            time. We focus on scalable investment strategies where our philosophy, approach, and expertise can
-            lead
-            to differentiated results. Vanward Investment Management has been managing equity and fixed income
-            investments and our unique investment approach is what sets us apart. <br><br>
-
-            Our approach to investing is guided by a set of core principles that are applied across the full
-            breadth
-            of our investment portfolio. Together they amount to a time-tested philosophy that has built lasting
-            client relationships and set us apart from our peers. <br><br>
+        <p>Vanward's mission is to be the greatest at long-term capital preservation and growth for our clients. We concentrate on scalable investment strategies in which our philosophy, methodology, and experience can produce distinctive outcomes. Vanward Investment Management has been managing equity and fixed income investments, and what sets us apart is our distinctive investment strategy. <br><br> Our investment strategy is governed by a set of fundamental principles that are applied to the entirety of our investment portfolio. Together, they constitute a time-tested philosophy that has allowed us to establish long-lasting client relationships and set us apart from our competitors. <br><br>
 
             Our investment principles: <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;focus on capital preservation <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;value-based approach <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;bottom-up fundamental research <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;long-term perspective <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;discipline and patience <br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;concentrate on asset preservation <br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Value-based strategy <br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;bottom-up primary research <br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;view of the long haul <br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;discipline and tolerance <br><br>
 
-            Learn about how we integrate <a href="javascript:goTo('esgApproach')" style="text-decoration: underline;">environmental,
-                social
-                and governance (ESG) considerations</a> within our
-            bottom-up investment approach.
+            Learn how our bottom-up investment strategy incorporates <a href="javascript:goTo('esgApproach')" style="text-decoration: underline;">environmental, social and governance (ESG) considerations.</a>
         </p>
     </div>
 </div>
@@ -49,9 +36,7 @@
         </div>
         <div class="eight columns">
             <h6><a href="javascript:goTo('publicEquity')">@lang('public.public equity')</a></h6>
-            <p>Vanward’s public equity strategies seek to generate attractive long-term investment returns over
-                full
-                market cycles with an emphasis on capital preservation.</p>
+            <p>With an emphasis on capital preservation, Vanward's public equity strategies aim to generate attractive long-term investment returns across complete market cycles.</p>
             <div class="blog-tag" style="padding-top: 10px;">
                 <a href="javascript:goTo('usLargeCapEquity')">@lang('public.US large cap equity')</a>
                 <a href="javascript:goTo('usSmallAndMidCapEquity')">@lang('public.US small & mid-cap equity') & Mid-Cap Equity</a>
@@ -59,9 +44,7 @@
             </div>
             <div class="clear"></div>
             <div class="link-blog">
-                <div class="cl-effect-14"><a href="javascript:goTo('publicEquity')">read
-                        more</a>
-                </div>
+                <div class="cl-effect-14"><a href="javascript:goTo('publicEquity')">read more</a> </div>
             </div>
         </div>
     </div>
@@ -75,8 +58,7 @@
         </div>
         <div class="eight columns">
             <h6><a href="javascript:goTo('fixedIncome')">@lang('public.fixed income')</a></h6>
-            <p>We offer taxable, tax-exempt, and inflation-indexed strategies that utilize our unique investment
-                philosophy and valuation methodology that seeks to generate long-term, peer-leading returns.</p>
+            <p>We offer taxable, tax-exempt, and inflation-indexed strategies that employ our distinctive investment philosophy and valuation methodology to generate long-term returns that surpass those of our competitors.</p>
             <div class="blog-tag">
                 <a href="javascript:goTo('taxableFixedIncomeStrategies')">@lang('public.fixed income')</a>
                 <a href="javascript:goTo('usTipsStrategy')">@lang('public.US TIPS strategy')</a>
@@ -84,9 +66,7 @@
             </div>
             <div class="clear"></div>
             <div class="link-blog">
-                <div class="cl-effect-14"><a href="javascript:goTo('fixedIncome')">read
-                        more</a>
-                </div>
+                <div class="cl-effect-14"><a href="javascript:goTo('fixedIncome')">read more</a> </div>
             </div>
         </div>
     </div>
@@ -103,9 +83,7 @@
             </div>
             <div class="clear"></div>
             <div class="link-blog">
-                <div class="cl-effect-14"><a href="javascript:goTo('openAccount')">read
-                        more</a>
-                </div>
+                <div class="cl-effect-14"><a href="javascript:goTo('openAccount')">read more</a> </div>
             </div>
         </div>
     </div>
