@@ -97,7 +97,7 @@
         </li>
         <li><a href="javascript:goTo('privateEquity')">@lang('public.private equity')</a>
             <ul>
-                <li><a href="javascript:goTo('aboutVanward')">@lang('public.about Vanward')</a></li>
+                <li><a href="javascript:goTo('aboutWingate')">@lang('public.about vanward')</a></li>
                 <li><a href="javascript:goTo('investmentProfile')">@lang('public.investment profile')</a></li>
                 <li><a href="javascript:goTo('investmentStrategyAndTransactionTypes')">@lang('public.investment strategy & transaction types')</a></li>
                 <li><a href="javascript:goTo('selectPortfolioCompanies')">@lang('public.select portfolio companies')</a></li>
