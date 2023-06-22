@@ -16,12 +16,12 @@
     <div class="eleven columns">
         <h2>@lang('public.employment policies')</h2>
         <p style="padding-top: 10px;">
-            All businesses that reach a critical size should have employment policies. For family businesses –particularly those owned by large multigenerational families – employment policies are more nuanced. One critical consideration that family businesses must address is who from the family will work in the business and the parameters for doing so. Setting an appropriate policy for the business and family and communicating it leads to companies that employ the best-suited people in the most appropriate roles. This also fosters an understanding of what it takes to work for and succeed in the business. <br><br>
+            All companies of a certain magnitude should have employment policies. Employment policies for family enterprises, particularly those owned by large multigenerational families, are more nuanced. The family members who will labour in the business and the conditions under which they will do so are a crucial factor that family-owned businesses must consider. Setting an appropriate policy for the business and family and communicating it results in businesses employing the most qualified candidates for each position. This promotes an awareness of what it requires to work for and succeed in the organisation. <br><br>
 
-            We work with family business clients to consider their employment practices and answer a litany of questions that are central to employment policies, such as:<br><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Who makes decisions about hiring and/or promoting family, and what are the criteria for doing so? What policies are in place regarding hiring family members?<br><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;What mechanism is in place for giving and receiving honest feedback to family members?<br><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;How are family members recruited, trained and treated as employees? Are mentors assigned?<br><br>
+            We work with family business clients to evaluate their employment practises and answer a plethora of fundamental employment policy concerns, including:<br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Who makes decisions regarding employing and/or promoting family members, and what criteria are used? What policies exist regarding the employment of family members?<br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;What mechanism exists for providing and receiving sincere feedback from family members?<br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;How are relatives hired, trained, and regarded as employees? Are there designated mentors?<br><br>
         </p>
     </div>
     <div class="five columns">

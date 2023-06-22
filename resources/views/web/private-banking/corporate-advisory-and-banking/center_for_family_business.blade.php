@@ -11,7 +11,6 @@
     <hr>
 </div>
 <div class="container">
-
     <div class="eleven columns">
         <h2>@lang('public.center for family business')</h2>
         <p style="padding-top: 10px;">
@@ -25,49 +24,49 @@
         <div style="padding: 10px">
             <p style="text-align: left; padding-bottom: 10px; font-weight: bold">
                 <a href="javascript:goTo('definingLegacyAndTheFutureOfTheBusiness')">Defining Legacy and the Future of the Business</a></p>
-            <p>Learn more about how we help our clients define their visions, preserve their legacies, shape the future of their businesses and develop their objectives with their families.
+            <p>Learn more about how we assist our clients in defining their visions, preserving their legacies, shaping the future of their enterprises, and developing their family goals.
             </p>
         </div>
         <hr>
         <div style="padding: 10px">
             <p style="text-align: left; padding-bottom: 10px; font-weight: bold"><a href="javascript:goTo('buildingASupportTeam')">Building a Support Team</a></p>
-            <p>Learn more about how we help our clients identify, assess and enhance their teams of trusted advisors.
+            <p>Learn how we assist our clients in identifying, evaluating, and enhancing their teams of trusted advisors.
             </p>
         </div>
         <hr>
         <div style="padding: 10px">
             <p style="text-align: left; padding-bottom: 10px; font-weight: bold"><a href="javascript:goTo('successionPlanningManagementAndOwnership')">Succession Planning – Management and Ownership</a></p>
-            <p>Learn more about how we help our clients prepare and plan for management and ownership succession.
+            <p>Learn how we assist our clients in preparing for and planning for management and ownership succession.
             </p>
         </div>
         <hr>
         <div style="padding: 10px">
             <p style="text-align: left; padding-bottom: 10px; font-weight: bold"><a href="javascript:goTo('capitalPolicies')">Capital Policies</a></p>
-            <p>Learn more about how we help our clients determine capital policies that balance the needs of the business and the family.
+            <p>Learn how we assist our clients in determining capital policies that strike a balance between business and family requirements.
             </p>
         </div>
         <hr>
         <div style="padding: 10px">
             <p style="text-align: left; padding-bottom: 10px; font-weight: bold"><a href="javascript:goTo('employmentPolicies')">Employment Policies</a></p>
-            <p>Learn more about how we help our clients develop employment policies for family members.
+            <p>Learn more about how we assist our clients develop family-friendly employment policies.
             </p>
         </div>
         <hr>
         <div style="padding: 10px">
             <p style="text-align: left; padding-bottom: 10px; font-weight: bold"><a href="javascript:goTo('governanceAndCommunications')">Governance and Communications</a></p>
-            <p>Learn more about how we help our clients create and enhance formal governance and communication structures for their companies and family members.
+            <p>Learn how we assist our clients in establishing and enhancing formal governance and communication structures for their businesses and families.
             </p>
         </div>
         <hr>
         <div style="padding: 10px">
             <p style="text-align: left; padding-bottom: 10px; font-weight: bold"><a href="javascript:goTo('distributionsAndFamilyLiquidity')">Distributions and Family Liquidity</a></p>
-            <p>Learn more about how we help our clients create policies for distributing income, transferring and redeeming shares and communicating return expectations.
+            <p>Learn more about how we assist our clients in establishing policies for the distribution of income, the transfer and redemption of shares, and the communication of return expectations.
             </p>
         </div>
         <hr>
         <div style="padding: 10px">
             <p style="text-align: left; padding-bottom: 10px; font-weight: bold"><a href="javascript:goTo('balancingCompetingInterests')">Balancing Competing Interests</a></p>
-            <p>Learn more about how we help our clients create frameworks and processes for balancing competing interests within their businesses.
+            <p>Learn more about how we assist our clients in establishing frameworks and procedures for harmonising competing business interests.
             </p>
         </div>
     </div>

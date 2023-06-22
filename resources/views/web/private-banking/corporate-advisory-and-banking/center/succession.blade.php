@@ -16,17 +16,17 @@
     <div class="eleven columns">
         <h2>@lang('public.succession planning – management and ownership')</h2>
         <p style="padding-top: 10px;">
-            Most enduring businesses consider and plan for management succession. For family businesses, this topic can be particularly pertinent, especially where management is deciding between multiple family members or a nonfamily member as the heir apparent CEO. Management succession for family businesses tends to have an additional level of complexity because it must balance the traditional challenges of having a successful plan with the family dynamics inherent in a family enterprise. <br><br>
+            The majority of long-lasting companies contemplate and plan for management succession. This topic can be especially relevant for family businesses, especially when the management is determining between multiple family members and a nonfamily member as the heir apparent CEO. Management succession for family businesses is typically more difficult because it must balance the traditional challenges of a successful plan with the family dynamics endemic to a family business. <br><br>
 
-            Family businesses also face the challenge of ownership succession. In many cases, the next generation of owners may not be employed in the company, though they will be shareholders. This can lead to issues in the absence of a clear articulation of long-term objectives and a carefully considered set of share ownership and transfer policies. <br><br>
+            Additionally, family businesses confront the challenge of ownership transition. In many instances, the next generation of proprietors may not work for the company, despite being shareholders. In the absence of a clear statement of long-term objectives and a carefully considered set of share ownership and transfer policies, this can lead to complications. <br><br>
 
-            Vanward has worked with family-owned businesses for generations on management and ownership succession planning, and we regularly consider this topic ourselves as a multigenerational partner-owned private business. When helping our clients create solutions to their succession challenges, we work with them to consider a number of questions, including: <br><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Upon transition, how does the present management and ownership model impact the success of the next generation of family managers and owners? Nonfamily managers?<br><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;What succession planning alternatives are being considered, if any?<br><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;What discussions around management and/or ownership of the business have been had with the next generation? How are family members being prepared for leadership roles?<br><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;How are leadership succession decisions made? Is the process well-understood by both family and nonfamily leaders?<br><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Is there a process to educate/train rising generations of owners/leaders?<br><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;What guidelines have been established for stock ownership and ownership transfers?<br><br>
+            Vanward has worked with family-owned businesses for generations on management and ownership succession planning, and as a multigenerational partner-owned private business, we routinely consider this topic. When assisting our clients in developing solutions to their succession issues, we consider the following queries with them: <br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;How does the current management and ownership model influence the performance of the next generation of family managers and owners upon transition? Nonfamily executives?<br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;What alternatives to succession planning are being considered, if any?<br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;What conversations have been held with the next generation regarding management and/or possession of the business? How are family members qualified for positions of leadership?<br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;How are decisions regarding leadership succession made? Are both family and non-family leaders conversant with the procedure?<br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Exists a method for educating and training future generations of owners/leaders?<br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;What regulations govern stock ownership and ownership transfers?<br><br>
         </p>
     </div>
     <div class="five columns">

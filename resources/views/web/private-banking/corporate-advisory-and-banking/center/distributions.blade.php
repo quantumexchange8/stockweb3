@@ -16,13 +16,13 @@
     <div class="eleven columns">
         <h2>@lang('public.distributions and family liquidity')</h2>
         <p style="padding-top: 10px;">
-            Many family businesses have family members who own shares but do not work at the company. As such, it is important to set policies for generating liquidity for shareholders and communicate them. Family shareholders want to know if they will receive distributions and if they can redeem or transfer shares. They also want to have a voice in return expectations inherent in owning shares. Successful businesses often extoll the virtues of long-term ownership for family members and how patient capital can benefit the value of the business and family over time. As a private firm that has endured for centuries, we at Vanward understand the balance between capital reinvestment and owner returns. <br><br>
+            Many family-owned enterprises have non-employee family members who own shares. Therefore, it is essential to establish and communicate policies for generating liquidity for shareholders. Family shareholders wish to know whether or not they will receive distributions and whether or not they can redeem or transfer their shares. They also desire a say in the inherent return expectations of share ownership. Successful businesses frequently extol the virtues of long-term ownership for family members and the value-enhancing effects of patient capital on the business and family over time. As a private company that has lasted for centuries, Vanward understands the delicate equilibrium between capital reinvestment and owner returns. <br><br>
 
-            When working with family business clients on distribution and liquidity matters, we help them answer questions, such as:<br><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;How have the family’s expectations for returns and distributions been set? Is it well understood across the family?<br><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;What share redemption mechanism is in place to facilitate orderly redemptions? How are shares valued, and how often?<br><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;What is the role of the family in setting debt levels, risk parameters, etc., for operation of the family business?<br><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Do the current leaders discuss liquidity openly with all shareholders?<br><br>
+            When working with family business clients on distribution and liquidity issues, we assist them in answering the following questions:<br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;How have the family's expectations been established for returns and distributions? Is there consensus within the family?<br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;What mechanism is in place to facilitate the orderly redemption of shares? How are stocks valued and how frequently?<br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;What role does the family play in determining debt levels, risk parameters, etc. for the family business?<br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Do the current executives discuss liquidity with all shareholders in an open manner?<br><br>
         </p>
     </div>
     <div class="five columns">

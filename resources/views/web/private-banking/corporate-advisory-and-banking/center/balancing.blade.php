@@ -32,7 +32,7 @@
             </div>
             <div class="eight columns">
                 <h6 style="text-align: left; padding-bottom: 10px;">The Dynamics of Leadership in a Private Business: A Conversation with Kerry Sulkowicz, M.D., Founder of the Boswell Group</h6>
-                <p>In the feature article of this issue of Owner to Owner, we sit down with Kerry Sulkowicz, M.D., the founder of the Boswell Group, to discuss the challenges leaders face, the complexities of leadership in private and family businesses and the common qualities he has seen in the best leaders.
+                <p>In the feature article of this issue of Owner to Owner, Kerry Sulkowicz, M.D., the founder of the Boswell Group, discusses the challenges leaders face, the complexities of leadership in private and family businesses, and the common traits he has observed among the best leaders.
                 </p>
             </div>
         </div>
@@ -44,7 +44,7 @@
             </div>
             <div class="eight columns">
                 <h6 style="text-align: left; padding-bottom: 10px;">Setting Up the Next Generation of Family Business Leaders for Success: A Conversation with Michael Preston, Co-Director of the Columbia Business School Family Business Program</h6>
-                <p>We sit down with Michael Preston, an adjunct professor at Columbia Business School and the co-director of its Family Business Program, to hear insights and advice gleaned from teaching the next generation of family business owners for more than two decades.
+                <p>Michael Preston, adjunct professor at Columbia Business School and co-director of its Family Business Programme, shares insights and advice garnered from teaching the next generation of family business owners for over a decade.
                 </p>
             </div>
         </div>
@@ -57,7 +57,7 @@
             <div class="eight columns">
                 <h6 style="text-align: left; padding-bottom: 10px;">Why Decision-Making Is So Complicated in a Family Business
                 </h6>
-                <p>We speak with Ellen Perry, a Senior Advisor to WAML, to discuss the complexities around decision-making in a family business, how families can overcome decision blockers and the tools families can use to foster better decision-making.
+                <p>Ellen Perry, Senior Advisor at WAML, discusses the complexities of decision-making in a family business, how families can overcome decision blockers, and the tools families can use to foster improved decision-making.
                 </p>
             </div>
         </div>
@@ -70,7 +70,7 @@
             <div class="eight columns">
                 <h6 style="text-align: left; padding-bottom: 10px;">Balancing Business Reinvestment and Shareholder Liquidity Needs in a Multigenerational Family Business
                 </h6>
-                <p>John Secor, Ajit George and Kyle Gordon discuss a key issue faced by family businesses: the difficulty of managing capital and liquidity demands. They zero in on a critical factor of finding the right balance – patient capital – and provide advice on how family businesses can achieve this important objective.
+                <p>John Secor, Ajit George, and Kyle Gordon discuss a significant challenge encountered by family businesses: the difficulty in managing capital and liquidity requirements. They provide guidance on how family businesses can achieve this essential objective by focusing on patient capital, a crucial factor in achieving the proper balance.
                 </p>
             </div>
         </div>

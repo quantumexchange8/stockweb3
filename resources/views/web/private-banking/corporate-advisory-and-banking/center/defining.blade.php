@@ -16,15 +16,15 @@
     <div class="eleven columns">
         <h2>@lang('public.defining legacy and the future of the business')</h2>
         <p style="padding-top: 10px;">
-            Many successful families create legacies. In families that manage multigenerational family businesses, legacy is often deliberately built, enhanced and passed from generation to generation. For family business owners, legacy is about more than what it means to be a member of the family. It extends to the role the family business plays for its employees and the communities in which it operates. <br><br>
+            Many successful families create legacies. In families that manage multigenerational family enterprises, legacy is frequently cultivated, enhanced, and passed down from one generation to the next. For family business proprietors, legacy goes beyond what it means to be a family member. It also encompasses the role that the family business performs for its employees and the communities in which it operates. <br><br>
 
-            We work with our clients to help them consider the most relevant issues related to defining their legacies and the future of their business, including: <br><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;What is the current generation’s vision for the company as it relates to future generations? Do the current and future generations share that vision?<br><br>
-            &nbsp;&nbsp;&nbsp;&minus;&nbsp;What is/are the purpose(s) of the business for the family? Why does the family own the business?<br><br>
-            &nbsp;&nbsp;&nbsp;&minus;&nbsp;What are the primary goals for keeping the business in the family? Is it creating or continuing the family legacy? Providing jobs? Creating wealth? Benefiting the communities in which the company operates?<br><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;How is ownership or management outside the family viewed?<br><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;What are the values and principles that should be driving family and family business decision-making?<br><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;How did the family arrive at these values and principles, and have they committed these matters to writing?<br><br>
+            We collaborate with our clients to help them consider the most pertinent issues related to delineating their legacies and the future of their businesses, such as: <br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;What is the vision of the current generation for the company in relation to future generations? Are the current and future generations in agreement with this vision?<br><br>
+            &nbsp;&nbsp;&nbsp;&minus;&nbsp;What is/are the purpose(s) of the family business? Why is the business owned by the family?<br><br>
+            &nbsp;&nbsp;&nbsp;&minus;&nbsp;What are the principal objectives of maintaining the family business? Is it establishing or preserving the family legacy? Providing jobs? Creating prosperity? Profiting the communities where the business operates?<br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;How is non-family ownership or management viewed?<br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;What values and principles should guide family and family-owned business decision-making?<br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;How did the family arrive at these values and guiding principles, and have they documented them?<br><br>
         </p>
     </div>
     <div class="five columns">
