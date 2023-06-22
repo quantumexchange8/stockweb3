@@ -1,12 +1,26 @@
 <?php
 return [
-    // breadcrumb
-    "home" => "Home",
-    "read more" => "Read more",
-
     // common phrases
     "past events" => "Past Events",
 
+    // months
+    "january"   => "January",
+    "february"  => "February",
+    "march"     => "March",
+    "april"     => "April",
+    "may"       => "May",
+    "june"      => "June",
+    "july"      => "July",
+    "august"    => "August",
+    "september" => "September",
+    "october"   => "October",
+    "november"  => "November",
+    "december"  => "December",
+
+
+    // breadcrumb
+    "home" => "Home",
+    "read more" => "Read more",
 
     // top navbar
     "client login"                                  => "Client Login",
@@ -205,6 +219,43 @@ return [
     // conversations on women wealth and leadership
     "conversations on women wealth and leadership caption 1" => "The first step in establishing a dynamic and inclusive environment where women can have productive conversations about topics of interest to them is to encourage dialogue.",
     "conversations on women wealth and leadership caption 2" => "The Centre for Women & Wealth® and Vanward are committed to women's advancement. We host local and national forums where women can share their experiences and discuss financial, investment, and planning decisions.",
+    "boston, ma" => "Boston, MA",
+    "new york, ny" => "New York, NY",
+    "philadelphia, pa" => "Philadelphia, PA",
+    "dover, ma" => "Dover, MA",
+    "charlotte, nc" => "Charlotte, NC",
+    "date 1" => "date",
+    "date 2" => "date",
+    "date 3" => "date",
+    "date 4" => "date",
+    "date 5" => "date",
+    "date 6" => "date",
+    "date 7" => "date",
+    "date 8" => "date",
+    "date 9" => "date",
+    "date 10" => "date",
+    "date 11" => "date",
+    "date 12" => "date",
+    "date 13" => "date",
+    "date 14" => "date",
+    "date 15" => "date",
+    "date 16" => "date",
+    "date 17" => "date",
+    "date 18" => "date",
+    "date 19" => "date",
+    "date 20" => "date",
+    "date 21" => "date",
+    "date 22" => "date",
+    "date 23" => "date",
+    "date 24" => "date",
+    "date 25" => "date",
+    "date 26" => "date",
+    "date 27" => "date",
+    "date 28" => "date",
+    "date 29" => "date",
+    "date 30" => "date",
+
+
     // investment advisory
     "investment advisory" => "Companies",
     "investment advisory" => "Companies",
