@@ -16,11 +16,11 @@
     <div class="eleven columns">
         <h2>@lang('public.conversations on women, wealth & leadership')</h2>
         <p style="padding-top: 10px;">
-            The first step in establishing a dynamic and inclusive environment where women can have productive conversations about topics of interest to them is to encourage dialogue. <br><br>
+            @lang('public.conversations on women wealth and leadership caption 1') <br><br>
 
-            The Centre for Women & Wealth® and Vanward are committed to women's advancement. We host local and national forums where women can share their experiences and discuss financial, investment, and planning decisions.
+            @lang('public.conversations on women wealth and leadership caption 2')
         </p>
-        <h2 style="padding-top: 10px;">Past Events</h2>
+        <h2 style="padding-top: 10px;">@lang('public.past events')</h2>
         <p style="padding-top: 10px;">
 
         </p>
