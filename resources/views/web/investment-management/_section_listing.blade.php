@@ -1,7 +1,7 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>&nbsp;&nbsp;<strong>@lang('public.investment management')</strong>
+            <a href="https://vanwardintl.com/">@lang('public.home')</a>&nbsp;&nbsp;>&nbsp;&nbsp;<strong>@lang('public.investment management')</strong>
         </span>
     </div>
     <br><br>

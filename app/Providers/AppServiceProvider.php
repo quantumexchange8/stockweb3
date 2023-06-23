@@ -1,6 +1,7 @@
 <?php
 
 namespace App\Providers;
+use App\Providers\AuthServiceProvider;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -19,6 +20,9 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot(): void
     {
-        //
+        // Global Company Name
+        view()->share('shortCompName', 'Vanward');
+        view()->share('fullCompName', 'Vanward International');
+
     }
 }

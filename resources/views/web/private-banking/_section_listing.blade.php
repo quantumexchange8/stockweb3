@@ -1,7 +1,7 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>&nbsp;&nbsp;<strong>@lang('public.private banking title 1')</strong>
+            <a href="https://vanwardintl.com/">@lang('public.home')</a>&nbsp;&nbsp;>&nbsp;&nbsp;<strong>@lang('public.private banking title 1')</strong>
         </span>
     </div>
     <br><br>
@@ -76,7 +76,7 @@
             <p>@lang('public.private banking caption 3')
             </p>
             <div class="blog-tag" style="padding-top: 10px;">
-                <a href="javascript:goTo('aboutVanward')">@lang('public.about Vanward')</a>
+                <a href="javascript:goTo('aboutVanward')">@lang('public.about vanward')</a>
                 <a href="javascript:goTo('investmentProfile')">@lang('public.investment profile')</a>
                 <a href="javascript:goTo('selectPortfolioCompanies')">@lang('public.select portfolio companies')</a>
                 <a href="javascript:goTo('investmentStrategyAndTransactionTypes')">@lang('public.investment strategy & transaction types')</a>

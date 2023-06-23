@@ -6,7 +6,7 @@
         <div class="logo"></div>
     <ul class="slimmenu">
         <li><a href="https://client.wgaml.com/">Client Login</a></li>
-        {{-- <li><a href="javascript:goTo('home')">@lang('public.home')</a></li> --}}
+        {{-- <li><a href="https://vanwardintl.com/">@lang('public.home')</a></li> --}}
         {{-- <li><a href="javascript:goTo('about');">About</a></li> --}}
         {{-- <li><a href="javascript:goTo('privateBanking');">@lang('public.private banking')</a></li>
         <li><a href="javascript:goTo('investmentManagement');">@lang('public.investment management')</a></li>

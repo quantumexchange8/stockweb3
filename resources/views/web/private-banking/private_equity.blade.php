@@ -1,7 +1,7 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="https://vanwardintl.com/">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('privateBanking')">@lang('public.private banking')</a>&nbsp;&nbsp;>
             &nbsp;&nbsp;<strong>@lang('public.private equity')</strong>
         </span>
@@ -21,7 +21,7 @@
         <div class="five columns">
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;"><a href="javascript:goTo('aboutVanward')">@lang('public.about Vanward')</a></h6>
+                    <h6 style="text-align: left;"><a href="javascript:goTo('aboutVanward')">@lang('public.about vanward')</a></h6>
                     <p>@lang('public.private equity caption 3')
                     </p>
                     <div class="clear"></div>

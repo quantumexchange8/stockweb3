@@ -182,7 +182,7 @@ var colors = {
         "background": "",
         "index": 3.4
     },
-    "aboutWingate": {
+    "aboutVanward": {
         "background": "",
         "index": 3.5
     },
@@ -752,7 +752,7 @@ pages = [
     "distributionsAndFamilyLiquidity",
     "balancingCompetingInterests",
     "privateEquity",
-    "aboutWingate",
+    "aboutVanward",
     "investmentProfile",
     "investmentStrategyAndTransactionTypes",
     "selectPortfolioCompanies",

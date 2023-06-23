@@ -1,10 +1,10 @@
 <div class="container breadcrumb">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;>
+            <a href="https://vanwardintl.com/">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('privateBanking')">@lang('public.private banking')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('privateWealthManagement')">@lang('public.private equity')</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>@lang('public.about Vanward')</strong>
+            &nbsp;&nbsp;<strong>@lang('public.about vanward')</strong>
         </span>
     </div>
     <br><br>
@@ -13,7 +13,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>@lang('public.about Vanward')</h2>
+        <h2>@lang('public.about vanward')</h2>
         <p style="padding-top: 10px;">
             Vanward is a private equity strategy that provides lower middle-market companies with highly customised, one-stop junior capital solutions. We presently have approximately $1.1 billion in committed capital that is available for investment. <br><br>
 

@@ -12,11 +12,11 @@
                 All investing is subject to risk including the possible loss of the money you invest.
             </p>
             <p>
-                *Vanward International is owned by its funds, which are owned by Vanward International's fund shareholder clients.
+                *{{ $fullCompName }} is owned by its funds, which are owned by {{ $fullCompName }}'s fund shareholder clients.
             </p>
         </div>
         <div class="sixteen columns copyright">
-            <p>© Vanward International 2023</p>
+            <p>© {{ $fullCompName }} 2023</p>
         </div>
     </div>
 </div>

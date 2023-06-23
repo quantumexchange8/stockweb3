@@ -8,7 +8,7 @@
 <div class="container breadcrumb" style="text-align: left;">
     <div class="sixteen columns">
         <span>
-            <a href="javascript:goTo('home')">@lang('public.home')</a>&nbsp;&nbsp;
+            <a href="https://vanwardintl.com/">@lang('public.home')</a>&nbsp;&nbsp;
             >&nbsp;&nbsp;<strong>@lang('public.contact us')</strong>
         </span>
     </div>
