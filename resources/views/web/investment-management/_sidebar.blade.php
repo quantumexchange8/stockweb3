@@ -81,7 +81,7 @@
         </li>
         <li><a href="javascript:goTo('openAccount')">@lang('public.open account')</a>
         </li>
-        <li><a href="javascript:goTo('esgApproach')">@lang('public.ESG Approach')</a>
+        <li><a href="javascript:goTo('esgApproach')">@lang('public.ESG approach')</a>
         </li>
     </ul>
 </div>
