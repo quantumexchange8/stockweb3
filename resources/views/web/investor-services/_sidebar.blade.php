@@ -65,7 +65,7 @@
     <h5>@lang('public.investor services')</h5>
     <hr>
     <ul>
-        <li><a href="javascript:goTo('custodyAndFundServices')">@lang('public.custody & fund services')</a>
+        <li><a class="title" href="javascript:goTo('custodyAndFundServices')">@lang('public.custody & fund services')</a>
             <ul>
                 <li><a href="javascript:goTo('custody')">@lang('public.custody')</a></li>
                 <li><a href="javascript:goTo('depositaryAndTrustee')">@lang('public.depositary & trustee')</a></li>
@@ -77,7 +77,7 @@
                 <li><a href="javascript:goTo('fundOrderAndCustody')">@lang('public.fund order & custody')</a></li>
             </ul>
         </li>
-        <li><a href="javascript:goTo('specialistExpertise')">@lang('public.specialist expertise')</a>
+        <li><a class="title" href="javascript:goTo('specialistExpertise')">@lang('public.specialist expertise')</a>
             <ul>
                 <li><a href="javascript:goTo('crossBorderFunds')">@lang('public.cross-border funds')</a></li>
                 <ul>
@@ -103,7 +103,7 @@
                 <li><a href="javascript:goTo('regulatoryIntelligence')">@lang('public.regulatory intelligence')</a></li>
             </ul>
         </li>
-        <li><a href="javascript:goTo('markets')">@lang('public.markets')</a>
+        <li><a class="title" href="javascript:goTo('markets')">@lang('public.markets')</a>
             <ul>
                 <li><a href="javascript:goTo('foreignExchange')">@lang('public.foreign exchange')</a></li>
                 <ul>
@@ -119,7 +119,7 @@
                 <li><a href="javascript:goTo('marketIntelligence')">@lang('public.market intelligence')</a></li>
             </ul>
         </li>
-        <li><a href="javascript:goTo('investmentOperationsAndTechnologySolutions')">@lang('public.investment operations & technology solutions')</a>
+        <li><a class="title" href="javascript:goTo('investmentOperationsAndTechnologySolutions')">@lang('public.investment operations & technology solutions')</a>
             <ul>
                 <li><a href="javascript:goTo('technologyServices')">@lang('public.technology services')</a></li>
                 <ul>
