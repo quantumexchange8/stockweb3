@@ -1,5 +1,5 @@
 @extends('layouts.app')
-@section('title', 'Home | Vulcanus')
+@section('title', 'Vanward International')
 
 @section('content')
     <article id="home" class="off">

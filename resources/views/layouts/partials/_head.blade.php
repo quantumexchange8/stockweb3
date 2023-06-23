@@ -37,7 +37,7 @@
     <![endif]-->
 
 <!-- Favicons -->
-<link rel="shortcut icon" href="{{ asset('favicon.png') }}">
+<link rel="shortcut icon" href="{{ asset('images/logo-vanward/favicon-vanward.png') }}">
 <link rel="apple-touch-icon" href="{{ asset('apple-touch-icon.png') }}">
 <link rel="apple-touch-icon" sizes="72x72" href="{{ asset('apple-touch-icon-72x72.png') }}">
 <link rel="apple-touch-icon" sizes="114x114" href="{{ asset('apple-touch-icon-114x114.png') }}">
