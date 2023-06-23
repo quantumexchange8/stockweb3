@@ -48,6 +48,7 @@
 #sidebar ul li a:hover {
     background-color: var(--vanward-dark-orange);
     color: #ffffff;
+    font-weight: 700;
     /* White text color */
 }
 
@@ -64,8 +65,9 @@
 
 /* Nested list indicators */
 #sidebar ul ul li:before {
-    content: "\003E";
-    margin-top: 7px;
+    content: "\203A";
+    font-size: 25px;
+    margin-top: 5px;
     margin-left: 5px;
     margin-right: 3px;
     color: #000000;

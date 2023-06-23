@@ -21,7 +21,7 @@
                 <div class="mega-box">
                     <div class="content">
                         <div class="row">
-                            <header>@lang('public.private wealth management')</header>
+                            <h6>@lang('public.private wealth management')</h6>
                             <ul class="mega-links">
                                 <li><a href="javascript:goTo('investmentAdvisory')">@lang('public.investment advisory')</a></li>
                                 <li><a href="javascript:goTo('wealthPlanning')">@lang('public.wealth planning')</a></li>
@@ -34,7 +34,7 @@
                             </ul>
                         </div>
                         <div class="row">
-                            <header>@lang('public.corporate advisory & banking')</header>
+                            <h6>@lang('public.corporate advisory & banking')</h6>
                             <ul class="mega-links">
                                 <li><a href="javascript:goTo('corporateAdvisory')">@lang('public.corporate advisory')</a></li>
                                 <li><a href="javascript:goTo('corporateBanking')">@lang('public.corporate banking')</a></li>
@@ -42,7 +42,7 @@
                             </ul>
                         </div>
                         <div class="row">
-                            <header>@lang('public.private equity')<br>&nbsp;</header>
+                            <h6>@lang('public.private equity')</h6>
                             <ul class="mega-links">
                                 <li><a href="javascript:goTo('aboutWingate')">@lang('public.about vanward')</a></li>
                                 <li><a href="javascript:goTo('investmentProfile')">@lang('public.investment profile')</a></li>
@@ -62,7 +62,7 @@
                 <div class="mega-box">
                     <div class="content">
                         <div class="row">
-                            <header>@lang('public.public equity')</header>
+                            <h6>@lang('public.public equity')</h6>
                             <ul class="mega-links">
                                 <li><a href="javascript:goTo('usLargeCapEquity')">@lang('public.US large cap equity')</a></li>
                                 <li><a href="javascript:goTo('globalEquity')">@lang('public.global equity')</a></li>
@@ -70,7 +70,7 @@
                             </ul>
                         </div>
                         <div class="row">
-                            <header>@lang('public.fixed income')</header>
+                            <h6>@lang('public.fixed income')</h6>
                             <ul class="mega-links">
                                 <li><a href="javascript:goTo('taxableFixedIncomeStrategies')">@lang('public.taxable fixed income strategies')</a>
                                 </li>
@@ -80,7 +80,7 @@
                             </ul>
                         </div>
                         <div class="row">
-                            <header>@lang('public.open account')</header>
+                            <h6>@lang('public.open account')</h6>
                         </div>
                     </div>
                 </div>
@@ -92,7 +92,7 @@
                 <div class="mega-box">
                     <div class="content">
                         <div class="row">
-                            <header>@lang('public.custody & fund services')<br>&nbsp;</header>
+                            <h6>@lang('public.custody & fund services')</h6>
                             <ul class="mega-links">
                                 <li><a href="javascript:goTo('custody')">@lang('public.custody')</a></li>
                                 <li><a href="javascript:goTo('depositaryAndTrustee')">@lang('public.depositary & trustee')</a></li>
@@ -105,7 +105,7 @@
                             </ul>
                         </div>
                         <div class="row">
-                            <header>@lang('public.specialist expertise')<br>&nbsp;</header>
+                            <h6>@lang('public.specialist expertise')</h6>
                             <ul class="mega-links">
                                 <li><a href="javascript:goTo('crossBorderFunds')">@lang('public.cross-border funds')</a></li>
                                 <li><a href="javascript:goTo('usFunds')">@lang('public.US funds')</a></li>
@@ -120,7 +120,7 @@
                             </ul>
                         </div>
                         <div class="row">
-                            <header>@lang('public.markets')<br>&nbsp;</header>
+                            <h6>@lang('public.markets')</h6>
                             <ul class="mega-links">
                                 <li><a href="javascript:goTo('foreignExchange')">@lang('public.foreign exchange')</a></li>
                                 <li><a href="javascript:goTo('activeFxExecution')">@lang('public.active fx execution')</a></li>
@@ -131,7 +131,7 @@
                             </ul>
                         </div>
                         <div class="row">
-                            <header>@lang('public.investment operations & technology solutions')</header>
+                            <h6>@lang('public.investment operations & technology solutions')</h6>
                             <ul class="mega-links">
                                 <li><a href="javascript:goTo('technologyServices')">@lang('public.technology services')</a></li>
                                 <li><a href="javascript:goTo('middleOfficeOutsourcing')">@lang('public.middle office outsourcing')</a></li>
