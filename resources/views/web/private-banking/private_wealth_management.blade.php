@@ -13,7 +13,7 @@
 
     <div class="eleven columns">
         <h1>@lang('public.private wealth management')</h1>
-        <p style="padding-top: 10px;">@lang('public.private public.private wealth management caption 1')
+        <p style="padding-top: 10px;">@lang('public.private wealth management caption 1')
         </p>
         <div class="five columns">
             <div class="card" style="padding: 5px;">

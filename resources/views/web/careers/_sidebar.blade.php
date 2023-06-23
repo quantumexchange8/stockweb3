@@ -1,4 +1,4 @@
-<style>
+{{-- <style>
     /* Styles for the sidebar */
     #sidebar {
         font-family: 'OpenSans-Light-webfont', sans-serif;
@@ -59,7 +59,7 @@
         color: #ffffff;
         /* White text color */
     }
-</style>
+</style> --}}
 
 <div id="sidebar">
     <h5>@lang('public.careers')</h5>

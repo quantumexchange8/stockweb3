@@ -1,4 +1,4 @@
-<style>
+{{-- <style>
     /* Styles for the sidebar */
     #sidebar {
         font-family: 'OpenSans-Light-webfont', sans-serif;
@@ -63,7 +63,7 @@
     h2 {
         padding-top: 20px;
     }
-</style>
+</style> --}}
 
 <div id="sidebar">
     <h5>@lang('public.our firm')</h5>

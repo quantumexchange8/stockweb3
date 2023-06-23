@@ -11,8 +11,17 @@
 {{-- @elseif (request()->is('private-banking/*') || request()->is('investment-management/*') || request()->is('investor-services/*')) --}}
 {{-- @include('layouts.partials._head3dmenu') --}}
 {{-- @elseif (request()->is('private-banking') || request()->is('investment-management') || request()->is('investor-services')) --}}
-@include('layouts.partials._headSlider')
 {{-- @endif --}}
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<link rel="stylesheet" href="{{ asset('css/slider-base.css') }}" />
+<link rel="stylesheet" href="{{ asset('css/slider-skeleton.css') }}" />
+<link rel="stylesheet" href="{{ asset('css/slider-layout.css') }}" />
+<link rel="stylesheet" href="{{ asset('css/slider-colorbox.css') }}" />
+<link rel="stylesheet" href="{{ asset('css/slider-font-awesome.css') }}" />
+<link rel="stylesheet" href="{{ asset('css/slider-jquery.custombox.css') }}">
+<link rel="stylesheet" href="{{ asset('css/slider-retina.css') }}" />
+<link rel="stylesheet" href="{{ asset('css/slider-project.css') }}" />
+<link rel="stylesheet" href="{{ asset('css/custom-sidebar.css') }}" />
 
 <!-- Colors -->
 <link rel="alternate stylesheet" type="text/css" href="{{ asset('css/colors/color-orange.css') }}" title="orange">

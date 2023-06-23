@@ -33,6 +33,7 @@
 
 
     <!-- JAVASCRIPT -->
+    @include('layouts.partials._scripts')
     @stack('custom-scripts')
 </body>
 
