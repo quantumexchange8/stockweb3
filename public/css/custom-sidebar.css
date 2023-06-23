@@ -45,7 +45,8 @@
     font-weight: 700;
 }
 
-#sidebar ul li a:hover {
+#sidebar ul li a:hover,
+#sidebar .current {
     background-color: var(--vanward-dark-orange);
     color: #ffffff;
     font-weight: 700;
@@ -81,4 +82,3 @@
     color: #000000;
     /* White text color */
 }
-

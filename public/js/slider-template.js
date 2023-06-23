@@ -658,7 +658,9 @@ var colors = {
 
 function goTo(id) {
     var obj = eval("colors." + id);
-
+    // Update URL using pushState
+    var url = window.location.href.split('#')[0] + '#' + id;
+    history.pushState({}, '', url);
     $("body").css("background", obj.background);
     $("ul.slimmenu li a").css("color", obj.background);
     if (obj.index > currentIndex) {
@@ -711,6 +713,19 @@ function goTo(id) {
     currentIndex = obj.index;
     currentId = id;
 }
+// Function to handle navigating back when the browser's back button is clicked
+function navigateBack() {
+    var previousId = window.location.hash.substr(1); // Get the ID from the URL fragment
+
+    // Navigate to the previous ID
+    goTo(previousId);
+}
+
+// Listen for the popstate event
+window.addEventListener('popstate', function(event) {
+    // Handle navigating back
+    navigateBack();
+});
 
 pages = [
     "home",
