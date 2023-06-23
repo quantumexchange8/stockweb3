@@ -1,66 +1,3 @@
-{{-- <style>
-    /* Styles for the sidebar */
-    #sidebar {
-        font-family: 'OpenSans-Light-webfont', sans-serif;
-        background-color: #333333;
-        padding: 10px;
-    }
-
-    #sidebar h5 {
-        padding: 10px;
-        color: #ffffff;
-        /* White text color */
-    }
-    #sidebar h6 {
-        text-align: left;
-        padding: 10px;
-        color: #ffffff;
-        /* White text color */
-    }
-
-    #sidebar hr {
-        border-color: white;
-    }
-
-    #sidebar ul {
-        padding: 10px;
-        list-style: none;
-        margin: 0;
-    }
-
-    #sidebar ul li {
-        margin-bottom: 5px;
-    }
-
-    #sidebar ul li a {
-        font-size: 14px;
-        color: #ffffff;
-        /* White text color */
-        text-decoration: none;
-    }
-
-    #sidebar ul li a:hover {
-        text-decoration: underline;
-    }
-
-    #sidebar ul ul {
-        padding: 10px;
-        margin-top: 5px;
-    }
-
-    #sidebar ul ul li {
-        margin-bottom: 5px;
-    }
-
-    /* Nested list indicators */
-    #sidebar ul ul li:before {
-        content: "-";
-        margin-right: 5px;
-        color: #ffffff;
-        /* White text color */
-    }
-</style> --}}
-
 <div id="sidebar">
     <h5>@lang('public.investor services')</h5>
     <hr>
@@ -119,23 +56,28 @@
                 <li><a href="javascript:goTo('marketIntelligence')">@lang('public.market intelligence')</a></li>
             </ul>
         </li>
-        <li><a class="title" href="javascript:goTo('investmentOperationsAndTechnologySolutions')">@lang('public.investment operations & technology solutions')</a>
+        <li><a class="title"
+                href="javascript:goTo('investmentOperationsAndTechnologySolutions')">@lang('public.investment operations & technology solutions')</a>
             <ul>
                 <li><a href="javascript:goTo('technologyServices')">@lang('public.technology services')</a></li>
                 <ul>
-                    <li><a href="javascript:goTo('dataConnectivityAndApplicationsViaInfomediary')">@lang('public.data connectivity & applications via infomediary')</a></li>
+                    <li><a
+                            href="javascript:goTo('dataConnectivityAndApplicationsViaInfomediary')">@lang('public.data connectivity & applications via infomediary')</a>
+                    </li>
                     <li><a href="javascript:goTo('globalCustodyDirect')">@lang('public.global custody direct')</a></li>
                     <li><a href="javascript:goTo('accountOperatorDirectForUSDepositories')">@lang('public.account operator direct for US depositories')</a></li>
                 </ul>
                 <li><a href="javascript:goTo('middleOfficeOutsourcing')">@lang('public.middle office outsourcing')</a></li>
                 <ul>
-                    <li><a href="javascript:goTo('targetedTechnologySolutionsViaInfomediary')">@lang('public.targeted technology solutions via infomediary')</a></li>
+                    <li><a href="javascript:goTo('targetedTechnologySolutionsViaInfomediary')">@lang('public.targeted technology solutions via infomediary')</a>
+                    </li>
                     <ul>
                         <li><a href="javascript:goTo('infoRecon')">@lang('public.inforecon')</a></li>
                         <li><a href="javascript:goTo('infoNav')">@lang('public.infonav')</a></li>
                     </ul>
                     <li><a href="javascript:goTo('hostedOperationsAndReporting')">@lang('public.hosted operations & reporting')</a></li>
-                    <li><a href="javascript:goTo('investmentAccountingAndEnterpriseDataSupport')">@lang('public.investment accounting & enterprise data support')</a></li>
+                    <li><a href="javascript:goTo('investmentAccountingAndEnterpriseDataSupport')">@lang('public.investment accounting & enterprise data support')</a>
+                    </li>
                     <li><a href="javascript:goTo('collateralManagementCustody')">@lang('public.collateral management')</a></li>
                 </ul>
             </ul>
