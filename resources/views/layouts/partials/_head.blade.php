@@ -22,6 +22,8 @@
 <link rel="stylesheet" href="{{ asset('css/slider-retina.css') }}" />
 <link rel="stylesheet" href="{{ asset('css/slider-project.css') }}" />
 <link rel="stylesheet" href="{{ asset('css/custom-sidebar.css') }}" />
+<link rel="stylesheet" href="{{ asset('css/custom-headerNav.css') }}" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" />
 
 <!-- Colors -->
 <link rel="alternate stylesheet" type="text/css" href="{{ asset('css/colors/color-orange.css') }}" title="orange">

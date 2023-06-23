@@ -1,3 +1,8 @@
+:root {
+    --vanward-dark-orange: #F76F1F;
+    --vanward-light-orange: #fad65f;
+}
+
 #sidebar {
     font-family: 'OpenSans-Light-webfont', sans-serif;
     background-color: #FFEBCD;
@@ -41,7 +46,7 @@
 }
 
 #sidebar ul li a:hover {
-    background-color: #f77925;
+    background-color: var(--vanward-dark-orange);
     color: #ffffff;
     /* White text color */
 }
