@@ -24,6 +24,31 @@
         <div class="sixteen columns">
             <div class="sep"></div>
         </div>
+        <div class="sixteen columns" style="text-align: center;">
+            <!-- Styles -->
+            <style>
+                #chartdiv {
+                    width: 100%;
+                    height: 500px;
+                    overflow: hidden;
+                }
+            </style>
+
+            @push('custom-scripts')
+            <!-- Resources -->
+            <script src="https://cdn.amcharts.com/lib/5/index.js"></script>
+            <script src="https://cdn.amcharts.com/lib/5/map.js"></script>
+            <script src="https://cdn.amcharts.com/lib/5/geodata/worldLow.js"></script>
+            <script src="https://cdn.amcharts.com/lib/5/themes/Animated.js"></script>
+
+            <!-- Chart code -->
+            <script src="{{ asset('js/custom-amcharts.js') }}"></script>
+            @endpush
+
+
+            <!-- HTML -->
+            <div id="chartdiv"></div>
+        </div>
     </div>
     <div class="clear"></div>
     <div class="mapouter">
