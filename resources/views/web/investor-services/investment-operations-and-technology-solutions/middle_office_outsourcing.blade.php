@@ -30,8 +30,7 @@
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
                     <h6 style="text-align: left;">
-                        <a href="javascript:goTo('targetedTechnologySolutionsViaInfomediary')">Targeted Technology Solutions via
-                            Infomediary</a>
+                        <a href="javascript:goTo('targetedTechnologySolutionsViaInfomediary')">@lang('public.targeted technology solutions via infomediary')</a>
                     </h6>
                     <p>
                         Delivering flexible modular solutions that streamline operations and data transmission across
@@ -46,8 +45,7 @@
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
                     <h6 style="text-align: left;">
-                        <a href="javascript:goTo('investmentAccountingAndEnterpriseDataSupport')">Investment Accounting & Enterprise Data
-                            Support</a>
+                        <a href="javascript:goTo('investmentAccountingAndEnterpriseDataSupport')">@lang('public.investment accounting & enterprise data support')</a>
                     </h6>
                     <p>
                         Enabling improved front office decision making through data aggregation and augmentation tools,

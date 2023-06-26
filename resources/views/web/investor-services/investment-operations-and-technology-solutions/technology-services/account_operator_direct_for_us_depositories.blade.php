@@ -3,8 +3,7 @@
         <span>
             <a href="https://vanwardintl.com/">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('investorServices')">@lang('public.investor services')</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('investmentOperationsAndTechnologySolutions')">Investment Operations & Technology
-                Solutions</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('investmentOperationsAndTechnologySolutions')">@lang('public.investment operations & technology solutions')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('technologyServices')">@lang('public.technology services')</a>&nbsp;&nbsp;>
             &nbsp;&nbsp;<strong>@lang('public.account operator direct for US depositories')</strong>
         </span>

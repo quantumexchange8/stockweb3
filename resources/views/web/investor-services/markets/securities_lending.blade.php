@@ -50,7 +50,7 @@
             transparency, allowing our clients to oversee their lending program in real time, monitoring revenue and the
             markets that generate it.
             <br><br>
-            <a href="javascript:goTo('')">Vanward Securities Lending Execution Policy</a>
+            <a href="javascript:goTo('securitiesLendingExecutionPolicy')">@lang('vanward securities lending execution policy')</a>
         </p>
     </div>
     <div class="five columns">

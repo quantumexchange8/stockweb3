@@ -22,7 +22,7 @@
             classes and investment strategies. Working closely with our clients, we ensure that their assets are
             adequately safeguarded and help them comply with their own fiduciary obligations.
             <br><br>
-            <strong>Approach</strong>
+            <strong>@lang('public.approach')</strong>
             <br><br>
             Vanward applies a risk-based, continuous oversight and monitoring approach. A thorough assessment of the risks
             associated with the nature, scale and complexity of the fund’s strategy and fund manager’s organization

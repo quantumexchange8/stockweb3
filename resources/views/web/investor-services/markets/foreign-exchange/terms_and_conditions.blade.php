@@ -5,7 +5,7 @@
             <a href="javascript:goTo('investorServices')">@lang('public.investor services')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('markets')">@lang('public.markets')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('foreignExchange')">@lang('public.foreign exchange')</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>FX Terms and Conditions</strong>
+            &nbsp;&nbsp;<strong>@lang('public.fx terms and conditions')</strong>
         </span>
     </div>
     <br><br>
@@ -14,7 +14,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>FX Terms and Conditions</h2>
+        <h2>@lang('public.fx terms and conditions')</h2>
         <p style="padding-top: 10px;">
             These FX Terms and Conditions shall form the contract to which any foreign exchange trades including,
             without limitation, any standing instruction for a foreign exchange trade (each a “Transaction”) entered

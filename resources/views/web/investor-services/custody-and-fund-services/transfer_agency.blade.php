@@ -38,7 +38,7 @@
             <br><br>
             <strong>Robust Infrastructure</strong>
             <br><br>
-            We provide a single Transfer Agency platform globally. When combined with Vanward <a href="javascript:goTo('dataConnectivityAndApplicationsViaInfomediary')">Infomediary</a>®, this offers a
+            We provide a single Transfer Agency platform globally. When combined with Vanward <a href="javascript:goTo('dataConnectivityAndApplicationsViaInfomediary')"></a>®, this offers a
             unique connectivity solution for distributor communications.
             <br><br>
             <strong>Focus on Investor OnBoarding</strong>

@@ -31,7 +31,7 @@
             well as operational and cost efficiencies. This results in a better overall service for their underlying
             clients, helping to create competitive advantage and grow their businesses.
             <br><br>
-            <strong>@lang('public.fund order & custody') services include:</strong>
+            <strong>Fund Order & Custody services include:</strong>
             <br><br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;Order processing and automation via our proprietary online platform, Fund WorldView <br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;Best in class order routing – “Smart Order Routing”<br>

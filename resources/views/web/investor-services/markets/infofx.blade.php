@@ -4,7 +4,7 @@
             <a href="https://vanwardintl.com/">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('investorServices')">@lang('public.investor services')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('markets')">@lang('public.markets')</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Info FX</strong>
+            &nbsp;&nbsp;<strong>@lang('public.infofx')</strong>
         </span>
     </div>
     <br><br>
@@ -13,7 +13,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Info FX</h2>
+        <h2>@lang('public.infofx')</h2>
         <p style="padding-top: 10px;">
             Vanward's InfoFX® is a dynamic foreign exchange alternative to traditional operational FX management that
             offers the ease of a low-touch solution with the insight and flexibility of an in-house desk in freely
@@ -28,7 +28,7 @@
             InfoFX automatically calculates FX trade requirements based on security settlement details, and offers
             netting and aggregation functionalities where applicable. Operational and settlement risk can be minimized
             through our proprietary messaging platform, Vanward
-            <a href="javascript:goTo('dataConnectivityAndApplicationsViaInfomediary')">Infomediary</a>®.
+            <a href="javascript:goTo('dataConnectivityAndApplicationsViaInfomediary')">@lang('infomediary')</a>®.
             <br><br>
             <strong>Choice through Control</strong>
             <br><br>

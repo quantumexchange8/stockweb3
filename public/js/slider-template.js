@@ -414,6 +414,10 @@ var colors = {
         "background": "",
         "index": 5.35
     },
+    "securitiesLendingExecutionPolicy": {
+        "background": "",
+        "index": 5.35
+    },
     "marketIntelligence": {
         "background": "",
         "index": 5.36
@@ -839,6 +843,7 @@ pages = [
     "infoFx",
     "currencyHedging",
     "securitiesLending",
+    "securitiesLendingExecutionPolicy",
     "marketIntelligence",
     "investmentOperationsAndTechnologySolutions",
     "technologyServices",

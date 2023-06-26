@@ -27,8 +27,7 @@
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
                     <h6 style="text-align: left;">
-                        <a href="javascript:goTo('dataConnectivityAndApplicationsViaInfomediary')">Data Connectivity & Applications via
-                            Infomediary</a>
+                        <a href="javascript:goTo('dataConnectivityAndApplicationsViaInfomediary')">@lang('public.data connectivity & applications via infomediary')</a>
                     </h6>
                     <p>
                         Providing connectivity options designed to streamline reconciliation, trade management,

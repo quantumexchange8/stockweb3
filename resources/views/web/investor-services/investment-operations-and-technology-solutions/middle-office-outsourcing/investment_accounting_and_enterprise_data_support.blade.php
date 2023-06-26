@@ -3,8 +3,7 @@
         <span>
             <a href="https://vanwardintl.com/">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('investorServices')">@lang('public.investor services')</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('investmentOperationsAndTechnologySolutions')">Investment Operations & Technology
-                Solutions</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('investmentOperationsAndTechnologySolutions')">@lang('public.investment operations & technology solutions')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('middleOfficeOutsourcing')">@lang('public.middle office outsourcing')</a>&nbsp;&nbsp;>
             &nbsp;&nbsp;<strong>@lang('public.investment accounting & enterprise data support')</strong>
         </span>
@@ -38,10 +37,10 @@
             linkages and across a global network of brokers and custodian frameworks. For asset gatherers, a successful
             IBOR strategy consists of the following components:
             <br><br>
-            &nbsp;&nbsp;&nbsp;1.&nbsp;Data Governance Strategy <br>
-            &nbsp;&nbsp;&nbsp;2.&nbsp;Data Capture<br>
-            &nbsp;&nbsp;&nbsp;3.&nbsp;Aggregation and Enrichment<br>
-            &nbsp;&nbsp;&nbsp;4.&nbsp;Information Delivery<br>
+            &nbsp;&nbsp;&nbsp;@lang('public.1').&nbsp;Data Governance Strategy <br>
+            &nbsp;&nbsp;&nbsp;@lang('public.2').&nbsp;Data Capture<br>
+            &nbsp;&nbsp;&nbsp;@lang('public.3').&nbsp;Aggregation and Enrichment<br>
+            &nbsp;&nbsp;&nbsp;@lang('public.4').&nbsp;Information Delivery<br>
             <br>
             Vanward provides market insight into these components to help clients shape their data governance strategies.
             Our technology platform provides an enterprise-wide data repository for consistent data capture across

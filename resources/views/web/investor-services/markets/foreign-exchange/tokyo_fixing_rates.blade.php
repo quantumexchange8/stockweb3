@@ -16,7 +16,7 @@
     <div class="eleven columns">
         <h2>@lang('public.tokyo fixing rates')</h2>
         <p style="padding-top: 10px;">
-            Content currently unavailable. Please try again later.
+            @lang('public.content unavailable')
         </p>
     </div>
     <div class="five columns">

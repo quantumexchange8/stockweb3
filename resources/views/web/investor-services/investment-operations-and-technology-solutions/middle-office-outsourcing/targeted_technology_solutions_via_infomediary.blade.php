@@ -3,8 +3,7 @@
         <span>
             <a href="https://vanwardintl.com/">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('investorServices')">@lang('public.investor services')</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('investmentOperationsAndTechnologySolutions')">Investment Operations & Technology
-                Solutions</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('investmentOperationsAndTechnologySolutions')">@lang('public.investment operations & technology solutions')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('technologyServices')">@lang('public.technology services')</a>&nbsp;&nbsp;>
             &nbsp;&nbsp;<strong>@lang('public.data connectivity & applications via infomediary')</strong>
         </span>
@@ -34,7 +33,7 @@
             In addition to its core messaging and connectivity capabilities, Infomediary offers exclusive modular
             applications such as:
             <br><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;<a href="https://wgaml.com/files/infoaction_dhwpo5pohshw0nea3j8pfs.html">InfoAction</a>®: multi-provider automation for the entire corporate actions event lifecycle
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;<a href="https://wgaml.com/files/infoaction_dhwpo5pohshw0nea3j8pfs.html">@lang('infoAction')</a>®: multi-provider automation for the entire corporate actions event lifecycle
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;<a href="javascript:goTo('infoFx')">@lang('public.infofx')</a>®: a dynamic foreign exchange alternative that combines quality execution with cost efficiencies and
             clear, comprehensive reporting – all through a fully automated, efficient workflow
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;<a href="javascript:goTo('infoRecon')">@lang('public.inforecon')</a>™: a scalable outsource solution that provides an automated process for reconciling cash data and

@@ -20,7 +20,7 @@
             relationship excellence, our goal is to provide every client with a smooth, comprehensive FX program from
             start to finish.
             <br><br>
-            <strong>@lang('public.foreign exchange') Expertise</strong>
+            <strong>Foreign Exchange Expertise</strong>
             <br>
             Vanward is a proven and committed FX provider. We offer executions in spots and forwards for freely traded
             currencies, and specialize in trading select emerging and restricted markets. Our clients receive global
@@ -48,7 +48,7 @@
             <br><br>
             <a href="javascript:goTo('regulatoryReportingRequirements')">@lang('public.regulatory reporting requirements')</a>
             <br><br>
-            <a href="javascript:goTo('fxDisclosure')">@lang('public.fx disclosure') Statement</a>
+            <a href="javascript:goTo('fxDisclosure')">FX Disclosure Statement</a>
         </p>
     </div>
     <div class="five columns">
