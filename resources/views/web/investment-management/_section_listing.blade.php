@@ -39,12 +39,12 @@
             <p>With an emphasis on capital preservation, Vanward's public equity strategies aim to generate attractive long-term investment returns across complete market cycles.</p>
             <div class="blog-tag" style="padding-top: 10px;">
                 <a href="javascript:goTo('usLargeCapEquity')">@lang('public.US large cap equity')</a>
-                <a href="javascript:goTo('usSmallAndMidCapEquity')">@lang('public.US small & mid-cap equity') & Mid-Cap Equity</a>
+                <a href="javascript:goTo('usSmallAndMidCapEquity')">@lang('public.US small & mid-cap equity')</a>
                 <a href="javascript:goTo('globalEquity')">@lang('public.global equity')</a>
             </div>
             <div class="clear"></div>
             <div class="link-blog">
-                <div class="cl-effect-14"><a href="javascript:goTo('publicEquity')">read more</a> </div>
+                <div class="cl-effect-14"><a href="javascript:goTo('publicEquity')">@lang('public.read more')</a> </div>
             </div>
         </div>
     </div>
@@ -62,11 +62,11 @@
             <div class="blog-tag">
                 <a href="javascript:goTo('taxableFixedIncomeStrategies')">@lang('public.fixed income')</a>
                 <a href="javascript:goTo('usTipsStrategy')">@lang('public.US TIPS strategy')</a>
-                <a href="javascript:goTo('taxExemptFixedIncomeStrategy')">@lang('public.tax-exempt fixed income') Strategy</a>
+                <a href="javascript:goTo('taxExemptFixedIncomeStrategy')">@lang('public.tax-exempt fixed income strategy')</a>
             </div>
             <div class="clear"></div>
             <div class="link-blog">
-                <div class="cl-effect-14"><a href="javascript:goTo('fixedIncome')">read more</a> </div>
+                <div class="cl-effect-14"><a href="javascript:goTo('fixedIncome')">@lang('public.read more')</a> </div>
             </div>
         </div>
     </div>
@@ -83,7 +83,7 @@
             </div>
             <div class="clear"></div>
             <div class="link-blog">
-                <div class="cl-effect-14"><a href="javascript:goTo('openAccount')">read more</a> </div>
+                <div class="cl-effect-14"><a href="javascript:goTo('openAccount')">@lang('public.read more')</a> </div>
             </div>
         </div>
     </div>

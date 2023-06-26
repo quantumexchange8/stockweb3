@@ -38,14 +38,13 @@
             <img src="{{ asset('images/resource/custody-and-fund-services.jpeg') }}" alt="" />
         </div>
         <div class="eight columns">
-            <h6><a href="javascript:goTo('custodyAndFundServices')">@lang('public.custody') & Fund
-                    Services</a></h6>
+            <h6><a href="javascript:goTo('custodyAndFundServices')">@lang('public.custody & fund services')</a></h6>
             <p>Ensuring the accurate trade settlement, safekeeping, reporting and administration of our clients’
                 most complex funds and asset types</p>
             <div class="blog-tag" style="padding-top: 10px;">
                 <a href="javascript:goTo('custody')">@lang('public.custody')</a>
                 <a href="javascript:goTo('transferAgency')">@lang('public.transfer agency')</a>
-                <a href="javascript:goTo('depositaryAndTrustee')">Depository & Trustee</a>
+                <a href="javascript:goTo('depositaryAndTrustee')">@lang('public.depositary & trustee')</a>
                 <a href="javascript:goTo('globalTax')">@lang('public.global tax')</a>
                 <a href="javascript:goTo('fundAccounting')">@lang('public.fund accounting')</a>
                 <a href="javascript:goTo('collateralManagementCustody')">@lang('public.collateral management')</a>
@@ -55,8 +54,7 @@
             <div class="clear"></div>
             <div class="link-blog">
                 <div class="cl-effect-14"><a
-                        href="javascript:goTo('custodyAndFundServices')">read
-                        more</a>
+                        href="javascript:goTo('custodyAndFundServices')">@lang('public.read more')</a>
                 </div>
             </div>
         </div>
@@ -70,13 +68,12 @@
             </ul>
         </div>
         <div class="eight columns">
-            <h6><a href="javascript:goTo('specialistExpertise')">Specialist
-                    Expertise</a>
+            <h6><a href="javascript:goTo('specialistExpertise')">@lang('public.specialist expertise')</a>
             </h6>
             <p>Providing specialist expertise servicing cross-border funds, alternatives, ETFs, and insurance firms
             </p>
             <div class="blog-tag">
-                <a href="javascript:goTo('crossBorderFunds')">Cross Border Funds</a>
+                <a href="javascript:goTo('crossBorderFunds')">@lang('public.cross-border funds')</a>
                 <a href="javascript:goTo('alternativeFunds')">@lang('public.alternative funds')</a>
                 <a href="javascript:goTo('usFunds')">@lang('public.US funds')</a>
                 <a href="javascript:goTo('exchangeTradedFunds')">@lang('public.exchange traded funds')</a>
@@ -115,8 +112,7 @@
             </div>
             <div class="clear"></div>
             <div class="link-blog">
-                <div class="cl-effect-14"><a href="javascript:goTo('markets')">read
-                        more</a>
+                <div class="cl-effect-14"><a href="javascript:goTo('markets')">@lang('public.read more')</a>
                 </div>
             </div>
         </div>
@@ -130,8 +126,7 @@
             </ul>
         </div>
         <div class="eight columns">
-            <h6><a href="javascript:goTo('investmentOperationsAndTechnologySolutions')">Investment
-                    Operations & Technology Solutions</a></h6>
+            <h6><a href="javascript:goTo('investmentOperationsAndTechnologySolutions')">@lang('public.investment operations & technology solutions')</a></h6>
             <p>Making key components of our technology platform available to clients on a SaaS, IaaS, and fully
                 outsourced basis.
             </p>
@@ -142,8 +137,7 @@
             <div class="clear"></div>
             <div class="link-blog">
                 <div class="cl-effect-14"><a
-                        href="javascript:goTo('investmentOperationsAndTechnologySolutions')">read
-                        more</a></div>
+                        href="javascript:goTo('investmentOperationsAndTechnologySolutions')">@lang('public.read more')</a></div>
             </div>
         </div>
     </div>

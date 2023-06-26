@@ -24,7 +24,7 @@
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;What steps has the family taken to engage third parties in order to facilitate conflict resolution and enhance communication and decision-making?<br><br>
         </p>
         <div style="padding-top: 30px;">
-            <h2 style="padding-bottom: 20px;">Insights</h2>
+            <h2 style="padding-bottom: 20px;">@lang('public.insights')</h2>
             <hr>
             <div class="two columns">
                 <img src="{{ asset('images/affinity/spring-festival-cover.jpg') }}" alt=""
