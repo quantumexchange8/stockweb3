@@ -75,6 +75,17 @@ $('ul.slimmenu').on('click', function () {
 
 var currentIndex = 2;
 var currentId = "privateBanking";
+
+// Function to navigate to a section based on the URL hash
+function navigateToHash() {
+    var hash = window.location.hash.substr(1);
+    if (hash) {
+        goTo(hash);
+    } else {
+        goTo(currentId); // Navigate to the default section if no hash is present
+    }
+}
+
 $('ul.slimmenu').slimmenu(
     {
         resizeWidth: '800',
@@ -84,6 +95,11 @@ $('ul.slimmenu').slimmenu(
         indentChildren: true,
         childrenIndenter: '&raquo;'
     });
+
+// Call navigateToHash when the page loads
+$(document).ready(function () {
+    navigateToHash();
+});
 
 var colors = {
     "home": {
@@ -656,13 +672,30 @@ var colors = {
     }
 };
 
+// function createLink(url, text, id) {
+//     var link = document.createElement("a");
+//     link.href = url;
+//     link.textContent = text;
+//     link.addEventListener("click", function (event) {
+//         event.preventDefault(); // Prevent the default link behavior
+//         goTo(id); // Call the goTo function with the specified ID
+//     });
+//     return link;
+// }
+
 function goTo(id) {
-    var obj = eval("colors." + id);
+    var obj = colors[id];
     // Update URL using pushState
     var url = window.location.href.split('#')[0] + '#' + id;
     history.pushState({}, '', url);
     $("body").css("background", obj.background);
     $("ul.slimmenu li a").css("color", obj.background);
+
+    // Scroll to the target section
+    $('html, body').animate({
+        scrollTop: $("#" + id).offset().top
+    }, 800);
+
     if (obj.index > currentIndex) {
         $(".active").addClass("off");
         $(".active").transition({
@@ -722,7 +755,7 @@ function navigateBack() {
 }
 
 // Listen for the popstate event
-window.addEventListener('popstate', function(event) {
+window.addEventListener('popstate', function (event) {
     // Handle navigating back
     navigateBack();
 });
