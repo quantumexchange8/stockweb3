@@ -57,7 +57,7 @@
             <div class="eight columns">
                 <h6 style="text-align: left; padding-bottom: 10px;">Why Decision-Making Is So Complicated in a Family Business
                 </h6>
-                <p>Ellen Perry, Senior Advisor at WAML, discusses the complexities of decision-making in a family business, how families can overcome decision blockers, and the tools families can use to foster improved decision-making.
+                <p>Ellen Perry, Senior Advisor at Vanward, discusses the complexities of decision-making in a family business, how families can overcome decision blockers, and the tools families can use to foster improved decision-making.
                 </p>
             </div>
         </div>
