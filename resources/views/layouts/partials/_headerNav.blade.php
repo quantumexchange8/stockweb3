@@ -9,15 +9,13 @@
         <input type="radio" name="slider" id="close-btn">
         <ul class="nav-links">
             <label for="close-btn" class="btn close-btn"><i class="fas fa-times"></i></label>
-            <li><a href="#">@lang('public.client login')</a></li>
             <li><a href="javascript:goTo('careers')">@lang('public.our firm')</a></li>
             <li><a href="javascript:goTo('careers');">@lang('public.careers')</a></li>
             <li><a href="javascript:goTo('sustainability');">@lang('public.sustainability')</a></li>
-            <li><a href="javascript:goTo('contact');">@lang('public.contact us')</a></li>
             <li>
                 <a href="javascript:goTo('privateBanking')" class="desktop-item">@lang('public.private banking')</a>
                 <input type="checkbox" id="showPrivateBanking">
-                <label for="showPrivateBanking" class="mobile-item">@lang('public.private banking')</label>
+                <label style="text-align: center;" for="showPrivateBanking" class="mobile-item">@lang('public.private banking')</label>
                 <div class="mega-box">
                     <div class="content">
                         <div class="row">
@@ -58,7 +56,7 @@
             <li>
                 <a href="javascript:goTo('investmentManagement')" class="desktop-item">@lang('public.investment management')</a>
                 <input type="checkbox" id="showInvestmentManagement">
-                <label for="showInvestmentManagement" class="mobile-item">@lang('public.investment management')</label>
+                <label style="text-align: center;" for="showInvestmentManagement" class="mobile-item">@lang('public.investment management')</label>
                 <div class="mega-box">
                     <div class="content">
                         <div class="row">
@@ -88,7 +86,7 @@
             <li>
                 <a href="javascript:goTo('investorServices')" class="desktop-item">@lang('public.investor services')</a>
                 <input type="checkbox" id="showInvestorServices">
-                <label for="showInvestorServices" class="mobile-item">@lang('public.investor services')</label>
+                <label style="text-align: center;" for="showInvestorServices" class="mobile-item">@lang('public.investor services')</label>
                 <div class="mega-box">
                     <div class="content">
                         <div class="row">
@@ -140,6 +138,8 @@
                     </div>
                 </div>
             </li>
+            <li><a href="javascript:goTo('contact');">@lang('public.contact us')</a></li>
+            <li><a href="#">@lang('public.client login')</a></li>
         </ul>
         <label for="menu-btn" class="btn menu-btn"><i class="fas fa-bars"></i></label>
     </div>
