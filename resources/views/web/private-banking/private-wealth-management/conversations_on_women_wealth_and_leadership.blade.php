@@ -221,6 +221,7 @@
                 </p>
             </div>
         </div>
+    </div>
     <div class="five columns">
         @include('web.private-banking._sidebar')
     </div>
