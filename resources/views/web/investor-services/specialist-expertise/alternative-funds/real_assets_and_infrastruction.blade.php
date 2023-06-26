@@ -3,9 +3,9 @@
         <span>
             <a href="https://vanwardintl.com/">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('investorServices')">@lang('public.investor services')</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('specialistExpertise')">Sepcialist Expertise</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('specialistExpertise')">@lang('public.specialist expertise')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('alternativeFunds')">@lang('public.alternative funds')</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Real Assets & Infrastruction</strong>
+            &nbsp;&nbsp;<strong>@lang('public.real assets & infrastructure')</strong>
         </span>
     </div>
     <br><br>
@@ -14,7 +14,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Real Assets & Infrastruction</h2>
+        <h2>@lang('public.real assets & infrastructure')</h2>
         <p style="padding-top: 10px;">
             Vanward is a leading global service provider for alternative funds, with over $275 billion* in assets under
             administration.
@@ -29,7 +29,7 @@
             We have a leading market share in servicing Luxembourg domiciled real estate investment funds with more than
             15 years track record of helping managers in this key fund domicile.
             <br><br>
-            *as of December 2021.
+            @lang('public.as of december 2021')
         </p>
     </div>
     <div class="five columns">

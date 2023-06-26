@@ -3,7 +3,7 @@
         <span>
             <a href="https://vanwardintl.com/">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('investorServices')">@lang('public.investor services')</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('specialistExpertise')">Sepcialist Expertise</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('specialistExpertise')">@lang('public.specialist expertise')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('alternativeFunds')">@lang('public.alternative funds')</a>&nbsp;&nbsp;>
             &nbsp;&nbsp;<strong>@lang('public.private equity')</strong>
         </span>
@@ -30,7 +30,7 @@
             appreciate our single point of contact approach to client service helping them simplify the day to day
             operational needs of their funds.
             <br><br>
-            *as of December 2019.
+            @lang('public.as of december 2019')
         </p>
     </div>
     <div class="five columns">

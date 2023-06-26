@@ -3,7 +3,7 @@
         <span>
             <a href="https://vanwardintl.com/">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('investorServices')">@lang('public.investor services')</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('specialistExpertise')">Sepcialist Expertise</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('specialistExpertise')">@lang('public.specialist expertise')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('alternativeFunds')">@lang('public.alternative funds')</a>&nbsp;&nbsp;>
             &nbsp;&nbsp;<strong>@lang('public.hedge funds')</strong>
         </span>
@@ -33,7 +33,7 @@
             in ensuring an asset manager’s reputation with its underlying clients. As such this helps build and protect
             brand - an increasingly important driver of a manager’s distribution strategy.
             <br><br>
-            *as of December 2021.
+            @lang('public.as of december 2021')
         </p>
     </div>
     <div class="five columns">

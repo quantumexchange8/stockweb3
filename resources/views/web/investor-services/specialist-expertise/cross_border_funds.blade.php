@@ -3,7 +3,7 @@
         <span>
             <a href="https://vanwardintl.com/">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('investorServices')">@lang('public.investor services')</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('specialistExpertise')">Sepcialist Expertise</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('specialistExpertise')">@lang('public.specialist expertise')</a>&nbsp;&nbsp;>
             &nbsp;&nbsp;<strong>@lang('public.cross-border funds')</strong>
         </span>
     </div>
@@ -18,12 +18,11 @@
             Vanward is a cross-border fund servicing specialist. We believe in the continued growth of cross-border
             distribution markets and have made this a core focus for our firm.
             <br><br>
-            We provide <a href="javascript:goTo('custody')">@lang('public.custody')</a>, <a href="javascript:goTo('fundAccounting')">@lang('public.fund accounting')</a> and <a href="javascript:goTo('fundAdministration')">administration</a>, <a href="javascript:goTo('')">@lang('public.transfer agency')</a> and related services to many of the
-            most successful global cross-border asset managers. In doing so we have developed a deep understanding of
-            complex fund structures distributed globally.
+            @lang('public.we provide') <a href="javascript:goTo('custody')">@lang('public.custody')</a>, <a href="javascript:goTo('fundAccounting')">@lang('public.fund accounting')</a> @lang('public.and') <a href="javascript:goTo('fundAdministration')">@lang('public.administration')</a>, <a href="javascript:goTo('transferAgency')">@lang('public.transfer agency')</a> and related services to many of the
+            most successful global cross-border asset managers. In doing so we have developed a deep understanding of complex fund structures distributed globally.
             <br><br>
-            Our <a href="javascript:goTo('globalServiceModel')">@lang('public.global service model')</a> assists managers to access capital pools globally, with a focus on servicing
-            <a href="javascript:goTo('luxembourg')">@lang('public.luxembourg')</a> and <a href="javascript:goTo('dublin')">Irish</a> domiciled UCITS and non-UCITS, U.S., Cayman, and Hong Kong domiciled funds.
+            @lang('public.our') <a href="javascript:goTo('globalServiceModel')">@lang('public.global service model')</a> assists managers to access capital pools globally, with a focus on servicing
+            <a href="javascript:goTo('luxembourg')">@lang('public.luxembourg')</a> @lang('public.and') <a href="javascript:goTo('dublin')">Irish</a> domiciled UCITS and non-UCITS, U.S., Cayman, and Hong Kong domiciled funds.
             <br><br>
             We have developed specialist expertise in supporting asset flows into and out of Europe, the <a href="javascript:goTo('greaterChina')">@lang('public.greater china')</a>
             region, <a href="javascript:goTo('latinAmerica')">@lang('public.latin america')</a>, the U.S. and <a href="javascript:goTo('japan')">@lang('public.japan')</a>.

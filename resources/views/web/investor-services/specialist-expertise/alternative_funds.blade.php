@@ -3,7 +3,7 @@
         <span>
             <a href="https://vanwardintl.com/">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('investorServices')">@lang('public.investor services')</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('specialistExpertise')">Sepcialist Expertise</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('specialistExpertise')">@lang('public.specialist expertise')</a>&nbsp;&nbsp;>
             &nbsp;&nbsp;<strong>@lang('public.alternative funds')</strong>
         </span>
     </div>
@@ -19,7 +19,7 @@
             in alternative assets, we offer comprehensive custody, administration and related services for all major
             alternative asset classes and strategies, across three broad categories:
             <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;<a href="javascript:goTo('realAssetsAndInfrastructure')">Real Assets</a> and <a href="javascript:goTo('privateEquityAlternativeFunds')">@lang('public.private equity')</a><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;<a href="javascript:goTo('realAssetsAndInfrastructure')">Real Assets</a> @lang('public.and') <a href="javascript:goTo('privateEquityAlternativeFunds')">@lang('public.private equity')</a><br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;<a href="javascript:goTo('syndicatedAndOriginatedDebt')">Syndicated and originated debt</a><br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;<a href="javascript:goTo('hedgeFunds')">Hedge and other liquid strategies</a><br>
             Our offering helps clients manage the complexity of their alternative funds business, grow and compete

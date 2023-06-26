@@ -3,9 +3,9 @@
         <span>
             <a href="https://vanwardintl.com/">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('investorServices')">@lang('public.investor services')</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('specialistExpertise')">Sepcialist Expertise</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('specialistExpertise')">@lang('public.specialist expertise')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('alternativeFunds')">@lang('public.alternative funds')</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Syndicated & Originated</strong>
+            &nbsp;&nbsp;<strong>@lang('public.syndicated and originated debt')</strong>
         </span>
     </div>
     <br><br>
@@ -14,7 +14,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Syndicated & Originated</h2>
+        <h2>@lang('public.syndicated and originated debt')</h2>
         <p style="padding-top: 10px;">
             Vanward is a leading global service provider for alternative funds, with over $275 billion* in assets under
             administration.
@@ -32,7 +32,7 @@
             people with the expertise required to support managers as they move into this space and grow their
             portfolios.
             <br><br>
-            *as of December 2019.
+            @lang('public.as of december 2019')
         </p>
     </div>
     <div class="five columns">

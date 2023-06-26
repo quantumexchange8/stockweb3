@@ -33,7 +33,7 @@
                     <li><a href="javascript:goTo('realAssetsAndInfrastructure')">@lang('public.real assets & infrastructure')</a></li>
                     <li><a href="javascript:goTo('privateEquityAlternativeFunds')">@lang('public.private equity')</a></li>
                     <li><a href="javascript:goTo('hedgeFunds')">@lang('public.hedge funds')</a></li>
-                    <li><a href="javascript:goTo('syndicatedAndOriginatedDebt')">@lang('public.syndicated and original debt')</a></li>
+                    <li><a href="javascript:goTo('syndicatedAndOriginatedDebt')">@lang('public.syndicated and originated debt')</a></li>
                 </ul>
                 <li><a href="javascript:goTo('exchangeTradedFunds')">@lang('public.exchange traded funds')</a></li>
                 <li><a href="javascript:goTo('insurance')">@lang('public.insurance')</a></li>

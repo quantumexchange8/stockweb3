@@ -3,7 +3,7 @@
         <span>
             <a href="https://vanwardintl.com/">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('investorServices')">@lang('public.investor services')</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('specialistExpertise')">Sepcialist Expertise</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('specialistExpertise')">@lang('public.specialist expertise')</a>&nbsp;&nbsp;>
             &nbsp;&nbsp;<strong>@lang('public.US funds')</strong>
         </span>
     </div>
@@ -29,10 +29,10 @@
                     <td style="padding: 10px;">
                         <p><strong>Funds Servicing</strong></p>
                         <p>
-                            - <a href="javascript:goTo('globalCustody')">Global Custody</a><br>
+                            - <a href="javascript:goTo('custodyAndFundServices')">Global Custody</a><br>
                             - <a href="javascript:goTo('fundAccounting')">@lang('public.fund accounting')</a><br>
                             - <a href="javascript:goTo('fundAdministration')">@lang('public.fund administration')</a><br>
-                            - <a href="javascript:goTo('globalTaxServices')">@lang('public.global tax') Services</a><br>
+                            - <a href="javascript:goTo('globalTax')">Global Tax Services</a><br>
                         </p>
                     </td>
                     <td style="padding: 10px;">
