@@ -26,7 +26,29 @@
         </div>
     </div>
     <div class="clear"></div>
-    <div id="map"></div>
+    <div class="mapouter">
+        <div class="gmap_canvas">
+            <iframe width="100%" height="100%" id="gmap_canvas"
+                src="https://maps.google.com/maps?q=Unit 1 25/F Shanghai Commercial Bank Tower, 12 Queen's Road Central, Hong Kong&t=&z=16&ie=UTF8&iwloc=&output=embed"
+                frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+            <style>
+                .mapouter {
+                    position: relative;
+                    text-align: center;
+                    height: 400px;
+                    width: 100%;
+                }
+            </style>
+            <style>
+                .gmap_canvas {
+                    overflow: hidden;
+                    background: none !important;
+                    height: 100%;
+                    width: 100%;
+                }
+            </style>
+        </div>
+    </div>
     <div id="contact-details">
         <div class="container">
             <div class="sixteen columns">
