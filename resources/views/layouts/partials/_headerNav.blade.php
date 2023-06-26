@@ -2,7 +2,7 @@
     <div class="wrapper">
         <div class="logo">
             <a href="#">
-                <img src="{{ asset('images/logo-vanward/fulllogo_transparent_nobuffer.png') }}" alt="" height="50px" width="auto">
+                <img src="{{ asset('images/logo-new/fulllogo_transparent_nobuffer.png') }}" alt="" height="50px" width="auto">
             </a>
         </div>
         <input type="radio" name="slider" id="menu-btn">
@@ -139,7 +139,7 @@
                 </div>
             </li>
             <li><a href="javascript:goTo('contact');">@lang('public.contact us')</a></li>
-            <li><a href="#">@lang('public.client login')</a></li>
+            <li><a href="https://app.vanwardintl.com/en/accounts/login/">@lang('public.client login')</a></li>
         </ul>
         <label for="menu-btn" class="btn menu-btn"><i class="fas fa-bars"></i></label>
     </div>

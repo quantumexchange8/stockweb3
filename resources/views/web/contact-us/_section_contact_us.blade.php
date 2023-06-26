@@ -34,17 +34,15 @@
                 }
             </style>
 
-            @push('custom-scripts')
-            <!-- Resources -->
-            <script src="https://cdn.amcharts.com/lib/5/index.js"></script>
-            <script src="https://cdn.amcharts.com/lib/5/map.js"></script>
-            <script src="https://cdn.amcharts.com/lib/5/geodata/worldLow.js"></script>
-            <script src="https://cdn.amcharts.com/lib/5/themes/Animated.js"></script>
-
-            <!-- Chart code -->
-            <script src="{{ asset('js/custom-amcharts.js') }}"></script>
-            @endpush
-
+            {{-- @push('custom-scripts') --}}
+                <script src="//cdn.amcharts.com/lib/5/index.js"></script>
+                <script src="//cdn.amcharts.com/lib/5/map.js"></script>
+                <script src="//cdn.amcharts.com/lib/5/geodata/worldLow.js"></script>
+                <script src="//cdn.amcharts.com/lib/5/themes/Animated.js"></script>
+                <div id="chartdiv"></div>
+                <!-- Chart code -->
+                <script src="{{ asset('js/custom-amcharts.js') }}"></script>
+            {{-- @endpush --}}
 
             <!-- HTML -->
             <div id="chartdiv"></div>
