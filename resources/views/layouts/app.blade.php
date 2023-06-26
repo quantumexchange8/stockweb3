@@ -26,7 +26,7 @@
 
 
     <!-- Modals -->
-    @include('layouts.partials._modals')
+    {{-- @include('layouts.partials._modals') --}}
 
     <!-- Switch Panel -->
     {{-- @include('layouts.partials._switchPanel') --}}

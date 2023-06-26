@@ -2,7 +2,7 @@
 @section('title', 'Vanward International')
 
 @section('content')
-    <article id="home" class="off">
+    {{-- <article id="home" class="off">
         <div id="wrapper-slider">
             <div id="controls">
                 <div class="background-grid"></div>
@@ -27,9 +27,9 @@
                 <div class="cl-effect-14"><a href="javascript:goTo('about');">start here</a></div>
             </div>
         </div>
-    </article>
+    </article> --}}
 
-    <article id="about" class="off">
+    {{-- <article id="about" class="off">
         <div class="container">
             <div class="sixteen columns">
                 <h1>About Us</h1>
@@ -179,7 +179,7 @@
             </div>
         </div>
         @include('layouts.partials._footer')
-    </article>
+    </article> --}}
 
     <!-- Private Banking -->
     <article id="privateBanking" class="active" style="text-align: left;">
