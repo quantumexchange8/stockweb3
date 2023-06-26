@@ -68,8 +68,11 @@
                 volatility, political risk, and differences in auditing and other financial standards.
                 <br><br>
             </span>
-
-            <strong>NOT FDIC INSURED&nbsp;&nbsp;&nbsp;NO BANK GUARANTEE&nbsp;&nbsp;&nbsp;MAY LOSE VALUE</strong>
+        </p>
+        <p style="display: flex; justify-content: space-around;">
+            <strong>@lang('public.invest reminder 1')</strong>
+            <strong>@lang('public.invest reminder 2')</strong>
+            <strong>@lang('public.invest reminder 3')</strong>
         </p>
     </div>
     <div class="five columns">

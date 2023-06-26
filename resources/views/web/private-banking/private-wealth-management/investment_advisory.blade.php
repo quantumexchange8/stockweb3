@@ -40,7 +40,11 @@
 
             @lang('public.investment advisory 18')<br><br>
 
-            <strong>NOT FDIC INSURED&nbsp;&nbsp;&nbsp;NO BANK GUARANTEE&nbsp;&nbsp;&nbsp;MAY LOSE VALUE</strong>
+        </p>
+        <p style="display: flex; justify-content: space-around;">
+            <strong>@lang('public.invest reminder 1')</strong>
+            <strong>@lang('public.invest reminder 2')</strong>
+            <strong>@lang('public.invest reminder 3')</strong>
         </p>
     </div>
     <div class="five columns">

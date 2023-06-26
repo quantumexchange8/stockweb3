@@ -83,8 +83,12 @@
             <p style="padding-top: 10px;">
                 <span style="font-style: italic;">*Obligations such as bonds, notes, loans, leases and other forms of indebtedness issued by obligors other than the U.S. Government and its agencies, excluding Cash and Cash Equivalents, and tabulated at the level of the ultimate obligor or guarantor of the Obligation.
                 </span>
-
-                <strong>NOT FDIC INSURED&nbsp;&nbsp;&nbsp;NO BANK GUARANTEE&nbsp;&nbsp;&nbsp;MAY LOSE VALUE</strong>
+            </p>
+            <br>
+            <p style="display: flex; justify-content: space-around;">
+                <strong>@lang('public.invest reminder 1')</strong>
+                <strong>@lang('public.invest reminder 2')</strong>
+                <strong>@lang('public.invest reminder 3')</strong>
             </p>
         </div>
     </div>

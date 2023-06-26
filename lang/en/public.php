@@ -2,6 +2,11 @@
 return [
     // common phrases
     "past events" => "Past Events",
+    "partnerships" => "Partnerships",
+    "invest reminder 1" => "NOT FDIC INSURED",
+    "invest reminder 2" => "NO BANK GUARANTEE",
+    "invest reminder 3" => "MAY LOSE VALUE",
+
 
     // dates
     "january"   => "January",
@@ -246,7 +251,8 @@ return [
 
     // center for women and wealth
     "center for women and wealth caption 1" => "The Centre for Women and Wealth® (CW&W) is committed to engaging and assisting women in the wealth creation and management processes. We provide women with investment, planning, and philanthropic resources derived from our private banking clients' decades of experience. The CW&W seeks to cultivate an in-person and online community where women can share their experiences and offer guidance to future generations of female leaders.",
-    "center for women and wealth caption 2" => "CW&W is thrilled to partner with The Better Life Lab, an initiative of the think tank and social enterprise New America. The Better Life Lab is a protagonist in the national dialogue concerning the evolution of gender roles and norms, family policy, and the way we work and live. They use research, data, and reporting to inform their work and to convey the stories that motivate, enlighten, and inspire change.",
+    "center for women and wealth caption 2" => "New America: Better Life Lab",
+    "center for women and wealth caption 3" => "CW&W is thrilled to partner with The Better Life Lab, an initiative of the think tank and social enterprise New America. The Better Life Lab is a protagonist in the national dialogue concerning the evolution of gender roles and norms, family policy, and the way we work and live. They use research, data, and reporting to inform their work and to convey the stories that motivate, enlighten, and inspire change.",
     // conversations on women wealth and leadership
     "conversations on women wealth and leadership caption 1" => "The first step in establishing a dynamic and inclusive environment where women can have productive conversations about topics of interest to them is to encourage dialogue.",
     "conversations on women wealth and leadership caption 2" => "The Centre for Women & Wealth® and Vanward are committed to women's advancement. We host local and national forums where women can share their experiences and discuss financial, investment, and planning decisions.",

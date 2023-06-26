@@ -17,10 +17,10 @@
         <p style="padding-top: 10px;">
             @lang('public.center for women and wealth caption 1')
         </p>
-        <h2 style="padding-top: 10px;">Partnerships</h2>
-        <p style="padding-top: 10px;"><a href="https://www.newamerica.org/better-life-lab/">New America: Better Life Lab</a></p>
+        <h2 style="padding-top: 10px;">@lang('public.partnerships')</h2>
+        <p style="padding-top: 10px;"><a href="https://www.newamerica.org/better-life-lab/">@lang('public.center for women and wealth caption 2')</a></p>
         <p style="padding-top: 10px;">
-            @lang('public.center for women and wealth caption 2')
+            @lang('public.center for women and wealth caption 3')
         </p>
     </div>
     <div class="five columns">

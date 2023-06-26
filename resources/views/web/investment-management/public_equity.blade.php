@@ -94,7 +94,11 @@
                 purchase; we seek to purchase at 75% or less of our estimate of intrinsic value.
                 <br><br>
             </p>
-            <strong>NOT FDIC INSURED&nbsp;&nbsp;&nbsp;NO BANK GUARANTEE&nbsp;&nbsp;MAY LOSE VALUE</strong>
+            <p style="display: flex; justify-content: space-around;">
+                <strong>@lang('public.invest reminder 1')</strong>
+                <strong>@lang('public.invest reminder 2')</strong>
+                <strong>@lang('public.invest reminder 3')</strong>
+            </p>
         </div>
     </div>
     <div class="five columns">

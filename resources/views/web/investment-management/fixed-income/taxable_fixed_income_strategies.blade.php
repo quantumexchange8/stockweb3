@@ -64,8 +64,11 @@
                 -Investing in the bond market is subject to certain risks including market, interest-rate, issuer,
                 credit, and inflation risk; investments may be worth more or less than the original cost when redeemed.
             </span><br><br>
-
-            <strong>NOT FDIC INSURED&nbsp;&nbsp;&nbsp;NO BANK GUARANTEE&nbsp;&nbsp;&nbsp;MAY LOSE VALUE</strong>
+        </p>
+        <p style="display: flex; justify-content: space-around;">
+            <strong>@lang('public.invest reminder 1')</strong>
+            <strong>@lang('public.invest reminder 2')</strong>
+            <strong>@lang('public.invest reminder 3')</strong>
         </p>
     </div>
     <div class="five columns">
