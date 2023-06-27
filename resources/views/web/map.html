@@ -51,6 +51,12 @@
         border-radius: 0;
         padding: 0.7em;
       }
+      .europe ul li a:hover {
+        color: #007bff;
+      }
+      .asia li a:hover {
+        color: #DC3545;
+      }
       @media only screen and (min-width: 992px) {
         .dropdown:hover .dropdown-menu {
           display: flex;
@@ -158,177 +164,93 @@
           </div>
 
           <div class="col-lg-6 col-md-6 p-4">
-            <div class="">
-              <!-- <h2><a onclick="countryAsia()">Asia Pacific</a></h2> -->
-              <a
-                class="btn btn-secondary dropdown-toggle"
-                href="#"
-                role="button"
-                id="dropdownMenuLink"
-                data-bs-toggle="dropdown"
-                aria-expanded="false"
-              >
-                Asia Pacific
-              </a>
-              <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                <li><a class="dropdown-item" href="#">Australia</a></li>
-                <li><a class="dropdown-item" href="#">China</a></li>
-              </ul>
-
-              <a
-                class="nav-link dropdown-toggle"
-                href="#"
-                role="button"
-                data-bs-toggle="dropdown"
-                aria-expanded="false"
-              >
-                Europe
-              </a>
-              <div class="dropdown-menu">
-                <ul>
-                  <!-- <li><a class="dropdown-item" href="#">Action</a></li> -->
-                  <li><a class="dropdown-item" href="#">Austria</a></li>
-                  <li><a class="dropdown-item" href="#">Belgium</a></li>
-                  <li><a class="dropdown-item" href="#">Denmark</a></li>
-                  <li><a class="dropdown-item" href="#">Finland</a></li>
-                  <li><a class="dropdown-item" href="#">France</a></li>
-                  <li><a class="dropdown-item" href="#">Germany</a></li>
-                </ul>
-                <ul>
-                  <!-- <li><a class="dropdown-item" href="#">Another action</a></li> -->
-                  <li><a class="dropdown-item" href="#">Iceland</a></li>
-                  <li><a class="dropdown-item" href="#">Italy</a></li>
-                  <li><a class="dropdown-item" href="#">Liechtenstein</a></li>
-                  <li><a class="dropdown-item" href="#">Luxembourg</a></li>
-                  <li><a class="dropdown-item" href="#">Netherlands</a></li>
-                  <li><a class="dropdown-item" href="#">Norway</a></li>
-                </ul>
-                <ul>
-                  <!-- <li><a class="dropdown-item" href="#">Something else here</a></li> -->
-                  <li><a class="dropdown-item" href="#">Portugal</a></li>
-                  <li><a class="dropdown-item" href="#">Spain</a></li>
-                  <li><a class="dropdown-item" href="#">Sweden</a></li>
-                  <li><a class="dropdown-item" href="#">Switzerland</a></li>
-                  <li><a class="dropdown-item" href="#">United Kingdom</a></li>
-                </ul>
+              <div class="col-lg-12 py-2">
+                <h3>Please Select Your Country</h3>
+              </div>
+                <!-- Example 1 -->
+              <div class="col-lg-12 py-2">
+                <a class="btn btn-outline-danger dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+                    Asia Pacific
+                  </a>
+                  <ul class="dropdown-menu asia" aria-labelledby="dropdownMenuLink">
+                    <li><a class="dropdown-item" href="#">Australia</a></li>
+                    <li><a class="dropdown-item" href="#">China</a></li>
+                  </ul>
               </div>
 
-              <h2>
-                <a
-                  class="btn btn-outline-dark dropdown-toggle"
-                  onclick="countryEurope()"
-                  >Europe</a
-                >
-              </h2>
-              <div class="col-lg-12" id="countryEurope" style="display: none">
+              <div class="col-lg-12 py-2">
+                <a class="btn btn-outline-primary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+                    Europe
+                  </a>
+                  <div class="dropdown-menu europe">
+                    <ul>
+                      <li><a class="dropdown-item" href="#">Austria</a></li>
+                      <li><a class="dropdown-item" href="#">Belgium</a></li>
+                      <li><a class="dropdown-item" href="#">Denmark</a></li>
+                      <li><a class="dropdown-item" href="#">Finland</a></li>
+                      <li><a class="dropdown-item" href="#">France</a></li>
+                      <li><a class="dropdown-item" href="#">Germany</a></li>
+                    </ul>
+                    <ul>
+                      <li><a class="dropdown-item" href="#">Iceland</a></li>
+                      <li><a class="dropdown-item" href="#">Italy</a></li>
+                      <li><a class="dropdown-item" href="#">Liechtenstein</a></li>
+                      <li><a class="dropdown-item" href="#">Luxembourg</a></li>
+                      <li><a class="dropdown-item" href="#">Netherlands</a></li>
+                      <li><a class="dropdown-item" href="#">Norway</a></li>
+                    </ul>
+                    <ul>
+                      <li><a class="dropdown-item" href="#">Portugal</a></li>
+                      <li><a class="dropdown-item" href="#">Spain</a></li>
+                      <li><a class="dropdown-item" href="#">Sweden</a></li>
+                      <li><a class="dropdown-item" href="#">Switzerland</a></li>
+                      <li><a class="dropdown-item" href="#">United Kingdom</a></li>
+                    </ul>
+                  </div>
+              </div>
+              <!-- End of Example 1 -->
+
+              <!-- Example 2 -->
+              <h2><a class="btn btn-outline-danger dropdown-toggle" onclick="countryAsia()">Asia Pacific</a></h2>
+              <div class="col-lg-12" id="countryAsia" style="display: none">
                 <div class="row text-center">
                   <div class="col-lg-4 col-md-4">
-                    <p class="btn btn-outline-dark">Austria</p><br>
-                    <p class="btn btn-outline-dark">Belgium</p><br>
-                    <p class="btn btn-outline-dark">Denmark</p><br>
-                    <p class="btn btn-outline-dark">Finland</p><br>
-                    <p class="btn btn-outline-dark">France</p><br>
-                    <p class="btn btn-outline-dark">Germany</p>
-                  </div>
-                  <div class="col-md-4">
-                    <p class="border border-dark py-2 mx-4">
-                      <a href="https://testweb2.vanwardintl.com/main2"
-                        >Iceland</a
-                      >
-                    </p>
-                    <p class="border border-dark py-2 mx-4">
-                      <a href="https://testweb2.vanwardintl.com/main2">Italy</a>
-                    </p>
-                    <p class="border border-dark py-2 mx-4">
-                      <a href="https://testweb2.vanwardintl.com/main2"
-                        >Liechtenstein</a
-                      >
-                    </p>
-                    <p class="border border-dark py-2 mx-4">
-                      <a href="https://testweb2.vanwardintl.com/main2"
-                        >Luxembourg</a
-                      >
-                    </p>
-                    <p class="border border-dark py-2 mx-4">
-                      <a href="https://testweb2.vanwardintl.com/main2"
-                        >Netherlands</a
-                      >
-                    </p>
-                    <p class="border border-dark py-2 mx-4">
-                      <a href="https://testweb2.vanwardintl.com/main2"
-                        >Norway</a
-                      >
-                    </p>
-                  </div>
-                  <div class="col-md-4">
-                    <p>
-                      <a href="https://testweb2.vanwardintl.com/main2"
-                        >Portugal</a
-                      >
-                    </p>
-                    <p>
-                      <a href="https://testweb2.vanwardintl.com/main2">Spain</a>
-                    </p>
-                    <p>
-                      <a href="https://testweb2.vanwardintl.com/main2"
-                        >Sweden</a
-                      >
-                    </p>
-                    <p>
-                      <a href="https://testweb2.vanwardintl.com/main2"
-                        >Switzerland</a
-                      >
-                    </p>
-                    <p>
-                      <a href="https://testweb2.vanwardintl.com/main2"
-                        >United Kingdom</a
-                      >
-                    </p>
+                    <a href="https://testweb2.vanwardintl.com/main2"><p class="btn btn-outline-danger">Australia</p></a>
+                    <a href="https://testweb2.vanwardintl.com/main2"><p class="btn btn-outline-danger">China</p></a>
                   </div>
                 </div>
               </div>
-            </div>
-          </div>
-        </div>
 
-        <div class="col-lg-12" id="countryEurope" style="display: none">
-          <!-- <div class="row text-center">
-            <div class="col-md-4">
-              <p>Austria</p>
-              <p>Belgium</p>
-              <p>Denmark</p>
-              <p>Finland</p>
-              <p>France</p>
-              <p>Germany</p>
-            </div>
-            <div class="col-md-4">
-              <p>
-                <a href="https://testweb2.vanwardintl.com/main2">Iceland</a>
-              </p>
-              <p>Italy</p>
-              <p>Liechtenstein</p>
-              <p>Luxembourg</p>
-              <p>Netherlands</p>
-              <p>Norway</p>
-            </div>
-            <div class="col-md-4">
-              <p>Portugal</p>
-              <p>Spain</p>
-              <p>Sweden</p>
-              <p>Switzerland</p>
-              <p>United Kingdom</p>
-            </div>
-          </div> -->
-        </div>
+              <h2><a class="btn btn-outline-primary dropdown-toggle" onclick="countryEurope()">Europe</a></h2>
 
-        <div class="col-lg-12" id="countryAsia" style="display: none">
-          <div class="row text-center">
-            <div class="col-md-6">
-              <p>Australia</p>
-            </div>
-            <div class="col-md-6">
-              <p>China</p>
-            </div>
+              <div class="col-lg-12" id="countryEurope" style="display: none">
+                <div class="row text-center">
+                  <div class="col-lg-4 col-md-4">
+                    <a href="https://testweb2.vanwardintl.com/main2"><p class="btn btn-outline-primary">Austria</p></a><br>
+                    <a href="https://testweb2.vanwardintl.com/main2"><p class="btn btn-outline-primary">Belgium</p></a><br>
+                    <a href="https://testweb2.vanwardintl.com/main2"><p class="btn btn-outline-primary">Denmark</p></a><br>
+                    <a href="https://testweb2.vanwardintl.com/main2"><p class="btn btn-outline-primary">Finland</p></a><br>
+                    <a href="https://testweb2.vanwardintl.com/main2"><p class="btn btn-outline-primary">France</p></a><br>
+                    <a href="https://testweb2.vanwardintl.com/main2"><p class="btn btn-outline-primary">Germany</p></a>
+                  </div>
+                  <div class="col-lg-4 col-md-4">
+                    <a href="https://testweb2.vanwardintl.com/main2"><p class="btn btn-outline-primary">Iceland</p></a><br>
+                    <a href="https://testweb2.vanwardintl.com/main2"><p class="btn btn-outline-primary">Italy</p></a><br>
+                    <a href="https://testweb2.vanwardintl.com/main2"><p class="btn btn-outline-primary">Liechtenstein</p></a><br>
+                    <a href="https://testweb2.vanwardintl.com/main2"><p class="btn btn-outline-primary">Luxembourg</p></a><br>
+                    <a href="https://testweb2.vanwardintl.com/main2"><p class="btn btn-outline-primary">Netherlands</p></a><br>
+                    <a href="https://testweb2.vanwardintl.com/main2"><p class="btn btn-outline-primary">Norway</p></a>
+                  </div>
+                  <div class="col-lg-4 col-md-4">
+                    <a href="https://testweb2.vanwardintl.com/main2"><p class="btn btn-outline-primary">Protugal</p></a><br>
+                    <a href="https://testweb2.vanwardintl.com/main2"><p class="btn btn-outline-primary">Spain</p></a><br>
+                    <a href="https://testweb2.vanwardintl.com/main2"><p class="btn btn-outline-primary">Sweden</p></a><br>
+                    <a href="https://testweb2.vanwardintl.com/main2"><p class="btn btn-outline-primary">Switzerland</p></a><br>
+                    <a href="https://testweb2.vanwardintl.com/main2"><p class="btn btn-outline-primary">United Kingdom</p></a><br>
+                  </div>
+                </div>
+              </div>
+
           </div>
         </div>
       </div>
@@ -649,6 +571,27 @@
       fill: root.interfaceColors.get("secondaryButton"),
       templateField: "columnSettings",
     });
+
+    // Set up hover effect for country names
+    worldSeries.mapPolygons.template.events.on("over", function (ev) {
+        var countryName = ev.target.dataItem.get("name");
+        showCountryName(countryName);
+    });
+
+    worldSeries.mapPolygons.template.events.on("out", function () {
+        hideCountryName();
+    });
+
+    function showCountryName(countryName) {
+        var countryNameElement = document.getElementById("countryName");
+        countryNameElement.innerText = countryName;
+        countryNameElement.style.display = "block";
+    }
+
+    function hideCountryName() {
+        var countryNameElement = document.getElementById("countryName");
+        countryNameElement.style.display = "none";
+    }
 
     // Set up zooming in on clicked continent
     worldSeries.mapPolygons.template.events.on("click", function (ev) {
