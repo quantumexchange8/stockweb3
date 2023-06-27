@@ -655,17 +655,62 @@
       var country = ev.target.dataItem.get("id");
       var map;
       switch (country) {
-        case "US":
-          map = "usaLow.json";
+        case "AU":
+          map = "australiaLow.json";
           break;
-        case "CA":
-          map = "canadaLow.json";
+        case "CN":
+          map = "chinaLow.json";
           break;
-        case "MX":
-          map = "mexicoLow.json";
+        case "AT":
+          map = "austriaLow.json";
           break;
-        case "MY":
-          map = "malaysiaLow.json";
+        case "BE":
+          map = "belgiumLow.json";
+          break;
+        case "DK":
+          map = "denmarkLow.json";
+          break;
+        case "FI":
+          map = "finlandLow.json";
+          break;
+        case "FR":
+          map = "franceLow.json";
+          break;
+        case "DE":
+          map = "germanyLow.json";
+          break;
+        case "IS":
+          map = "icelandLow.json";
+          break;
+        case "IT":
+          map = "italyLow.json";
+          break;
+        case "LI":
+          map = "liechtensteinLow.json";
+          break;
+        case "LU":
+          map = "luxembourgLow.json";
+          break;
+        case "NL":
+          map = "netherlandsLow.json";
+          break;
+        case "NO":
+          map = "norwayLow.json";
+          break;
+        case "PT":
+          map = "portugalLow.json";
+          break;
+        case "ES":
+          map = "spainLow.json";
+          break;
+        case "SE":
+          map = "swedenLow.json";
+          break;
+        case "CH":
+          map = "switzerlandLow.json";
+          break;
+        case "GB":
+          map = "ukLow.json";
           break;
       }
 
@@ -689,11 +734,11 @@
     worldSeries.data.setAll([
       {
         id: "AU",
-        columnSettings: { fill: root.interfaceColors.get("primaryButton") },
+        columnSettings: { fill: "#FF4C4C" },
       },
       {
         id: "CN",
-        columnSettings: { fill: root.interfaceColors.get("primaryButton") },
+        columnSettings: { fill: "#FF4C4C" },
       },
       {
         id: "AT",
