@@ -9,7 +9,7 @@
         <input type="radio" name="slider" id="close-btn">
         <ul class="nav-links">
             <label for="close-btn" class="btn close-btn"><i class="fas fa-times"></i></label>
-            <li><a href="javascript:goTo('careers')">@lang('public.our firm')</a></li>
+            <li><a href="javascript:goTo('ourFirm')">@lang('public.our firm')</a></li>
             <li><a href="javascript:goTo('careers');">@lang('public.careers')</a></li>
             <li><a href="javascript:goTo('sustainability');">@lang('public.sustainability')</a></li>
             <li>
