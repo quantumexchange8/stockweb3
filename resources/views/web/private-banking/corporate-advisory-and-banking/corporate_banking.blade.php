@@ -15,11 +15,10 @@
     <div class="eleven columns">
         <h2>@lang('public.corporate banking')</h2>
         <p style="padding-top: 10px;">
-            Vanward is committed to comprehending the businesses and industries of our clients so that we can provide sound, objective advice to help them expand. We are providers of capital with added value to substantial privately held U.S. companies with outstanding credit profiles. Vanward possesses extensive domain expertise and experience in a variety of industries, such as commodities and logistics, healthcare, manufacturing, and business services. Our principal credit offerings include: <br><br>
-
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;Commercial financing<br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;Finance exempt from taxation/industrial revenue bonds<br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;Commercial services such as commercial and contingency letters of credit<br>
+            @lang('public.corporate banking 1')<br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;@lang('public.corporate banking 2')<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;@lang('public.corporate banking 3')<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;@lang('public.corporate banking 4')<br>
         </p>
     </div>
     <div class="five columns">

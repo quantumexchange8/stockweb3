@@ -16,17 +16,15 @@
     <div class="eleven columns">
         <h2>@lang('public.building a support team')</h2>
         <p style="padding-top: 10px;">
-            A network of external advisors provides significant benefits for family businesses. In our experience, investing time in identifying and cultivating relationships with other families, contemporaries, and professional advisors is of great value and benefit to the family and the business. <br><br>
-
-            Vanward works with clients who are family business owners to help them solidify their advisory teams by considering crucial concerns, such as: <br><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Who within the family or the family's professional network can proprietors confide in to discuss their business, their family, their family's wealth, and the intersection of these topics?
+            @lang('public.building 1')
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.building 2')
             <br><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;How confident are proprietors that they have access to the necessary knowledge and abilities to be effective owners and/or operators?<br><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;How can business proprietors identify individuals who can offer a well-rounded perspective on themselves, their family, and their enterprise?<br><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;What are the interests of any advisors? Are fee arrangements well-understood?<br><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Have there been any conflicts of interest discussed? How will they be reduced?
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.building 3')<br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.building 4')<br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.building 5')<br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.building 6')
             <br><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Which service providers have business proprietors enlisted for assistance in navigating both their businesses and their families?<br><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.building 7')<br><br>
         </p>
     </div>
     <div class="five columns">

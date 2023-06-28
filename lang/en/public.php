@@ -515,89 +515,106 @@ return [
     "center for family business 16" => "Balancing Competing Interests",
     "center for family business 17" => "Learn more about how we assist our clients in establishing frameworks and procedures for harmonising competing business interests.",
     // corporate advisory
-    "corporate advisory 1" => "Companies",
-    "corporate advisory 2" => "Companies",
-    "corporate advisory 3" => "Companies",
-    "corporate advisory 4" => "Companies",
-    "corporate advisory 5" => "Companies",
-    "corporate advisory 6" => "Companies",
-    "corporate advisory 7" => "Companies",
-    "corporate advisory 8" => "Companies",
+    "corporate advisory 1" => "The Corporate Advisory team is comprised of senior corporate finance experts with extensive experience collaborating with business owner managers on M&A and financing transactions. We are committed to providing objective, actionable guidance to assist our clients in achieving their unique business and personal objectives. Our primary services include:",
+    "corporate advisory 2" => "Assist in achieving a balance between corporate and family/owner goals",
+    "corporate advisory 3" => "Determine key determinants of enterprise value",
+    "corporate advisory 4" => "Evaluate strategic options and expansion initiatives",
+    "corporate advisory 5" => "Contribute to the identification and selection of corporate advisors",
+    "corporate advisory 6" => "Assist in identifying and vetting appropriate capital providers",
+    "corporate advisory 7" => "Provide guidance and thoughtful, independent counsel throughout a financing or M&A transaction process",
+    "corporate advisory 8" => "Provide guidance and autonomous, thoughtful counsel throughout the duration of a financing or M&A transaction.",
     // corporate banking
-    "corporate banking 1" => "Companies",
-    "corporate banking 2" => "Companies",
-    "corporate banking 3" => "Companies",
-    "corporate banking 4" => "Companies",
+    "corporate banking 1" => "Vanward is committed to comprehending the businesses and industries of our clients so that we can provide sound, objective advice to help them expand. We are providers of capital with added value to substantial privately held U.S. companies with outstanding credit profiles. Vanward possesses extensive domain expertise and experience in a variety of industries, such as commodities and logistics, healthcare, manufacturing, and business services. Our principal credit offerings include:",
+    "corporate banking 2" => "Commercial financing",
+    "corporate banking 3" => "Finance exempt from taxation/industrial revenue bonds",
+    "corporate banking 4" => "Commercial services such as commercial and contingency letters of credit",
 
     // balancing
-    "balancing 1" => "Companies",
-    "balancing 2" => "Companies",
-    "balancing 3" => "Companies",
-    "balancing 4" => "Companies",
-    "balancing 5" => "Companies",
-    "balancing 6" => "Companies",
-    "balancing 7" => "Companies",
-    "balancing 8" => "Companies",
-    "balancing 9" => "Companies",
-    "balancing 10" => "Companies",
-    "balancing 11" => "Companies",
-    "balancing 12" => "Companies",
-    "balancing 13" => "Companies",
+    "balancing 1"   => "Family businesses are unique in that the family is one of the key constituents, whereas the majority of companies confront the challenge of balancing competing stakeholder interests at some point. Even though competing interests may be unavoidable, establishing a protocol for addressing them and promoting communication between all relevant parties is essential for resolving problems. When consensus cannot be reached, bringing in outside parties to facilitate discussions and serve as an objective sounding board can result in a resolution.
+                        <br><br>
+                        When assisting family enterprises in addressing and balancing competing interests, we discuss the following:
+                        <br><br>",
+    "balancing 2" => "How are family disputes regarding the possession and/or management of the business typically resolved?",
+    "balancing 3" => "What mediation techniques have been developed for conflict resolution?",
+    "balancing 4" => "What steps has the family taken to engage third parties in order to facilitate conflict resolution and enhance communication and decision-making?",
+    "balancing 5" => "The Dynamics of Leadership in a Private Business: A Conversation with Kerry Sulkowicz, M.D., Founder of the Boswell Group",
+    "balancing 6" => "In the feature article of this issue of Owner to Owner, Kerry Sulkowicz, M.D., the founder of the Boswell Group, discusses the challenges leaders face, the complexities of leadership in private and family businesses, and the common traits he has observed among the best leaders.",
+    "balancing 7" => "Setting Up the Next Generation of Family Business Leaders for Success: A Conversation with Michael Preston, Co-Director of the Columbia Business School Family Business Program",
+    "balancing 8" => "Michael Preston, adjunct professor at Columbia Business School and co-director of its Family Business Programme, shares insights and advice garnered from teaching the next generation of family business owners for over a decade.",
+    "balancing 9" => "Why Decision-Making Is So Complicated in a Family Business",
+    "balancing 10" => "Ellen Perry, Senior Advisor at Vanward, discusses the complexities of decision-making in a family business, how families can overcome decision blockers, and the tools families can use to foster improved decision-making.",
+    "balancing 11" => "Balancing Business Reinvestment and Shareholder Liquidity Needs in a Multigenerational Family Business",
+    "balancing 12" => "John Secor, Ajit George, and Kyle Gordon discuss a significant challenge encountered by family businesses: the difficulty in managing capital and liquidity requirements. They provide guidance on how family businesses can achieve this essential objective by focusing on patient capital, a crucial factor in achieving the proper balance.",
     // building
-    "building 1" => "Companies",
-    "building 2" => "Companies",
-    "building 3" => "Companies",
-    "building 4" => "Companies",
-    "building 5" => "Companies",
-    "building 6" => "Companies",
-    "building 7" => "Companies",
-    "building 8" => "Companies",
+    "building 1" => "A network of external advisors provides significant benefits for family businesses. In our experience, investing time in identifying and cultivating relationships with other families, contemporaries, and professional advisors is of great value and benefit to the family and the business.
+                    <br><br>
+                    Vanward works with clients who are family business owners to help them solidify their advisory teams by considering crucial concerns, such as:
+                    <br><br>",
+    "building 2" => "Who within the family or the family's professional network can proprietors confide in to discuss their business, their family, their family's wealth, and the intersection of these topics?",
+    "building 3" => "How confident are proprietors that they have access to the necessary knowledge and abilities to be effective owners and/or operators?",
+    "building 4" => "How can business proprietors identify individuals who can offer a well-rounded perspective on themselves, their family, and their enterprise?",
+    "building 5" => "What are the interests of any advisors? Are fee arrangements well-understood?",
+    "building 6" => "Have there been any conflicts of interest discussed? How will they be reduced?",
+    "building 7" => "Which service providers have business proprietors enlisted for assistance in navigating both their businesses and their families?",
     // capital
-    "capital 1" => "Companies",
-    "capital 2" => "Companies",
-    "capital 3" => "Companies",
-    "capital 4" => "Companies",
-    "capital 5" => "Companies",
+    "capital 1" => "Capital policies are an integral part of any organisation. These policies address crucial issues for family businesses, such as capital allocation, the permissibility of raising equity and resulting ownership dilution, leverage, selling and redeeming shares, and shareholder distributions. As a provider of capital and advisor to family businesses for more than two centuries, and as a private company itself, Vanward has extensive experience working with family businesses to formulate these policies.
+                    <br><br>
+                    We work with family businesses to provide answers to crucial capital policy concerns, such as:
+                    <br><br>",
+    "capital 2" => "How frequently should the capital requirements of the business be evaluated? Who is the internal process owner?",
+    "capital 3" => "How does the business inform the family ownership group of its capital requirements?",
+    "capital 4" => "How does this procedure relate to the planning of family distributions?",
     // defining
-    "defining 1" => "Companies",
-    "defining 2" => "Companies",
-    "defining 3" => "Companies",
-    "defining 4" => "Companies",
-    "defining 5" => "Companies",
-    "defining 6" => "Companies",
-    "defining 7" => "Companies",
-    "defining 8" => "Companies",
+    "defining 1" => "Many successful families create legacies. In families that manage multigenerational family enterprises, legacy is frequently cultivated, enhanced, and passed down from one generation to the next. For family business proprietors, legacy goes beyond what it means to be a family member. It also encompasses the role that the family business performs for its employees and the communities in which it operates.
+    <br><br>
+    We collaborate with our clients to help them consider the most pertinent issues related to delineating their legacies and the future of their businesses, such as:
+    <br><br>",
+    "defining 2" => "What is the vision of the current generation for the company in relation to future generations? Are the current and future generations in agreement with this vision?",
+    "defining 3" => "What is/are the purpose(s) of the family business? Why is the business owned by the family?",
+    "defining 4" => "What are the principal objectives of maintaining the family business? Is it establishing or preserving the family legacy? Providing jobs? Creating prosperity? Profiting the communities where the business operates?",
+    "defining 5" => "How is non-family ownership or management viewed?",
+    "defining 6" => "What values and principles should guide family and family-owned business decision-making?",
+    "defining 7" => "How did the family arrive at these values and guiding principles, and have they documented them?",
     // distributions
-    "distributions 1" => "Companies",
-    "distributions 2" => "Companies",
-    "distributions 3" => "Companies",
-    "distributions 4" => "Companies",
-    "distributions 5" => "Companies",
-    "distributions 6" => "Companies",
+    "distributions 1"   => "Many family-owned enterprises have non-employee family members who own shares. Therefore, it is essential to establish and communicate policies for generating liquidity for shareholders. Family shareholders wish to know whether or not they will receive distributions and whether or not they can redeem or transfer their shares. They also desire a say in the inherent return expectations of share ownership. Successful businesses frequently extol the virtues of long-term ownership for family members and the value-enhancing effects of patient capital on the business and family over time. As a private company that has lasted for centuries, Vanward understands the delicate equilibrium between capital reinvestment and owner returns.
+                            <br><br>
+                            When working with family business clients on distribution and liquidity issues, we assist them in answering the following questions:
+                            <br><br>",
+    "distributions 2"   => "How have the family's expectations been established for returns and distributions? Is there consensus within the family?",
+    "distributions 3"   => "What mechanism is in place to facilitate the orderly redemption of shares? How are stocks valued and how frequently?",
+    "distributions 4"   => "What role does the family play in determining debt levels, risk parameters, etc. for the family business?",
+    "distributions 5"   => "Do the current executives discuss liquidity with all shareholders in an open manner?",
     // employment
-    "employment 1" => "Companies",
-    "employment 2" => "Companies",
-    "employment 3" => "Companies",
-    "employment 4" => "Companies",
-    "employment 5" => "Companies",
+    "employment 1"  => "All companies of a certain magnitude should have employment policies. Employment policies for family enterprises, particularly those owned by large multigenerational families, are more nuanced. The family members who will labour in the business and the conditions under which they will do so are a crucial factor that family-owned businesses must consider. Setting an appropriate policy for the business and family and communicating it results in businesses employing the most qualified candidates for each position. This promotes an awareness of what it requires to work for and succeed in the organisation.
+                        <br><br>
+                        We work with family business clients to evaluate their employment practises and answer a plethora of fundamental employment policy concerns, including:
+                        <br><br>",
+    "employment 2"  => "Who makes decisions regarding employing and/or promoting family members, and what criteria are used? What policies exist regarding the employment of family members?",
+    "employment 3"  => "What mechanism exists for providing and receiving sincere feedback from family members?",
+    "employment 4"  => "How are relatives hired, trained, and regarded as employees? Are there designated mentors?",
     // governance
-    "governance 1" => "Companies",
-    "governance 2" => "Companies",
-    "governance 3" => "Companies",
-    "governance 4" => "Companies",
-    "governance 5" => "Companies",
-    "governance 6" => "Companies",
-    "governance 7" => "Companies",
+    "governance 1"  => "The number of shareholders that span generations tends to increase as family businesses flourish over time. Frequently, the majority of family members who own shares do not labour for the company. However, as family members and shareholders, many are curious about the state of the business. In addition, they have the right to access shareholder information regarding their ownership stake and the performance of the company. Therefore, communication with family members who do not hold a position within the organisation is essential. Numerous family businesses seek objective external counsel from third parties or family members and form family advisory boards or boards of directors. The advantage of obtaining impartial counsel not only improves communication between family shareholders and the company, but it may also lead to greater productivity and happiness.
+                        <br><br>
+                        We work with family businesses to develop communication and governance structures, and we ask them to consider a number of crucial concerns, such as:
+                        <br><br>",
+    "governance 2"  => "Who determines the composition of the board of directors? How are directors selected, recruited, and authorised? How does the board of directors interact with the family owners?",
+    "governance 3"  => "What considerations have owners given to establishing a family council (and possibly a family assembly) to organise family ownership and potentially represent the family on the board?",
+    "governance 4"  => "What is the communications policy governing the sharing of company information within and without the family?",
+    "governance 5"  => "Does the family hold family meetings regularly? Who determines the attendees?",
+    "governance 6"  => "How does the business involve family members who are not currently employed?",
     // succession
-    "succession 1" => "Companies",
-    "succession 2" => "Companies",
-    "succession 3" => "Companies",
-    "succession 4" => "Companies",
-    "succession 5" => "Companies",
-    "succession 6" => "Companies",
-    "succession 7" => "Companies",
-    "succession 8" => "Companies",
-    "succession 9" => "Companies",
+    "succession 1"  => "The majority of long-lasting companies contemplate and plan for management succession. This topic can be especially relevant for family businesses, especially when the management is determining between multiple family members and a nonfamily member as the heir apparent CEO. Management succession for family businesses is typically more difficult because it must balance the traditional challenges of a successful plan with the family dynamics endemic to a family business.
+                        <br><br>
+                        Additionally, family businesses confront the challenge of ownership transition. In many instances, the next generation of proprietors may not work for the company, despite being shareholders. In the absence of a clear statement of long-term objectives and a carefully considered set of share ownership and transfer policies, this can lead to complications.
+                        <br><br>
+                        Vanward has worked with family-owned businesses for generations on management and ownership succession planning, and as a multigenerational partner-owned private business, we routinely consider this topic. When assisting our clients in developing solutions to their succession issues, we consider the following queries with them:
+                        <br><br>",
+    "succession 2"  => "How does the current management and ownership model influence the performance of the next generation of family managers and owners upon transition? Nonfamily executives?",
+    "succession 3"  => "What alternatives to succession planning are being considered, if any?",
+    "succession 4"  => "What conversations have been held with the next generation regarding management and/or possession of the business? How are family members qualified for positions of leadership?",
+    "succession 5"  => "How are decisions regarding leadership succession made? Are both family and non-family leaders conversant with the procedure?",
+    "succession 6"  => "Exists a method for educating and training future generations of owners/leaders?",
+    "succession 7"  => "What regulations govern stock ownership and ownership transfers?",
 
     // investment management
     "investment management 1" => "Companies",
