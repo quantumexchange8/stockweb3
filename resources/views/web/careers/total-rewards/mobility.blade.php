@@ -19,8 +19,8 @@
             expertise, take on new challenges, and reinvent yourself in new roles and business areas. We
             look for ways to help our employees grow, creating succession plans, assigning stretch
             projects outside everyday responsibilities, and advertising all open roles and giving
-            priority to internal candidates. &nbsp;This brings new perspectives throughout our business
-            areas—which is good for you and our clients.&nbsp; Mobility enables you to benefit from
+            priority to internal candidates. This brings new perspectives throughout our business
+            areas—which is good for you and our clients. Mobility enables you to benefit from
             cross-regional, cross-product and/or cross-functional experiences—exposing you to varied
             work, teams, and client perspectives.</p>
             <br>
@@ -30,7 +30,7 @@
             expertise in different businesses and cultures? Our Global Assignment Program supports
             Vanward’s global strategy while providing employees development and cross-cultural
             opportunities. We offer both short-term and long-term assignments that run anywhere from
-            three months to five years.&nbsp; These assignments provide you the opportunity to:</p>
+            three months to five years. These assignments provide you the opportunity to:</p>
         <div style="padding-left: 30px">
             <li>gain advanced international skills and experience</li>
             <li>work in diverse global markets</li>

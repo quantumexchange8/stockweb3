@@ -19,7 +19,7 @@
             statements, disclosures, and documents. We are committed to keeping our clients well-informed and providing
             them with the necessary resources for a comprehensive understanding of our operations and offerings.
             <br><br>
-            Please <a href="javascript:goTo('contact')">@lang('public.contact us')</a> with questions.
+            @lang('public.please') <a href="javascript:goTo('contact')">@lang('public.contact us')</a> @lang('public.with questions')
         </p>
         <div class="five columns">
             <div class="card" style="padding: 5px;">

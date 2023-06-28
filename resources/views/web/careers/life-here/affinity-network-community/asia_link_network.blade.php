@@ -29,7 +29,7 @@
             communication, and team-building skills that can be applied in the workplace.</p>
         </p>
         <div style="padding-top: 30px;">
-            <h2 style="padding-bottom: 20px;">Signature Events</h2>
+            <h2 style="padding-bottom: 20px;">@lang('public.signature events')</h2>
             <hr>
             <div class="two columns">
                 <img src="{{ asset('images/affinity/spring-festival-cover.jpg') }}" alt=""

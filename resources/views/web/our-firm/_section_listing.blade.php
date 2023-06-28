@@ -18,8 +18,8 @@
     <div class="sixteen columns">
         <p>Vanward Asset Management Limited ("Vanward") is an independently owned and operated financial services firm.
             Our focus is on serving highly discerning individuals and institutions, offering specialized expertise
-            in Private Banking, Investment Management, and Investor Services. <br><br>
-
+            in Private Banking, Investment Management, and Investor Services.
+            <br><br>
             As we are not influenced by external shareholders, our interests are completely aligned with those of
             our clients. Our success is derived from the success of our clients. We prioritize a personalized
             approach to conducting business, placing emphasis on prudent risk management and always keeping our
@@ -38,8 +38,7 @@
             <div class="clear"></div>
             <div class="link-blog">
                 <div class="cl-effect-14"><a
-                        href="javascript:goTo('thePartnership')">read
-                        more</a>
+                        href="javascript:goTo('thePartnership')">@lang('public.read more')</a>
                 </div>
             </div>
         </div>
@@ -77,8 +76,7 @@
             </p>
             <div class="clear"></div>
             <div class="link-blog">
-                <div class="cl-effect-14"><a href="javascript:goTo('philanthropy')">read
-                        more</a>
+                <div class="cl-effect-14"><a href="javascript:goTo('philanthropy')">@lang('public.read more')</a>
                 </div>
             </div>
         </div>

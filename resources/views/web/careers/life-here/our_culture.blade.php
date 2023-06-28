@@ -27,7 +27,7 @@
         <p>Our partnership structure affords us a thoughtful, long-term perspective in managing our
             business and building relationships—being selective and specialized in our focus. Without
             the distraction of shareholders, our success is driven by the success of our clients,
-            creating a natural alignment with their interests.&nbsp; This leads to a more personal
+            creating a natural alignment with their interests. This leads to a more personal
             approach to doing business, and a visceral understanding of our clients that creates
             insights and products that help them stay ahead of their peers.</p>
         <br>
@@ -47,7 +47,7 @@
             the top. Contributing beyond your daily role is encouraged, fueling teamwork, new solutions,
             and timely execution. We admire people who speak their minds, listen, and understand views
             that differ from their own. The lack of hierarchal structures and internal competition
-            promotes a culture of collaboration and service that puts clients first.&nbsp;</p>
+            promotes a culture of collaboration and service that puts clients first.</p>
         </p>
     </div>
     <div class="five columns">

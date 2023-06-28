@@ -25,7 +25,7 @@
                 our values, act with integrity, and prioritize the interests of our stakeholders above all else.”
             </span>
         </p>
-        <h2>Our Clients</h2>
+        <h2>@lang('public.our clients')</h2>
         <p style="padding-top: 10px;">
             Each day, our clients entrust us with their investments, operations, and financial aspirations. In order to
             safeguard their long-term prosperity, it is essential that we offer considerate and forward-thinking
@@ -34,7 +34,7 @@
             sustainability of the financial industry as a whole. By fulfilling these commitments, we demonstrate our
             dedication to our clients and the enduring success of their endeavors.
         </p>
-        <h2>Our People</h2>
+        <h2>@lang('public.our people')</h2>
         <p style="padding-top: 10px;">
             Our people, the exceptional Vanward team, play a crucial role in meeting our clients' needs. They
             continuously strive for the highest standards of excellence and integrity. In order to foster innovation and
@@ -44,7 +44,7 @@
             personal lives. By embracing this approach, we cultivate a dynamic workforce that drives our success and
             delivers exceptional service to our clients.
         </p>
-        <h2>Our Communities</h2>
+        <h2>@lang('public.our communities')</h2>
         <p style="padding-top: 10px;">
             We recognize that our responsibilities extend far beyond the confines of our office walls, encompassing the
             broader communities in which we operate. It is our duty to actively contribute to the well-being of our

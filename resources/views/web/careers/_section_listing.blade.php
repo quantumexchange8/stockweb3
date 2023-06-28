@@ -17,7 +17,7 @@
         <div class="sep"></div>
     </div>
     <div class="sixteen columns">
-        <p>At Vanward ("Vanward"), we highly value the perspectives and expertise of every employee. Our organizational
+        <p>At Vanward, we highly value the perspectives and expertise of every employee. Our organizational
             structure is designed to be flat, fostering a collaborative culture where the contributions of all team
             members are integral to our success. We are committed to creating an environment where every idea is
             welcomed and shared, recognizing that each idea has the potential to make a significant impact on our
@@ -43,9 +43,7 @@
             </div>
             <div class="clear"></div>
             <div class="link-blog">
-                <div class="cl-effect-14"><a href="javascript:goTo('whatWeLookFor')">read
-                        more</a>
-                </div>
+                <div class="cl-effect-14"><a href="javascript:goTo('whatWeLookFor')">read more</a> </div>
             </div>
         </div>
     </div>
@@ -71,9 +69,7 @@
             </div>
             <div class="clear"></div>
             <div class="link-blog">
-                <div class="cl-effect-14"><a href="javascript:goTo('totalRewards')">read
-                        more</a>
-                </div>
+                <div class="cl-effect-14"><a href="javascript:goTo('totalRewards')">read more</a> </div>
             </div>
         </div>
     </div>
@@ -82,13 +78,9 @@
     <div class="container">
         <div class="sixteen columns">
             <p>Talent Acquisition Support <br>
-                If you are a job candidate and have a question about submitting an application, please email: <br><br>
-
-                Global: <a href="mailto:Talent.Acquisition.Support@wgaml.com">Talent.Acquisition.Support@wgaml.com</a>
-                <br>
-                U.S.: <a
-                    href="mailto:Talent.Acquisition.Support.US@wgaml.com">Talent.Acquisition.Support.US@wgaml.com</a>
-                <br>
+                If you are a job candidate and have a question about submitting an application, please email:
+                <br><br>
+                <a href="mailto:info@vanwardintl.com">@lang('public.email')</a>
             </p>
         </div>
     </div>

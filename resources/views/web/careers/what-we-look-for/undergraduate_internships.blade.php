@@ -36,8 +36,7 @@
         <br>
         <p><strong>Qualifications:</strong></p>
         <div style="padding-left: 30px;">
-            <li>strong academic achievement as evidenced by a competitive GPA (US) or Mark 4 (Europe)
-            </li>
+            <li>strong academic achievement as evidenced by a competitive GPA (US) or Mark 4 (Europe) </li>
             <li>demonstrated leadership skills through academic and extracurricular activities</li>
             <li>interest in business (specifically finance for many roles)</li>
             <li>excellent quantitative, analytical, and communication skills</li>

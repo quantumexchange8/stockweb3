@@ -14,16 +14,13 @@
     <div class="eleven columns">
         <h1>@lang('public.what we look for')</h1>
         <p style="padding-top: 10px;">
-            At Vanward, your career path is yours to define. We hire bright self-starters,
-            provide them the tools to succeed, and give them the freedom to excel.
+            At Vanward, your career path is yours to define. We hire bright self-starters, provide them the tools to succeed, and give them the freedom to excel.
         </p>
         <div class="five columns">
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;"><a href="javascript:goTo('undergraduateInternships')">Undergraduate
-                            Internships</a></h6>
-                    <p>Work on challenging, real-world projects while attending training and networking with employees
-                        throughout the firm.
+                    <h6 style="text-align: left;"><a href="javascript:goTo('undergraduateInternships')">@lang('public.undergraduate internships')</a></h6>
+                    <p>Work on challenging, real-world projects while attending training and networking with employees throughout the firm.
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
@@ -33,10 +30,8 @@
             </div>
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;"><a href="javascript:goTo('experiencedProfessionals')">Experienced
-                            Professionals</a></h6>
-                    <p>We are interested in exceptional, success-driven individuals who are excited to lead a
-                        collaborative environment that fosters our values of Teamwork, Integrity, and Excellence.
+                    <h6 style="text-align: left;"><a href="javascript:goTo('experiencedProfessionals')">@lang('public.experienced professionals')</a></h6>
+                    <p>We are interested in exceptional, success-driven individuals who are excited to lead a collaborative environment that fosters our values of Teamwork, Integrity, and Excellence.
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
@@ -48,8 +43,7 @@
         <div class="five columns">
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;"><a href="javascript:goTo('entryLevelProfessionals')">Entry Level
-                            Professionals</a></h6>
+                    <h6 style="text-align: left;"><a href="javascript:goTo('entryLevelProfessionals')">@lang('public.entry level professionals')</a></h6>
                     <p>You've worked hard for your degree, and you're ready for what's next: a job that will challenge
                         you, inspire you, and encourage you to share your ideas.
                     </p>

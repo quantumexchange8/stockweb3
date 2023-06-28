@@ -34,15 +34,14 @@
             to, and inclusive of, LGBTQ professionals.</p>
         </p>
         <div style="padding-top: 30px;">
-            <h2 style="padding-bottom: 20px;">Signature Events</h2>
+            <h2 style="padding-bottom: 20px;">@lang('public.signature events')</h2>
             <hr>
             <div class="two columns">
                 <img src="{{ asset('images/affinity/scott-turner-schofeld.jpg') }}" alt=""
                     width="75%" height="auto">
             </div>
             <div class="eight columns">
-                <h6 style="text-align: left; padding-bottom: 10px;">Using Sensitivity & Intelligence to Understand
-                    Gender Diversity</h6>
+                <h6 style="text-align: left; padding-bottom: 10px;">Using Sensitivity & Intelligence to Understand Gender Diversity</h6>
                 <strong>
                     {{-- <p>Little Rock, AR</p> --}}
                 </strong>

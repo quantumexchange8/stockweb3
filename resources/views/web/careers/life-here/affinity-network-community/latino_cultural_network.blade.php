@@ -31,7 +31,7 @@
             and encourages diversity, as well as helps us succeed in the global marketplace.</p>
         </p>
         <div style="padding-top: 30px;">
-            <h2 style="padding-bottom: 20px;">Signature Events</h2>
+            <h2 style="padding-bottom: 20px;">@lang('public.signature events')</h2>
             <hr>
             <div class="two columns">
                 <img src="{{ asset('images/affinity/lcn-1.jpg') }}" alt=""

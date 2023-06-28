@@ -21,8 +21,7 @@
                     </h6>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('dataProtectionNotice')">read
-                                more</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('dataProtectionNotice')">@lang('public.read more')</a></div>
                     </div>
                 </div>
             </div>

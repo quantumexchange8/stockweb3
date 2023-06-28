@@ -21,7 +21,7 @@
                 celebrate our unique skills. We support the empowerment of people with disabilities through
                 advocacy, technology, and organizational adaptations."</em></p>
         <br>
-        <p><strong>– Andrew Hofer,&nbsp;Diverse Ability Allies Network Executive Sponsor</strong></p>
+        <p><strong>– Andrew Hofer, Diverse Ability Allies Network Executive Sponsor</strong></p>
         <br>
         <p>The mission of the Diverse Ability Allies Network (DAAN) is to encourage and support every member of the
             Firm in achieving their full potential by demonstrating that Vanward is a supportive and inclusive
@@ -31,7 +31,7 @@
             everyone.</p>
         </p>
         <div style="padding-top: 30px;">
-            <h2 style="padding-bottom: 20px;">Signature Events</h2>
+            <h2 style="padding-bottom: 20px;">@lang('public.signature events')</h2>
             <hr>
             <div class="two columns">
                 <img src="{{ asset('images/affinity/defining-dyslexia.png') }}" alt=""
@@ -74,8 +74,7 @@
                     width="75%" height="auto">
             </div>
             <div class="eight columns">
-                <h6 style="text-align: left; padding-bottom: 10px;">Dis-labeled: The Value of Different Abilities &
-                    Allyship
+                <h6 style="text-align: left; padding-bottom: 10px;">Dis-labeled: The Value of Different Abilities & Allyship
                 </h6>
                 <strong>
                     {{-- <p>Little Rock, AR</p> --}}

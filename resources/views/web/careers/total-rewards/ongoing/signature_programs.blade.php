@@ -20,7 +20,7 @@
             you as you progress in your career to grow as a leader, build long-term relationships, and
             navigate the global marketplace. Some programs are designed for specific points in your
             career, such as a promotion to management, while others employ a competitive selection
-            process and are available throughout the year.&nbsp; Samplings of our offerings include:</p>
+            process and are available throughout the year. Samplings of our offerings include:</p>
             <br>
         <p><strong>Development Assignment Program (DAP): </strong>Highly motivated individuals have the
             opportunity to grow their skill set and advance their careers with a two-year assignment in
@@ -38,14 +38,14 @@
             approach embeds the participant’s manager throughout the program, ensuring alignment between
             the firm’s expectations and a new manager’s day-to-day responsibilities.</p>
             <br>
-        <p><strong>Leadership Education And Development: </strong>&nbsp;This two-year leadership
+        <p><strong>Leadership Education And Development: </strong>This two-year leadership
             commitment starts with a nine-week intensive program designed to help participants map their
             leadership journey, deepen their financial acumen, and contribute to Vanward’s strategic
             objectives. Employees deepen their self-awareness; create a personal leadership brand;
             succeed in large, complex assignments; and develop a network within the firm and the
             industry.</p>
             <br>
-        <p><strong>Leadership Bridge: </strong>&nbsp;This is a six-month program for longer-term
+        <p><strong>Leadership Bridge: </strong>This is a six-month program for longer-term
             managers who have had limited or no formal management training. Similar to our foundations
             program, participants will develop the skills to harness the full power of their teams,
             including the ability to leverage and manage interpersonal differences, guide and coach

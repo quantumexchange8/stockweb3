@@ -30,7 +30,7 @@
             helping members build meaningful relationships at every level of the organization.</p>
         </p>
         <div style="padding-top: 30px;">
-            <h2 style="padding-bottom: 20px;">Signature Events</h2>
+            <h2 style="padding-bottom: 20px;">@lang('public.signature events')</h2>
             <hr>
             <div class="two columns">
                 <img src="{{ asset('images/affinity/focusing-on-the-next-generation-image.jpg') }}" alt=""
@@ -97,7 +97,7 @@
                 <strong>
                     {{-- <p>Little Rock, AR</p> --}}
                 </strong>
-                <p>@lang('public.black affinity network') members gathered for their annual poetry reading during Black History Month to
+                <p>Black Affinity Network members gathered for their annual poetry reading during Black History Month to
                     celebrate literary works and poems that honor ground-breakers and courageous innovators who have
                     changed the world.
                 </p>

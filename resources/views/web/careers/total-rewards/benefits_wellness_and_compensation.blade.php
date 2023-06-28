@@ -4,7 +4,7 @@
             <a href="https://vanwardintl.com/">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('careers')">@lang('public.careers')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('totalRewards')">@lang('public.total rewards')</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>Benefits, Wellness & Compensation</strong>
+            &nbsp;&nbsp;<strong>@lang('public.benefits, wellness and compensation')</strong>
         </span>
     </div>
     <br><br>
@@ -13,7 +13,7 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>Benefits, Wellness & Compensation</h2>
+        <h2>@lang('public.benefits, wellness and compensation')</h2>
         <p style="padding-top: 10px;">
         <p><strong>Together We Thrive</strong></p>
         <br>

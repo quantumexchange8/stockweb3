@@ -42,7 +42,7 @@
 
         </p>
         <div style="padding-top: 30px;">
-            <h2 style="padding-bottom: 20px;">Signature Events</h2>
+            <h2 style="padding-bottom: 20px;">@lang('public.signature events')</h2>
             <hr>
             <div class="two columns">
                 <img src="{{ asset('images/affinity/urban-garden.png') }}" alt=""
@@ -53,7 +53,7 @@
                 <strong>
                     {{-- <p>Little Rock, AR</p> --}}
                 </strong>
-                <p>@lang('public.cares') and YPN New York City hosted an Urban Garden Rooftop event. The volunteers spent a morning
+                <p>Cares and YPN New York City hosted an Urban Garden Rooftop event. The volunteers spent a morning
                     planting new vegetables, weeding and watering the garden. The garden benefits local residents who
                     are learning how to farm, cook and serve more nutritious meals to their families.
                 </p>

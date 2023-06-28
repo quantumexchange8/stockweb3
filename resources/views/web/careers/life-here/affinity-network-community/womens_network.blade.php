@@ -18,7 +18,7 @@
         <p style="padding-top: 10px;">
         <p><em>“</em> <em>My involvement in the Women’s Network has provided great opportunities for me to build
                 long-term relationships with other members. This has helped me professionally, as well as given me a
-                platform to help others.&nbsp; Many women who have demonstrated a range of skills through their
+                platform to help others. Many women who have demonstrated a range of skills through their
                 Women’s Network involvement have found new and unexpected opportunities within the
                 bank</em><em>.”</em></p>
         <br>
@@ -33,7 +33,7 @@
             career.</p>
         </p>
         <div style="padding-top: 30px;">
-            <h2 style="padding-bottom: 20px;">Signature Events</h2>
+            <h2 style="padding-bottom: 20px;">@lang('public.signature events')</h2>
             <hr>
             <div class="two columns">
                 <img src="{{ asset('images/affinity/womens-network-event.jpg') }}" alt=""
@@ -116,8 +116,8 @@
                 <strong>
                     {{-- <p>Little Rock, AR</p> --}}
                 </strong>
-                <p>The Women's Network and the <a href="javascript:goTo('youngProfessionalsNetwork')">Young
-                        Professionals Network</a> hosted MSCI's Whitney Rauschenbach for a conversation on ESG
+                <p>The Women's Network and the <a href="javascript:goTo('youngProfessionalsNetwork')">@lang('public.young professionals network')</a>
+                    hosted MSCI's Whitney Rauschenbach for a conversation on ESG
                     (Environmental, Social, and Governance) investing in Boston. Whitney shared MSCI's research on
                     trends in the ESG space and explained why the movement is here to stay.
                 </p>

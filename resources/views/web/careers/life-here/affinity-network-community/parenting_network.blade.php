@@ -30,16 +30,12 @@
             Within the Parenting network, members tend to group themselves around the stages of parenthood: Prenatal
             and New Parents, Elementary School Age Children, Middle School/ High School Age Children, College Age/
             Adult Children, and Reverse Parenting. The Parenting Network closely partners with the other BANC
-            networks, such as the <a href="javascript:goTo('prideNetwork')">Pride</a>, <a
-                href="javascript:goTo('diverseAbilityAlliesNetwork')">Diverse Abilities Allies</a>, and <a
-                href="javascript:goTo('womensNetwork')">Women's</a> networks to ensure support programs are
-            appropriately tailored to employee needs. Our goal is to equip members with the knowledge and support
-            needed to grow their careers while successfully balancing the competing demands of work and home. We
-            also help to evolve our workplace by providing input on Vanward policies and products from a family and
-            caregiver perspective.</p>
+            networks, such as the <a href="javascript:goTo('prideNetwork')">@lang('public.short pride')</a>, <a
+                href="javascript:goTo('diverseAbilityAlliesNetwork')">@lang('public.short diverse abilities')</a>, @lang('public.and') <a
+                href="javascript:goTo('womensNetwork')">@lang('public.short womens')</a> @lang('public.parenting 4')</p>
         </p>
         <div style="padding-top: 30px;">
-            <h2 style="padding-bottom: 20px;">Signature Events</h2>
+            <h2 style="padding-bottom: 20px;">@lang('public.signature events')</h2>
             <hr>
             <div class="two columns">
                 <img src="{{ asset('images/affinity/daughters-and-sons.jpg') }}" alt=""

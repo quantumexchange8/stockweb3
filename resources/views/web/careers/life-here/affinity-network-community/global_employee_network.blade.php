@@ -22,18 +22,18 @@
                 colleagues interested in learning more about the rich and diverse cultures of our people and the
                 international opportunities the firm has to offer.”</em></p>
         <br>
-        <p><strong>–&nbsp;R.J. Rondini, Global Employee Network Chair</strong></p>
+        <p><strong>– R.J. Rondini, Global Employee Network Chair</strong></p>
         <br>
         <p>Once a casual network of Vanward Employees sharing global work experiences with one another, the Global
             Employee Network now includes members in nearly every office and organized chapters in Vanward locations
-            around the globe.&nbsp; Through organized networking sessions, training and events simulcast across
-            offices, the network focuses on three main pillars of activity:&nbsp; celebration and exploration of the
+            around the globe. Through organized networking sessions, training and events simulcast across
+            offices, the network focuses on three main pillars of activity: celebration and exploration of the
             rich cultural diversity at Vanward; managing the challenges that come with working on a global team; and
-            supporting the needs of those working outside their home location.&nbsp; Participation in events
+            supporting the needs of those working outside their home location. Participation in events
             sponsored by the network are open to all Vanward Employees.</p>
         </p>
         <div style="padding-top: 30px;">
-            <h2 style="padding-bottom: 20px;">Signature Events</h2>
+            <h2 style="padding-bottom: 20px;">@lang('public.signature events')</h2>
             <hr>
             <div class="two columns">
                 <img src="{{ asset('images/affinity/culture-fair.jpg') }}" alt=""

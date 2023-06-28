@@ -44,8 +44,7 @@
             <li>a passion for helping others</li>
         </div>
         <br>
-        <p>At Vanward, you have the opportunity to define your career path, and we have a strategy in
-            place to help you succeed.</p>
+        <p>At Vanward, you have the opportunity to define your career path, and we have a strategy in place to help you succeed.</p>
         </p>
     </div>
     <div class="five columns">
