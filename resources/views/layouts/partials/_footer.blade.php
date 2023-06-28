@@ -2,7 +2,7 @@
     <div class="container">
         <div class="sixteen columns">
             <a href="{{ route('web.home') }}"><img
-                    src="{{ asset('images/logo-vanward/fulllogo_transparent_nobuffer.png') }}" alt="" /></a>
+                    src="{{ asset('images/logo-new/fulllogo_transparent_nobuffer.png') }}" alt="" /></a>
         </div>
         <div class="sixteen columns warning">
             <p class="text-bold">
