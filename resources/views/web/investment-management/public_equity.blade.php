@@ -10,42 +10,30 @@
     <hr>
 </div>
 <div class="container">
-
     <div class="eleven columns">
         <h1>@lang('public.public equity')</h1>
         <p style="padding-top: 10px;">
-            Vanward Investment Management employs what we consider to be a low-risk approach to equity investing, based
-            on consistent, objective, and logical decision-making. Long-term attractive risk-adjusted returns are
-            generated for our clients by applying a comprehensive set of investment criteria to our portfolio.
+            @lang('public.public equity 1')
             <br><br>
-
-            Our guiding principles include:
+            @lang('public.public equity 2')
             <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;Invest in well-established, cash-generating companies that are market
-            leaders in the provision of essential goods and services.
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;@lang('public.public equity 3')
             <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;At the time of purchase, investments must be acquired at a discount to
-            our estimate of intrinsic value* (e.g., a margin of safety** in the stock price).
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;@lang('public.public equity 4')
             <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;Invest in a small number of companies in order to minimise the impact of
-            unanticipated company-specific issues, and invest only in companies that meet stringent business and
-            valuation criteria.
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;@lang('public.public equity 5')
             <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;Think like owners and administrators by holding stakes in businesses
-            over a long period of time to increase wealth and decrease transaction costs.
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;@lang('public.public equity 6')
             <br><br>
-
-            Learn how our bottom-up investment strategy incorporates <a href="javascript:goTo('esgApproach')"
-                style="text-decoration: underline;">environmental, social and governance (ESG) considerations.</a>
+            @lang('public.public equity 7') <a href="javascript:goTo('esgApproach')"
+                style="text-decoration: underline;">@lang('public.public equity 8')</a>
         </p>
         <div class="five columns">
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
                     <h6 style="text-align: left;"><a href="javascript:goTo('usLargeCapEquity')">@lang('public.US large cap equity')</a>
                     </h6>
-                    <p>The domestic large-cap equity strategy seeks to invest primarily in established, cash-generating
-                        North American companies.
-
+                    <p>@lang('public.public equity 9')
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
@@ -58,9 +46,7 @@
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
                     <h6 style="text-align: left;"><a
                             href="javascript:goTo('usSmallAndMidCapEquity')">@lang('public.US small & mid-cap equity')</a></h6>
-                    <p>A small- and mid-cap equity strategy that seeks to invest in a limited number of unpopular or
-                        under-followed companies.
-
+                    <p>@lang('public.public equity 10')
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
@@ -75,8 +61,7 @@
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
                     <h6 style="text-align: left;"><a href="javascript:goTo('globalEquity')">@lang('public.global equity')</a></h6>
-                    <p>A global equity strategy that seeks to invest in prominent North American and international
-                        providers of essential goods and services.
+                    <p>@lang('public.public equity 11')
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
@@ -87,11 +72,9 @@
         </div>
         <div class="eleven columns">
             <p style="padding-top: 10px; font-style: italic">
-                * Vanward's estimate of the cash that a business can generate and distribute to its shareholders over
-                the remainder of its tenure.
+                @lang('public.public equity 12')
                 <br>
-                * *A margin of safety exists when there is a significant discount to intrinsic value at the time of
-                purchase; we seek to purchase at 75% or less of our estimate of intrinsic value.
+                @lang('public.public equity 13')
                 <br><br>
             </p>
             <p style="display: flex; justify-content: space-around;">

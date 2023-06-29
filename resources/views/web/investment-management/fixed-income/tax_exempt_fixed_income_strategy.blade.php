@@ -15,46 +15,45 @@
     <div class="eleven columns">
         <h2>@lang('public.tax-exempt fixed income strategy')</h2>
         <p style="padding-top: 10px;">
-            The Vanward Tax-Exempt Fixed Income Strategy aims to protect investors' capital and generate attractive after-tax returns by identifying undervalued municipal securities through a combination of exhaustive, independent research and our valuation discipline. Our Intermediate municipal bond strategy targets 75 to 125 credits in the main subsectors of the U.S. municipal bond market, such as general obligation bonds, revenue bonds, and pre-refunded securities. We make long-term, tax-sensitive investments with an expected annual turnover rate of less than 25 percent.
+            @lang('public.tax-exempt fixed income strategy 1')
             <br><br>
 
-            <strong><span style="text-decoration: underline;">Investment Criteria</span></strong><br><br>
+            <strong><span style="text-decoration: underline;">@lang('public.tax-exempt fixed income strategy 2')</span></strong><br><br>
 
-            When constructing our portfolios, we employ a disciplined investment-selection procedure that concentrates on the seven issuer characteristics listed below:
+            @lang('public.tax-exempt fixed income strategy 3')
             <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Provides essential functions
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.tax-exempt fixed income strategy 4')
             <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Superior market position
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.tax-exempt fixed income strategy 5')
             <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Financial stability
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.tax-exempt fixed income strategy 6')
             <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Robust operating model with pricing flexibility<br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Supported by a verified revenue source
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.tax-exempt fixed income strategy 7')
             <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Solid coverage and covenant security
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.tax-exempt fixed income strategy 8')
             <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;On-time monetary filings
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.tax-exempt fixed income strategy 9')
+            <br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.tax-exempt fixed income strategy 10')
             <br><br>
 
-            When applicable, we also consider the following management characteristics:
+            @lang('public.tax-exempt fixed income strategy 11')
             <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Political will to exercise rate independence
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.tax-exempt fixed income strategy 12')
             <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Positive operational efficiency
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.tax-exempt fixed income strategy 13')
             <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Plans for capital expenditure
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.tax-exempt fixed income strategy 14')
             <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Responsible utilisation of derivatives
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.tax-exempt fixed income strategy 15')
             <br><br>
 
-            By entrusting the investment team with managing Vanward's own investment portfolio, Vanward Partners has aligned the firm's interests with those of our clients.
+            @lang('public.tax-exempt fixed income strategy 16')
             <br><br>
-
             <span style="font-style: italic;">
-                -Municipal bond income may be subject to state and local taxes and the alternative minimum tax.
-                <br>
-                -Bond market investments are subject to market, interest rate, issuer, credit, and inflation risk; investments may be worth more or less than their original cost upon redemption.
-            </span><br><br>
+                @lang('public.tax-exempt fixed income strategy 17')
+            </span>
+            <br><br>
         </p>
         <p style="display: flex; justify-content: space-around;">
             <strong>@lang('public.invest reminder 1')</strong>

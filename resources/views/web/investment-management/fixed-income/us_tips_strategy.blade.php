@@ -14,37 +14,22 @@
     <div class="eleven columns">
         <h2>@lang('public.US TIPS strategy')</h2>
         <p style="padding-top: 10px;">
-            Since the inception of the U.S. TIPS market in 1997, Vanward has been at the forefront of U.S. Treasury
-            Inflation-Protected Security (TIPS) research, thought leadership, and active management. Our U.S. TIPS
-            strategy seeks to provide investors with a hedge against future inflation by maintaining predominantly U.S.
-            TIPS investments. Our investment process is focused on the long term and employs a collection of time-tested
-            strategies within inflation-indexed markets, which are diversified to avoid reliance on any one tactical
-            strategy. This "Pure Play" strategy avoids credit and real-asset exposures, as well as the
-            unrelated-to-inflation volatility that frequently accompanies them.
+            @lang('public.us tips strategy 1')
             <br><br>
 
-            <strong><span style="text-decoration: underline;">Investment Standards</span></strong><br><br>
+            <strong><span style="text-decoration: underline;">@lang('public.us tips strategy 2')</span></strong><br><br>
 
-            Combining quantitative and qualitative analysis, our independent research serves as the foundation of our
-            investment process. We exploit market inefficiencies in U.S. Treasury Inflation-Protected Securities (TIPS)
-            and non-U.S. inflation-indexed markets using three primary strategy categories:
+            @lang('public.us tips strategy 3')
             <br>
 
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;<strong>Fundamental Strategies:&nbsp;</strong>
-            Using exclusive quantitative models, our investment team seeks to identify real rate levels and curve slopes
-            that may be historically inconsistent with current economic fundamentals. Periodically, this analysis and
-            the expertise of our investment team will determine modest duration or yield curve positions relative to the
-            index.
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;<strong>@lang('public.us tips strategy 4')&nbsp;</strong>
+            @lang('public.us tips strategy 5')
             <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;<strong>Non-Directive Methodologies:&nbsp;</strong>
-            Our research has uncovered a number of persistent and recurrent inefficiencies in the U.S. TIPS market, and
-            our investment team frequently positions our portfolio to capture the relative excess return offered by
-            these inefficiencies. Auction cycles, seasonal patterns, performance index extensions, inflation accruals,
-            and roll down contribute to these market inefficiencies.
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;<strong>@lang('public.us tips strategy 6')&nbsp;</strong>
+            @lang('public.us tips strategy 7')
             <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;<strong>Opportunistic Strategies:&nbsp;</strong>
-            These strategies involve out-of-index positions on the U.S. Treasury market and foreign sovereign
-            inflation-indexed markets.
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;<strong>@lang('public.us tips strategy 8')&nbsp;</strong>
+            @lang('public.us tips strategy 9')
             <br><br>
         </p>
         <p style="display: flex; justify-content: space-around;">

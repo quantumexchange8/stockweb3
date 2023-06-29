@@ -617,187 +617,274 @@ return [
     "succession 7"  => "What regulations govern stock ownership and ownership transfers?",
 
     // investment management
-    "investment management 1" => "Companies",
-    "investment management 2" => "Companies",
-    "investment management 3" => "Companies",
-    "investment management 4" => "Companies",
-    "investment management 5" => "Companies",
-    "investment management 6" => "Companies",
-    "investment management 7" => "Companies",
-    "investment management 8" => "Companies",
-    "investment management 9" => "Companies",
-    "investment management 10" => "Companies",
-    "investment management 11" => "Companies",
-    // est approach
-    "est approach 1" => "Companies",
-    "est approach 2" => "Companies",
-    "est approach 3" => "Companies",
-    "est approach 4" => "Companies",
-    "est approach 5" => "Companies",
-    "est approach 6" => "Companies",
-    "est approach 7" => "Companies",
-    "est approach 8" => "Companies",
-    "est approach 9" => "Companies",
-    "est approach 10" => "Companies",
-    "est approach 11" => "Companies",
-    "est approach 12" => "Companies",
-    "est approach 13" => "Companies",
-    "est approach 14" => "Companies",
-    "est approach 15" => "Companies",
-    "est approach 16" => "Companies",
-    "est approach 17" => "Companies",
-    "est approach 18" => "Companies",
-    "est approach 19" => "Companies",
-    "est approach 20" => "Companies",
+    "investment management 1"   => "Vanward's mission is to be the greatest at long-term capital preservation and growth for our clients. We concentrate on scalable investment strategies in which our philosophy, methodology, and experience can produce distinctive outcomes. Vanward Investment Management has been managing equity and fixed income investments, and what sets us apart is our distinctive investment strategy.
+                                    <br><br>
+                                    Our investment strategy is governed by a set of fundamental principles that are applied to the entirety of our investment portfolio. Together, they constitute a time-tested philosophy that has allowed us to establish long-lasting client relationships and set us apart from our competitors.
+                                    <br><br>",
+    "investment management 2"   => "Our investment principles:",
+    "investment management 3"   => "concentrate on asset preservation",
+    "investment management 4"   => "Value-based strategy",
+    "investment management 5"   => "bottom-up primary research",
+    "investment management 6"   => "view of the long haul",
+    "investment management 7"   => "discipline and tolerance",
+    "investment management 8"   => "Learn how our bottom-up investment strategy incorporates",
+    "investment management 9"   => "environmental, social and governance (ESG) considerations.",
+    "investment management 10"  => "With an emphasis on capital preservation, Vanward's public equity strategies aim to generate attractive long-term investment returns across complete market cycles.",
+    "investment management 11"  => "We offer taxable, tax-exempt, and inflation-indexed strategies that employ our distinctive investment philosophy and valuation methodology to generate long-term returns that surpass those of our competitors.",
+    // esg approach
+    "esg approach 1" => "Vanward's mission is to be the greatest at long-term capital preservation and growth for our clients.
+                        Vanward has conducted its own investment research with a concentration on the long-term
+                        preservation of capital and the prudent management of risk in relation to return. At the core of our
+                        investment process has always been the understanding that loss avoidance is the key to generating superior
+                        long-term investment returns.
+                        <br><br>
+                        We believe that incorporating environmental, social, and governance (ESG) criteria into our investment
+                        process improves our ability to manage risk and attain long-term goals. We believe that environmental,
+                        social, and governance (ESG) criteria are integral to our equity and fixed income investment processes.
+                        <br><br>
+                        Our investment strategy explicitly incorporates ESG criteria and is governed by a set of fundamental
+                        principles that are applied to the entirety of our investment portfolios. Together, they constitute a
+                        tried-and-true strategy that has established long-lasting client relationships and set us apart from our
+                        competitors.
+                        <br><br>",
+    "esg approach 2" => "Our investment principles:",
+    "esg approach 3" => "concentrate on asset preservation",
+    "esg approach 4" => "conduct fundamental, bottom-up research",
+    "esg approach 5" => "Invest with a long-term outlook",
+    "esg approach 6" => "Be resolute and patient",
+    "esg approach 7" => "adopt a value-based strategy",
+    "esg approach 8" => "The evaluation of ESG factors as part of our investment research process enables us to effectively evaluate the long-term sustainability and resilience of our companies and credits:",
+    "esg approach 9" => "Environmental – Entities that are judicious with their use of resources, cognizant of climate risks, and appropriately conscientious of their environmental impact may gain efficiencies that contribute to their profitability. They are also less likely to incur unanticipated liabilities that can diminish enterprise value.",
+    "esg approach 10" => "Social – Maintaining high standards for internal and external conduct can assist organisations in establishing robust cultures, generating improved long-term results for all stakeholders, and limiting adverse regulatory action.",
+    "esg approach 11" => "Analysing the quality of management teams, governance structures, and the framework of rules, practises, and incentives under which organisations operate are fundamental components of long-term viability. Our view is that well-managed businesses, whose management teams behave like owners, are more likely to manage resources efficiently, create long-term value for shareholders, safeguard creditor rights, and maintain access to credit markets. These are essential qualities of the enterprises we choose to own for our clients.",
+    "esg approach 12" => "ESG Integration: Integral to our bottom-up strategy:",
+    "esg approach 13" => "Our team of roughly 50 equity and fixed income investment professionals is responsible for integrating critical ESG criteria into our investment analysis and decision-making process.",
+    "esg approach 14" => "Each of our investment teams utilises a strategy-specific approach that is consistent with our investment philosophy and procedure.",
+    "esg approach 15" => "We commit to a thorough investigation of factors that could result in capital impairment. As with any other potential risk, if ESG-related risks are not adequately addressed and mitigated, it may influence our decision with regard to that security.",
+    "esg approach 16" => "Through our bottom-up research on companies and industries, robust engagement with management and issuers, and ongoing efforts to monitor the regulatory and governmental environment, we perpetually enhance our understanding of how well ESG factors are managed.",
+    "esg approach 17" => "Vanward provides global institutional and individual investors with investment management services. ESG criteria are thoroughly incorporated into our investment procedure. We have the ability to tailor investment solutions to the ESG objectives or screening preferences of individual clients.",
+    "esg approach 18" => "Vanward may be used as a generic term to refer to the entire company and/or its various subsidiaries. This information and any products or services may be issued or provided in multiple jurisdictions by subsidiaries that have been duly authorised and regulated. This content is for informational and reference purposes only; it does not constitute legal, tax, or investment advice, nor is it an offer to sell or a solicitation to purchase securities, services, or investment products. Any reference to tax matters is not intended to be used, and may not be used, to circumvent penalties under the U.S. Internal Revenue Code or other applicable tax regimes, or for promotion, marketing, or recommending services to third parties. All information has been obtained from what are believed to be reliable sources; however, its accuracy cannot be guaranteed and should not be relied upon. Without Vanward's permission, this content may not be reproduced, duplicated, or transmitted, nor may it be disclosed to third parties. All included trademarks and service marks belong to Vanward or their respective proprietors. © Vanward 2023. All privileges reserved.",
     // fixed income
-    "fixed income 1" => "Companies",
-    "fixed income 2" => "Companies",
-    "fixed income 3" => "Companies",
-    "fixed income 4" => "Companies",
-    "fixed income 5" => "Companies",
-    "fixed income 6" => "Companies",
-    "fixed income 7" => "Companies",
-    "fixed income 8" => "Companies",
-    "fixed income 9" => "Companies",
-    "fixed income 10" => "Companies",
-    "fixed income 11" => "Companies",
-    "fixed income 12" => "Companies",
-    "fixed income 13" => "Companies",
-    "fixed income 14" => "Companies",
-    "fixed income 15" => "Companies",
-    "fixed income 16" => "Companies",
-    "fixed income 17" => "Companies",
-    "fixed income 18" => "Companies",
-    "fixed income 19" => "Companies",
-    "fixed income 20" => "Companies",
+    "fixed income 1" => "Vanward has managed fixed income strategies for public and private institutions and wealthy families. Our approach to fixed income can be summed up in a single sentence: we acquire durable credits* when they are offered at appealing yields. Our taxable, tax-exempt, and inflation-indexed investment strategies are founded on our distinctive investment philosophy and valuation methodology and are designed to generate attractive long-term returns.",
+    "fixed income 2" => "Our investment ethos is based on the following guiding principles:",
+    "fixed income 3" => "Historically, credit valuations in fixed income sectors offer recompense in excess of default-driven losses.",
+    "fixed income 4" => "The volatility of credit spreads exceeds that which is warranted by their underlying fundamentals, creating a favourable environment for active management.",
+    "fixed income 5" => "We believe that a patient, long-term approach is required to achieve superior total returns.",
+    "fixed income 6" => "Our strategy concentrates on issuers of debt in key market sectors, such as:",
+    "fixed income 7" => "Corporate debt",
+    "fixed income 8" => "Investing in asset-backed securities",
+    "fixed income 9" => "Investments in commercial mortgage-backed securities",
+    "fixed income 10" => "Municipal obligations",
+    "fixed income 11" => "Securities indexed to inflation",
+    "fixed income 12" => "Federal agencies",
+    "fixed income 13" => "Agency-backed mortgage securities",
+    "fixed income 14" => "U.S. Treasuries",
+    "fixed income 15" => "Learn how our bottom-up investment strategy incorporates",
+    "fixed income 16" => "environmental, social and governance (ESG) considerations.",
+    "fixed income 17" => "Independent credit research that identifies exceptional value across fixed-income sectors.",
+    "fixed income 18" => `Actively managed "Pure Play" strategy employed in the inflation-indexed market.`,
+    "fixed income 19" => "Bottom-up credit research designed to identify subsectors of the U.S. municipal bond market with strong value.",
+    "fixed income 20" => "*Obligations such as bonds, notes, loans, leases and other forms of indebtedness issued by obligors other than the U.S. Government and its agencies, excluding Cash and Cash Equivalents, and tabulated at the level of the ultimate obligor or guarantor of the Obligation.",
     // open account
-    "open account 1" => "Companies",
+    "open account 1"    => "Our mission at Vanward is straightforward: to preserve and grow your wealth*. Our approach distinguishes us in this regard. We combine a deeply rooted investment culture with insightful wealth planning and exemplary service to provide you with the most deliberate and comprehensive private wealth management experience possible over the long term. Our client relationships are supported by the partnership structure's stability, longevity, and alignment of interests.",
     // public equity
-    "public equity 1" => "Companies",
-    "public equity 2" => "Companies",
-    "public equity 3" => "Companies",
-    "public equity 4" => "Companies",
-    "public equity 5" => "Companies",
-    "public equity 6" => "Companies",
-    "public equity 7" => "Companies",
-    "public equity 8" => "Companies",
-    "public equity 9" => "Companies",
-    "public equity 10" => "Companies",
-    "public equity 11" => "Companies",
-    "public equity 12" => "Companies",
-    "public equity 13" => "Companies",
+    "public equity 1"   => "Vanward Investment Management employs what we consider to be a low-risk approach to equity investing, based on consistent, objective, and logical decision-making. Long-term attractive risk-adjusted returns are generated for our clients by applying a comprehensive set of investment criteria to our portfolio.",
+    "public equity 2"   => "Our guiding principles include:",
+    "public equity 3"   => "Invest in well-established, cash-generating companies that are market leaders in the provision of essential goods and services.",
+    "public equity 4"   => "At the time of purchase, investments must be acquired at a discount to our estimate of intrinsic value* (e.g., a margin of safety** in the stock price).",
+    "public equity 5"   => "Invest in a small number of companies in order to minimise the impact of unanticipated company-specific issues, and invest only in companies that meet stringent business and valuation criteria.",
+    "public equity 6"   => "Think like owners and administrators by holding stakes in businesses over a long period of time to increase wealth and decrease transaction costs.",
+    "public equity 7"   => "Learn how our bottom-up investment strategy incorporates",
+    "public equity 8"   => "environmental, social and governance (ESG) considerations.",
+    "public equity 9"   => "The domestic large-cap equity strategy seeks to invest primarily in established, cash-generating North American companies.",
+    "public equity 10"  => "A small- and mid-cap equity strategy that seeks to invest in a limited number of unpopular or under-followed companies.",
+    "public equity 11"  => "A global equity strategy that seeks to invest in prominent North American and international providers of essential goods and services.",
+    "public equity 12"  => "* Vanward's estimate of the cash that a business can generate and distribute to its shareholders over the remainder of its tenure.",
+    "public equity 13"  => "* *A margin of safety exists when there is a significant discount to intrinsic value at the time of purchase; we seek to purchase at 75% or less of our estimate of intrinsic value.",
     // global equity
-    "global equity 1" => "Companies",
-    "global equity 2" => "Companies",
-    "global equity 3" => "Companies",
-    "global equity 4" => "Companies",
-    "global equity 5" => "Companies",
-    "global equity 6" => "Companies",
-    "global equity 7" => "Companies",
-    "global equity 8" => "Companies",
-    "global equity 9" => "Companies",
-    "global equity 10" => "Companies",
-    "global equity 11" => "Companies",
-    "global equity 12" => "Companies",
-    "global equity 13" => "Companies",
-    "global equity 14" => "Companies",
-    "global equity 15" => "Companies",
-    "global equity 16" => "Companies",
+    "global equity 1" => "Vanward Global Core Select, our global equity strategy, employs a discount to intrinsic value framework with
+                        a long-term business ownership approach. We seek to acquire publicly traded equity securities of
+                        established, cash-generating, well-managed businesses that are prominent providers of essential products and
+                        services at a discount to their intrinsic values*. Estimates of intrinsic value are derived from an analysis
+                        of prospective free cash flows and capital returns. We employ a methodical investment selection procedure
+                        centred on business, management, and financial characteristics.
+                        <br><br>
+
+                        Vanward Global Core Select will typically hold investments in 30 to 40 U.S. and non-U.S. companies with
+                        market capitalizations greater than $3 billion; we aim to own at least 40% non-U.S. companies. The target
+                        holding period is between three and five years, and investments are typically sold if their price
+                        appreciation exceeds our estimates of their intrinsic value.
+                        <br><br>",
+    "global equity 2" => "Investment Standards",
+    "global equity 3" => "We believe that companies with the following business, management, and financial characteristics are well positioned to create shareholder value regardless of economic and market conditions.",
+    "global equity 4" => "Business Attributes",
+    "global equity 5" => "Important goods and services",
+    "global equity 6" => "Loyal clients",
+    "global equity 7" => "Leadership in a profitable industry or market segment",
+    "global equity 8" => "Sustainable competitive advantages",
+    "global equity 9" => "Management Attributes",
+    "global equity 10" => "Strong managers with moral character",
+    "global equity 11" => "Favourable capital allocations",
+    "global equity 12" => "Significant stake ownership",
+    "global equity 13" => "Financial Attributes",
+    "global equity 14" => "Excellent balance sheet and capital flow",
+    "global equity 15" => "High returns on investment",
+    "global equity 16"  => "*Vanward's estimate of the cash that a business can generate and distribute to its shareholders over the
+                            remainder of its tenure.
+                            <br>
+                            -This may increase the potential for larger price fluctuations.
+                            <br>
+                            -There are unique risks associated with international investing, such as currency risk, increased
+                            volatility, political risk, and differences in auditing and other financial standards.
+                            <br><br>",
     "global equity 17" => "Companies",
     "global equity 18" => "Companies",
     "global equity 19" => "Companies",
     // us large cap equity
-    "us large cap equity 1" => "Companies",
-    "us large cap equity 2" => "Companies",
-    "us large cap equity 3" => "Companies",
-    "us large cap equity 4" => "Companies",
-    "us large cap equity 5" => "Companies",
-    "us large cap equity 6" => "Companies",
-    "us large cap equity 7" => "Companies",
-    "us large cap equity 8" => "Companies",
-    "us large cap equity 9" => "Companies",
-    "us large cap equity 10" => "Companies",
-    "us large cap equity 11" => "Companies",
-    "us large cap equity 12" => "Companies",
-    "us large cap equity 13" => "Companies",
-    "us large cap equity 14" => "Companies",
-    "us large cap equity 15" => "Companies",
-    "us large cap equity 16" => "Companies",
-    "us large cap equity 17" => "Companies",
-    "us large cap equity 18" => "Companies",
-    "us large cap equity 19" => "Companies",
-    "us large cap equity 20" => "Companies",
-    "us large cap equity 21" => "Companies",
-    // us small and mic cap equity
-    "us small and mic cap equity 1" => "Companies",
-    "us small and mic cap equity 2" => "Companies",
-    "us small and mic cap equity 3" => "Companies",
-    "us small and mic cap equity 4" => "Companies",
-    "us small and mic cap equity 5" => "Companies",
-    "us small and mic cap equity 6" => "Companies",
-    "us small and mic cap equity 7" => "Companies",
-    "us small and mic cap equity 8" => "Companies",
-    "us small and mic cap equity 9" => "Companies",
-    "us small and mic cap equity 10" => "Companies",
-    "us small and mic cap equity 11" => "Companies",
-    "us small and mic cap equity 12" => "Companies",
-    "us small and mic cap equity 13" => "Companies",
-    "us small and mic cap equity 14" => "Companies",
-    "us small and mic cap equity 15" => "Companies",
-    "us small and mic cap equity 16" => "Companies",
-    "us small and mic cap equity 17" => "Companies",
-    "us small and mic cap equity 18" => "Companies",
-    "us small and mic cap equity 19" => "Companies",
-    "us small and mic cap equity 20" => "Companies",
+    "us large cap equity 1" => "Vanward Core Select, our primary U.S. large-cap equity strategy, utilises a discount to intrinsic value
+                                framework and a long-term business ownership approach. Our goal is to provide investors with long-term
+                                capital appreciation. In each investment, we pursue attractive absolute returns while minimising the risk of
+                                permanent capital loss. Our investment process is driven by a fundamental, bottom-up analysis of companies.
+                                <br><br>
+                                We aim to invest in established, cash-generating businesses that are the leading providers of essential
+                                products and services and have strong management teams, and to acquire the publicly traded equity securities
+                                of these businesses at a discount to their intrinsic values*. Estimates of intrinsic value are derived from
+                                an analysis of prospective free cash flows and capital returns. We employ a methodical investment selection
+                                procedure centred on business, management, and financial characteristics.
+                                <br><br>
+                                Vanward Core Select will typically hold investments in 25 to 35 North American companies with market
+                                capitalizations greater than $5 billion, in addition to certain companies domiciled in other developed
+                                regions. Our target holding period is between three and five years, and investments are typically sold if
+                                their price appreciation exceeds our estimates of their intrinsic value.",
+    "us large cap equity 2" => "Investment Standards",
+    "us large cap equity 3" => "We believe that companies with the following business, management, and financial characteristics are well positioned to create shareholder value regardless of economic and market conditions.",
+    "us large cap equity 4" => "Business Attributes",
+    "us large cap equity 5" => "Important goods and services",
+    "us large cap equity 6" => "Loyal clients",
+    "us large cap equity 7" => "Leadership in a profitable market segment or industry",
+    "us large cap equity 8" => "Sustainable competitive advantages",
+    "us large cap equity 9" => "Management Attributes",
+    "us large cap equity 10" => "Strong managers with moral character",
+    "us large cap equity 11" => "Favourable capital allocations",
+    "us large cap equity 12" => "Significant stake ownership",
+    "us large cap equity 13" => "Financial Attributes",
+    "us large cap equity 14" => "Excellent balance sheet and capital flow",
+    "us large cap equity 15" => "High returns on investment",
+    "us large cap equity 16" => "Risks",
+    "us large cap equity 17" => "Vanward Core Select may acquire substantial holdings in a limited number of issuers, which may increase the
+                                potential for increased price volatility.
+                                <br>
+                                There is no assurance that the goal will be attained.
+                                <br><br>",
+    "us large cap equity 18" => "*Vanward's estimate of the capital a company can generate and distribute to shareholders over its remaining life.",
+    // us small and mid cap equity
+    "us small and mid cap equity 1" => "Without using leverage or shorting, Vanward's Small-to-Mid-Cap Equity invests in a select number of
+                                        out-of-favor and/or under-followed small and mid-cap companies. The strategy typically invests in eight to
+                                        fifteen companies with a three- to five-year horizon. Typically, investments are traded if their price
+                                        appreciation exceeds their estimated intrinsic value*.
+                                        <br><br>
+                                        We adhere to a rigorous investment process and select a group of well-positioned companies trading at a
+                                        substantial discount to our estimate of their intrinsic value. We conduct extensive due diligence on each
+                                        portfolio company, and we focus our investments on companies and industries that we know and understand,
+                                        such as information services and software, outsourced business services, cable television and programming,
+                                        consumer goods or services manufacturers, and financial services. After making an investment, we conduct
+                                        ongoing discussions with industry participants and maintain an ongoing dialogue with the company's
+                                        management.
+                                        <br><br>",
+    "us small and mid cap equity 2" => "Investment Criteria",
+    "us small and mid cap equity 3" => "We believe that companies with the following business, management, financial, and valuation characteristics are well positioned to create shareholder value regardless of economic and market conditions.",
+    "us small and mid cap equity 4" => "Business Attributes",
+    "us small and mid cap equity 5" => "Important goods and services",
+    "us small and mid cap equity 6" => "Excellent customer loyalty",
+    "us small and mid cap equity 7" => "Sustainable competitive advantages",
+    "us small and mid cap equity 8" => "High levels of recurring revenues",
+    "us small and mid cap equity 9" => "High rates of return on capital",
+    "us small and mid cap equity 10" => "Management Attributes",
+    "us small and mid cap equity 11" => "Strong managers with moral character",
+    "us small and mid cap equity 12" => "Favourable capital allocations",
+    "us small and mid cap equity 13" => "Financial Attributes",
+    "us small and mid cap equity 14" => "Excellent balance sheet and capital flow",
+    "us small and mid cap equity 15" => "Valuation Attributes",
+    "us small and mid cap equity 16" => "Value intrinsic derived from conservative projections",
+    "us small and mid cap equity 17" => "*Vanward's estimate of the cash that a business can generate and distribute to its shareholders over the
+                                        remainder of its tenure.
+                                        <br>
+                                        -This may increase the potential for larger price fluctuations.
+                                        <br>
+                                        -There are unique risks associated with international investing, such as currency risk, increased
+                                        volatility, political risk, and differences in auditing and other financial standards.
+                                        <br><br>",
     // tax exempt fixed income strategy
-    "tax exempt fixed income strategy 1" => "Companies",
-    "tax exempt fixed income strategy 2" => "Companies",
-    "tax exempt fixed income strategy 3" => "Companies",
-    "tax exempt fixed income strategy 4" => "Companies",
-    "tax exempt fixed income strategy 5" => "Companies",
-    "tax exempt fixed income strategy 6" => "Companies",
-    "tax exempt fixed income strategy 7" => "Companies",
-    "tax exempt fixed income strategy 8" => "Companies",
-    "tax exempt fixed income strategy 9" => "Companies",
-    "tax exempt fixed income strategy 10" => "Companies",
-    "tax exempt fixed income strategy 11" => "Companies",
-    "tax exempt fixed income strategy 12" => "Companies",
-    "tax exempt fixed income strategy 13" => "Companies",
-    "tax exempt fixed income strategy 14" => "Companies",
-    "tax exempt fixed income strategy 15" => "Companies",
-    "tax exempt fixed income strategy 16" => "Companies",
-    "tax exempt fixed income strategy 17" => "Companies",
+    "tax exempt fixed income strategy 1" => "The Vanward Tax-Exempt Fixed Income Strategy aims to protect investors' capital and generate attractive after-tax returns by identifying undervalued municipal securities through a combination of exhaustive, independent research and our valuation discipline. Our Intermediate municipal bond strategy targets 75 to 125 credits in the main subsectors of the U.S. municipal bond market, such as general obligation bonds, revenue bonds, and pre-refunded securities. We make long-term, tax-sensitive investments with an expected annual turnover rate of less than 25 percent.",
+    "tax exempt fixed income strategy 2" => "Investment Criteria",
+    "tax exempt fixed income strategy 3" => "When constructing our portfolios, we employ a disciplined investment-selection procedure that concentrates on the seven issuer characteristics listed below:",
+    "tax exempt fixed income strategy 4" => "Provides essential functions",
+    "tax exempt fixed income strategy 5" => "Superior market position",
+    "tax exempt fixed income strategy 6" => "Financial stability",
+    "tax exempt fixed income strategy 7" => "Robust operating model with pricing flexibility",
+    "tax exempt fixed income strategy 8" => "Supported by a verified revenue source",
+    "tax exempt fixed income strategy 9" => "Solid coverage and covenant security",
+    "tax exempt fixed income strategy 10" => "On-time monetary filings",
+    "tax exempt fixed income strategy 11" => "When applicable, we also consider the following management characteristics:",
+    "tax exempt fixed income strategy 12" => "Political will to exercise rate independence",
+    "tax exempt fixed income strategy 13" => "Positive operational efficiency",
+    "tax exempt fixed income strategy 14" => "Plans for capital expenditure",
+    "tax exempt fixed income strategy 15" => "Responsible utilisation of derivatives",
+    "tax exempt fixed income strategy 16" => "By entrusting the investment team with managing Vanward's own investment portfolio, Vanward Partners has aligned the firm's interests with those of our clients.",
+    "tax exempt fixed income strategy 17" => "-Municipal bond income may be subject to state and local taxes and the alternative minimum tax.
+                                            <br>
+                                            -Bond market investments are subject to market, interest rate, issuer, credit, and inflation risk; investments may be worth more or less than their original cost upon redemption.",
     "tax exempt fixed income strategy 18" => "Companies",
     // taxable fixed income strategies
-    "taxable fixed income strategies 1" => "Companies",
-    "taxable fixed income strategies 2" => "Companies",
-    "taxable fixed income strategies 3" => "Companies",
-    "taxable fixed income strategies 4" => "Companies",
-    "taxable fixed income strategies 5" => "Companies",
-    "taxable fixed income strategies 6" => "Companies",
-    "taxable fixed income strategies 7" => "Companies",
-    "taxable fixed income strategies 8" => "Companies",
-    "taxable fixed income strategies 9" => "Companies",
-    "taxable fixed income strategies 10" => "Companies",
-    "taxable fixed income strategies 11" => "Companies",
-    "taxable fixed income strategies 12" => "Companies",
-    "taxable fixed income strategies 13" => "Companies",
-    "taxable fixed income strategies 14" => "Companies",
-    "taxable fixed income strategies 15" => "Companies",
-    "taxable fixed income strategies 16" => "Companies",
-    "taxable fixed income strategies 17" => "Companies",
-    "taxable fixed income strategies 18" => "Companies",
+    "taxable fixed income strategies 1" => "Vanward’s Taxable Fixed Income Strategies combine our unique valuation framework and comprehensive
+                                            credit review criteria to build portfolios of durable credits purchased when they are at attractive yields.
+                                            Credit valuations are often disconnected from their underlying fundamentals and are prone to unjustifiably
+                                            high levels of volatility, an inefficiency that provides the opportunity to enhance fixed income returns
+                                            through active management. Our disciplined, value-based investment process seeks to:",
+    "taxable fixed income strategies 2" => "Preserve capital through independent research",
+    "taxable fixed income strategies 3" => "Invest in credit only when a margin of safety* exists",
+    "taxable fixed income strategies 4" => "Drive portfolio construction with value opportunities",
+    "taxable fixed income strategies 5" => "Take a long-term approach",
+    "taxable fixed income strategies 6" => "Foster a culture of transparency, process discipline, and open debate",
+    "taxable fixed income strategies 7" => "Investment Criteria",
+    "taxable fixed income strategies 8" => "We build our taxable fixed income portfolios bond-by-bond, filtering the market for potentially compelling
+                                            values using fundamental analysis and a unique valuation framework. We then purchase credits with a margin
+                                            of safety* that varies by the type and rating of the bond and defines a price cushion that we believe will
+                                            be likely to define an attractive price for the bond over the longer term, allowing for the cyclicality of
+                                            credit markets. We repeat our investment process to build portfolios of durable credits trading at
+                                            attractive yields.",
+    "taxable fixed income strategies 9" => "We aim to purchase durable credits that meet the following investment criteria:",
+    "taxable fixed income strategies 10" => "Durability",
+    "taxable fixed income strategies 11" => "We require that the issuers in our portfolios possess a durable revenue model and/or collateral. We also assess the business’ ability to withstand a wide variety of regulatory scenarios and economic shocks.",
+    "taxable fixed income strategies 12" => "Transparency:",
+    "taxable fixed income strategies 13" => "The issuer must operate a business model and financial structure that we can identify and understand. The more complex the business model or esoteric the capital structure, the less likely we will invest in the issuer.",
+    "taxable fixed income strategies 14" => "Management",
+    "taxable fixed income strategies 15" => "Strong management is critical to identifying a durable credit, and we identify management teams that maintain a balanced approach toward all capital providers.",
+    "taxable fixed income strategies 16" => "Structure:",
+    "taxable fixed income strategies 17" => "The issuer’s ability to generate adequate internal funding to support its capital structure is critical. We validate that the issuer does not bear excessive debt given the underlying volatility of cash flows, nor maintain an unhealthy reliance on the capital markets for funding.",
+    "taxable fixed income strategies 18" => "*We believe a margin of safety exists when we are able to mitigate both business risk (our business,
+                                            financial, and management criteria have been met; sustainable competitive advantages exist) AND price
+                                            risk (when we believe there is a significant discount to intrinsic value at the time of purchase <br>
+                                            — we aim to purchase at 75% of our estimate to intrinsic value or less). <br>
+                                            -Investing in the bond market is subject to certain risks including market, interest-rate, issuer,
+                                            credit, and inflation risk; investments may be worth more or less than the original cost when redeemed.",
     "taxable fixed income strategies 19" => "Companies",
     // us tips strategy
-    "us tips strategy 1" => "Companies",
-    "us tips strategy 2" => "Companies",
-    "us tips strategy 3" => "Companies",
-    "us tips strategy 4" => "Companies",
-    "us tips strategy 5" => "Companies",
-    "us tips strategy 6" => "Companies",
-    "us tips strategy 7" => "Companies",
-    "us tips strategy 8" => "Companies",
-    "us tips strategy 9" => "Companies",
+    "us tips strategy 1" => `Since the inception of the U.S. TIPS market in 1997, Vanward has been at the forefront of U.S. Treasury
+                            Inflation-Protected Security (TIPS) research, thought leadership, and active management. Our U.S. TIPS
+                            strategy seeks to provide investors with a hedge against future inflation by maintaining predominantly U.S.
+                            TIPS investments. Our investment process is focused on the long term and employs a collection of time-tested
+                            strategies within inflation-indexed markets, which are diversified to avoid reliance on any one tactical
+                            strategy. This "Pure Play" strategy avoids credit and real-asset exposures, as well as the
+                            unrelated-to-inflation volatility that frequently accompanies them.`,
+    "us tips strategy 2" => "Investment Standards",
+    "us tips strategy 3" => "Combining quantitative and qualitative analysis, our independent research serves as the foundation of our investment process. We exploit market inefficiencies in U.S. Treasury Inflation-Protected Securities (TIPS) and non-U.S. inflation-indexed markets using three primary strategy categories:",
+    "us tips strategy 4" => "Fundamental Strategies:",
+    "us tips strategy 5" => "Using exclusive quantitative models, our investment team seeks to identify real rate levels and curve slopes that may be historically inconsistent with current economic fundamentals. Periodically, this analysis and the expertise of our investment team will determine modest duration or yield curve positions relative to the index.",
+    "us tips strategy 6" => "Non-Directive Methodologies:",
+    "us tips strategy 7" => "Our research has uncovered a number of persistent and recurrent inefficiencies in the U.S. TIPS market, and our investment team frequently positions our portfolio to capture the relative excess return offered by these inefficiencies. Auction cycles, seasonal patterns, performance index extensions, inflation accruals, and roll down contribute to these market inefficiencies.",
+    "us tips strategy 8" => "Opportunistic Strategies:",
+    "us tips strategy 9" => "These strategies involve out-of-index positions on the U.S. Treasury market and foreign sovereign inflation-indexed markets.",
 
     // investor services
     "investor services 1" => "Companies",

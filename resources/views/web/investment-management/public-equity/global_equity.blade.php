@@ -11,60 +11,35 @@
     <hr>
 </div>
 <div class="container">
-
     <div class="eleven columns">
         <h2>@lang('public.global equity')</h2>
         <p style="padding-top: 10px;">
-            Vanward Global Core Select, our global equity strategy, employs a discount to intrinsic value framework with
-            a long-term business ownership approach. We seek to acquire publicly traded equity securities of
-            established, cash-generating, well-managed businesses that are prominent providers of essential products and
-            services at a discount to their intrinsic values*. Estimates of intrinsic value are derived from an analysis
-            of prospective free cash flows and capital returns. We employ a methodical investment selection procedure
-            centred on business, management, and financial characteristics.
+            @lang('public.global equity 1')
+            <strong><span style="text-decoration: underline;">@lang('public.global equity 2')</span></strong><br><br>
+            @lang('public.global equity 3')
             <br><br>
-
-            Vanward Global Core Select will typically hold investments in 30 to 40 U.S. and non-U.S. companies with
-            market capitalizations greater than $3 billion; we aim to own at least 40% non-U.S. companies. The target
-            holding period is between three and five years, and investments are typically sold if their price
-            appreciation exceeds our estimates of their intrinsic value.
+            <strong>@lang('public.global equity 4')</strong><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.global equity 5')
+            <br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.global equity 6')
+            <br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.global equity 7')
+            <br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.global equity 8')<br><br>
+            <strong>@lang('public.global equity 9')</strong><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.global equity 10')
+            <br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.global equity 11')
+            <br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.global equity 12')
             <br><br>
-
-            <strong><span style="text-decoration: underline;">Investment Standards</span></strong><br><br>
-
-            We believe that companies with the following business, management, and financial characteristics are well
-            positioned to create shareholder value regardless of economic and market conditions.
+            <strong>@lang('public.global equity 13')</strong><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.global equity 14')
+            <br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.global equity 15')
             <br><br>
-
-            <strong>Business Attributes</strong><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Important goods and services
-            <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Loyal clients
-            <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Leadership in a profitable industry or market segment
-            <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Sustainable competitive advantages<br><br>
-            <strong>Management Attributes</strong><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Strong managers with moral character
-            <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Favourable capital allocations
-            <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Significant stake ownership
-            <br><br>
-            <strong>Financial Attributes</strong><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Excellent balance sheet and capital flow
-            <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;High returns on investment
-            <br><br>
-
             <span style="font-style: italic;">
-                *Vanward's estimate of the cash that a business can generate and distribute to its shareholders over the
-                remainder of its tenure.
-                <br>
-                -This may increase the potential for larger price fluctuations.
-                <br>
-                -There are unique risks associated with international investing, such as currency risk, increased
-                volatility, political risk, and differences in auditing and other financial standards.
-                <br><br>
+                @lang('public.global equity 16')
             </span>
         </p>
         <p style="display: flex; justify-content: space-around;">
