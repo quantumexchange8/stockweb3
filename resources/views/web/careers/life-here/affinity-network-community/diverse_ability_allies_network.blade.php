@@ -16,19 +16,11 @@
     <div class="eleven columns">
         <h2>@lang('public.diverse ability allies network')</h2>
         <p style="padding-top: 10px;">
-        <p><em>"Learning how to harness your abilities, whatever they may be, is key to professional and personal
-                development. Diverse Ability Allies Network was created to connect with and without disabilities to
-                celebrate our unique skills. We support the empowerment of people with disabilities through
-                advocacy, technology, and organizational adaptations."</em></p>
+        <p><em>"@lang('public.diverse ability allies 1')"</em></p>
         <br>
-        <p><strong>– Andrew Hofer, Diverse Ability Allies Network Executive Sponsor</strong></p>
+        <p><strong>@lang('public.diverse ability allies 2')</strong></p>
         <br>
-        <p>The mission of the Diverse Ability Allies Network (DAAN) is to encourage and support every member of the
-            Firm in achieving their full potential by demonstrating that Vanward is a supportive and inclusive
-            environment for employees who are disabled, or care for individuals with disabilities. By increasing
-            awareness, collaboration, problem-solving, adaptation, innovation, and advocacy for community members
-            with disabilities, we provide a more comfortable, inclusive, and understanding work environment for
-            everyone.</p>
+        <p>@lang('public.diverse ability allies 3')</p>
         </p>
         <div style="padding-top: 30px;">
             <h2 style="padding-bottom: 20px;">@lang('public.signature events')</h2>
@@ -38,14 +30,12 @@
                     width="75%" height="auto">
             </div>
             <div class="eight columns">
-                <h6 style="text-align: left; padding-bottom: 10px;">Defining Dyslexia</h6>
+                <h6 style="text-align: left; padding-bottom: 10px;">@lang('public.diverse ability allies 4')</h6>
                 <strong>
                     {{-- <p>Little Rock, AR</p> --}}
                 </strong>
-                <p>DAAN and the <a href="javascript:goTo('parentingNetwork')">@lang('public.parenting network')</a> hosted the
-                    International Dyslexia Association to learn about dyslexia, dispel any myths and discuss ways to
-                    support those with dyslexia. Attendees also had an opportunity to experience what it feels like to
-                    have dyslexia first-hand through simulation exercises.
+                <p>@lang('public.diverse ability allies 5') <a href="javascript:goTo('parentingNetwork')">@lang('public.parenting network')</a>
+                    @lang('public.diverse ability allies 6')
                 </p>
             </div>
         </div>
@@ -56,14 +46,11 @@
                     width="75%" height="auto">
             </div>
             <div class="eight columns">
-                <h6 style="text-align: left; padding-bottom: 10px;">Art of Blinders</h6>
+                <h6 style="text-align: left; padding-bottom: 10px;">@lang('public.diverse ability allies 7')</h6>
                 <strong>
                     {{-- <p>Little Rock, AR</p> --}}
                 </strong>
-                <p>This workshop gave employees the opportunity to experience the four “Sightless Principals of
-                    Communication” – distractions, ambiguity, obstacles, and competition. Through a discussion and team
-                    building activities, participants learned how to leverage sensory communication to become more
-                    effective communicators and listeners.
+                <p>@lang('public.diverse ability allies 8')
                 </p>
             </div>
         </div>
@@ -74,14 +61,12 @@
                     width="75%" height="auto">
             </div>
             <div class="eight columns">
-                <h6 style="text-align: left; padding-bottom: 10px;">Dis-labeled: The Value of Different Abilities & Allyship
+                <h6 style="text-align: left; padding-bottom: 10px;">@lang('public.diverse ability allies 9')
                 </h6>
                 <strong>
                     {{-- <p>Little Rock, AR</p> --}}
                 </strong>
-                <p>Co-hosted by the Black Affinity Network, diversability advocate Nancy Oduro led a discussion about
-                    the importance of creating a workplace where diversity awareness always includes ability. Attendees
-                    learned how to be strong allies who remove roadblocks for colleagues with diverse abilities.
+                <p>@lang('public.diverse ability allies 10')
                 </p>
             </div>
         </div>

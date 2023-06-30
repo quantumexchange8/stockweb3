@@ -16,18 +16,11 @@
     <div class="eleven columns">
         <h2>@lang('public.black affinity network')</h2>
         <p style="padding-top: 10px;">
-        <p><em>“I am proud to be part of an organization that celebrates diversity and doesn’t ask people to conform
-                in order to belong. We are naturally curious and look to broaden their knowledge by collaborating
-                with those who have different skill sets, perspectives and backgrounds than their own.” </em></p>
+        <p><em>@lang('public.black affinity network 1') </em></p>
         <br>
-        <p><strong>- Donavan Brown, Black Affinity Network Global Co-Chair</strong></p>
+        <p><strong>@lang('public.black affinity network 2')</strong></p>
         <br>
-        <p>The Black Affinity Network celebrates African-American, Caribbean/West Indian, and African ancestry
-            through informational events, awareness-raising activities, and philanthropic initiatives. By fostering
-            the personal and professional growth of our members, we aim to make Vanward an employer of choice for
-            diverse talent. We strengthen the leadership pipeline for people of multicultural descent by supporting
-            employee development and educational opportunities, promoting the benefits of an inclusive culture, and
-            helping members build meaningful relationships at every level of the organization.</p>
+        <p>@lang('public.black affinity network 3')</p>
         </p>
         <div style="padding-top: 30px;">
             <h2 style="padding-bottom: 20px;">@lang('public.signature events')</h2>
@@ -37,16 +30,11 @@
                     width="75%" height="auto">
             </div>
             <div class="eight columns">
-                <h6 style="text-align: left; padding-bottom: 10px;">Focusing on the Next Generation</h6>
+                <h6 style="text-align: left; padding-bottom: 10px;">@lang('public.black affinity network 4')</h6>
                 <strong>
                     {{-- <p>Little Rock, AR</p> --}}
                 </strong>
-                <p>As one part of their community programming, the Black Affinity Network has partnered with Generating
-                    Genius, a London-based organization that works to ensure that talented and capable students from
-                    disadvantaged backgrounds are positioned to excel in STEM (Science, Technology, Engineering, Math)
-                    careers. Through this programme, local high school students have the opportunity to visit our London
-                    office for networking and career panel discussions with finance professionals, and can learn more
-                    about the annual internship partnership with Vanward.
+                <p>@lang('public.black affinity network 5')
                 </p>
             </div>
         </div>
@@ -57,14 +45,11 @@
                     width="75%" height="auto">
             </div>
             <div class="eight columns">
-                <h6 style="text-align: left; padding-bottom: 10px;">Jazz & the Civil Rights Movement</h6>
+                <h6 style="text-align: left; padding-bottom: 10px;">@lang('public.black affinity network 6')</h6>
                 <strong>
                     {{-- <p>Little Rock, AR</p> --}}
                 </strong>
-                <p>The Black Affinity Network organized a presentation on the historical importance of jazz music, led
-                    by former radio personality Bill Daughtry. Hosted from our New York office, the session shared key
-                    moments in U.S. history where jazz artists highlighted struggles of the civil rights movement
-                    through their music and used their influence to drive change.
+                <p>@lang('public.black affinity network 7')
                 </p>
             </div>
         </div>
@@ -75,14 +60,11 @@
                     width="75%" height="auto">
             </div>
             <div class="eight columns">
-                <h6 style="text-align: left; padding-bottom: 10px;">Black Histories, Black Futures at the MFA</h6>
+                <h6 style="text-align: left; padding-bottom: 10px;">@lang('public.black affinity network 8')</h6>
                 <strong>
                     {{-- <p>Little Rock, AR</p> --}}
                 </strong>
-                <p>Vanward’s Black Affinity Network members and friends visited the Museum of Fine Arts, Boston for a
-                    private viewing of an exhibit, curated by local teens, that presented Black experiences through
-                    works by 20th century artist of color. We were able to join a discussion with the teens on their
-                    selection of works and process of designing of the gallery spaces for this exhibit.
+                <p>@lang('public.black affinity network 9')
                 </p>
             </div>
         </div>
@@ -93,13 +75,11 @@
                     width="75%" height="auto">
             </div>
             <div class="eight columns">
-                <h6 style="text-align: left; padding-bottom: 10px;">Annual Poetry Reading</h6>
+                <h6 style="text-align: left; padding-bottom: 10px;">@lang('public.black affinity network 10')</h6>
                 <strong>
                     {{-- <p>Little Rock, AR</p> --}}
                 </strong>
-                <p>Black Affinity Network members gathered for their annual poetry reading during Black History Month to
-                    celebrate literary works and poems that honor ground-breakers and courageous innovators who have
-                    changed the world.
+                <p>@lang('public.black affinity network 11')
                 </p>
             </div>
         </div>
@@ -110,14 +90,11 @@
                     width="75%" height="auto">
             </div>
             <div class="eight columns">
-                <h6 style="text-align: left; padding-bottom: 10px;">60 Minutes Series</h6>
+                <h6 style="text-align: left; padding-bottom: 10px;">@lang('public.black affinity network 12')</h6>
                 <strong>
                     {{-- <p>Little Rock, AR</p> --}}
                 </strong>
-                <p>The ”60 Minutes Series” is a regular event designed to provide employees with greater knowledge of
-                    different departments throughout the firm. Attendees hear about a “day in the life” of various
-                    colleagues. Most recently they heard from colleagues in Foreign Exchange Systems and Change
-                    Management.
+                <p>@lang('public.black affinity network 13')
                 </p>
             </div>
         </div>

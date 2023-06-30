@@ -15,35 +15,27 @@
     <div class="eleven columns">
         <h2>@lang('public.cares')</h2>
         <p style="padding-top: 10px;">
-        <p>Vanward has a proud tradition of volunteer service. In fact, giving back is so ingrained in our
-            culture that we created Cares, a philanthropic program dedicated to providing education and
-            basic necessities to those in need. Entirely employee-driven, Cares’ activities are
-            sponsored by the Firm and spearheaded by volunteers whose passion infuses energy into each
-            initiative. Through partnerships with non-profits, we provide opportunities for employees to
-            learn about the issues facing our communities and how to be part of the solution.</p>
+        <p>
+            @lang('public.cares 1')
+            </p>
         <br>
-        <p><strong>Our Focus Areas: Basic Needs and Education</strong></p>
+        <p><strong>@lang('public.cares 2')</strong></p>
         <br>
-        <p>Our philanthropic focus areas promote stability and aim to foster long-term success.
-            Providing basic needs—food, clothing, and shelter—and supporting educational programs
-            enables individuals and families to take control of their finances, gain independence, and
-            achieve economic sustainability.&nbsp;</p>
+        <p>@lang('public.cares 3')&nbsp;</p>
         <br>
-        <p>Activities we support include:</p>
+        <p>@lang('public.cares 4')</p>
         <div style="padding-left: 30px;">
-            <li>serving meals to the homeless and stocking food pantries</li>
-            <li>donating food, school supplies, clothes, and toys for the holiday season</li>
-            <li>building homes for low-income families</li>
-            <li>financial literacy and technical skills training</li>
-            <li>teaching leadership skills</li>
-            <li>literacy and mentoring programs</li>
+            <li>@lang('public.cares 5')</li>
+            <li>@lang('public.cares 6')</li>
+            <li>@lang('public.cares 7')</li>
+            <li>@lang('public.cares 8')</li>
+            <li>@lang('public.cares 9')</li>
+            <li>@lang('public.cares 10')</li>
         </div>
         <br>
-        <p>Our mission is to engage children, youth, and families, and to increase the success rates of
-            the diverse members of the communities in which we live and work.&nbsp;</p>
+        <p>@lang('public.cares 11')&nbsp;</p>
         <br>
-        <p>Learn more about other <a href="javascript:goTo('philanthropy')" target="_self">Vanward
-                Philanthropy efforts and our Employee Relief Fund.</a></p>
+        <p>@lang('public.cares 12') <a href="javascript:goTo('philanthropy')" target="_self">@lang('public.cares 13')</a></p>
         </p>
     </div>
     <div class="five columns">

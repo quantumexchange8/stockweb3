@@ -2152,112 +2152,283 @@ return [
     "undergraduate 15" => "Companies",
     "undergraduate 16" => "Companies",
     // affinity network community
-    "affinity network community 1" => "Companies",
-    "affinity network community 2" => "Companies",
-    "affinity network community 3" => "Companies",
-    "affinity network community 4" => "Companies",
-    "affinity network community 5" => "Companies",
-    "affinity network community 6" => "Companies",
-    "affinity network community 7" => "Companies",
+    "affinity network community 1"  => "“The greater our diversity and inclusion, the more we unlock human potential and the greater the prosperity of Vanward.”",
+    "affinity network community 2"  => "Jeff Schoenfeld",
+    "affinity network community 3"  => "Partner and Pride Network Executive Sponsor",
+    "affinity network community 4"  => "The Affinity Network Community (“CANC”) is a global community of employee-led networks
+                                        founded by and for diverse professionals. These networks were created from the shared belief
+                                        that we all benefit from a workplace where colleagues are comfortable being themselves.
+                                        Employees with different backgrounds and interests come together to expand their knowledge,
+                                        strengthen career skills and build new relationships through volunteer activities,
+                                        networking sessions, and other events that promote global knowledge sharing and community
+                                        building across the Firm.",
+    "affinity network community 5"  => "CANC groups are instrumental in advancing the Firm’s",
+    "affinity network community 6"  => "diversity and inclusion",
+    "affinity network community 7"  => "strategy. We look to our CANC members as
+                                        counsel on the challenges and opportunities facing our employees in the workplace. Outside
+                                        the firm, CANC members actively build meaningful relationships within our communities
+                                        through volunteer opportunities, formal partnerships with global and local organizations,
+                                        and by partnering with community influencers to host local events.",
     // cares
-    "cares 1" => "Companies",
-    "cares 2" => "Companies",
-    "cares 3" => "Companies",
-    "cares 4" => "Companies",
-    "cares 5" => "Companies",
-    "cares 6" => "Companies",
-    "cares 7" => "Companies",
-    "cares 8" => "Companies",
-    "cares 9" => "Companies",
-    "cares 10" => "Companies",
-    "cares 11" => "Companies",
-    "cares 12" => "Companies",
-    "cares 13" => "Companies",
+    "cares 1"   => "Vanward has a proud tradition of volunteer service. In fact, giving back is so ingrained in our
+                    culture that we created Cares, a philanthropic program dedicated to providing education and
+                    basic necessities to those in need. Entirely employee-driven, Cares’ activities are
+                    sponsored by the Firm and spearheaded by volunteers whose passion infuses energy into each
+                    initiative. Through partnerships with non-profits, we provide opportunities for employees to
+                    learn about the issues facing our communities and how to be part of the solution.",
+    "cares 2"   => "Our Focus Areas: Basic Needs and Education",
+    "cares 3"   => "Our philanthropic focus areas promote stability and aim to foster long-term success.
+                    Providing basic needs—food, clothing, and shelter—and supporting educational programs
+                    enables individuals and families to take control of their finances, gain independence, and
+                    achieve economic sustainability.",
+    "cares 4"   => "Activities we support include:",
+    "cares 5"   => "serving meals to the homeless and stocking food pantries",
+    "cares 6"   => "donating food, school supplies, clothes, and toys for the holiday season",
+    "cares 7"   => "building homes for low-income families",
+    "cares 8"   => "financial literacy and technical skills training",
+    "cares 9"   => "teaching leadership skills",
+    "cares 10"  => "literacy and mentoring programs",
+    "cares 11"  => "Our mission is to engage children, youth, and families, and to increase the success rates of
+                    the diverse members of the communities in which we live and work.",
+    "cares 12"  => "Learn more about other",
+    "cares 13"  => "Vanward
+                    Philanthropy efforts and our Employee Relief Fund.",
     // core values
-    "core values 1" => "Companies",
-    "core values 2" => "Companies",
-    "core values 3" => "Companies",
+    "core values 1" => "While times have changed since we opened our doors, one thing that has remained constant is
+                        our commitment to our clients and core values. Bringing together people and capabilities to
+                        provide our clients with solutions to challenging problems is where we excel. Our
+                        unique culture emphasizes Teamwork, Integrity, and Excellence and these values drive our
+                        success.",
+    "core values 2" => "What TIEs Us Together",
+    "core values 3" => "<p>
+                            Teamwork. Integrity. Excellence. What makes these values distinct at Vanward is how we bring
+                            them to life. Recently, we celebrated our core values by asking employees to share how they
+                            experience Teamwork, Integrity, and Excellence at Vanward. We heard countless stories:
+                            colleagues who went out of their way to help their teams; decisions made in the best
+                            interest of clients; times when we stuck to our principles even when our view was not
+                            popular; and leaders who inspired us by their commitment to our Values.</p>
+                        <br>
+                        <p>Though we have varied years of tenure, sit in 18 locations around the world, come from
+                            diverse backgrounds, and work in different lines of business, a common set of values unites
+                            our diverse points of view in service to our clients and to each other. Daily and frequent
+                            displays of our core values make Vanward a place our employees want to work—and continue
+                            working, which helps us to build lasting, transparent, and meaningful relationships.
+                        </p>",
     "core values 4" => "Companies",
     // our culture
-    "our culture 1" => "Companies",
-    "our culture 2" => "Companies",
-    "our culture 3" => "Companies",
-    "our culture 4" => "Companies",
-    "our culture 5" => "Companies",
-    "our culture 6" => "Companies",
-    "our culture 7" => "Companies",
+    "our culture 1" => "At Vanward, going above and beyond for our clients will always be the expectation,
+                        not the exception. Our goal is to be the best, not the biggest. We strive to be the most
+                        trusted, valued, and differentiated partner to every client we serve, so we invest our
+                        resources and empower our employees to be just that. The result is a culture of partnership
+                        built on collaboration, innovation, integrity, and service—with our clients at the heart of
+                        every decision we make.",
+    "our culture 2" => "Client-Focused, Relationship-Driven",
+    "our culture 3" => "Our partnership structure affords us a thoughtful, long-term perspective in managing our
+                        business and building relationships—being selective and specialized in our focus. Without
+                        the distraction of shareholders, our success is driven by the success of our clients,
+                        creating a natural alignment with their interests. This leads to a more personal
+                        approach to doing business, and a visceral understanding of our clients that creates
+                        insights and products that help them stay ahead of their peers.",
+    "our culture 4" => "Collaboration, Commitment, and Stewardship",
+    "our culture 5" => "Our clients' reputation is our reputation, and nothing matters more. Our decision-making is
+                        consensus-driven, anchored in long-term perspective and a conservative approach to risk.
+                        Employees at all levels share a sense of stewardship and responsibility for the continuity
+                        of our clients and the firm, and the agility we enjoy as a private firm allows us to reach
+                        agreements quickly. It’s a powerful combination of prudence and speed.",
+    "our culture 6" => "Entrepreneurial Spirit",
+    "our culture 7" => "We foster an entrepreneurial spirit and a collaborative environment that enables you to add
+                        value wherever you can. Our flat organizational structure provides direct access to
+                        information and experts across all business areas, ensuring the best ideas always rise to
+                        the top. Contributing beyond your daily role is encouraged, fueling teamwork, new solutions,
+                        and timely execution. We admire people who speak their minds, listen, and understand views
+                        that differ from their own. The lack of hierarchal structures and internal competition
+                        promotes a culture of collaboration and service that puts clients first.",
     // asia link network
-    "asia link 1" => "Companies",
-    "asia link 2" => "Companies",
-    "asia link 3" => "Companies",
-    "asia link 4" => "Companies",
-    "asia link 5" => "Companies",
-    "asia link 6" => "Companies",
-    "asia link 7" => "Companies",
-    "asia link 8" => "Companies",
-    "asia link 9" => "Companies",
+    "asia link 1"   => "The BANC networks have allowed me to create professional development opportunities for our members
+                        while connecting with us from across the globe.",
+    "asia link 2"   => "– Richard Ma, Asia Link Leader",
+    "asia link 3"   => "The Asia Link Network works to strengthen cultural understanding and improve global awareness of the
+                        countries, practices, and financial markets of Asia. Through discussions, lecture series, and meaningful
+                        dialogue, we promote the exchange of ideas that lead to better solutions for our employees and clients.
+                        Members receive networking, mentoring, and knowledge-building opportunities that help promote visibility
+                        and cultivate career growth. Our priority is to give employees pathways to advance their leadership,
+                        communication, and team-building skills that can be applied in the workplace.",
+    "asia link 4"   => "Spring Festival",
+    "asia link 5"   => "To mark Lunar New Year, or “Spring Festival” (the end of the coldest part of winter), Asia Link
+                        Network members around the globe hosted events which included discussion around the Chinese Zodiac,
+                        a traditional Lion Dance, festive cuisine, and competitive ping pong tournaments. The Network also
+                        hosted special guests who explained the significance of tea in holidays and celebrations in Asian
+                        Culture.",
+    "asia link 6"   => "Celebrating Diwali",
+    "asia link 7"   => "Asia Link hosted a special evening celebrating Diwali, the Indian Festival of Lights. The event
+                        included a Diwali Lighting Ceremony, a presentation focused on the significance of Diwali in a
+                        multicultural context, and a networking reception featuring Indian food, Diwali sweets, music, and
+                        games.",
+    "asia link 8"   => "Asian Pacific American Heritage Month (US)",
+    "asia link 9"   => `The India Chapter of New York City and Jersey City Asia Link celebrated its launch during Asian
+                        Pacific American Heritage Month in the US. The color festival celebration included a Bollywood
+                        musical called "Holi Hai,” offering participants an idea of what it is like to celebrate the
+                        festival in India.`,
     // black affinity network
-    "black affinity 1" => "Companies",
-    "black affinity 2" => "Companies",
-    "black affinity 3" => "Companies",
-    "black affinity 4" => "Companies",
-    "black affinity 5" => "Companies",
-    "black affinity 6" => "Companies",
-    "black affinity 7" => "Companies",
-    "black affinity 8" => "Companies",
-    "black affinity 9" => "Companies",
-    "black affinity 10" => "Companies",
-    "black affinity 11" => "Companies",
-    "black affinity 12" => "Companies",
-    "black affinity 13" => "Companies",
+    "black affinity 1" => "“I am proud to be part of an organization that celebrates diversity and doesn’t ask people to conform
+                            in order to belong. We are naturally curious and look to broaden their knowledge by collaborating
+                            with those who have different skill sets, perspectives and backgrounds than their own.”",
+    "black affinity 2" => "- Donavan Brown, Black Affinity Network Global Co-Chair",
+    "black affinity 3" => "The Black Affinity Network celebrates African-American, Caribbean/West Indian, and African ancestry
+                            through informational events, awareness-raising activities, and philanthropic initiatives. By fostering
+                            the personal and professional growth of our members, we aim to make Vanward an employer of choice for
+                            diverse talent. We strengthen the leadership pipeline for people of multicultural descent by supporting
+                            employee development and educational opportunities, promoting the benefits of an inclusive culture, and
+                            helping members build meaningful relationships at every level of the organization.",
+    "black affinity 4" => "Focusing on the Next Generation",
+    "black affinity 5" => "As one part of their community programming, the Black Affinity Network has partnered with Generating
+                            Genius, a London-based organization that works to ensure that talented and capable students from
+                            disadvantaged backgrounds are positioned to excel in STEM (Science, Technology, Engineering, Math)
+                            careers. Through this programme, local high school students have the opportunity to visit our London
+                            office for networking and career panel discussions with finance professionals, and can learn more
+                            about the annual internship partnership with Vanward.",
+    "black affinity 6" => "Jazz & the Civil Rights Movement",
+    "black affinity 7" => "The Black Affinity Network organized a presentation on the historical importance of jazz music, led
+                            by former radio personality Bill Daughtry. Hosted from our New York office, the session shared key
+                            moments in U.S. history where jazz artists highlighted struggles of the civil rights movement
+                            through their music and used their influence to drive change.",
+    "black affinity 8" => "Black Histories, Black Futures at the MFA",
+    "black affinity 9" => "Vanward’s Black Affinity Network members and friends visited the Museum of Fine Arts, Boston for a
+                            private viewing of an exhibit, curated by local teens, that presented Black experiences through
+                            works by 20th century artist of color. We were able to join a discussion with the teens on their
+                            selection of works and process of designing of the gallery spaces for this exhibit.",
+    "black affinity 10" => "Annual Poetry Reading",
+    "black affinity 11" => "Black Affinity Network members gathered for their annual poetry reading during Black History Month to
+                            celebrate literary works and poems that honor ground-breakers and courageous innovators who have
+                            changed the world.",
+    "black affinity 12" => "60 Minutes Series",
+    "black affinity 13" => "The ”60 Minutes Series” is a regular event designed to provide employees with greater knowledge of
+                            different departments throughout the firm. Attendees hear about a “day in the life” of various
+                            colleagues. Most recently they heard from colleagues in Foreign Exchange Systems and Change
+                            Management.",
     // diverse ability allies network
-    "diverse ability allies 1" => "Companies",
-    "diverse ability allies 2" => "Companies",
-    "diverse ability allies 3" => "Companies",
-    "diverse ability allies 4" => "Companies",
-    "diverse ability allies 5" => "Companies",
-    "diverse ability allies 6" => "Companies",
-    "diverse ability allies 7" => "Companies",
-    "diverse ability allies 8" => "Companies",
-    "diverse ability allies 9" => "Companies",
-    "diverse ability allies 10" => "Companies",
+    "diverse ability allies 1" => "Learning how to harness your abilities, whatever they may be, is key to professional and personal
+                                    development. Diverse Ability Allies Network was created to connect with and without disabilities to
+                                    celebrate our unique skills. We support the empowerment of people with disabilities through
+                                    advocacy, technology, and organizational adaptations.",
+    "diverse ability allies 2" => "– Andrew Hofer, Diverse Ability Allies Network Executive Sponsor",
+    "diverse ability allies 3" => "The mission of the Diverse Ability Allies Network (DAAN) is to encourage and support every member of the
+                                    Firm in achieving their full potential by demonstrating that Vanward is a supportive and inclusive
+                                    environment for employees who are disabled, or care for individuals with disabilities. By increasing
+                                    awareness, collaboration, problem-solving, adaptation, innovation, and advocacy for community members
+                                    with disabilities, we provide a more comfortable, inclusive, and understanding work environment for
+                                    everyone.",
+    "diverse ability allies 4" => "Defining Dyslexia",
+    "diverse ability allies 5" => "DAAN and the",
+    "diverse ability allies 6" => "hosted the
+                                    International Dyslexia Association to learn about dyslexia, dispel any myths and discuss ways to
+                                    support those with dyslexia. Attendees also had an opportunity to experience what it feels like to
+                                    have dyslexia first-hand through simulation exercises.",
+    "diverse ability allies 7" => "Art of Blinders",
+    "diverse ability allies 8" => "This workshop gave employees the opportunity to experience the four “Sightless Principals of
+                                    Communication” – distractions, ambiguity, obstacles, and competition. Through a discussion and team
+                                    building activities, participants learned how to leverage sensory communication to become more
+                                    effective communicators and listeners.",
+    "diverse ability allies 9" => "Dis-labeled: The Value of Different Abilities & Allyship",
+    "diverse ability allies 10" => "Co-hosted by the Black Affinity Network, diversability advocate Nancy Oduro led a discussion about
+                                    the importance of creating a workplace where diversity awareness always includes ability. Attendees
+                                    learned how to be strong allies who remove roadblocks for colleagues with diverse abilities.",
     // global employee network
-    "global employee 1" => "Companies",
-    "global employee 2" => "Companies",
-    "global employee 3" => "Companies",
-    "global employee 4" => "Companies",
-    "global employee 5" => "Companies",
-    "global employee 6" => "Companies",
-    "global employee 7" => "Companies",
+    "global employee 1" => "“I’ve had the opportunity to do business in 11 of our offices over the course of my career at Vanward.
+                            Each new experience has positively impacted my professional and personal development. The Global
+                            Employee Network provides opportunities for people to share their wisdom and stories with other
+                            colleagues interested in learning more about the rich and diverse cultures of our people and the
+                            international opportunities the firm has to offer.”",
+    "global employee 2" => "– R.J. Rondini, Global Employee Network Chair",
+    "global employee 3" => "Once a casual network of Vanward Employees sharing global work experiences with one another, the Global
+                            Employee Network now includes members in nearly every office and organized chapters in Vanward locations
+                            around the globe. Through organized networking sessions, training and events simulcast across
+                            offices, the network focuses on three main pillars of activity: celebration and exploration of the
+                            rich cultural diversity at Vanward; managing the challenges that come with working on a global team; and
+                            supporting the needs of those working outside their home location. Participation in events
+                            sponsored by the network are open to all Vanward Employees.",
+    "global employee 4" => "Culture Fair Worldwide",
+    "global employee 5" => "Annual culture fairs are hosted in Vanward's Boston, Dublin, Hong Kong, Kraków, and Jersey City offices.
+    Employees learn about resources such as community engagement and wellness programs, and can sign up
+    for activities such as the 1818 Social Club and BANC affinity groups.",
+    "global employee 6" => "Embracing a Global Workforce",
+    "global employee 7" => "Kraków hosted a lunch and learn panel that discussed how to embrace and
+                            collaborate in a global workforce. Each panelist shared personal experiences that have positively
+                            shaped their global mentality.",
     // latino cultural network
-    "latino cultural 1" => "Companies",
-    "latino cultural 2" => "Companies",
-    "latino cultural 3" => "Companies",
-    "latino cultural 4" => "Companies",
-    "latino cultural 5" => "Companies",
-    "latino cultural 6" => "Companies",
-    "latino cultural 7" => "Companies",
-    "latino cultural 8" => "Companies",
-    "latino cultural 9" => "Companies",
-    "latino cultural 10" => "Companies",
-    "latino cultural 11" => "Companies",
-    "latino cultural 12" => "Companies",
-    "latino cultural 13" => "Companies",
+    "latino cultural 1" => "“Within the Latino Cultural Network (LCN), I found a home. LCN has connected me with mentorship and
+                            networking opportunities that have helped me grow in my career. Together with leaders from across
+                            the Vanward Affinity Networks, LCN has inspired me to further integrate myself into the Vanward community.
+                            It feels great to enhance my skills and personal development while celebrating and sharing my
+                            culture with others.”",
+    "latino cultural 2" => "– Yaritza Avila, Latino Cultural Network",
+    "latino cultural 3" => "The Latino Cultural Network facilitates the professional development of our members by supporting
+                            community outreach; facilitating mentoring, coaching, and networking opportunities; and helping members
+                            build business knowledge and gain exposure to senior leaders. By raising awareness of Latino and
+                            Hispanic heritage, we help eliminate cultural barriers to promote an environment that accepts, values,
+                            and encourages diversity, as well as helps us succeed in the global marketplace.",
+    "latino cultural 4" => "Lunch & Learn Book Discussion",
+    "latino cultural 5" => `LCN New York City hosted a book discussion on "The Power of Latino Leadership: Culture, Inclusion,
+                            and Contribution" by Juana Bordas. Attendees shared their perspectives on the book’s themes of
+                            embracing diversity, valuing people and taking action.`,
+    "latino cultural 6" => "Hispanic Heritage Month Celebrations in the US",
+    "latino cultural 7" => "LCN Jersey City chapter kicked off its celebration of Hispanic Heritage Month with a flagship event
+                            that included a volunteer activity, keynote speaker, Latin entertainment and a networking reception.
+                            To honor the theme of “Shaping the Bright Future of America,” LCN celebrated Investors in
+                            Innovation, whose work helped our country by providing opportunities in technology and
+                            entrepreneurship to under-represented communities.",
+    "latino cultural 8" => "Working with PerScholas",
+    "latino cultural 9" => "and LCN Jersey City partnered with PerScholas New York City to review resumes and conduct mock
+                            interviews with students seeking employment in the technical industry. PerScholas is a school that
+                            helps individuals in under‐represented communities receive training in the skills required to
+                            broaden their qualifications for IT jobs and succeed in the technical industry.",
+    "latino cultural 10" => "Wine and Tapas",
+    "latino cultural 11" => "At this year's Wine and Tapas event, Partner Maroa Velez spoke about how her Latin roots have
+                            impacted her career. Maroa shared how the works of Jose Marti, Gabriel Garcia Marquez, and other
+                            authors have influenced her. This night gave employees and LCN members a chance to celebrate
+                            Hispanic Heritage Month together.",
+    "latino cultural 12" => "Cafecito: Developing Your Personal Brand",
+    "latino cultural 13" => "During this interactive session led by Richard Garcia from our Talent & Development team, attendees
+                            learned how to create a personal “brand mantra” and identify the characteristics they wanted to
+                            portray in their own personal brands. Richard emphasized the importance of reputation, first
+                            impressions, and how personal brand can evolve over time.",
     // military veterans network
-    "military veterans 1" => "Companies",
-    "military veterans 2" => "Companies",
-    "military veterans 3" => "Companies",
-    "military veterans 4" => "Companies",
-    "military veterans 5" => "Companies",
-    "military veterans 6" => "Companies",
-    "military veterans 7" => "Companies",
-    "military veterans 8" => "Companies",
-    "military veterans 9" => "Companies",
-    "military veterans 10" => "Companies",
-    "military veterans 11" => "Companies",
-    "military veterans 12" => "Companies",
-    "military veterans 13" => "Companies",
-    "military veterans 14" => "Companies",
+    "military veterans 1" => "As a Veteran of the United States Marine Corps, I understand the value a veteran can add to any
+                            workplace. I take pride in seeing the commitment Vanward has made in hiring and supporting veterans who
+                            have or continue to serve in the Armed Forces. Through my involvement in the Vanward Military Veterans
+                            Network and other affinity groups I’ve seen firsthand the ways Vanward is invested in employees and the
+                            community.",
+    "military veterans 2" => "– Travis Partington, Military Veterans Network",
+    "military veterans 3" => "The Military Veterans Network supports active duty and reserve military personnel, veterans and their
+                                families through mentoring, professional development, and community outreach. We are committed to
+                                raising awareness for the complex issues Veterans face when transitioning into civilian employment. We
+                                further Vanward’s commitment to recruit, integrate, progress, and retain veterans by providing employees
+                                with valuable resources to advance their careers. We serve as advisors inside and outside the Firm to
+                                educate potential employers about veterans’ unique skills and experiences, and support talent
+                                development by interviewing candidates with military experience.",
+    "military veterans 4" => "Virtual Volunteering",
+    "military veterans 5" => "The Military Veterans Network and Cares invited us to create a virtual tour of the renovated New
+                                England Center and Home for Veterans. As a way to showcase the exciting renovations, the virtual
+                                tour was made available at the Center's annual Leave No One Behind fundraising gala and was posted
+                                to the Center's website.",
+    "military veterans 6" => "Teaching Computer Skills in Boston",
+    "military veterans 7" => "Network members volunteered at The New England Center & Home for Veterans to teach computer basics to
+                            Veterans.",
+    "military veterans 8" => "Veterans & Friends Brown Bag Lunch Series",
+    "military veterans 9" => "This informal series provides Vanward Employees with an opportunity to meet veterans and friends for
+                                casual conversation.",
+    "military veterans 10" => "Don't Ask, Don't Tell: Then & Now A Conversation
+                                with Dan Woods, Lead Counsel who Took on Don't Ask, Don't Tell and Won",
+    "military veterans 11" => "The Vanward",
+    "military veterans 12" => "and Military Networks joined forces to
+                                present, Dan Woods, lead counsel on the team that took on Don't Ask, Don't Tell, and won. Dan spoke
+                                about his role in this landmark case which led to the end of a law that prohibited gay and lesbian
+                                Americans from serving in the armed forces and sent a message that discrimination was unacceptable.
+                                Dan shared lessons from his experience which can be applied to all aspects of our lives, including
+                                creating open and inclusive workplaces.",
+    "military veterans 13" => "Veterans Day Celebration",
+    "military veterans 14" => "In honor of Veterans Day, the Military Network hosted a “Show and Tell” event. Attendees shared
+                                mementos reflecting their own service or the services of someone they know in the armed forces.",
     // parenting network
     "parenting 1" => "Companies",
     "parenting 2" => "Companies",
@@ -2311,18 +2482,18 @@ return [
     "young professionals 12" => "Companies",
     "young professionals 13" => "Companies",
     "young professionals 14" => "Companies",
-    // benefits wellness compensation network
+    // benefits wellness compensation
     "benefits wellness compensation 1" => "Companies",
     "benefits wellness compensation 2" => "Companies",
     "benefits wellness compensation 3" => "Companies",
-    // career management network
+    // career management
     "career management 1" => "Companies",
     "career management 2" => "Companies",
     "career management 3" => "Companies",
     "career management 4" => "Companies",
     "career management 5" => "Companies",
     "career management 6" => "Companies",
-    // mobility network
+    // mobility
     "mobility 1" => "Companies",
     "mobility 2" => "Companies",
     "mobility 3" => "Companies",
@@ -2331,7 +2502,7 @@ return [
     "mobility 6" => "Companies",
     "mobility 7" => "Companies",
     "mobility 8" => "Companies",
-    // ongoing learning network
+    // ongoing learning
     "ongoing learning 1" => "Companies",
     "ongoing learning 2" => "Companies",
     "ongoing learning 3" => "Companies",
@@ -2342,7 +2513,7 @@ return [
     "ongoing learning 8" => "Companies",
     "ongoing learning 9" => "Companies",
     "ongoing learning 10" => "Companies",
-    // signature programs network
+    // signature programs
     "signature programs 1" => "Companies",
     "signature programs 2" => "Companies",
     "signature programs 3" => "Companies",
