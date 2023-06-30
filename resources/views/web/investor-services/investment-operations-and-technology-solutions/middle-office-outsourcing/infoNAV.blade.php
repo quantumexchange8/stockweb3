@@ -17,24 +17,20 @@
     <div class="eleven columns">
         <h2>@lang('public.infonav')</h2>
         <p style="padding-top: 10px;">
-            InfoNAV® is a scalable, independent, secondary NAV calculation tool which enables asset managers to monitor
-            the NAV production process across all their administrators. The application provides clients with
-            transparency into their global array of products, geographies and accounting providers.
+            @lang('public.infonav 1')
+
             <br><br>
-            <strong>Understanding the Impact</strong>
+            <strong>@lang('public.infonav 2')</strong>
             <br><br>
-            Clients can efficiently document control and apply an oversight best practice to their various accounting
-            providers. InfoNAV® imports critical NAV component data from our clients’ service providers and generates a
-            secondary NAV for comparison to the primary NAV. Clients can then easily obtain key metrics, analytics and
-            reporting for Boards and interested parties via the dashboard.
+            @lang('public.infonav 3')
+
             <br><br>
-            <strong>Additional Benefits</strong>
+            <strong>@lang('public.infonav 4')</strong>
             <br><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Ability to manage a wide range of strategies and multiple accounting administrators on a single application<br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Provides a primary NAV to secondary NAV comparison, detailing areas of deviation for our client’s further
-            analysis <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Value-added servicing options with access to best-in-class Fund Accounting expertise<br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Integration with multiple data sources via Vanward Infomediary®.
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.infonav 5')<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.infonav 6') <br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.infonav 7')<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.infonav 8')
         </p>
     </div>
     <div class="five columns">

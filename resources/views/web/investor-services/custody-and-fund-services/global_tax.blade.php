@@ -15,25 +15,18 @@
     <div class="eleven columns">
         <h2>@lang('public.global tax')</h2>
         <p style="padding-top: 10px;">
-            Vanward Global Tax Services provides expertise and strategic solutions in the areas of tax research, tax
-            operations, fund administration tax, and European tax reporting for global asset gatherers and financial
-            intermediaries. Our team of dedicated tax professionals located in Boston, Denver, London, Tokyo, Hong Kong,
-            and Krakow works with our clients to structure effective tax treatments across a wide range of investment
-            vehicles in 95+ markets.
+            @lang('public.global tax 1')
+
             <br><br>
-            <strong>Purposeful Tax Technology</strong>
+            <strong>@lang('public.global tax 2')</strong>
             <br><br>
-            Vanward Global Tax Services delivers effective solutions to manage the complexity of U.S. and global
-            investment, such as our E-W8™ U.S. tax compliance solution. A risk mitigating, cost effective, scalable and
-            light solution, E-W8 addresses NRA and FATCA compliance obligations with respect to account opening,
-            remediation and tracking change of circumstances.
+            @lang('public.global tax 3')
+
             <br><br>
-            <strong>Skilled and Experienced Tax Professionals</strong>
+            <strong>@lang('public.global tax 4')</strong>
             <br><br>
-            Our skilled and experienced tax professionals actively monitor and track tax developments in 95+ markets. We
-            deliver regular updates and insights to clients via daily Global Update bulletins. Our team collects and
-            files documentation necessary for treaty relief or reclaims, and provides compliance and tax services for
-            mutual funds, partnerships, hedge funds, and many other investment types.
+            @lang('public.global tax 5')
+
         </p>
     </div>
     <div class="five columns">

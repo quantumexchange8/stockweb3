@@ -28,8 +28,9 @@ return [
     "please"                    => "Please",
     "with questions"            => "with questions.",
     "our clients"               => "Our Clients",
-    "our people"               => "Our People",
-    "our communities"               => "Our Communities",
+    "our people"                => "Our People",
+    "our communities"           => "Our Communities",
+    "vanward"                   => "Vanward",
 
 
     // dates
@@ -887,303 +888,633 @@ return [
     "us tips strategy 9" => "These strategies involve out-of-index positions on the U.S. Treasury market and foreign sovereign inflation-indexed markets.",
 
     // investor services
-    "investor services 1" => "Companies",
-    "investor services 2" => "Companies",
-    "investor services 3" => "Companies",
-    "investor services 4" => "Companies",
-    "investor services 5" => "Companies",
-    "investor services 6" => "Companies",
-    "investor services 7" => "Companies",
+    "investor services 1" => "Vanward Investor Services is dedicated to offering asset servicing and cutting-edge technology solutions
+                            to leading global asset gatherers. We specifically concentrate on a select group of clients who seek an
+                            engaged and proactive partner to gain a competitive advantage. Each client receives a highly customized
+                            and tailored service complemented by state-of-the-art technology.
+                            <br><br>
+                            As a privately held company free from the influence of external shareholders, we can wholeheartedly
+                            focus on our clients' needs. We collaborate closely with them on their most crucial objectives,
+                            assisting them in differentiating their businesses and attaining their growth targets.
+                            <br><br>
+                            Clients turn to us to unlock value, explore innovative approaches to risk and complexity management, and
+                            propel their businesses forward. They expect and receive exceptional service, as we are consistently
+                            described as their go-to resource when confronted with novel and challenging situations. Our clients
+                            consistently rank Vanward as their top global service provider.",
+    "investor services 2" => "Ensuring the accurate trade settlement, safekeeping, reporting and administration of our clients’ most complex funds and asset types",
+    "investor services 3" => "Providing specialist expertise servicing cross-border funds, alternatives, ETFs, and insurance firms",
+    "investor services 4" => "Providing foreign exchange trading, currency administration, and securities lending solutions centered on execution quality and leading levels of operational efficiency, transparency, and client control.",
+    "investor services 5" => "Making key components of our technology platform available to clients on a SaaS, IaaS, and fully outsourced basis.",
     // custody & fund services
-    "custody & fund services 1" => "Companies",
-    "custody & fund services 2" => "Companies",
-    "custody & fund services 3" => "Companies",
-    "custody & fund services 4" => "Companies",
-    "custody & fund services 5" => "Companies",
-    "custody & fund services 6" => "Companies",
-    "custody & fund services 7" => "Companies",
-    "custody & fund services 8" => "Companies",
-    "custody & fund services 9" => "Companies",
+    "custody & fund services 1" => "Vanward offers a suite of asset servicing solutions designed to help institutional clients access and
+                                    navigate cross-border investing. As a specialist in managing the new and difficult, we have earned the trust
+                                    of the world’s most sophisticated asset gatherers to ensure timely settlement, accurate safekeeping and
+                                    reporting, and error-free administration of their most complex funds and asset types.
+                                    <br><br>
+                                    We are intently focused on risk management and protecting our clients' assets. We are committed to investing
+                                    in a best-in-class compliance and control infrastructure.
+                                    <br><br>
+                                    Clients benefit from our global service model and integrated technology platform designed to deliver a
+                                    measurably superior and consistent global client experience, and 100% client referenceability.",
+    "custody & fund services 2" => "Ensuring timely settlement, accurate safekeeping and reporting for our global client base.",
+    "custody & fund services 3" => "Supporting complex investment types, fee calculations, and service models across a fund domiciles and jurisdictions.",
+    "custody & fund services 4" => "Providing global transfer agency for asset managers distributing cross-border funds to institutional and wholesale investors.",
+    "custody & fund services 5" => "Insulating asset managers from the investments needed to comply with complex collateral requirements.",
+    "custody & fund services 6" => "Offering comprehensive depositary services for Luxembourg, Irish, Cayman and Hong Kong domiciled funds.",
+    "custody & fund services 7" => "Providing a comprehensive suite of administrative services with a flexible approach to support our clients’ needs.",
+    "custody & fund services 8" => "Working with our clients to structure the most beneficial tax treatment across a range of investment vehicles in 95+ markets.",
+    "custody & fund services 9" => "Order Processing and Custody Services for Vanward clients that buy and hold investment funds.",
     "custody & fund services 10" => "Companies",
     "custody & fund services 11" => "Companies",
     // collateral management
-    "collateral management 1" => "Companies",
-    "collateral management 2" => "Companies",
-    "collateral management 3" => "Companies",
-    "collateral management 4" => "Companies",
-    "collateral management 5" => "Companies",
-    "collateral management 6" => "Companies",
-    "collateral management 7" => "Companies",
-    "collateral management 8" => "Companies",
-    "collateral management 9" => "Companies",
-    "collateral management 10" => "Companies",
-    "collateral management 11" => "Companies",
-    "collateral management 12" => "Companies",
-    "collateral management 13" => "Companies",
-    "collateral management 14" => "Companies",
-    "collateral management 15" => "Companies",
-    "collateral management 16" => "Companies",
+    "collateral management 1" => "Disruption to the derivatives market is underway as regulations such as the Dodd-Frank Act, European Market
+                                Infrastructure Regulation, and Basel III increase the scarcity of available collateral. This has intensified
+                                focus on improving collateral management practices as a means to increase operational effectiveness,
+                                decrease counterparty credit risk, and control the costs of trading and collateralizing swaps. The way asset
+                                managers adapt their collateral management discipline will impact their ability to deliver investment
+                                performance.
+                                <br><br>
+                                Vanward provides comprehensive and operationally efficient collateral management services designed to control
+                                risk, improve front office decision making, and minimize the impact on portfolio performance. We work to
+                                insulate clients from the burdensome investments required to comply with complex collateral requirements,
+                                while they focus on generating investment returns.",
+    "collateral management 2" => "Control Risk",
+    "collateral management 3" => "Custom technology maximizes straight through processing and connectivity with multiple counterparties via Vanward Infomediary®, reducing operational risk",
+    "collateral management 4" => "Manage the counterparty credit risk inherent to derivatives trading by ensuring exposures to counterparties are managed",
+    "collateral management 5" => "Robust reporting provides key metrics, such as counterparty exposure and collateral transactions",
+    "collateral management 6" => "Improve Front Office Decision Making",
+    "collateral management 7" => "Increase visibility into collateral usage across counterparties",
+    "collateral management 8" => "Real time views into settlement status, inventory, and collateral positions",
+    "collateral management 9" => "Access to Vanward collateral management business expertise",
+    "collateral management 10" => "Minimize Impact on Portfolio Performance",
+    "collateral management 11" => "Select the optimal collateral based on client defined hierarchies and counterparty exposures",
+    "collateral management 12" => "Identify and pledge “cheapest to deliver” collateral based on client defined parameters",
+    "collateral management 13" => "Ensure collateral received complies with eligibility criteria",
+    "collateral management 14" => "Reduce amount of over-collateralization with counterparties",
+    "collateral management 15" => "Vanward Collateral Management Program",
+    "collateral management 16" => "The Vanward Collateral Management program covers the entire collateral lifecycle, allowing us to support the
+                                    most complex derivatives trading strategies. Collateral management services also seamlessly links with Vanward
+                                    fund accounting and custody, providing additional efficiencies and risk management.
+                                    <br><br>
+                                    Vanward’s Collateral Management program is supported by a custom technology platform designed to improve your
+                                    operating model, incorporate industry best practices, and deliver real-time data reporting.
+                                    <br><br>
+                                    Vanward services multiples participants in the collateral lifecycle, including CCPs, FCMs, and asset managers.
+                                    Our clients benefit from the expertise gained.
+                                    <br><br>
+                                    Clients additionally benefit from Vanward’s measurably superior global client service model which incorporates
+                                    our operational expertise, local relationship management and market intelligence into client-specific
+                                    relationship plans.",
     "collateral management 17" => "Companies",
     "collateral management 18" => "Companies",
     "collateral management 19" => "Companies",
     "collateral management 20" => "Companies",
     // custody
-    "custody 1" => "Companies",
-    "custody 2" => "Companies",
-    "custody 3" => "Companies",
-    "custody 4" => "Companies",
-    "custody 5" => "Companies",
-    "custody 6" => "Companies",
-    "custody 7" => "Companies",
+    "custody 1" => "The competitive marketplace is driving asset gatherers of all sizes to broaden the scope of their
+                    investments, and look to a greater range of products, instruments, and markets to improve returns for their
+                    investors and clients. This is introducing new operational complexities, risks and regulatory requirements.
+                    <br><br>
+                    Working with a global custodian that has proven expertise in managing risk and complexity has never been
+                    more important. As a specialist in navigating the new and difficult, Vanward has earned the trust of the
+                    world’s most sophisticated asset gatherers to ensure timely settlement, accurate safekeeping and reporting
+                    of their most complex funds and asset types.",
+    "custody 2" => "Taking Risk Personally",
+    "custody 3" => "As a privately owned firm, Vanward is intently focused on risk management. We are committed to investing in a
+                    best-in-class compliance infrastructure and maintain segregated accounts to deliver the highest levels of
+                    transparency and security to every client. With a non-captive sub-custodian bank strategy, we independently
+                    select banks we determine to be the best and most trusted service providers in each market. This delivers
+                    risk diversification, resilience, and the ability to benchmark all aspects of market interactions.",
+    "custody 4" => "Uncovering New Sources of Value",
+    "custody 5" => "Vanward partners with clients to uncover new sources of value and create mutually beneficial relationships
+                    focused on growth. As our clients expand, we help them identify market trends and design solutions to manage
+                    the complexity of new asset classes and investment structures. We co-create products in an open architecture
+                    environment supported by a single global technology platform, designed to evolve with their changing
+                    requirements. Our technology investments are focused on enabling client growth through continuous
+                    improvements in the efficiency, transparency, and accessibility of our applications, rather than integrating
+                    multiple operating environments.",
+    "custody 6" => "Delivering Measurably Superior Service",
+    "custody 7" => "Vanward is committed to delivering a measurably superior client service experience. Our 24-hour global service
+                    model is tailored to our clients’ geographic, language, and time zone requirements. Our service teams and
+                    clients access the same systems and real-time information, providing one common platform for quick inquiry
+                    turnaround. This integrated model helps Vanward seamlessly execute on our clients' routine and complex
+                    requirements. We are an industry leader in automation and straight through processing.",
     "custody 8" => "Companies",
     // depositary & trustee
-    "depositary & trustee 1" => "Companies",
-    "depositary & trustee 2" => "Companies",
+    "depositary & trustee 1" => "With over 25 years of experience, Vanward is a leading provider of depositary and trustee services for
+                                Luxembourg, Irish, Cayman Islands, and Hong Kong domiciled funds.
+                                <br><br>
+                                We design and deliver comprehensive operating models for complex products across a broad range of asset
+                                classes and investment strategies. Working closely with our clients, we ensure that their assets are
+                                adequately safeguarded and help them comply with their own fiduciary obligations.",
+    "depositary & trustee 2" => "Vanward applies a risk-based, continuous oversight and monitoring approach. A thorough assessment of the risks
+                                associated with the nature, scale and complexity of the fund’s strategy and fund manager’s organization
+                                determines the appropriate scope and frequency of the oversight procedures applied.
+                                <br><br>
+                                The depositary and trustee services departments are functionally and hierarchically segregated from
+                                operational activities. This enables independence and objectivity in the protection of investors.
+                                <br><br>
+                                Through our active engagement in various depositary industry forums and working groups we can translate
+                                regulatory knowledge and marketplace intelligence into insights to help clients navigate the constantly
+                                changing regulatory landscape.",
     "depositary & trustee 3" => "Companies",
     "depositary & trustee 4" => "Companies",
     "depositary & trustee 5" => "Companies",
     // fund accounting
-    "fund accounting 1" => "Companies",
-    "fund accounting 2" => "Companies",
-    "fund accounting 3" => "Companies",
-    "fund accounting 4" => "Companies",
-    "fund accounting 5" => "Companies",
+    "fund accounting 1" => "The complex business and regulatory landscape is driving more asset managers to redefine their fund
+                            accounting strategy. Technological stability, business continuity and risk management have moved to the
+                            forefront of the decision making process. Partnering with a global fund accounting provider that is equipped
+                            with a stable, controlled and independent systems infrastructure, that provides transparency into the net
+                            asset value (NAV) calculation is essential.
+                            <br><br>
+                            With proven expertise, and dependable system and servicing capabilities designed to enable growth, Vanward Fund
+                            Accounting is recognized for our ability to support complex investment types and fee calculations across
+                            fund domiciles, jurisdictions and entity types. We are structured to provide seamlessly coordinated global
+                            execution and differentiated industry and portfolio insights.",
+    "fund accounting 2" => "Controlled and Independent Systems Infrastructure",
+    "fund accounting 3" => "Clients benefit from our single global technology platform and proprietary system code. With full
+                            responsibility and control over the development, quality, maintenance and production support of our fund
+                            accounting infrastructure, we can continually focus our technology investments on performance, scalability,
+                            functionality and workflow efficiency. One key example of our investment in digital solutions is our NAV
+                            Progress tool, which provides our clients with real-time transparency into the NAV production process
+                            throughout the day. Our risk and change management procedures are designed to mitigate failures, while
+                            providing stability and resiliency.",
+    "fund accounting 4" => "Delivering Measurably Superior Service",
+    "fund accounting 5" => "Vanward is committed to delivering a measurably superior client service experience. Our flexible global service
+                            model is 24-hour and tailored to our clients’ geographic, language, and time zone needs. Regardless of
+                            client location or fund domicile, our service teams and clients access the same systems and real-time
+                            information for quick inquiry turnaround. Our experts think critically through the end-to-end accounting
+                            process and focus on a goal of 100% NAV accuracy. This service structure enables us to develop automated
+                            solutions to mitigate risk, and improve quality and efficiency.",
     "fund accounting 6" => "Companies",
     // fund administration
-    "fund administration 1" => "Companies",
-    "fund administration 2" => "Companies",
-    "fund administration 3" => "Companies",
-    "fund administration 4" => "Companies",
-    "fund administration 5" => "Companies",
-    "fund administration 6" => "Companies",
-    "fund administration 7" => "Companies",
-    "fund administration 8" => "Companies",
-    "fund administration 9" => "Companies",
-    "fund administration 10" => "Companies",
-    "fund administration 11" => "Companies",
-    "fund administration 12" => "Companies",
+    "fund administration 1" => "Vanward provides a comprehensive suite of modular compliance and administrative funds services designed to
+    support our clients’ most complex products. Our business is built on providing direct access to information
+    and expertise, and a synchronized global servicing service model that promotes client collaboration.",
+    "fund administration 2" => "Fund Administration services include:",
+    "fund administration 3" => "Financial reporting",
+    "fund administration 4" => "Expense administration",
+    "fund administration 5" => "Performance measurement",
+    "fund administration 6" => "Portfolio compliance support",
+    "fund administration 7" => "U.S. tax support",
+    "fund administration 8" => "Corporate secretary regulatory support",
+    "fund administration 9" => "Market and Regulatory Expertise",
+    "fund administration 10" => "Understanding and staying informed of market trends and regulatory changes impacting the funds industry has
+                                never been more important. In addition to generating clear and accurate financial, regulatory, and board
+                                reporting that supports our clients’ goals and objectives, our service teams are trained to think critically
+                                about the environment in which our clients operate and proactively communicate pending developments with
+                                potential impact to our clients’ business models.",
+    "fund administration 11" => "A Collaborative Approach and Service Model",
+    "fund administration 12" => ", single global technology platform and intelligent integration of business teams
+                                and technologists are central to our goal of providing a superior client experience. Regardless of client
+                                location or fund domicile, our service teams have access to the same systems and real-time information,
+                                providing one common platform for quick inquiry turnaround and continuous improvement. Our platform enables
+                                clients to receive information at the opening of their business day regardless of where they are located.
+                                <br><br>
+                                Serving select segments of the financial services industry, our investments are focused on improving the
+                                efficiency, transparency and accessibility of our infrastructure and information provided to clients, rather
+                                than integrating multiple operating environments.",
     "fund administration 13" => "Companies",
     "fund administration 14" => "Companies",
     // fund order & custody
-    "fund order & custody 1" => "Companies",
-    "fund order & custody 2" => "Companies",
-    "fund order & custody 3" => "Companies",
-    "fund order & custody 4" => "Companies",
-    "fund order & custody 5" => "Companies",
-    "fund order & custody 6" => "Companies",
-    "fund order & custody 7" => "Companies",
+    "fund order & custody 1" => "Vanward Fund Order & Custody provides services to Vanward custody clients that buy and hold investment funds. This
+                                includes order processing via our proprietary online platform, Fund WorldView®.
+                                <br><br>
+                                With more than 25 years' experience servicing investment fund assets, we have developed a deep understanding
+                                of the operational and regulatory complexities surrounding this asset class. We have well-established
+                                relationships with fund companies globally, and support all fund types including alternatives.
+                                <br><br>
+                                We differentiate on the basis of our comprehensive client-driven offering, our expertise, and quick time to
+                                market. We offer “smart order routing”; a unique capability in the market that will allow orders to route to
+                                transfer agents, funds or intermediaries based on both the investment as well as the instructing client.
+                                This will reduce risk, enhance efficiencies and allow for a best in class approach to order routing.
+                                <br><br>
+                                As fund buyers, financial institution clients benefit from broad and timely access to funds globally, as
+                                well as operational and cost efficiencies. This results in a better overall service for their underlying
+                                clients, helping to create competitive advantage and grow their businesses.",
+    "fund order & custody 2" => "Fund Order & Custody services include:",
+    "fund order & custody 3" => "Order processing and automation via our proprietary online platform, Fund WorldView",
+    "fund order & custody 4" => "Best in class order routing – “Smart Order Routing”",
+    "fund order & custody 5" => "Consolidated custody and settlement across funds and markets",
+    "fund order & custody 6" => "Access to a large and growing roster of funds",
+    "fund order & custody 7" => "Customized reporting",
     "fund order & custody 8" => "Companies",
     "fund order & custody 9" => "Companies",
     "fund order & custody 10" => "Companies",
     // global tax
-    "global tax 1" => "Companies",
-    "global tax 2" => "Companies",
-    "global tax 3" => "Companies",
-    "global tax 4" => "Companies",
-    "global tax 5" => "Companies",
+    "global tax 1"  => "Vanward Global Tax Services provides expertise and strategic solutions in the areas of tax research, tax
+                        operations, fund administration tax, and European tax reporting for global asset gatherers and financial
+                        intermediaries. Our team of dedicated tax professionals located in Boston, Denver, London, Tokyo, Hong Kong,
+                        and Krakow works with our clients to structure effective tax treatments across a wide range of investment
+                        vehicles in 95+ markets.",
+    "global tax 2"  => "Purposeful Tax Technology",
+    "global tax 3"  => "Vanward Global Tax Services delivers effective solutions to manage the complexity of U.S. and global
+                        investment, such as our E-W8™ U.S. tax compliance solution. A risk mitigating, cost effective, scalable and
+                        light solution, E-W8 addresses NRA and FATCA compliance obligations with respect to account opening,
+                        remediation and tracking change of circumstances.",
+    "global tax 4"  => "Skilled and Experienced Tax Professionals",
+    "global tax 5"  => "Our skilled and experienced tax professionals actively monitor and track tax developments in 95+ markets. We
+                        deliver regular updates and insights to clients via daily Global Update bulletins. Our team collects and
+                        files documentation necessary for treaty relief or reclaims, and provides compliance and tax services for
+                        mutual funds, partnerships, hedge funds, and many other investment types.",
     // transfer agency
-    "transfer agency 1" => "Companies",
-    "transfer agency 2" => "Companies",
-    "transfer agency 3" => "Companies",
-    "transfer agency 4" => "Companies",
-    "transfer agency 5" => "Companies",
-    "transfer agency 6" => "Companies",
-    "transfer agency 7" => "Companies",
-    "transfer agency 8" => "Companies",
-    "transfer agency 9" => "Companies",
-    "transfer agency 10" => "Companies",
-    "transfer agency 11" => "Companies",
-    "transfer agency 12" => "Companies",
-    "transfer agency 13" => "Companies",
+    "transfer agency 1" => "Transfer Agency is critical to funds’ distribution success. Servicing many of the most sophisticated asset
+                            managers in the world, Vanward is committed to providing global Transfer Agency. We support clients
+                            distributing cross-border Luxembourg, Ireland, Cayman, Bermuda and Hong Kong domiciled funds, as well as US
+                            domiciled alternative funds, to institutional and wholesale investors.",
+    "transfer agency 2" => "Transfer Agency is a core component of Vanward’s overall cross-border service offering. We support our clients and their investors in close to 100 countries throughout the world via our",
+    "transfer agency 3" => "Our service covers core processing and shareholder services as well as",
+    "transfer agency 4" => "We excel in servicing complex fund structures and key features of our offering include:",
+    "transfer agency 5" => "Long-Term Commitment and Strategy",
+    "transfer agency 6" => "We are investing in flexible market leading technology to meet clients’ and investors’ requirements and ever increasing regulatory changes.",
+    "transfer agency 7" => "Customizable Global Service Model",
+    "transfer agency 8" => "Our multi-lingual servicing desks across time zones offer full operational capability with a consistent level of service.",
+    "transfer agency 9" => "Robust Infrastructure",
+    "transfer agency 10" => "We provide a single Transfer Agency platform globally. When combined with Vanward",
+    "transfer agency 11" => "this offers a unique connectivity solution for distributor communications.",
+    "transfer agency 12" => "Focus on Investor OnBoarding",
+    "transfer agency 13" => "We focus on investor onboarding and ongoing servicing critical to an asset manager’s relationship with its underlying clients. We have a strong expertise in local business practices including AML/ KYC.",
     // investment operations and technology solutions
-    "investment operations and technology solutions 1" => "Companies",
-    "investment operations and technology solutions 2" => "Companies",
-    "investment operations and technology solutions 3" => "Companies",
+    "investment operations and technology solutions 1"  => "The increasing complexity of today's global markets has led many asset gatherers to seek a growing array of
+                                                            middle and back office solutions from custody and fund services providers. Whether it be the provision of
+                                                            technology services on a 'Software as a Service' (SaaS) basis or a more complete outsourcing capability,
+                                                            Vanward is committed to helping our clients make informed decisions about which strategies are best suited
+                                                            to their businesses. We believe in a modular implementation approach that allows clients to retain more
+                                                            control and minimize execution risk.",
+    "investment operations and technology solutions 2"  => "Making key components of Vanward’s technology platform available on a SaaS and IaaS basis.",
+    "investment operations and technology solutions 3"  => "Providing modular operational and technology outsourcing options that maximize client control and minimize risk.",
     // middle office outsourcing
-    "middle office outsourcing 1" => "Companies",
-    "middle office outsourcing 2" => "Companies",
-    "middle office outsourcing 3" => "Companies",
-    "middle office outsourcing 4" => "Companies",
-    "middle office outsourcing 5" => "Companies",
+    "middle office outsourcing 1" => "The middle office landscape is shifting dramatically as a result of evolving best practices, heightened
+                                    institutional due diligence, and the expansion of alternative products and strategies. The need to generate
+                                    alpha has resulted in investment in non-standard instruments and markets, and fragmented communications.
+                                    High fixed costs and evolving regulatory requirements further complicate capital priorities.
+                                    <br><br>
+                                    While the markets change quickly, Vanward's commitment to managing complexity for our clients does not. We
+                                    help clients respond to challenges in their middle office operations through a differentiated, modular
+                                    approach that addresses both aging technology and overloaded operational models. We work to address our
+                                    clients’ current needs and help them create the scale and flexibility needed to address changing market
+                                    requirements.",
+    "middle office outsourcing 2" => "Delivering flexible modular solutions that streamline operations and data transmission across multiple counterparties.",
+    "middle office outsourcing 3" => "Enabling improved front office decision making through data aggregation and augmentation tools, and a consistent, transparent view into enterprise-wide investment activity.",
+    "middle office outsourcing 4" => "Offering middle office operational services that add transparency and efficiency across the entire post-trade lifecycle.",
+    "middle office outsourcing 5" => "Designing services to help insulate asset managers from the investments needed to comply with complex collateral requirements.",
     "middle office outsourcing 6" => "Companies",
     // technology services
-    "technology services 1" => "Companies",
-    "technology services 2" => "Companies",
-    "technology services 3" => "Companies",
-    "technology services 4" => "Companies",
+    "technology services 1" => "Designed for asset gatherers who want to retain control over their operational processes while leveraging
+                                cost effective, efficient and cutting-edge financial technology, Vanward makes key components of our
+                                technology platform available to clients. With direct access to our Global Custody, US Custody, Fund
+                                Accounting and Transfer Agency platforms, clients benefit from Vanward's continuous product and regulatory
+                                investments in these large, resource intensive systems. In addition, our suite of Infomediary applications
+                                can provide the same access to Vanward's connectivity, corporate actions, reconciliation and trade management
+                                modules.",
+    "technology services 2" => "Providing connectivity options designed to streamline reconciliation, trade management, corporate actions, FX and other operational and technological challenges.",
+    "technology services 3" => "Helping global financial institutions gain direct access to US central securities depositories.",
+    "technology services 4" => "Helping global financial institutions expand and differentiate their global custody capabilities.",
     // hosted operations & reporting
-    "hosted operations & reporting 1" => "Companies",
-    "hosted operations & reporting 2" => "Companies",
-    "hosted operations & reporting 3" => "Companies",
-    "hosted operations & reporting 4" => "Companies",
-    "hosted operations & reporting 5" => "Companies",
+    "hosted operations & reporting 1" => "Vanward offers middle office operational services across the entire post-trade execution lifecycle,
+                                        including trade management, cash administration, and collateral management. We specialize in solutions for
+                                        alternative asset classes, such as derivatives, bank loans and other complex investments.
+                                        <br><br>",
+    "hosted operations & reporting 2" => "Measurable Reporting",
+    "hosted operations & reporting 3" => "Our goal is to add transparency and efficiency to disparate portfolio operations processes across
+                                        geographies, asset classes, and service providers. Our operational reporting includes detailed aging, failed
+                                        trade and KPI options customizable to your operations, allowing for benchmarking across service providers.
+                                        Performance, attribution and risk analytics facilitate prompt client response to investor and regulatory
+                                        disclosure requests. Post-trade compliance facilitates monitoring of investment guidelines.",
+    "hosted operations & reporting 4" => "Shared Infrastructure & Costs",
+    "hosted operations & reporting 5" => "offers access to local
+                                        servicing teams and subject matter experts, as well as scalable, efficient technology solutions. Clients
+                                        leverage our shared infrastructure and costs as they implement their own growth plans and distribution goals
+                                        across trading strategies and instrument types.",
     "hosted operations & reporting 6" => "Companies",
     // infonav
-    "infonav 1" => "Companies",
-    "infonav 2" => "Companies",
-    "infonav 3" => "Companies",
-    "infonav 4" => "Companies",
-    "infonav 5" => "Companies",
-    "infonav 6" => "Companies",
-    "infonav 7" => "Companies",
-    "infonav 8" => "Companies",
+    "infonav 1" => "InfoNAV® is a scalable, independent, secondary NAV calculation tool which enables asset managers to monitor
+                    the NAV production process across all their administrators. The application provides clients with
+                    transparency into their global array of products, geographies and accounting providers.",
+    "infonav 2" => "Understanding the Impact",
+    "infonav 3" => "Clients can efficiently document control and apply an oversight best practice to their various accounting
+                    providers. InfoNAV® imports critical NAV component data from our clients’ service providers and generates a
+                    secondary NAV for comparison to the primary NAV. Clients can then easily obtain key metrics, analytics and
+                    reporting for Boards and interested parties via the dashboard.",
+    "infonav 4" => "Additional Benefits",
+    "infonav 5" => "Ability to manage a wide range of strategies and multiple accounting administrators on a single application",
+    "infonav 6" => "Provides a primary NAV to secondary NAV comparison, detailing areas of deviation for our client’s further analysis",
+    "infonav 7" => "Value-added servicing options with access to best-in-class Fund Accounting expertise",
+    "infonav 8" => "Integration with multiple data sources via Vanward Infomediary®.",
     // inforecon
-    "inforecon 1" => "Companies",
-    "inforecon 2" => "Companies",
-    "inforecon 3" => "Companies",
-    "inforecon 4" => "Companies",
-    "inforecon 5" => "Companies",
-    "inforecon 6" => "Companies",
-    "inforecon 7" => "Companies",
-    "inforecon 8" => "Companies",
-    "inforecon 9" => "Companies",
-    "inforecon 10" => "Companies",
-    "inforecon 11" => "Companies",
+    "inforecon 1" => "Vanward Infomediary® offers a number of exclusive modular applications layered atop the messaging and
+    connectivity engine, including InfoRecon®, a scalable outsource solution that provides an automated process
+    for reconciling cash data (transactions and balances) and securities data (positions and transactions)
+    across all of our client’s service providers.
+    <br><br>
+    Benefits of InfoRecon are delivered in three main areas: technology, industry best practices, and superior
+    client service:",
+    "inforecon 2" => "Technology",
+    "inforecon 3" => "Flexible and proven data collection and normalization engine, Infomediary",
+    "inforecon 4" => "Robust reconciliation software platform for data processing and exception management",
+    "inforecon 5" => "Comprehensive client reporting that can be accessed via wgaml.com or email delivery in a variety of formats (PDF, MS Excel, CSV)",
+    "inforecon 6" => "Industry Best Practices",
+    "inforecon 7" => "Daily reconciliation at the transaction level",
+    "inforecon 8" => "Vanward works with clients providers to increase STP in order to maximize efficiency and reduce the risk of errors and omissions",
+    "inforecon 9" => "Superior Client Service",
+    "inforecon 10" => "A centralized team of reconciliation and market specialists supported by Vanward’s award winning client service organization",
+    "inforecon 11" => "Follows best practices of identifying reconciliation exceptions",
     "inforecon 12" => "Companies",
     // investment accounting and enterprise data support
-    "investment accounting and enterprise data support 1" => "Companies",
-    "investment accounting and enterprise data support 2" => "Companies",
-    "investment accounting and enterprise data support 3" => "Companies",
-    "investment accounting and enterprise data support 4" => "Companies",
-    "investment accounting and enterprise data support 5" => "Companies",
-    "investment accounting and enterprise data support 6" => "Companies",
-    "investment accounting and enterprise data support 7" => "Companies",
-    "investment accounting and enterprise data support 8" => "Companies",
-    "investment accounting and enterprise data support 9" => "Companies",
-    "investment accounting and enterprise data support 10" => "Companies",
+    "investment accounting and enterprise data support 1" => "The increasing complexity of capital markets, investment products, and the regulatory environment
+                                                            necessitates greater clarity and a real-time view into investment activity. There is a premium associated
+                                                            with timely decision making across trading, risk, product and marketing front office stakeholders.",
+    "investment accounting and enterprise data support 2" => "Antiquated Status Quo",
+    "investment accounting and enterprise data support 3" => "Asset gatherers have built strong franchises on the backs of order management systems (OMS) and Accounting
+                                                            Data (ABOR), but the idea of maintaining the OMS/ABOR status quo is antiquated and filled with gaps.
+                                                            <br><br>
+                                                            Advancing from the OMS/ABOR solution to a holistic investment book of records (IBOR) that is optimized for
+                                                            today’s investment environment is a complex but vital undertaking. A consistent book of records provides a
+                                                            framework to assess the current state of an asset gatherer’s Data Governance Strategy and formulate
+                                                            enhancements.",
+    "investment accounting and enterprise data support 4" => "IBOR Strategy",
+    "investment accounting and enterprise data support 5" => "The front office seeks information on real-time cash, securities and known future securities’ events across
+                                                            all their asset classes – such as public and private equity, and derivatives — through various exposure
+                                                            linkages and across a global network of brokers and custodian frameworks. For asset gatherers, a successful
+                                                            IBOR strategy consists of the following components:",
+    "investment accounting and enterprise data support 6" => "Data Governance Strategy",
+    "investment accounting and enterprise data support 7" => "Data Capture",
+    "investment accounting and enterprise data support 8" => "Aggregation and Enrichment",
+    "investment accounting and enterprise data support 9" => "Information Delivery",
+    "investment accounting and enterprise data support 10" => "Vanward provides market insight into these components to help clients shape their data governance strategies.
+                                                            Our technology platform provides an enterprise-wide data repository for consistent data capture across
+                                                            service providers, and aggregates and enriches data in a meaningful manner. This allows us to power client
+                                                            enterprise data hubs to enable better front office decision making.",
     "investment accounting and enterprise data support 11" => "Companies",
     // targeted technology solutions via infomediary
-    "targeted technology solutions via infomediary 1" => "Companies",
-    "targeted technology solutions via infomediary 2" => "Companies",
-    "targeted technology solutions via infomediary 3" => "Companies",
-    "targeted technology solutions via infomediary 4" => "Companies",
-    "targeted technology solutions via infomediary 5" => "Companies",
-    "targeted technology solutions via infomediary 6" => "Companies",
-    "targeted technology solutions via infomediary 7" => "Companies",
-    "targeted technology solutions via infomediary 8" => "Companies",
-    "targeted technology solutions via infomediary 9" => "Companies",
+    "targeted technology solutions via infomediary 1" => "A core component of Vanward’s single integrated technology platform is the robust Vanward Infomediary®
+                                                        messaging and connectivity engine, specially designed for asset managers, insurance companies, banks, fund
+                                                        distributors, industry infrastructures and other technology platforms. Infomediary helps clients focus on
+                                                        their core business and enhance their competitive edge by solving numerous operational challenges relating
+                                                        to reconciliation, trade messaging and management, corporate actions, FX netting and aggregation, as well as
+                                                        differing or non-existing industry standards.",
+    "targeted technology solutions via infomediary 2" => "Connecting the Financial Services Marketplace",
+    "targeted technology solutions via infomediary 3" => "A highly customizable, hosted communications platform, Infomediary provides a single connectivity point
+    between clients and their external service providers and internal systems. Infomediary takes in data in any
+    electronic format, normalizes it, and then translates, transforms, and transmits the information over
+    networks such as SWIFT or via proprietary connections.",
+    "targeted technology solutions via infomediary 4" => "Innovative Modular Applications for Complex Operations",
+    "targeted technology solutions via infomediary 5" => "In addition to its core messaging and connectivity capabilities, Infomediary offers exclusive modular applications such as:",
+    "targeted technology solutions via infomediary 6" => "multi-provider automation for the entire corporate actions event lifecycle",
+    "targeted technology solutions via infomediary 7" => "a dynamic foreign exchange alternative that combines quality execution with cost efficiencies and clear, comprehensive reporting – all through a fully automated, efficient workflow",
+    "targeted technology solutions via infomediary 8" => "a scalable outsource solution that provides an automated process for reconciling cash data and securities data across all service providers",
+    "targeted technology solutions via infomediary 9" => "a multi-provider, secondary NAV tool designed for asset managers to oversee NAV production across all their administrators",
     // account operator direct for us depositories
-    "account operator direct for us depositories 1" => "Companies",
+    "account operator direct for us depositories 1" => "Vanward Account Operator enables our global financial institution clients to gain direct access to US
+                                                        central securities depositories leveraging Vanward as a technology and service provider.
+                                                        <br><br>
+                                                        Clients maintain operational control over their US assets, acting as a direct depository participant and
+                                                        reducing third party risk. Clients can become more competitive in the US market allowing them to increase
+                                                        global reach. Direct market participation is available without the investment in local market infrastructure
+                                                        and staffing expertise, providing a quicker time to market than an internal build.
+                                                        <br><br>
+                                                        Account Operator includes Vanward’s integrated business continuity planning and risk management programs that
+                                                        are currently servicing the largest and most sophisticated institutions in the world.",
     "account operator direct for us depositories 2" => "Companies",
     "account operator direct for us depositories 3" => "Companies",
     // data connectivity and applications via infomediary
-    "data connectivity and applications via infomediary 1" => "Companies",
-    "data connectivity and applications via infomediary 2" => "Companies",
-    "data connectivity and applications via infomediary 3" => "Companies",
-    "data connectivity and applications via infomediary 4" => "Companies",
-    "data connectivity and applications via infomediary 5" => "Companies",
-    "data connectivity and applications via infomediary 6" => "Companies",
-    "data connectivity and applications via infomediary 7" => "Companies",
-    "data connectivity and applications via infomediary 8" => "Companies",
-    "data connectivity and applications via infomediary 9" => "Companies",
+    "data connectivity and applications via infomediary 1" => "A core component of Vanward’s single integrated technology platform is the robust Vanward Infomediary®
+                                                                messaging and connectivity engine, specially designed for asset managers, insurance companies, banks, fund
+                                                                distributors, industry infrastructures and other technology platforms. Infomediary helps clients focus on
+                                                                their core business and enhance their competitive edge by solving numerous operational challenges relating
+                                                                to reconciliation, trade messaging and management, corporate actions, FX netting and aggregation, as well as
+                                                                differing or non-existing industry standards.",
+    "data connectivity and applications via infomediary 2" => "Connecting the Financial Services Marketplace",
+    "data connectivity and applications via infomediary 3" => "A highly customizable, hosted communications platform, Infomediary provides a single connectivity point
+                                                                between clients and their external service providers and internal systems. Infomediary takes in data in any
+                                                                electronic format, normalizes it, and then translates, transforms, and transmits the information over
+                                                                networks such as SWIFT or via proprietary connections.",
+    "data connectivity and applications via infomediary 4" => "Innovative Modular Applications for Complex Operations",
+    "data connectivity and applications via infomediary 5" => "In addition to its core messaging and connectivity capabilities, Infomediary offers exclusive modular applications such as:",
+    "data connectivity and applications via infomediary 6" => "multi-provider automation for the entire corporate actions event lifecycle",
+    "data connectivity and applications via infomediary 7" => "a dynamic foreign exchange alternative that combines quality execution with cost efficiencies and clear, comprehensive reporting – all through a fully automated, efficient workflow",
+    "data connectivity and applications via infomediary 8" => "a scalable outsource solution that provides an automated process for reconciling cash data and securities data across all service providers",
+    "data connectivity and applications via infomediary 9" => "a multi-provider, secondary NAV tool designed for asset managers to oversee NAV production across all their administrators",
     // global custody direct
-    "global custody direct 1" => "Companies",
+    "global custody direct 1"   => "Financial institutions seeking to expand and differentiate their global custody capabilities and more
+                                    effectively service their clients can partner with Vanward as an alternative to continued investment in legacy
+                                    platforms and infrastructure.
+                                    <br><br>
+                                    With Global Custody Direct, Vanward's proven global custody platform, operational servicing, and portal are
+                                    branded to our client’s corporate standards to support their global client base. Global Custody Direct
+                                    clients have the additional option to leverage Vanward's core financial services products including our global
+                                    sub custody network, securities lending, and foreign exchange.
+                                    <br><br>
+                                    Global Custody Direct allows clients to focus on their core competencies within their local markets while
+                                    benefiting from Vanward’s ongoing investment in hardware and software, all while retaining operational and
+                                    investor services control. Clients benefit from leveraging Vanward’s robust global technology infrastructure
+                                    coupled with our business continuity planning and risk management programs that are currently servicing the
+                                    largest and most sophisticated institutions in the world.",
     "global custody direct 2" => "Companies",
     "global custody direct 3" => "Companies",
     // markets
-    "markets 1" => "Companies",
-    "markets 2" => "Companies",
-    "markets 3" => "Companies",
-    "markets 4" => "Companies",
-    "markets 5" => "Companies",
-    "markets 6" => "Companies",
-    "markets 7" => "Companies",
+    "markets 1" => "Vanward Markets offers foreign exchange trading, currency hedging, and securities lending solutions to
+                    global asset gatherers.
+                    <br><br>
+                    Our strategy is to uncover opportunities and sources of value for our clients through a combination of
+                    market expertise, operational efficiency, pre-and post-trade transparency, and client control.
+                    <br><br>
+                    We believe in proactively providing our clients with new choices and execution options in areas of the
+                    industry that previously provided neither. This means giving our clients complete transparency into the
+                    entire transaction chain (pre-trade, point of execution, price and post-trade processing), along with an
+                    ability for clients to retain important elements of trading control.",
+    "markets 2" => "Supporting a continuum of operational and strategic foreign exchange trading requirements for global asset gatherers.",
+    "markets 3" => "Providing an automated, operationally efficient, effective FX execution tool for security related FX trading needs.",
+    "markets 4" => "Providing custodian neutral securities lending solutions focused on generating competitive risk adjusted returns on our clients’ own terms.",
+    "markets 5" => "Supporting our clients’ strategic FX requirements through Vanward’s principal FX trading desk and industry execution platforms.",
+    "markets 6" => "Structuring share class and portfolio hedging solutions for asset managers seeking an alternative to in-house management of rules-based FX hedging programs.",
+    "markets 7" => "Offering relevant insights on currency, economic and geopolitical developments, securities lending revenue drivers, and efficient operational and strategic FX programs.",
     "markets 8" => "Companies",
     "markets 9" => "Companies",
     // active fx execution
-    "active fx execution 1" => "Companies",
-    "active fx execution 2" => "Companies",
-    "active fx execution 3" => "Companies",
-    "active fx execution 4" => "Companies",
-    "active fx execution 5" => "Companies",
-    "active fx execution 6" => "Companies",
-    "active fx execution 7" => "Companies",
-    "active fx execution 8" => "Companies",
-    "active fx execution 9" => "Companies",
+    "active fx execution 1" => "Vanward’s global foreign exchange desk provides a combination of competitive execution with a reliable and
+    experienced sales team that is focused on servicing global asset managers and understanding their unique
+    trading and operational needs.",
+    "active fx execution 2" => "Client-focused approach to trading:",
+    "active fx execution 3" => "Our trading philosophy focuses on long term relationships and delivering quick, competitive pricing to our clients.",
+    "active fx execution 4" => "We offer our clients a single point of contact via sales traders in New York, London, Tokyo and Hong Kong, which combined with a centralized trading desk, allows us to provide 24-hour seamless coverage.",
+    "active fx execution 5" => "We are delivery and distribution agnostic permitting clients to connect with us in a variety of ways, including directly calling a sales trader or through third party platforms such as Bloomberg, FlexTrade, FXall, or FXConnect.",
+    "active fx execution 6" => "Backed by Industry Leading Expertise",
+    "active fx execution 7" => "We are an industry leading market maker to our clients in major and emerging markets with expertise in the asset manager segment, as demonstrated by ranking #1 in the US Greenwich Quality Index Foreign Exchange Survey for 18 straight years.",
+    "active fx execution 8" => "Our clients have access to a top tier currency strategy research team that provides commentary on currency, economic and geopolitical developments, as well as a dedicated FX emerging markets team who understands the complex requirements of emerging markets and how they may apply to global asset managers.",
+    "active fx execution 9" => "Disclaimer: Using extensive input from dealers, publicly available sources, and their own research,
+                                Greenwich Associates identifies the largest and most active institutional foreign exchange customers around
+                                the world, including fund managers, customer banks, hedge funds, insurance companies, and corporations.
+                                <br><br>
+                                For the 2017 study, Greenwich Associates conducted interviews with 2,355 users of foreign exchange globally,
+                                of which 1,458 are top-tier accounts, at large corporations and financial institutions. In the United
+                                States, Greenwich Associates interviewed 383 FX users, of which 292 were Top-Tier. To be considered top
+                                tier, a firm must be either a central bank, a government agency, a hedge fund, a fund manager, a FT100
+                                global firm, a firm with reported trading volume of more than $10 billion, or a firm with reported sales of
+                                more than $5 billion. Interviews were conducted in North America, Latin America, Europe, Asia, and Japan
+                                between September and November 2014. The findings reported to clients reflect solely the views reported to
+                                Greenwich Associates by the research participants. They do not represent opinions or endorsements by
+                                Greenwich Associates or its staff. Interviewees may be asked about their use of and demand for financial
+                                products and services and about investment practices in relevant financial markets. Greenwich Associates
+                                compiles the data received, conducts statistical analysis and reviews for presentation purposes in order to
+                                produce the final results.
+                                <br><br>
+                                Each of these clients is targeted for an interview either in-person or on the telephone by one of Greenwich
+                                Associates professional Executive Interviewers.
+                                <br><br>
+                                During the interview, clients respond to a series of detailed qualitative and quantitative questions about
+                                the dealers they use for various FX products, and these dealers’ relative strengths and weaknesses in sales,
+                                market making, research, and back office. Clients also provide detailed information about their trading
+                                activities, their current and expected product use, dealer selection criteria, and other market-related
+                                issues.
+                                <br><br>
+                                Based on the results of the interviews, Greenwich Associates creates a series of comparative metrics related
+                                to market penetration and market share; service quality in sales, research, and trading; and effectiveness
+                                of e-trading.",
     "active fx execution 10" => "Companies",
     "active fx execution 11" => "Companies",
     "active fx execution 12" => "Companies",
     "active fx execution 13" => "Companies",
     // currency hedging
-    "currency hedging 1" => "Companies",
-    "currency hedging 2" => "Companies",
-    "currency hedging 3" => "Companies",
-    "currency hedging 4" => "Companies",
-    "currency hedging 5" => "Companies",
-    "currency hedging 6" => "Companies",
-    "currency hedging 7" => "Companies",
-    "currency hedging 8" => "Companies",
-    "currency hedging 9" => "Companies",
-    "currency hedging 10" => "Companies",
+    "currency hedging 1" => "Whether managing an international portfolio with unwanted currency exposure or multi currency hedged share
+                            class offerings, Vanward offers a comprehensive and flexible passive currency hedging solution.
+                            <br><br>
+                            Created specifically for asset managers, Vanward's currency hedging solution reduces the operational burden of
+                            in-house program management, allowing managers to focus on core functions.",
+    "currency hedging 2" => "Delegate the Process, Not the Control",
+    "currency hedging 3" => "Featuring a configurable dashboard, FX HedgeHub™, an online reporting platform, provides a 360-degree view
+                            of our clients' universe of currency hedged products. HedgeHub aligns with key stakeholders demands around
+                            oversight and transparency, solves for major asset manager pain points such as disparate and incomplete data
+                            and delivers interactive, centralized reporting.",
+    "currency hedging 4" => "Comprehensive End-to-End Hedging Solution",
+    "currency hedging 5" => "We work with clients to create hedging programs aimed at minimizing tracking errors and transaction costs of
+                            each mandate relative to the hedging objective. Our solution encompasses customized program calibration and
+                            implementation design, daily monitoring and hedge administration, trade calculation, trade execution, and
+                            detailed reporting.",
+    "currency hedging 6" => "Operational Efficiency through Scalability",
+    "currency hedging 7" => "Regardless of how simple or complex the operational process, Vanward's systems are designed for efficiency and
+                            scalability. Our comprehensive pre- and post-trade monitoring and validation help to confirm appropriate
+                            trades are consistently generated within agreed upon parameters.",
+    "currency hedging 8" => "Execution Expertise",
+    "currency hedging 9" => "Our experienced global team includes dedicated traders who understand the market dynamics needed to deliver
+                            effective execution in deliverable and non-deliverable forwards (NDFs). Leveraging the interbank and broker
+                            relationships of our trading desk, we have the ability to offer multiple execution choices resulting in
+                            access to the market from a panel of liquidity providers.*",
+    "currency hedging 10" => "*Not available for all products",
     "currency hedging 11" => "Companies",
     // foreign exchange
-    "foreign exchange 1" => "Companies",
-    "foreign exchange 2" => "Companies",
-    "foreign exchange 3" => "Companies",
-    "foreign exchange 4" => "Companies",
-    "foreign exchange 5" => "Companies",
-    "foreign exchange 6" => "Companies",
-    "foreign exchange 7" => "Companies",
-    "foreign exchange 8" => "Companies",
+    "foreign exchange 1" => "Vanward provides innovative and flexible foreign exchange solutions designed for the operational and
+                            strategic FX needs of global asset managers. Backed by a reputation for competitive execution and
+                            relationship excellence, our goal is to provide every client with a smooth, comprehensive FX program from
+                            start to finish.",
+    "foreign exchange 2" => "Foreign Exchange Expertise",
+    "foreign exchange 3" => "Vanward is a proven and committed FX provider. We offer executions in spots and forwards for freely traded
+                            currencies, and specialize in trading select emerging and restricted markets. Our clients receive global
+                            market coverage through a centralized trading team with local relationship management, and a choice of how
+                            to deal with our trading desk. Our FX trading expertise is complemented by outstanding market and currency
+                            strategy research.",
+    "foreign exchange 4" => "Client Choice and Control",
+    "foreign exchange 5" => "From implementation to assisting with trade execution and reporting, Vanward’s customized end-to-end FX
+                            solutions are co-created with clients to help meet their distinct needs. We offer FX products that leverage
+                            our configurable technology platform to provide clients execution options with varying degrees of client
+                            involvement.",
+    "foreign exchange 6" => "Industry Leading Transparency",
+    "foreign exchange 7" => "We provide a range of customized pre- and post-execution tools, reports and analytics which can help clients
+                            build efficient and comprehensive FX programs.",
+    "foreign exchange 8" => "Click to view our:",
     // infofx
-    "infofx 1" => "Companies",
-    "infofx 2" => "Companies",
-    "infofx 3" => "Companies",
-    "infofx 4" => "Companies",
-    "infofx 5" => "Companies",
-    "infofx 6" => "Companies",
-    "infofx 7" => "Companies",
-    "infofx 8" => "Companies",
-    "infofx 9" => "Companies",
+    "infofx 1"  => "Vanward's InfoFX® is a dynamic foreign exchange alternative to traditional operational FX management that
+                    offers the ease of a low-touch solution with the insight and flexibility of an in-house desk in freely
+                    traded and select restricted markets.
+                    <br><br>
+                    Created specifically for asset managers, InfoFX offers a fully automated, Vanward-hosted approach built around
+                    execution quality, operational efficiency, comprehensive reporting and the control to make real-time
+                    decisions.",
+    "infofx 2"  => "Operational Efficiency",
+    "infofx 3"  => "InfoFX automatically calculates FX trade requirements based on security settlement details, and offers
+                    netting and aggregation functionalities where applicable. Operational and settlement risk can be minimized
+                    through our proprietary messaging platform, Vanward",
+    "infofx 4"  => "Choice through Control",
+    "infofx 5"  => "Through our interactive platform, clients have the ability to schedule or change execution times for select
+                    markets and address potential trade errors before they may occur.",
+    "infofx 6"  => "Restricted Markets Expertise",
+    "infofx 7"  => "Our local market expertise can provide helpful insights to clients who choose to execute away from their
+                    custodians in markets previously thought to be custodian-captive. InfoFX currently supports six restricted
+                    markets: Brazil, Indonesia, Korea, Malaysia, Taiwan, and Thailand.",
+    "infofx 8"  => "360° Transparency",
+    "infofx 9"  => "InfoFX clients can view real-time net pre-trade exposure, detailed pre-trade order information and
+                    post-trade analytics through an interactive online platform. We provide clients with relevant time stamps
+                    and reference rates so that they may assess execution quality and provide the option to configure customized
+                    reports.",
     "infofx 10" => "Companies",
     // securities lending
-    "securities lending 1" => "Companies",
-    "securities lending 2" => "Companies",
-    "securities lending 3" => "Companies",
-    "securities lending 4" => "Companies",
-    "securities lending 5" => "Companies",
-    "securities lending 6" => "Companies",
-    "securities lending 7" => "Companies",
-    "securities lending 8" => "Companies",
-    "securities lending 9" => "Companies",
+    "securities lending 1"  => "Vanward specializes in securities lending for asset managers, with approximately 90% of our clients
+                                representing this industry segment. Asset managers who work with Vanward are assured of a specialized program
+                                customized to their unique needs.
+                                <br><br>
+                                Supported through a “custodian-neutral” platform, all Vanward securities lending clients receive the same level
+                                of operational excellence, flexibility and service, regardless of their custodian. Over 50% of our business
+                                is driven by “third party” lending and we maintain automated connections with most global custodians.",
+    "securities lending 2"  => "The Importance of Risk Management",
+    "securities lending 3"  => "Lending for asset managers is different to the type of lending typically favored by Pensions, Banks,
+    Sovereign Wealth Funds and Insurers. This difference is rooted in the management of risk. Vanward is an expert
+    at structuring securities lending programs that maximize our clients returns within specific risk
+    tolerances.",
+    "securities lending 4"  => "The Securities Lending Trading Dynamic",
+    "securities lending 5"  => "Un-encumbered by maintaining a large volume lending program, Vanward is uniquely positioned to execute
+                                value-driven strategies for our clients. By partnering with Vanward, asset managers can be certain they will be
+                                joining other like-minded lenders, in a program that has a unique structural advantage in negotiating fees
+                                for their highest value loans.
+                                <br><br>
+                                Our trading strategy maximizes return from a relatively small number of trades that offer the most
+                                meaningful returns, via a global trading team in London, Boston and Hong Kong who have a deep understanding
+                                of the dynamics driving borrower demand. We utilize technology to automate low-value trading activity that
+                                supplements these high-margin opportunities.",
+    "securities lending 6"  => "Pioneering Digital Tools Built for Unique Needs",
+    "securities lending 7"  => "Pre-trade, Vanward offers Securities Lending DealBoard, which enables our clients to see revenue opportunities,
+                                borrowing demand and share price trends in one place. Our clients can see – and act on – every opportunity
+                                across their funds. Post-trade, we have launched a new digital experience to deliver the next generation of
+                                transparency, allowing our clients to oversee their lending program in real time, monitoring revenue and the
+                                markets that generate it.",
+    "securities lending 8"  => "Companies",
+    "securities lending 9"  => "Companies",
     "securities lending 10" => "Companies",
     // fx disclosure statement
-    "fx disclosure statement 1" => "Companies",
-    "fx disclosure statement 2" => "Companies",
-    "fx disclosure statement 3" => "Companies",
-    "fx disclosure statement 4" => "Companies",
-    "fx disclosure statement 5" => "Companies",
-    "fx disclosure statement 6" => "Companies",
-    "fx disclosure statement 7" => "Companies",
-    "fx disclosure statement 8" => "Companies",
-    "fx disclosure statement 9" => "Companies",
-    "fx disclosure statement 10" => "Companies",
-    "fx disclosure statement 11" => "Companies",
-    "fx disclosure statement 12" => "Companies",
-    "fx disclosure statement 13" => "Companies",
-    "fx disclosure statement 14" => "Companies",
-    "fx disclosure statement 15" => "Companies",
-    "fx disclosure statement 16" => "Companies",
-    "fx disclosure statement 17" => "Companies",
-    "fx disclosure statement 18" => "Companies",
-    "fx disclosure statement 19" => "Companies",
-    "fx disclosure statement 20" => "Companies",
-    "fx disclosure statement 21" => "Companies",
-    "fx disclosure statement 22" => "Companies",
-    "fx disclosure statement 23" => "Companies",
-    "fx disclosure statement 24" => "Companies",
-    "fx disclosure statement 25" => "Companies",
-    "fx disclosure statement 26" => "Companies",
-    "fx disclosure statement 27" => "Companies",
-    "fx disclosure statement 28" => "Companies",
-    "fx disclosure statement 29" => "Companies",
-    "fx disclosure statement 30" => "Companies",
-    "fx disclosure statement 31" => "Companies",
-    "fx disclosure statement 32" => "Companies",
-    "fx disclosure statement 33" => "Companies",
-    "fx disclosure statement 34" => "Companies",
-    "fx disclosure statement 35" => "Companies",
-    "fx disclosure statement 36" => "Companies",
+    "fx disclosure statement 1" => `Companies`,
+    "fx disclosure statement 2" => `Companies`,
+    "fx disclosure statement 3" => `Companies`,
+    "fx disclosure statement 4" => `Companies`,
+    "fx disclosure statement 5" => `Companies`,
+    "fx disclosure statement 6" => `Companies`,
+    "fx disclosure statement 7" => `Companies`,
+    "fx disclosure statement 8" => `Companies`,
+    "fx disclosure statement 9" => `Companies`,
+    "fx disclosure statement 10" => `Companies`,
+    "fx disclosure statement 11" => `Companies`,
+    "fx disclosure statement 12" => `Companies`,
+    "fx disclosure statement 13" => `Companies`,
+    "fx disclosure statement 14" => `Companies`,
+    "fx disclosure statement 15" => `Companies`,
+    "fx disclosure statement 16" => `Companies`,
+    "fx disclosure statement 17" => `Companies`,
+    "fx disclosure statement 18" => `Companies`,
+    "fx disclosure statement 19" => `Companies`,
+    "fx disclosure statement 20" => `Companies`,
+    "fx disclosure statement 21" => `Companies`,
+    "fx disclosure statement 22" => `Companies`,
+    "fx disclosure statement 23" => `Companies`,
+    "fx disclosure statement 24" => `Companies`,
+    "fx disclosure statement 25" => `Companies`,
+    "fx disclosure statement 26" => `Companies`,
+    "fx disclosure statement 27" => `Companies`,
+    "fx disclosure statement 28" => `Companies`,
+    "fx disclosure statement 29" => `Companies`,
+    "fx disclosure statement 30" => `Companies`,
+    "fx disclosure statement 31" => `Companies`,
+    "fx disclosure statement 32" => `Companies`,
+    "fx disclosure statement 33" => `Companies`,
+    "fx disclosure statement 34" => `Companies`,
+    "fx disclosure statement 35" => `Companies`,
+    "fx disclosure statement 36" => `Companies`,
     // about vanward
     "about vanward 1" => "Companies",
     "about vanward 2" => "Companies",

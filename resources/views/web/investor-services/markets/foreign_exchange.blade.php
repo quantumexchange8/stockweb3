@@ -15,32 +15,25 @@
     <div class="eleven columns">
         <h2>@lang('public.foreign exchange')</h2>
         <p style="padding-top: 10px;">
-            Vanward provides innovative and flexible foreign exchange solutions designed for the operational and
-            strategic FX needs of global asset managers. Backed by a reputation for competitive execution and
-            relationship excellence, our goal is to provide every client with a smooth, comprehensive FX program from
-            start to finish.
+            @lang('public.foreign exchange 1')
             <br><br>
-            <strong>Foreign Exchange Expertise</strong>
+            <strong>@lang('public.foreign exchange 2')</strong>
             <br>
-            Vanward is a proven and committed FX provider. We offer executions in spots and forwards for freely traded
-            currencies, and specialize in trading select emerging and restricted markets. Our clients receive global
-            market coverage through a centralized trading team with local relationship management, and a choice of how
-            to deal with our trading desk. Our FX trading expertise is complemented by outstanding market and currency
-            strategy research.
+            @lang('public.foreign exchange 3')
+
             <br><br>
-            <strong>Client Choice and Control</strong>
+            <strong>@lang('public.foreign exchange 4')</strong>
             <br>
-            From implementation to assisting with trade execution and reporting, Vanward’s customized end-to-end FX
-            solutions are co-created with clients to help meet their distinct needs. We offer FX products that leverage
-            our configurable technology platform to provide clients execution options with varying degrees of client
-            involvement.
+            @lang('public.foreign exchange 5')
+
             <br><br>
-            <strong>Industry Leading Transparency</strong>
+            <strong>@lang('public.foreign exchange 6')</strong>
             <br>
-            We provide a range of customized pre- and post-execution tools, reports and analytics which can help clients
-            build efficient and comprehensive FX programs.
+            @lang('public.foreign exchange 7')
+
             <br><br>
-            Click to view our:
+            @lang('public.foreign exchange 8')
+
             <br><br>
             <a href="javascript:goTo('tokyoFixingRates')">@lang('public.tokyo fixing rates')</a>
             <br><br>
@@ -48,7 +41,7 @@
             <br><br>
             <a href="javascript:goTo('regulatoryReportingRequirements')">@lang('public.regulatory reporting requirements')</a>
             <br><br>
-            <a href="javascript:goTo('fxDisclosure')">FX Disclosure Statement</a>
+            <a href="javascript:goTo('fxDisclosure')">@lang('public.fx disclosure statement')</a>
         </p>
     </div>
     <div class="five columns">

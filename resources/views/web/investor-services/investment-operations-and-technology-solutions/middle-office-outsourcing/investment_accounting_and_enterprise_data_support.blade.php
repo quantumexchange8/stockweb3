@@ -16,36 +16,26 @@
     <div class="eleven columns">
         <h2>@lang('public.investment accounting & enterprise data support')</h2>
         <p style="padding-top: 10px;">
-            The increasing complexity of capital markets, investment products, and the regulatory environment
-            necessitates greater clarity and a real-time view into investment activity. There is a premium associated
-            with timely decision making across trading, risk, product and marketing front office stakeholders.
+            @lang('public.investment accounting & enterprise data support 1')
+
             <br><br>
-            <strong>Antiquated Status Quo</strong>
+            <strong>@lang('public.investment accounting & enterprise data support 2')</strong>
             <br><br>
-            Asset gatherers have built strong franchises on the backs of order management systems (OMS) and Accounting
-            Data (ABOR), but the idea of maintaining the OMS/ABOR status quo is antiquated and filled with gaps.
+            @lang('public.investment accounting & enterprise data support 3')
+
             <br><br>
-            Advancing from the OMS/ABOR solution to a holistic investment book of records (IBOR) that is optimized for
-            today’s investment environment is a complex but vital undertaking. A consistent book of records provides a
-            framework to assess the current state of an asset gatherer’s Data Governance Strategy and formulate
-            enhancements.
+            <strong>@lang('public.investment accounting & enterprise data support 4')</strong>
             <br><br>
-            <strong>IBOR Strategy</strong>
+            @lang('public.investment accounting & enterprise data support 5')
+
             <br><br>
-            The front office seeks information on real-time cash, securities and known future securities’ events across
-            all their asset classes – such as public and private equity, and derivatives — through various exposure
-            linkages and across a global network of brokers and custodian frameworks. For asset gatherers, a successful
-            IBOR strategy consists of the following components:
-            <br><br>
-            &nbsp;&nbsp;&nbsp;@lang('public.1').&nbsp;Data Governance Strategy <br>
-            &nbsp;&nbsp;&nbsp;@lang('public.2').&nbsp;Data Capture<br>
-            &nbsp;&nbsp;&nbsp;@lang('public.3').&nbsp;Aggregation and Enrichment<br>
-            &nbsp;&nbsp;&nbsp;@lang('public.4').&nbsp;Information Delivery<br>
+            &nbsp;&nbsp;&nbsp;@lang('public.1').&nbsp;@lang('public.investment accounting & enterprise data support 6') <br>
+            &nbsp;&nbsp;&nbsp;@lang('public.2').&nbsp;@lang('public.investment accounting & enterprise data support 7')<br>
+            &nbsp;&nbsp;&nbsp;@lang('public.3').&nbsp;@lang('public.investment accounting & enterprise data support 8')<br>
+            &nbsp;&nbsp;&nbsp;@lang('public.4').&nbsp;@lang('public.investment accounting & enterprise data support 9')<br>
             <br>
-            Vanward provides market insight into these components to help clients shape their data governance strategies.
-            Our technology platform provides an enterprise-wide data repository for consistent data capture across
-            service providers, and aggregates and enriches data in a meaningful manner. This allows us to power client
-            enterprise data hubs to enable better front office decision making.
+            @lang('public.investment accounting & enterprise data support 10')
+
         </p>
     </div>
     <div class="five columns">

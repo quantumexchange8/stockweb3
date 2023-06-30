@@ -15,13 +15,8 @@
     <div class="eleven columns">
         <h1>@lang('public.technology services')</h1>
         <p style="padding-top: 10px;">
-            Designed for asset gatherers who want to retain control over their operational processes while leveraging
-            cost effective, efficient and cutting-edge financial technology, Vanward makes key components of our
-            technology platform available to clients. With direct access to our Global Custody, US Custody, Fund
-            Accounting and Transfer Agency platforms, clients benefit from Vanward's continuous product and regulatory
-            investments in these large, resource intensive systems. In addition, our suite of Infomediary applications
-            can provide the same access to Vanward's connectivity, corporate actions, reconciliation and trade management
-            modules.
+            @lang('public.technology services 1')
+
         </p>
         <div class="five columns">
             <div class="card" style="padding: 5px;">
@@ -30,8 +25,8 @@
                         <a href="javascript:goTo('dataConnectivityAndApplicationsViaInfomediary')">@lang('public.data connectivity & applications via infomediary')</a>
                     </h6>
                     <p>
-                        Providing connectivity options designed to streamline reconciliation, trade management,
-                        corporate actions, FX and other operational and technological challenges.
+                        @lang('public.technology services 2')
+
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
@@ -45,7 +40,7 @@
                         <a href="javascript:goTo('accountOperatorDirectForUSDepositories')">@lang('public.account operator direct for US depositories')</a>
                     </h6>
                     <p>
-                        Helping global financial institutions gain direct access to US central securities depositories.
+                        @lang('public.technology services 3')
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
@@ -60,7 +55,8 @@
                     <h6 style="text-align: left;">
                         <a href="javascript:goTo('globalCustodyDirect')">@lang('public.global custody direct')</a>
                     </h6>
-                    <p>Helping global financial institutions expand and differentiate their global custody capabilities.
+                    <p>
+                        @lang('public.technology services 4')
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">

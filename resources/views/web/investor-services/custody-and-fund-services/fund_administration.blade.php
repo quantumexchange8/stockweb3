@@ -15,38 +15,26 @@
     <div class="eleven columns">
         <h2>@lang('public.fund administration')</h2>
         <p style="padding-top: 10px;">
-            Vanward provides a comprehensive suite of modular compliance and administrative funds services designed to
-            support our clients’ most complex products. Our business is built on providing direct access to information
-            and expertise, and a synchronized global servicing service model that promotes client collaboration.
+            @lang('public.fund administration 1')
 
-            Fund Administration services include:
+            @lang('public.fund administration 2')
 
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Financial reporting<br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Expense administration<br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Performance measurement<br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Portfolio compliance support<br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;U.S. tax support<br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Corporate secretary regulatory support<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.fund administration 3')<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.fund administration 4')<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.fund administration 5')<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.fund administration 6')<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.fund administration 7')<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.fund administration 8')<br>
             <br>
-            <strong>Market and Regulatory Expertise</strong>
+            <strong>@lang('public.fund administration 9')</strong>
             <br><br>
-            Understanding and staying informed of market trends and regulatory changes impacting the funds industry has
-            never been more important. In addition to generating clear and accurate financial, regulatory, and board
-            reporting that supports our clients’ goals and objectives, our service teams are trained to think critically
-            about the environment in which our clients operate and proactively communicate pending developments with
-            potential impact to our clients’ business models.
+            @lang('public.fund administration 10')
             <br><br>
-            <strong>A Collaborative Approach and Service Model</strong>
+            <strong>@lang('public.fund administration 11')</strong>
             <br><br>
-            Our <a href="javascript:goTo('globalServiceModel')">@lang('public.global service model')</a>, single global technology platform and intelligent integration of business teams
-            and technologists are central to our goal of providing a superior client experience. Regardless of client
-            location or fund domicile, our service teams have access to the same systems and real-time information,
-            providing one common platform for quick inquiry turnaround and continuous improvement. Our platform enables
-            clients to receive information at the opening of their business day regardless of where they are located.
-            <br><br>
-            Serving select segments of the financial services industry, our investments are focused on improving the
-            efficiency, transparency and accessibility of our infrastructure and information provided to clients, rather
-            than integrating multiple operating environments.
+            @lang('public.our ') <a href="javascript:goTo('globalServiceModel')">@lang('public.global service model')</a>
+            @lang('public.fund administration 12')
+
         </p>
     </div>
     <div class="five columns">
