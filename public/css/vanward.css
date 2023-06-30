@@ -102,7 +102,7 @@ nav .wrapper {
 .nav-links li a:hover,
 .content .row .mega-links li a:hover {
     color: #ffffff;
-    background: var(--vanward-blue-light2);
+    background: var(--vanward-text-hover-background);
     transition: 0.3s ease,
 }
 
@@ -223,7 +223,7 @@ nav .wrapper {
 @media screen and (max-width: 821px) {
     .wrapper .btn {
         display: block;
-        color: #333333;
+        color: var(--vanward-text-bold1);
     }
 
     .wrapper .nav-links {
@@ -252,7 +252,7 @@ nav .wrapper {
     }
 
     ::-webkit-scrollbar-thumb {
-        background: #F89F3C;
+        background: var(--vanward-dark-orange);
     }
 
     #menu-btn:checked~.nav-links {
@@ -312,7 +312,7 @@ nav .wrapper {
 
     .nav-links .mobile-item {
         display: block;
-        color: #333333;
+        color: var(--vanward-text-bold1);
         font-size: 20px;
         font-weight: 700;
         padding: 15px 20px;
@@ -322,7 +322,7 @@ nav .wrapper {
     }
 
     .nav-links .mobile-item:hover {
-        background: #F89F3C;
+        background: var(--vanward-dark-orange);
     }
 
     .drop-menu li {
@@ -354,7 +354,7 @@ nav .wrapper {
     .mega-box .content .row {
         width: 100%;
         margin-bottom: 15px;
-        border-top: 1px solid rgba(0, 0, 0, 0.08);
+        border-top: 1px solid gray;
     }
 
     .mega-box .content .row:nth-child(1),
@@ -445,7 +445,7 @@ nav input {
 
 #sidebar ul li a:hover,
 #sidebar .current {
-    background-color: var(--vanward-blue-light2);
+    background-color: var(--vanward-text-hover-background);
     color: var(--vanward-text-hover);
     font-weight: 700;
     /* White text color */
