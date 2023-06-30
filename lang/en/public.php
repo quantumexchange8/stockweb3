@@ -2430,16 +2430,34 @@ return [
     "military veterans 14" => "In honor of Veterans Day, the Military Network hosted a “Show and Tell” event. Attendees shared
                                 mementos reflecting their own service or the services of someone they know in the armed forces.",
     // parenting network
-    "parenting 1" => "Companies",
-    "parenting 2" => "Companies",
-    "parenting 3" => "Companies",
+    "parenting 1" => "In today's fast-paced, hyper-connected environment, the Parenting Network aims to help us deal with
+                    a wide range of family topics. We view parenting as a journey that presents different challenges at
+                    each stage and we want to ensure the Parenting Network provides the tools to help our members
+                    successfully navigate each one. As a father of four, I’m committed to ensuring our network helps us
+                    balance a happy and successful home and work life.",
+    "parenting 2" => "– Joe Pennini, Parenting Network Co-Chair",
+    "parenting 3" => "The Parenting Network provides a community of encouragement and education for those facing
+                    responsibilities and obligations as parents and caregivers. By sharing information, experiences, and
+                    resources, we connect employees to identify, discuss, and overcome issues affecting working families.
+                    Within the Parenting network, members tend to group themselves around the stages of parenthood: Prenatal
+                    and New Parents, Elementary School Age Children, Middle School/ High School Age Children, College Age/
+                    Adult Children, and Reverse Parenting. The Parenting Network closely partners with the other BANC
+                    networks, such as the",
     "parenting 4" => "networks to ensure support programs are appropriately tailored to employee needs. Our goal is to equip members with the knowledge and support needed to grow their careers while successfully balancing the competing demands of work and home. We also help to evolve our workplace by providing input on Vanward policies and products from a family and caregiver perspective.",
-    "parenting 5" => "Companies",
-    "parenting 6" => "Companies",
-    "parenting 7" => "Companies",
-    "parenting 8" => "Companies",
-    "parenting 9" => "Companies",
-    "parenting 10" => "Companies",
+    "parenting 5" => "Bring Your Children to Work Day (Annual)",
+    "parenting 6" => "This event is held each year in many of our global offices. Bring Your Children to work day is
+                    designed to strengthen the connection between education and work, as well as relationships between
+                    employees and the children in their lives. Activities are planned in each office to encourage
+                    teamwork and accountability; including games, volunteer opportunities and job shadowing.",
+    "parenting 7" => "Financial Planning for Parents",
+    "parenting 8" => "The NY Parenting Network hosted a global financial planning discussion designed especially for
+                    parents. Attendees participated in an open discussion on topics such as life insurance, disability
+                    insurance, college tuition, and planning for your will.",
+    "parenting 9" => "Navigating the New Normal",
+    "parenting 10" => "In collaboration with the Parenting Network and Greater Boston PFLAG, panelists shared their
+                    experiences in navigating complex issues such as supporting children to come out or to accept their
+                    own “otherness.” This event allowed parents and allies to ask questions in a safe environment to
+                    learn from those navigating similar experiences.",
     // pride network
     "pride 1" => "Companies",
     "pride 2" => "Companies",
