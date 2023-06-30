@@ -3,7 +3,7 @@
         <span>
             <a href="https://vanwardintl.com/">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('investorServices')">@lang('public.investor services')</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('specialistExpertise')">Sepcialist Expertise</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('specialistExpertise')">@lang('public.specialist expertise')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('crossBorderFunds')">@lang('public.cross-border funds')</a>&nbsp;&nbsp;>
             &nbsp;&nbsp;<strong>@lang('public.greater china')</strong>
         </span>
@@ -16,48 +16,31 @@
     <div class="eleven columns">
         <h2>@lang('public.greater china')</h2>
         <p style="padding-top: 10px;">
-            China is liberalizing its capital markets at a dramatic pace with cross-border flows into and out of the
-            country evolving into new access venues, which in itself, presents opportunities for global and regional
-            asset managers.
+            @lang('public.greater china 1')
+
             <br><br>
-            As a <a href="javascript:goTo('crossBorderFunds')">@lang('public.cross-border funds') servicing specialist</a> for leading
-            asset gatherers and with a presence in Greater China for 30 years, we help our clients capture growing
-            opportunities through facilitating asset flows into and out of the region.
-            <br><br>
-            From our offices in Hong Kong and Beijing, we provide a full suite of services including custody, funds
-            servicing and markets products in our clients’ regional languages as part of our
+            @lang('public.greater china 2')&nbsp;<a href="javascript:goTo('crossBorderFunds')">@lang('public.cross-border funds') @lang('public.servicing specialist')</a>
+            @lang('public.greater china 3')
             <a href="javascript:goTo('globalServiceModel')">@lang('public.global service model')</a>.
             <br><br>
-            Vanward is focused on Greater China, where it maintains a strong presence and provides services for
-            <a href="javascript:goTo('')">Hong Kong-domiciled funds</a>, UCITS, QFII, RQFII, RQFII ETF, and QDII
-            platforms.
+            @lang('public.greater china 4')
+
+            <a href="javascript:goTo('')">@lang('public.hong kong domiciled')</a>, @lang('public.greater china 5')
             <br><br>
-            <strong>Outbound Investment from China</strong>
+            <strong>@lang('public.greater china 6')</strong>
             <br><br>
-            Qualified Domestic Institutional Investor (QDII): Vanward has been servicing QDII products for our Chinese
-            custodian bank clients since 2007. Our clients include the top 10 master custodian banks in China and the
-            leading Chinese asset managers as QDII sponsors.
-            CNH Share Class Funds: Our Foreign Exchange team in Hong Kong offers CNH hedging capabilities as well as
-            hedging for other restricted currencies.
+            @lang('public.greater china 7')
+
             <br><br>
-            <strong>Inbound Investment to China</strong>
+            <strong>@lang('public.greater china 8')</strong>
             <br><br>
-            Renminbi Qualified Foreign Institutional Investor (RQFII)/ Qualified Foreign Institutional Investor (QFII):
-            Vanward is experienced in servicing RQFII and QFII products domiciled across the world. Our ETF servicing
-            expertise and local market experience helps clients launch products that meet the unique requirements of the
-            scheme.
-            Stock Connect: Vanward supports our global clients utilizing the Shanghai-Hong Kong and Shenzhen-Hong Kong
-            Stock Connect platforms.
+            @lang('public.greater china 9')
+
             <br><br>
-            <strong>Distribution in Greater China</strong>
+            <strong>@lang('public.greater china 10')</strong>
             <br><br>
-            UCITS in Greater China: UCITS funds have a high penetration rate in Hong Kong and Taiwan. Vanward has extensive
-            experience in servicing UCITS globally as we assist asset managers to tap into new market segments.
-            China-Hong Kong Mutual Recognition: The China-Hong Kong Mutual Recognition of Funds program allows global
-            asset managers to distribute Hong Kong-domiciled funds into mainland China and Chinese asset managers to
-            distribute their funds into Hong Kong. It is the first and only offshore fund vehicle allowed to be
-            distributed into Mainland China. Vanward offers a comprehensive suite of services, including <a
-                href="javascript:goTo('depositaryAndTrustee')">Trustee services</a> in Hong Kong.
+            @lang('public.greater china 11')
+            <a href="javascript:goTo('depositaryAndTrustee')">@lang('public.Trustee services')</a> @lang('public.greater china 12').
         </p>
     </div>
     <div class="five columns">

@@ -1,36 +1,45 @@
 <?php
 return [
     // common / short phrases
-    "email"                     => "info@vanwardintl.com",
-    "past events"               => "Past Events",
-    "signature events"          => "Signature Events",
-    "partnerships"              => "Partnerships",
-    "invest reminder 1"         => "NOT FDIC INSURED",
-    "invest reminder 2"         => "NO BANK GUARANTEE",
-    "invest reminder 3"         => "MAY LOSE VALUE",
-    "insights"                  => "Insights",
-    "approach"                  => "Approach",
-    "infoAction"                => "InfoAction",
-    "infomediary"               => "Infomediary",
-    "content unavailable"       => "Content currently unavailable. Please try again later.",
-    "fx disclosure statement"   => "FX Disclosure Statement",
-    "fx terms and conditions"   => "FX Terms & Conditions",
-    "and"                       => "and",
-    "our"                       => "our",
-    "we provide"                => "We provide",
-    "administration"            => "administration",
-    "as of december 2021"       => "*as of December 2021.",
-    "as of december 2019"       => "*as of December 2019.",
-    "short pride"               => "Pride",
-    "short diverse abilities"   => "Diverse Abilities Allies",
-    "short womens"              => "Women's",
-    "learn more"                => "Learn more",
-    "please"                    => "Please",
-    "with questions"            => "with questions.",
-    "our clients"               => "Our Clients",
-    "our people"                => "Our People",
-    "our communities"           => "Our Communities",
-    "vanward"                   => "Vanward",
+    "email"                                 => "info@vanwardintl.com",
+    "past events"                           => "Past Events",
+    "signature events"                      => "Signature Events",
+    "partnerships"                          => "Partnerships",
+    "invest reminder 1"                     => "NOT FDIC INSURED",
+    "invest reminder 2"                     => "NO BANK GUARANTEE",
+    "invest reminder 3"                     => "MAY LOSE VALUE",
+    "insights"                              => "Insights",
+    "approach"                              => "Approach",
+    "infoAction"                            => "InfoAction",
+    "infomediary"                           => "Infomediary",
+    "content unavailable"                   => "Content currently unavailable. Please try again later.",
+    "fx disclosure statement"               => "FX Disclosure Statement",
+    "fx terms and conditions"               => "FX Terms & Conditions",
+    "and"                                   => "and",
+    "our"                                   => "our",
+    "we provide"                            => "We provide",
+    "administration"                        => "administration",
+    "as of december 2021"                   => "*as of December 2021.",
+    "as of december 2019"                   => "*as of December 2019.",
+    "short pride"                           => "Pride",
+    "short diverse abilities"               => "Diverse Abilities Allies",
+    "short womens"                          => "Women's",
+    "learn more"                            => "Learn more",
+    "please"                                => "Please",
+    "with questions"                        => "with questions.",
+    "our clients"                           => "Our Clients",
+    "our people"                            => "Our People",
+    "our communities"                       => "Our Communities",
+    "vanward"                               => "Vanward",
+    "fund servicing"                        => "Fund Servicing",
+    "funds servicing"                       => "Funds Servicing",
+    "global custody"                        => "Global Custody",
+    "global tax services"                   => "Global Tax Services",
+    "investment operations & technology"    => "Investment Operations & Technology",
+    "data & connectivity solutions"         => "Data and Connectivity Solutions",
+    "middle office"                         => "Middle Office",
+    "servicing specialist"                  => "servicing specialist",
+    "Trustee services"                      => "Trustee services",
 
 
     // dates
@@ -1647,170 +1656,499 @@ return [
     "consultants and advisors 3" => "To provide a forum for exchanging industry insights and information around capabilities, expertise and services.",
     "consultants and advisors 4" => "Companies",
     // cross border funds
-    "cross border funds 1" => "Companies",
-    "cross border funds 2" => "Companies",
+    "cross border funds 1"  => "Vanward is a cross-border fund servicing specialist. We believe in the continued growth of cross-border distribution markets and have made this a core focus for our firm.",
+    "cross border funds 2"  => "and related services to many of the most successful global cross-border asset managers. In doing so we have developed a deep understanding of complex fund structures distributed globally.",
     "cross border funds 3" => "Companies",
     "cross border funds 4" => "Companies",
-    "cross border funds 5" => "Companies",
-    "cross border funds 6" => "Companies",
-    "cross border funds 7" => "Companies",
-    "cross border funds 8" => "Companies",
-    "cross border funds 9" => "Companies",
-    "cross border funds 10" => "Companies",
-    "cross border funds 11" => "Companies",
-    "cross border funds 12" => "Companies",
-    "cross border funds 13" => "Companies",
-    "cross border funds 14" => "Companies",
+    "cross border funds 5"  => "We have developed specialist expertise in supporting asset flows into and out of Europe, the",
+    "cross border funds 6"  => "region,",
+    "cross border funds 7"  => ", the U.S. and",
+    "cross border funds 8"  => "Our offering is based on three core principles:",
+    "cross border funds 9"  => "Brand Protection",
+    "cross border funds 10"  => "Brand is an increasingly important driver of a manager’s distribution strategy.
+                                <br><br>
+                                Our organizational structure has allowed us to develop a unique global service model. Through a single
+                                global technology platform and interconnected global teams we design our servicing capabilities around the
+                                domicile of the fund, location of the investment manager, and the markets of distribution.
+                                <br><br>
+                                We focus on supporting underlying clients’ needs locally and protecting and enhancing their brand globally.",
+    "cross border funds 11"  => "Managing Complexity",
+    "cross border funds 12" => "Supporting some of the most sophisticated asset managers in the world, many of whom distribute in more than
+                                20 global markets and multiple time zones, we understand the complexity of servicing cross-border product
+                                ranges.
+                                <br><br>
+                                Our focus and expertise helps clients navigate the regulations and product trends which impact cross-border
+                                distribution. Our global service model, supported by a single global technology platform creates a powerful
+                                infrastructure to enable our clients to sell their funds globally.",
+    "cross border funds 13" => "Investment in Clients’ Growth",
+    "cross border funds 14" => "As a privately managed organization which is committed to cross-border fund servicing as a long term growth
+                                market, we are able to invest in our clients’ growth over the long-term.
+                                <br><br>
+                                Through key investments in people, infrastructure and technology, we provide the framework to help our
+                                clients meet their growth objectives both now and in the future.",
     "cross border funds 15" => "Companies",
     "cross border funds 16" => "Companies",
     "cross border funds 17" => "Companies",
     "cross border funds 18" => "Companies",
     // distribution intelligence
-    "distribution intelligence 1" => "Companies",
-    "distribution intelligence 2" => "Companies",
-    "distribution intelligence 3" => "Companies",
-    "distribution intelligence 4" => "Companies",
-    "distribution intelligence 5" => "Companies",
-    "distribution intelligence 6" => "Companies",
-    "distribution intelligence 7" => "Companies",
-    "distribution intelligence 8" => "Companies",
-    "distribution intelligence 9" => "Companies",
-    "distribution intelligence 10" => "Companies",
-    "distribution intelligence 11" => "Companies",
-    "distribution intelligence 12" => "Companies",
-    "distribution intelligence 13" => "Companies",
+    "distribution intelligence 1" => "Core to Vanward’s",
+    "distribution intelligence 2" => "cross-border fund servicing",
+    "distribution intelligence 3" => "Vanward distribution intelligence services are designed to assist asset managers develop, execute, and evaluate their distribution strategy.",
+    "distribution intelligence 4" => "Strategy Development: Market Analysis",
+    "distribution intelligence 5" => "Working with many of the most successful cross-border asset managers globally, we have developed specific regional expertise enabling us to provide insight and intelligence tailored to the clients’ needs around market entry, distribution channels, competitive landscape and asset flows.",
+    "distribution intelligence 6" => "Strategy Execution: Operational Support",
+    "distribution intelligence 7" => "Vanward provides a unique",
+    "distribution intelligence 8" => "which enables asset managers to distribute their product in multiple markets. At the core of this model is our single technology platform which leads to a high level of global integration and coordination",
+    "distribution intelligence 9" => "offering is the cornerstone of our distribution support model, allowing fully localized investor onboarding support with industry leading technology",
+    "distribution intelligence 10" => "messaging and connectivity platform is deployed to harmonize, translate, and transmit electronic data to facilitate fund distribution efficiency",
+    "distribution intelligence 11" => "includes a proprietary investment fund order and processing platform, Fund WorldView®, which helps connect global asset managers with local financial institutions that buy and hold funds",
+    "distribution intelligence 12" => "Strategy Evaluation: Data Analysis",
+    "distribution intelligence 13" => "Asset managers need to monitor and regularly review the success of their distribution strategy. Based on a client’s transfer agency data, and comparing that to market data, we can help evaluate distribution channel performance in individual markets.",
     // exchange traded funds
-    "exchange traded funds 1" => "Companies",
-    "exchange traded funds 2" => "Companies",
-    "exchange traded funds 3" => "Companies",
-    "exchange traded funds 4" => "Companies",
-    "exchange traded funds 5" => "Companies",
-    "exchange traded funds 6" => "Companies",
-    "exchange traded funds 7" => "Companies",
-    "exchange traded funds 8" => "Companies",
-    "exchange traded funds 9" => "Companies",
-    "exchange traded funds 10" => "Companies",
-    "exchange traded funds 11" => "Companies",
-    "exchange traded funds 12" => "Companies",
-    "exchange traded funds 13" => "Companies",
-    "exchange traded funds 14" => "Companies",
+    "exchange traded funds 1" => "Vanward is a leading provider of asset servicing for the global ETF market. Vanward is an ETF specialist for US, European and Asian-domiciled products, and works with both experienced ETF managers and new, innovative market entrants to introduce and grow their ETF products.",
+    "exchange traded funds 2" => "Deep and Diverse Product Expertise",
+    "exchange traded funds 3" => "With a team comprised of specialists from all areas of the ETF industry, Vanward maintains expertise across the full realm of physical (in specie) and synthetic ETF and Exchange Traded Product (ETP) structures. Our clients employ active, passive and quantitative ETF strategies. We service emerging/developed equity and fixed income, inverse/leverage, currency, and commodity ETF products.",
+    "exchange traded funds 4" => "Consulting with Clients from Concept to Implementation",
+    "exchange traded funds 5" => "Vanward specialists consult with ETF sponsors through a variety of legal, research-oriented, and project management hurdles related to the launch and growth of ETF products. Our clients benefit from:",
+    "exchange traded funds 6" => "Expertise in the ETF pre-launch process and across multiple asset classes and geographies",
+    "exchange traded funds 7" => "Deep relationships with listing exchanges, distributors, and authorized participants",
+    "exchange traded funds 8" => "Experience and insights into the global ETF industry via subject matter experts who have come from fund promoters, service providers, index providers, trading and technology firms",
+    "exchange traded funds 9" => "A hands-on, consultative approach to servicing clients",
+    "exchange traded funds 10" => "Scalable and Flexible ETF-Specific Technology",
+    "exchange traded funds 11" => "Vanward has made a strategic decision to invest in a custom, market leading technology platform specifically designed to service ETFs:",
+    "exchange traded funds 12" => "ETF ConnectTM, offering online access to client data, reporting and other powerful tools that promote business management",
+    "exchange traded funds 13" => "AP EXchange TM, offering trade functionality and the flexibility to submit and monitor, create and redeem activity",
+    "exchange traded funds 14" => "ETF Star, an ETF-specific platform that is fully integrated with Vanward’s core accounting system with focus on basket and Portfolio Composition File (PCF) generation",
     // insurance
-    "insurance 1" => "Companies",
-    "insurance 2" => "Companies",
-    "insurance 3" => "Companies",
-    "insurance 4" => "Companies",
-    "insurance 5" => "Companies",
+    "insurance 1" => "(Re)insurance firms are facing a rapidly changing market environment characterized by stricter capital
+                    adequacy requirements, reserve deterioration, limited financial flexibility, and the prolonged low-interest
+                    rate environment. All the while, improved performance, increased efficiency, and enhanced enterprise risk
+                    management have become priorities based on increased client demand.
+                    <br><br>
+                    Vanward helps firms deliver on these priorities, while managing the complexity of the ever changing
+                    marketplace. We marry product, market, and regulatory expertise with proven technology and service
+                    excellence to deliver bespoke solutions that match our clients’ particular business needs.",
+    "insurance 2" => "Integrated and Modular Global Service Offering",
+    "insurance 3" => "Whether (re)insurance companies are looking for a fully integrated solution or specific services on a
+                    modular basis, they can leverage Vanward’s wide ranging product suite to support their global service and
+                    investment goals. With experience servicing the world’s most sophisticated asset managers, our dedicated
+                    (re)insurance team supports our clients in their efforts to minimize risk, optimize cost, and manage their
+                    unique asset/liability, accounting, collateral, regulatory, and reporting needs.",
+    "insurance 4" => "Powered by Technology",
+    "insurance 5" => "Integrated, flexible technology applications are central to our goal of providing clients a superior service
+                    experience. Regardless of location, Vanward service teams have access to the same systems and real-time
+                    information, ensuring quick inquiry turnaround and continuous improvement.
+                    <br><br>
+                    As a NAIC approved bank, Vanward offers the following services:",
     "insurance 6" => "Companies",
     "insurance 7" => "Companies",
     // regulatory intelligence
-    "regulatory intelligence 1" => "Companies",
+    "regulatory intelligence 1" => "Regulatory change is a key component of organizations’ strategic planning process. To help our clients in
+                                    their response to regulatory change, Vanward has a dedicated Regulatory Intelligence discipline.
+                                    <br><br>
+                                    The Regulatory Intelligence team is responsible for identifying, analyzing, and articulating the potential
+                                    impact of major regulatory developments. They ensure that clients are informed of regulatory developments so
+                                    that Vanward can help them to anticipate and manage these changes appropriately.
+                                    <br><br>
+                                    Our experts work closely with clients, engaging on regulatory matters through various industry associations,
+                                    conferences, events, and meetings. The team also provides clients with the latest information and insights
+                                    on regulatory developments through thought leadership.",
     "regulatory intelligence 2" => "Companies",
     "regulatory intelligence 3" => "Companies",
     // us funds
-    "us funds 1" => "Companies",
-    "us funds 2" => "Companies",
-    "us funds 3" => "Companies",
-    "us funds 4" => "Companies",
-    "us funds 5" => "Companies",
-    "us funds 6" => "Companies",
-    "us funds 7" => "Companies",
+    "us funds 1" => "Vanward is a leading solutions provider for US funds. Our solutions meet the evolving needs of our
+                    clients across the middle and back office. Our single technology platform and unique client service
+                    experience helps streamline our client’s operational processes, protect performance, and provide a reliable
+                    foundation for growth.
+                    <br><br>
+                    We work to help our clients reduce their costs and manage their risks through comprehensive modular
+                    solutions that help provide operational efficiencies and gain a competitive edge in these key areas:",
+    "us funds 2" => "Enabling Growth",
+    "us funds 3" => "Vanward’s experience in servicing all asset classes for some of the world’s most sophisticated asset managers
+                    allows us to truly understand the evolving requirements of our US fund clients. We have created a single
+                    technology platform that supports our clients’ needs and provides a thoughtful approach to helping them meet
+                    their growth goals through streamlined technology offerings.",
+    "us funds 4" => "Protecting Brand",
+    "us funds 5" => "As a privately owned and managed organization, Vanward’s success is driven by that of our clients and we focus
+                    on protecting their businesses and reputations as much as we do our own. We take a prudent approach to
+                    managing operational processes for US funds, guided by disciplined thinking and rigorous risk management.",
+    "us funds 6" => "Uncovering Efficiencies",
+    "us funds 7" => "Vanward is committed to delivering a measurably superior client service experience. Our service teams access
+                    the same systems and real-time information globally, providing one common platform for efficiency and
+                    consistency. This integrated model streamlines operational requirements and provides consistent, high
+                    quality reporting to both our clients and their investors",
     "us funds 8" => "Companies",
     // hedge funds
-    "hedge funds 1" => "Companies",
-    "hedge funds 2" => "Companies",
-    "hedge funds 3" => "Companies",
+    "hedge funds 1" => "Vanward is a leading global service provider for alternative funds, with over $275 billion* in assets under administration.
+                        <br><br>
+                        Supporting $22 billion* in hedge fund strategies, including traditional hedge funds and other liquid alternatives, we are adept in dealing with the structural and operational requirements typical to these types of funds.
+                        <br><br>
+                        We have dedicated expert hedge fund teams who leverage our core competencies to deliver the institutional standards and capacity of a global bank, combined with the service quality of a specialist administrator.",
+    "hedge funds 2" => "Our global service model",
+    "hedge funds 3" => "allows us to adapt our servicing to the needs of the manager, locating teams in the different time zones and domiciles required.
+                        <br><br>
+                        We put a particular focus on shareholder onboarding and ongoing servicing, knowing that this is fundamental in ensuring an asset manager’s reputation with its underlying clients. As such this helps build and protect brand - an increasingly important driver of a manager’s distribution strategy.",
     "hedge funds 4" => "Companies",
     "hedge funds 5" => "Companies",
     "hedge funds 6" => "Companies",
     // private equity specialist
-    "private equity specialist 1" => "Companies",
+    "private equity specialist 1" => "Vanward is a leading global service provider for alternative funds, with over $275 billion* in assets under
+                                    administration.
+                                    <br><br>
+                                    Servicing $73 billion* in private equity funds, we have expertise across a variety of structures and
+                                    jurisdictions used by the world’s premier private equity managers.
+                                    <br><br>
+                                    As private equity attracts more institutional money, institutional grade fund servicing is becoming critical
+                                    in helping managers maintain and enhance their reputation with investors globally.
+                                    <br><br>
+                                    Using a specialist private equity administration platform, our dedicated teams are experienced in dealing
+                                    with the needs of the large bespoke complex structures typically used by these managers. Our clients
+                                    appreciate our single point of contact approach to client service helping them simplify the day to day
+                                    operational needs of their funds.",
     "private equity specialist 2" => "Companies",
     "private equity specialist 3" => "Companies",
     "private equity specialist 4" => "Companies",
     // real assets and infrastructure
-    "real assets and infrastructure 1" => "Companies",
+    "real assets and infrastructure 1"  => "Vanward is a leading global service provider for alternative funds, with over $275 billion* in assets under
+                                            administration.
+                                            <br><br>
+                                            Servicing real assets since 2004, Vanward now supports $53 billion* in assets for some of the world’s most
+                                            sophisticated real estate and infrastructure managers investing across Europe, US and Asia.
+                                            <br><br>
+                                            Leveraging our core competencies in administration, accounting, custody, transfer agency and domiciliation,
+                                            and with dedicated servicing and business integration teams, Vanward helps clients operate complex real estate
+                                            and infrastructure funds.
+                                            <br><br>
+                                            We have a leading market share in servicing Luxembourg domiciled real estate investment funds with more than
+                                            15 years track record of helping managers in this key fund domicile.",
     "real assets and infrastructure 2" => "Companies",
     "real assets and infrastructure 3" => "Companies",
     "real assets and infrastructure 4" => "Companies",
     // syndicated and originated debt
-    "syndicated and originated debt 1" => "Companies",
+    "syndicated and originated debt 1"  => "Vanward is a leading global service provider for alternative funds, with over $275 billion* in assets under
+                                            administration.
+                                            <br><br>
+                                            Servicing $72 billion* in syndicated debt funds and $33 billion* in originated debt funds, we have the
+                                            expertise in the full variety of structures and jurisdictions that both traditional and specialist
+                                            alternative asset managers consider for this type of investment.
+                                            <br><br>
+                                            We offer clients a specialised debt processing service incorporating the industry leading Wall Street Office
+                                            system. Our debt servicing model is fully integrated into our core asset servicing platform leading to an
+                                            efficient and streamlined service experience for managers requiring servicing across their full range of
+                                            funds.
+                                            <br><br>
+                                            Vanward believes this is an important growth area for alternative managers and has invested in technology and
+                                            people with the expertise required to support managers as they move into this space and grow their
+                                            portfolios.",
     "syndicated and originated debt 2" => "Companies",
     "syndicated and originated debt 3" => "Companies",
     "syndicated and originated debt 4" => "Companies",
+    // dublin
+    "dublin 1"  => "One of the most successful cross border fund domiciles, Ireland is viewed as a key strategic location by the
+                    world's leading cross border asset managers. It is crucial for managers to partner with an experienced
+                    service provider to evolve their global servicing infrastructure and support their future growth.",
+    "dublin 2"  => "Leading Dublin Service Provider",
+    "dublin 3"  => "Present in the Irish market since 1995, Vanward has supported the growth of the Irish fund industry since
+                    its creation. We are now one of the country’s leading service providers, offering our full asset servicing
+                    suite to Dublin domiciled UCITS and non-UCITS funds.
+                    <br><br>
+                    We specialise in helping our clients manage the complexity of cross border fund servicing, with particular
+                    expertise in UCITS, RQFII, ETFs and alternative fund structures.
+                    <br><br>
+                    Our reputation as one of the leading providers in Dublin is driven by our close relationships with clients,
+                    local regulators, industry associations and other key stakeholders. We actively participate in many industry
+                    forums and working groups, including the Irish Funds association (IF) and the Department of An Taoiseach
+                    Government Funds Working Group.",
+    // global
+    "global 1"  => "Sophisticated asset managers require the highest quality investor servicing, regardless of location or time
+                    zone.
+                    <br><br>
+                    Vanward delivers this through a global service model tailored to the needs of each manager. We locate
+                    servicing teams based on clients’ time zones, the location of their fund domiciles, and their markets of
+                    distribution.
+                    <br><br>
+                    Our consistent harmonized global service model creates operational efficiencies, mitigates risk, and
+                    improves the client experience and that of their investors.",
+    "global 2"  => "One Global Team",
+    "global 3"  => "With one global P&L and integrated team, the Vanward service experience is seamless. We give clients the
+                    ability to direct all inquiries and communications through one, multi-disciplinary, client-facing team in
+                    their time zone of choice. This facilitates the highest levels of client engagement, transparent
+                    communication, and measurably superior service.",
+    "global 4"  => "Technology Platform",
+    "global 5"  => "Our single global technology platform and intelligent integration of business teams and technologists is
+                    central to our goal of providing a superior client experience.
+                    <br><br>
+                    Regardless of client or fund domicile, our service teams have access to the same systems and real-time
+                    information, providing one common platform for quick inquiry turnaround and continuous improvement. Our
+                    platform enables clients to receive information at the opening of their business day regardless of where
+                    they are located.
+                    <br><br>
+                    Serving select segments of the financial services industry, our investments are focused on making every
+                    application on our platform highly relevant to clients, and more responsive and transparent than our peers.",
+    // greater china professionals
+    "greater china 1" => "China is liberalizing its capital markets at a dramatic pace with cross-border flows into and out of the
+    country evolving into new access venues, which in itself, presents opportunities for global and regional
+    asset managers.",
+    "greater china 2"   => "As a ",
+    "greater china 3"   => "for leading
+                        asset gatherers and with a presence in Greater China for 30 years, we help our clients capture growing
+                        opportunities through facilitating asset flows into and out of the region.
+                        <br><br>
+                        From our offices in Hong Kong and Beijing, we provide a full suite of services including custody, funds
+                        servicing and markets products in our clients’ regional languages as part of our",
+    "greater china 4"   => "Vanward is focused on Greater China, where it maintains a strong presence and provides services for",
+    "greater china 5"   => "UCITS, QFII, RQFII, RQFII ETF, and QDII platforms.",
+    "greater china 6"   => "Outbound Investment from China",
+    "greater china 7"   => "Qualified Domestic Institutional Investor (QDII): Vanward has been servicing QDII products for our Chinese
+                            custodian bank clients since 2007. Our clients include the top 10 master custodian banks in China and the
+                            leading Chinese asset managers as QDII sponsors.
+                            CNH Share Class Funds: Our Foreign Exchange team in Hong Kong offers CNH hedging capabilities as well as
+                            hedging for other restricted currencies.",
+    "greater china 8"   => "Inbound Investment to China",
+    "greater china 9"   => "Renminbi Qualified Foreign Institutional Investor (RQFII)/ Qualified Foreign Institutional Investor (QFII):
+                            Vanward is experienced in servicing RQFII and QFII products domiciled across the world. Our ETF servicing
+                            expertise and local market experience helps clients launch products that meet the unique requirements of the
+                            scheme.
+                            Stock Connect: Vanward supports our global clients utilizing the Shanghai-Hong Kong and Shenzhen-Hong Kong
+                            Stock Connect platforms.",
+    "greater china 10"  => "Distribution in Greater China",
+    "greater china 11"  => "UCITS in Greater China: UCITS funds have a high penetration rate in Hong Kong and Taiwan. Vanward has extensive
+                            experience in servicing UCITS globally as we assist asset managers to tap into new market segments.
+                            China-Hong Kong Mutual Recognition: The China-Hong Kong Mutual Recognition of Funds program allows global
+                            asset managers to distribute Hong Kong-domiciled funds into mainland China and Chinese asset managers to
+                            distribute their funds into Hong Kong. It is the first and only offshore fund vehicle allowed to be
+                            distributed into Mainland China. Vanward offers a comprehensive suite of services, including",
+    "greater china 12" => "in Hong Kong",
+    "hong kong domiciled" => "Hong Kong-domiciled funds",
+    // japan
+    "japan 1"    => "Increasingly in search of diversification, retail investors, pension funds and institutional investors are
+                    shifting their allocation to cross-border securities. These investments are being made through Japanese
+                    investment trust management funds (ITMs), separate accounts, and cross-border funds domiciled in offshore
+                    markets in both public and private domains.
+                    <br><br>
+                    Vanward’s Tokyo office services many of the most sophisticated local and global asset managers, trust banks
+                    and institutional investors including quasi-government entities, for their cross border investments from
+                    Japan.
+                    <br><br>
+                    We are proud of our longstanding ties with Japan which date back to the early 1900s, far earlier than the
+                    opening of our Tokyo office in 1984. Our long term commitment and thoughtful approach has helped us build a
+                    strong reputation in the market.",
+    "japan 2"   => "Comprehensive Local Servicing",
+    "japan 3"   => "To support asset managers distributing their offshore fund products into Japan as well as our Japan based
+                    clients, our experienced fund services team resides in Tokyo to address day-to-day needs in the local time
+                    zone. The team supports our global service model, providing custody, fund accounting and fund administration
+                    services.
+                    <br><br>
+                    Vanward also works with our Japanese clients to provide securities lending, foreign exchange and Infomediary®
+                    messaging and connectivity services.",
+    // latin america
+    "latin america 1"   => "Rapid growth in institutional assets across Latin America’s five largest markets – Brazil, Mexico, Chile,
+                            Colombia and Peru - is driving significant interest from global asset managers to establish and expand
+                            operations in the region.
+                            <br><br>
+                            With consistent service excellence over multiple decades, a customized approach to addressing local market
+                            requirements, and strategic insights on global fund distribution, Vanward is the leading asset servicer for
+                            Latin America’s largest asset gatherers.",
+    "latin america 2"   => "Integrated Solutions",
+    "latin america 3"   => "Vanward offers a full range of investment servicing solutions including:",
+    "latin america 4"   => "Commitment to the Region",
+    "latin america 5"   => "Vanward has enjoyed close links to Latin America since our founding in 1818, and has been servicing the Latin
+                            American pension fund system since its inception nearly 40 years ago. Our reputation as the region’s leading
+                            custodian is driven by our close working relationships with clients, local regulators and the market
+                            infrastructure. Backed by the long-term thinking and approach that comes with our partnership structure, we
+                            design our services specifically to meet our clients’ local requirements and maintain the flexibility to
+                            adapt our model as their global opportunity expands.",
+    // luxembourg
+    "luxembourg 1"  => "Luxembourg has developed into the largest cross border investment fund centre in Europe and a leading hub
+                        for global fund distribution.
+                        <br><br>
+                        Luxembourg domiciled funds are continuing to grow in popularity across the world, from Asia to Latin
+                        America. It is therefore crucial for managers to partner with an experienced service provider to evolve
+                        their global servicing infrastructure and support their future growth.",
+    "luxembourg 2"  => "Leading Luxembourg Service Provider",
+    "luxembourg 3"  => "Present in the market since 1989, supporting our clients since the launch of the first UCITS funds, Vanward
+                        is now one of the top third party custodians and administrators in Luxembourg. We offer our full asset
+                        servicing suite to Luxembourg domiciled UCITS and non-UCITS.
+                        <br><br>
+                        We specialise in helping our clients manage the complexity of cross border fund servicing, with particular
+                        expertise in UCITS, RQFII, ETFs and alternative fund structures.
+                        <br><br>
+                        Our reputation as one of the Grand Duchy’s leading securities servicers is driven by our close relationships
+                        with clients, local regulators and other industry stakeholders. We actively participate in many industry
+                        forums and working groups including the Luxembourg Fund Association (ALFI), the Luxembourg Banking
+                        Association (ABBL) and the Luxembourg Private Equity Association (LPEA).",
     // careers
-    "careers 1" => "Companies",
-    "careers 2" => "Companies",
-    "careers 3" => "Companies",
-    "careers 4" => "Companies",
-    "careers 5" => "Companies",
-    "careers 6" => "Companies",
+    "careers 1" => "At Vanward, we highly value the perspectives and expertise of every employee. Our organizational
+                    structure is designed to be flat, fostering a collaborative culture where the contributions of all team
+                    members are integral to our success. We are committed to creating an environment where every idea is
+                    welcomed and shared, recognizing that each idea has the potential to make a significant impact on our
+                    operations and achievements.",
+    "careers 2" => "We actively seek individuals who bring diverse perspectives and experiences to our organization, as they
+                    are crucial to our success. Our employees possess an entrepreneurial mindset and demonstrate ownership
+                    thinking at every level of the organization.",
+    "careers 3" => "Rewarding You",
+    "careers 4" => "At Vanward, we encourage continuous learning and growth by providing opportunities to acquire new skills,
+                    collaborate across disciplines, and explore different roles. Our culture is results-oriented, meaning
+                    that we focus on outcomes and value the impact you make. We believe in empowering our employees to live
+                    their best lives, both personally and professionally.",
+    "careers 5" => "Talent Acquisition Support",
+    "careers 6" => "If you are a job candidate and have a question about submitting an application, please email:",
     // life here
-    "life here 1" => "Companies",
-    "life here 2" => "Companies",
-    "life here 3" => "Companies",
-    "life here 4" => "Companies",
-    "life here 5" => "Companies",
+    "life here 1" => "At Vanward, we understand that our success is built on the quality of our people and the culture we
+                    foster. In addition to providing meaningful work and development opportunities, we believe in creating an
+                    environment where you can make a positive impact, both within our firm and in your community. Here are some
+                    of the ways we support our employees and promote a culture of Teamwork, Integrity, and Excellence.",
+    "life here 2" => "An entrepreneurial spirit and a collaborative environment that enables you to add value wherever you can.",
+    "life here 3" => "A global community of employee-led networks founded by and for diverse professionals.",
+    "life here 4" => "A unique culture that emphasizes Teamwork, Integrity, and Excellence—the values that drive our success.",
+    "life here 5" => "Give back to your community and help transform the lives of others while inspiring a spirit of citizenship.",
     // total rewards
-    "total rewards 1" => "Companies",
-    "total rewards 2" => "Companies",
-    "total rewards 3" => "Companies",
-    "total rewards 4" => "Companies",
-    "total rewards 5" => "Companies",
+    "total rewards 1"   => "At Vanward, we recognize that our employees are integral to our success and the delivery of
+                            exceptional solutions to our clients. To show our appreciation and support, we offer a comprehensive Total
+                            Rewards package designed to assist you in managing your personal life while advancing your career.",
+    "total rewards 2"   => "A high-quality benefits program emphasizing continued good health, financial security for your
+                            future, and peace of mind.",
+    "total rewards 3"   => "Opportunities to expand your skills and knowledge through collaborative learning, on-the-job
+                            application, and online tools.",
+    "total rewards 4"   => "Career ownership with the support you need to nurture your long-term professional passion.",
+    "total rewards 5"   => "Opportunities to grow your expertise, take on new challenges, and reinvent yourself—without leaving the firm.",
     // what we look for
-    "what we look for 1" => "Companies",
-    "what we look for 2" => "Companies",
-    "what we look for 3" => "Companies",
-    "what we look for 4" => "Companies",
-    "what we look for 5" => "Companies",
+    "what we look for 1" => "At Vanward, your career path is yours to define. We hire bright self-starters, provide them the tools to succeed, and give them the freedom to excel.",
+    "what we look for 2" => "Work on challenging, real-world projects while attending training and networking with employees throughout the firm.",
+    "what we look for 3" => "We are interested in exceptional, success-driven individuals who are excited to lead a collaborative environment that fosters our values of Teamwork, Integrity, and Excellence.",
+    "what we look for 4" => "You've worked hard for your degree, and you're ready for what's next: a job that will challenge
+                            you, inspire you, and encourage you to share your ideas.",
+    "what we look for 5" => "Build valuable experience and refresh your skills while transitioning back into the corporate
+                            workforce after a personal absence through a paid, 10-week Restart Assignment.",
     // entry level professionals
-    "entry level 1" => "Companies",
-    "entry level 2" => "Companies",
-    "entry level 3" => "Companies",
-    "entry level 4" => "Companies",
-    "entry level 5" => "Companies",
-    "entry level 6" => "Companies",
-    "entry level 7" => "Companies",
-    "entry level 8" => "Companies",
+    "entry level 1" => "<p>Are you a recent graduate searching for an ideal starting point for your professional career?
+                            At our organization, we seek individuals who are committed to fostering Teamwork,
+                            maintaining Integrity, and pursuing Excellence. We are looking for candidates who are eager
+                            to explore innovative approaches to assist our clients in achieving their goals.</p>
+                        <br>
+                        <p>If you possess a strong dedication to collaborating effectively with others, maintaining high
+                            ethical standards, and striving for excellence in all aspects of your work, we encourage you
+                            to consider joining our team. We value individuals who are eager to challenge conventional
+                            thinking and find creative solutions to support our clients' objectives.</p>
+                        <br>
+                        <p>By becoming a part of our organization, you will have the opportunity to contribute to the
+                            success of our clients by offering fresh perspectives and continuously seeking new methods
+                            to meet their needs. We provide a supportive environment that fosters professional growth,
+                            enabling you to learn from experienced professionals and enhance your skills.</p>
+                        <br>
+                        <p>If you are motivated, passionate, and ready to embark on a rewarding career in the financial
+                            services industry, we invite you to apply and explore the possibilities of joining our team.
+                        </p>
+                        <br>
+                        <p>As an entry-level candidate, this means:</p>",
+    "entry level 2" => "a desire to take on new challenges",
+    "entry level 3" => "an entrepreneurial approach",
+    "entry level 4" => "innovative thinking",
+    "entry level 5" => "high integrity",
+    "entry level 6" => "an ability to create and maintain valuable relationships",
+    "entry level 7" => "a passion for helping others",
+    "entry level 8" => "At Vanward, you have the opportunity to define your career path, and we have a strategy in place to help you succeed.",
     "entry level 9" => "Companies",
     "entry level 10" => "Companies",
     "entry level 11" => "Companies",
     "entry level 12" => "Companies",
     // experienced professionals
-    "experienced 1" => "Companies",
-    "experienced 2" => "Companies",
-    "experienced 3" => "Companies",
-    "experienced 4" => "Companies",
-    "experienced 5" => "Companies",
-    "experienced 6" => "Companies",
-    "experienced 7" => "Companies",
-    "experienced 8" => "Companies",
-    "experienced 9" => "Companies",
-    "experienced 10" => "Companies",
+    "experienced 1" => "At Vanward, our global business strategy relies on attracting and retaining
+                        exceptional talent. We are dedicated to recruiting the best and brightest individuals, and
+                        our strategy, culture, and commitment to achieving outstanding results contribute to their
+                        long-term retention. In fact, more than 60% of our senior leaders have been part of our firm
+                        for over a decade.",
+    "experienced 2" => "Our Partners and senior leaders possess an average of 25 years of industry experience, and
+                        they actively engage with each client. This hands-on involvement fosters intimate and
+                        enduring client relationships that span an average of nearly 15 years. We believe in the
+                        power of these relationships and the value they bring to our clients.",
+    "experienced 3" => "At Vanward, we offer direct access to senior leadership, providing you with unique
+                        opportunities to stand out among your peers. We take pride in being an organization that
+                        offers top-of-the-industry resources, enabling you to excel in your work. Despite our growth
+                        and success, we remain agile and flexible, allowing you to make a tangible impact on our
+                        organization and the clients we serve.",
+    "experienced 4" => "By joining Vanward, you become part of a dynamic and supportive environment that
+                        combines the advantages of a large organization with the personal touch of a smaller one. We
+                        are committed to providing you with the tools, resources, and opportunities to grow
+                        professionally and make a difference.",
+    "experienced 5" => "At the executive level, success is defined by the ability to effectively lead winning teams
+                        and shape strategy. This means:",
+    "experienced 6" => "solving complex problems by developing and integrating new ideas",
+    "experienced 7" => "being the most trusted, valued, and differentiated partner to every client we serve",
+    "experienced 8" => "speaking your mind, listening, and understanding views that differ from your own",
+    "experienced 9" => "inspiring others through a collaborative mindset",
+    "experienced 10" => "As soon as you walk through our doors, we provide you the opportunity to build relationships
+                        and the freedom to shape your career path.",
     // restart
-    "restart 1" => "Companies",
-    "restart 2" => "Companies",
-    "restart 3" => "Companies",
-    "restart 4" => "Companies",
-    "restart 5" => "Companies",
-    "restart 6" => "Companies",
-    "restart 7" => "Companies",
-    "restart 8" => "Companies",
-    "restart 9" => "Companies",
+    "restart 1" => "Are you or is someone you know considering a return to the workforce following a break from the corporate world?",
+    "restart 2" => "enables candidates who've been out of the workforce for two years or more to return
+                    to a corporate setting through a paid Restart Assignment. Skills and interests are matched
+                    with business needs to create successful outcomes and lasting partnerships. Along with
+                    gaining valuable experience and refreshing skills, participants will receive training and
+                    mentoring to help them make the transition back to work. Positions are available at various
+                    levels in our Boston, New Jersey, New York and Dublin offices.",
+    "restart 3" => "Considerations:",
+    "restart 4" => "Candidates must have left the workforce for a minimum of two years at the time the Restart Assignment begins",
+    "restart 5" => "Candidates cannot leave a job to join the Restart Program",
+    "restart 6" => "Former Vanward Employees, as well as those new to the Firm, are encouraged to apply",
+    "restart 7" => "Candidates must be able to work in locations where the program is currently available
+    (Boston, New Jersey, New York & Dublin)",
+    "restart 8" => "The program runs for 10 weeks in U.S. locations and for 16 weeks in Dublin.",
+    "restart 9" => "How to apply:",
+    "restart 10" => "<strong>In the U.S.:</strong> The U.S. Restart program will begin accepting applications in
+    the Spring of next year. Check back for additional information in May of 2020.",
     // undergraduate internships
-    "undergraduate 1" => "Companies",
-    "undergraduate 2" => "Companies",
-    "undergraduate 3" => "Companies",
-    "undergraduate 4" => "Companies",
-    "undergraduate 5" => "Companies",
-    "undergraduate 6" => "Companies",
-    "undergraduate 7" => "Companies",
-    "undergraduate 8" => "Companies",
-    "undergraduate 9" => "Companies",
-    "undergraduate 10" => "Companies",
-    "undergraduate 11" => "Companies",
-    "undergraduate 12" => "Companies",
-    "undergraduate 13" => "Companies",
-    "undergraduate 14" => "Companies",
+    "undergraduate 1" => "At Vanward, we offer internship programs that provide valuable opportunities for students to
+    gain firsthand experience and knowledge about our services, our company culture, and the
+    financial services industry. We believe in starting the learning journey early, even before
+    graduation, to help interns develop a deep understanding of our organization and its
+    operations.",
+    "undergraduate 2" => "The Experience:",
+    "undergraduate 3" => "Our internship programs are carefully designed to give you an immersive experience and an
+    opportunity to familiarize yourself with our organization. As an intern, you will be engaged
+    full-time, working on real business projects that align with our current needs. To ensure
+    your success, we provide comprehensive training and guidance that will equip you with the
+    skills and knowledge to make a meaningful impact.",
+    "undergraduate 4" => "Throughout the program, you will receive formal orientation to acquaint you with our company
+    culture and values. Ongoing training will be provided to support your development and
+    enhance your professional skills. You will be assigned interesting and challenging work that
+    allows you to grow and learn. Regular feedback will be provided to help you track your
+    progress and make continuous improvements.",
+    "undergraduate 5" => "Qualifications:",
+    "undergraduate 6" => "strong academic achievement as evidenced by a competitive GPA (US) or Mark 4 (Europe)",
+    "undergraduate 7" => "demonstrated leadership skills through academic and extracurricular activities",
+    "undergraduate 8" => "interest in business (specifically finance for many roles)",
+    "undergraduate 9" => "excellent quantitative, analytical, and communication skills",
+    "undergraduate 10" => "collaborative, entrepreneurial, energetic, and adaptable",
+    "undergraduate 11" => "US Program:",
+    "undergraduate 12" => "Our 10-week US internship is available to students in their junior year of undergraduate
+    study. The program runs from June to early August, with most roles located in Boston and New
+    York and additional opportunities in Denver, Charlotte, Chicago, New Jersey, and
+    Philadelphia. Interns have the opportunity to work in many exciting areas of the firm,
+    including Investor Services, Private Banking, Systems, and Administration.",
+    "undergraduate 13" => "Europe Programs (Dublin, Krakow and Luxembourg):",
+    "undergraduate 14" => " <p>
+                                In Dublin, we offer a full-time summer internship program which generally runs from June –
+                                August of each year. The program is directed at students in their penultimate year of a
+                                Bachelor or Masters Degree program. Interns will have the opportunity to work in one of our
+                                Investor Services areas, and can look forward to being fully integrated into our teams.
+                                Interns are also supported by a Vanward mentor while participating in the program.
+                            </p>
+                            <p>
+                                In Krakow, Poland, a variety of opportunities are available in our Investor Services
+                                business. We offer a four to six month program throughout the year in areas within Finance,
+                                Systems and Administration, open to students in their fourth or final year of university.
+                                Our internships are with flexible hours with a commitment of minimum 24 hours per week.
+                            </p>
+                            <p>
+                                In Luxembourg, we offer a full-time internship program lasting from 6 to 12 months in
+                                conjunction with university study programs. These opportunities are primarily available to
+                                undergraduate or graduate students studying finance, accounting, and business who must
+                                complete an internship to fulfill a degree requirement. We offer a range of challenging and
+                                rewarding full-time internships in traditional and alternative funds servicing specializing
+                                in the following domains: Relationship Excellence, Fund Compliance, Global Custody, and Fund
+                                Accounting.
+                            </p>",
     "undergraduate 15" => "Companies",
     "undergraduate 16" => "Companies",
     // affinity network community

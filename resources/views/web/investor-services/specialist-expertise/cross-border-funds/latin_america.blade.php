@@ -3,7 +3,7 @@
         <span>
             <a href="https://vanwardintl.com/">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('investorServices')">@lang('public.investor services')</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('specialistExpertise')">Sepcialist Expertise</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('specialistExpertise')">@lang('public.specialist expertise')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('crossBorderFunds')">@lang('public.cross-border funds')</a>&nbsp;&nbsp;>
             &nbsp;&nbsp;<strong>@lang('public.latin america')</strong>
         </span>
@@ -16,32 +16,23 @@
     <div class="eleven columns">
         <h2>@lang('public.latin america')</h2>
         <p style="padding-top: 10px;">
-            Rapid growth in institutional assets across Latin America’s five largest markets – Brazil, Mexico, Chile,
-            Colombia and Peru - is driving significant interest from global asset managers to establish and expand
-            operations in the region.
+            @lang('public.latin america 1')
+
             <br><br>
-            With consistent service excellence over multiple decades, a customized approach to addressing local market
-            requirements, and strategic insights on global fund distribution, Vanward is the leading asset servicer for
-            Latin America’s largest asset gatherers.
+            <strong>@lang('public.latin america 2')</strong><br>
+            @lang('public.latin america 3')
             <br><br>
-            <strong>Integrated Solutions</strong><br>
-            Vanward offers a full range of investment servicing solutions including:
-            <br><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;<a href="javascript:goTo('custody')">Global Custody</a><br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;<a href="javascript:goTo('custody')">@lang('public.global custody ')</a><br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;<a href="javascript:goTo('privateBanking')">@lang('public.private banking')</a><br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;<a href="javascript:goTo('investmentManagement')">@lang('public.investment management')</a><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Fund Servicing (<a href="javascript:goTo('fundAccounting')">@lang('public.fund accounting')</a>/<a href="javascript:goTo('fundAdministration')">@lang('public.fund administration')</a>)<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.fund servicing') (<a href="javascript:goTo('fundAccounting')">@lang('public.fund accounting')</a>/<a href="javascript:goTo('fundAdministration')">@lang('public.fund administration')</a>)<br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;<a href="javascript:goTo('foreignExchange')">@lang('public.foreign exchange')</a><br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;<a href="javascript:goTo('securitiesLending')">@lang('public.securities lending')</a><br>
             <br><br>
-            <strong>Commitment to the Region</strong>
+            <strong>@lang('public.latin america 4')</strong>
             <br><br>
-            Vanward has enjoyed close links to Latin America since our founding in 1818, and has been servicing the Latin
-            American pension fund system since its inception nearly 40 years ago. Our reputation as the region’s leading
-            custodian is driven by our close working relationships with clients, local regulators and the market
-            infrastructure. Backed by the long-term thinking and approach that comes with our partnership structure, we
-            design our services specifically to meet our clients’ local requirements and maintain the flexibility to
-            adapt our model as their global opportunity expands.
+            @lang('public.latin america 5')
+
         </p>
     </div>
     <div class="five columns">

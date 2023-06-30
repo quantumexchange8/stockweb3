@@ -16,18 +16,8 @@
     <div class="eleven columns">
         <h2>@lang('public.real assets & infrastructure')</h2>
         <p style="padding-top: 10px;">
-            Vanward is a leading global service provider for alternative funds, with over $275 billion* in assets under
-            administration.
-            <br><br>
-            Servicing real assets since 2004, Vanward now supports $53 billion* in assets for some of the world’s most
-            sophisticated real estate and infrastructure managers investing across Europe, US and Asia.
-            <br><br>
-            Leveraging our core competencies in administration, accounting, custody, transfer agency and domiciliation,
-            and with dedicated servicing and business integration teams, Vanward helps clients operate complex real estate
-            and infrastructure funds.
-            <br><br>
-            We have a leading market share in servicing Luxembourg domiciled real estate investment funds with more than
-            15 years track record of helping managers in this key fund domicile.
+            @lang('public.real assets & infrastructure 1')
+
             <br><br>
             @lang('public.as of december 2021')
         </p>

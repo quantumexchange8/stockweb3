@@ -3,7 +3,7 @@
         <span>
             <a href="https://vanwardintl.com/">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('investorServices')">@lang('public.investor services')</a>&nbsp;&nbsp;>
-            <a href="javascript:goTo('specialistExpertise')">Sepcialist Expertise</a>&nbsp;&nbsp;>
+            <a href="javascript:goTo('specialistExpertise')">@lang('public.specialist expertise')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('crossBorderFunds')">@lang('public.cross-border funds')</a>&nbsp;&nbsp;>
             &nbsp;&nbsp;<strong>@lang('public.global service model')</strong>
         </span>
@@ -16,35 +16,18 @@
     <div class="eleven columns">
         <h2>@lang('public.global service model')</h2>
         <p style="padding-top: 10px;">
-            Sophisticated asset managers require the highest quality investor servicing, regardless of location or time
-            zone.
+            @lang('public.global 1')
+
             <br><br>
-            Vanward delivers this through a global service model tailored to the needs of each manager. We locate
-            servicing teams based on clients’ time zones, the location of their fund domiciles, and their markets of
-            distribution.
+            <strong>@lang('public.global 2')</strong>
             <br><br>
-            Our consistent harmonized global service model creates operational efficiencies, mitigates risk, and
-            improves the client experience and that of their investors.
+            @lang('public.global 3')
+
             <br><br>
-            <strong>One Global Team</strong>
+            <strong>@lang('public.global 4')</strong>
             <br><br>
-            With one global P&L and integrated team, the Vanward service experience is seamless. We give clients the
-            ability to direct all inquiries and communications through one, multi-disciplinary, client-facing team in
-            their time zone of choice. This facilitates the highest levels of client engagement, transparent
-            communication, and measurably superior service.
-            <br><br>
-            <strong>Technology Platform</strong>
-            <br><br>
-            Our single global technology platform and intelligent integration of business teams and technologists is
-            central to our goal of providing a superior client experience.
-            <br><br>
-            Regardless of client or fund domicile, our service teams have access to the same systems and real-time
-            information, providing one common platform for quick inquiry turnaround and continuous improvement. Our
-            platform enables clients to receive information at the opening of their business day regardless of where
-            they are located.
-            <br><br>
-            Serving select segments of the financial services industry, our investments are focused on making every
-            application on our platform highly relevant to clients, and more responsive and transparent than our peers.
+            @lang('public.global 5')
+
         </p>
     </div>
     <div class="five columns">

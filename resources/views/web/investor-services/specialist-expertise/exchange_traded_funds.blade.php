@@ -15,44 +15,37 @@
     <div class="eleven columns">
         <h2>@lang('public.exchange traded funds')</h2>
         <p style="padding-top: 10px;">
-            Vanward is a leading provider of asset servicing for the global ETF market. Vanward is an ETF specialist for
-            US, European and Asian-domiciled products, and works with both experienced ETF managers and new, innovative
-            market entrants to introduce and grow their ETF products.
+            @lang('public.exchange traded funds 1')
+
             <br><br>
-            <strong>Deep and Diverse Product Expertise</strong>
+            <strong>@lang('public.exchange traded funds 2')</strong>
             <br><br>
-            With a team comprised of specialists from all areas of the ETF industry, Vanward maintains expertise across the
-            full realm of physical (in specie) and synthetic ETF and Exchange Traded Product (ETP) structures. Our
-            clients employ active, passive and quantitative ETF strategies. We service emerging/developed equity and
-            fixed income, inverse/leverage, currency, and commodity ETF products.
+            @lang('public.exchange traded funds 3')
+
             <br><br>
-            <strong>Consulting with Clients from Concept to Implementation</strong>
+            <strong>@lang('public.exchange traded funds 4')</strong>
             <br><br>
-            Vanward specialists consult with ETF sponsors through a variety of legal, research-oriented, and project
-            management hurdles related to the launch and growth of ETF products. Our clients benefit from:
+            @lang('public.exchange traded funds 5')
+
             <br><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Expertise in the ETF pre-launch process and across multiple asset classes and geographies
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.exchange traded funds 6')
             <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Deep relationships with listing exchanges, distributors, and authorized participants
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.exchange traded funds 7')
             <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Experience and insights into the global ETF industry via subject matter experts who have come from fund
-            promoters, service providers, index providers, trading and technology firms
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.exchange traded funds 8')
             <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;A hands-on, consultative approach to servicing clients
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.exchange traded funds 9')
             <br><br>
-            <strong>Scalable and Flexible ETF-Specific Technology</strong>
+            <strong>@lang('public.exchange traded funds 10')</strong>
             <br><br>
-            Vanward has made a strategic decision to invest in a custom, market leading technology platform specifically
-            designed to service ETFs:
+            @lang('public.exchange traded funds 11')
+
             <br><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;ETF ConnectTM, offering online access to client data, reporting and other powerful tools that promote
-            business management
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.exchange traded funds 12')
             <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;AP EXchange TM, offering trade functionality and the flexibility to submit and monitor, create and redeem
-            activity
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.exchange traded funds 13')
             <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;ETF Star, an ETF-specific platform that is fully integrated with Vanward’s core accounting system with focus on
-            basket and Portfolio Composition File (PCF) generation
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.exchange traded funds 14')
         </p>
     </div>
     <div class="five columns">

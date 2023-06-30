@@ -14,16 +14,14 @@
     <div class="eleven columns">
         <h1>@lang('public.total rewards')</h1>
         <p style="padding-top: 10px;">
-            At Vanward, we recognize that our employees are integral to our success and the delivery of
-            exceptional solutions to our clients. To show our appreciation and support, we offer a comprehensive Total
-            Rewards package designed to assist you in managing your personal life while advancing your career.
+            @lang('public.total rewards 1')
+
         </p>
         <div class="five columns">
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
                     <h6 style="text-align: left;"><a href="javascript:goTo('benefitsWellnessAndCompensation')">@lang('public.benefits, wellness and compensation')</a></h6>
-                    <p>A high-quality benefits program emphasizing continued good health, financial security for your
-                        future, and peace of mind.
+                    <p>@lang('public.total rewards 2')
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
@@ -35,8 +33,7 @@
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
                     <h6 style="text-align: left;"><a href="javascript:goTo('ongoingLearning')">@lang('public.ongoing learning')</a></h6>
-                    <p>Opportunities to expand your skills and knowledge through collaborative learning, on-the-job
-                        application, and online tools.
+                    <p>@lang('public.total rewards 3')
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
@@ -50,7 +47,7 @@
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
                     <h6 style="text-align: left;"><a href="javascript:goTo('careerManagement')">@lang('public.career management')</a></h6>
-                    <p>Career ownership with the support you need to nurture your long-term professional passion.
+                    <p>@lang('public.total rewards 4')
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
@@ -62,7 +59,7 @@
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
                     <h6 style="text-align: left;"><a href="javascript:goTo('mobility')">@lang('public.mobility')</a></h6>
-                    <p>Opportunities to grow your expertise, take on new challenges, and reinvent yourself—without leaving the firm.
+                    <p>@lang('public.total rewards 5')
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">

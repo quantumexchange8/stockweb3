@@ -15,25 +15,26 @@
     <div class="eleven columns">
         <h2>@lang('public.distribution intelligence')</h2>
         <p style="padding-top: 10px;">
-            Core to Vanward’s <a href="javascript:goTo('crossBorderFunds')">cross-border fund servicing</a>, Vanward distribution intelligence services are designed to assist asset managers develop, execute, and evaluate their distribution strategy.
+            @lang('public.distribution intelligence 1') <a href="javascript:goTo('crossBorderFunds')">@lang('public.distribution intelligence 2')</a>, @lang('public.distribution intelligence 3')
             <br><br>
-            <strong>Strategy Development: Market Analysis</strong>
+            <strong>@lang('public.distribution intelligence 4')</strong>
             <br><br>
-            Working with many of the most successful cross-border asset managers globally, we have developed specific regional expertise enabling us to provide insight and intelligence tailored to the clients’ needs around market entry, distribution channels, competitive landscape and asset flows.
+            @lang('public.distribution intelligence 5')
+
             <br><br>
-            <strong>Strategy Execution: Operational Support</strong>
+            <strong>@lang('public.distribution intelligence 6')</strong>
             <br><br>
-            Vanward provides a unique <a href="javascript:goTo('globalServiceModel')">@lang('public.global service model')</a> which enables asset managers to distribute their product in multiple markets. At the core of this model is our single technology platform which leads to a high level of global integration and coordination
+            @lang('public.distribution intelligence 7') <a href="javascript:goTo('globalServiceModel')">@lang('public.global service model')</a> @lang('public.distribution intelligence 8')
             <br><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.our') <a href="javascript:goTo('transferAgency')">@lang('public.transfer agency')</a> offering is the cornerstone of our distribution support model, allowing fully localized investor onboarding support with industry leading technology
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.our') <a href="javascript:goTo('transferAgency')">@lang('public.transfer agency')</a> @lang('public.distribution intelligence 9')
             <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Vanward <a href="javascript:goTo('dataConnectivityAndApplicationsViaInfomediary')">@lang('public.infomediary')</a>® messaging and connectivity platform is deployed to harmonize, translate, and transmit electronic data to facilitate fund distribution efficiency
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.vanward') <a href="javascript:goTo('dataConnectivityAndApplicationsViaInfomediary')">@lang('public.infomediary')</a>® @lang('public.distribution intelligence 10')
             <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;Vanward <a href="javascript:goTo('fundOrderAndCustody')">@lang('public.fund order & custody')</a> includes a proprietary investment fund order and processing platform, Fund WorldView®, which helps connect global asset managers with local financial institutions that buy and hold funds
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.vanward') <a href="javascript:goTo('fundOrderAndCustody')">@lang('public.fund order & custody')</a> @lang('public.distribution intelligence 11')
             <br><br>
-            <strong>Strategy Evaluation: Data Analysis</strong>
+            <strong>@lang('public.distribution intelligence 12')</strong>
             <br><br>
-            Asset managers need to monitor and regularly review the success of their distribution strategy. Based on a client’s transfer agency data, and comparing that to market data, we can help evaluate distribution channel performance in individual markets.
+            @lang('public.distribution intelligence 13')
         </p>
     </div>
     <div class="five columns">
