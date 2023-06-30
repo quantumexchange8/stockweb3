@@ -15,15 +15,10 @@
     <div class="eleven columns">
         <h2>@lang('public.consultants and advisors')</h2>
         <p style="padding-top: 10px;">
-            Consultants and advisors are playing an increasingly significant role in our clients’ strategic
-            decision-making processes, as well as in our own engagement with the industry.
+            @lang('public.consultants and advisors 1')
             <br><br>
-            Vanward has built a discipline around consultant and advisor engagement with two main goals:
-            <br><br>
-            &nbsp;&nbsp;&nbsp;&nbsp;1. To ensure consultants and advisors have the tools they need to help their clients meet their changing and
-            evolving needs. <br>
-            &nbsp;&nbsp;&nbsp;&nbsp;2. To provide a forum for exchanging industry insights and information around capabilities, expertise and
-            services.
+            &nbsp;&nbsp;&nbsp;&nbsp;@lang('public.1'). @lang('public.consultants and advisors 2')<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;@lang('public.2'). @lang('public.consultants and advisors 3')
         </p>
     </div>
     <div class="five columns">

@@ -169,6 +169,7 @@ return [
     "dublin"                                            => "Dublin",
     "luxembourg"                                        => "Luxembourg",
     "global service model"                              => "Global Service Model",
+    "real assets"                                       => "Real Assets",
     "real assets & infrastructure"                      => "Real Assets & Infrastructure",
     "hedge funds"                                       => "Hedge Funds",
     "syndicated and originated debt"                    => "Syndicated And Originated Debt",
@@ -1575,38 +1576,75 @@ return [
     "terms and conditions 19" => "Companies",
     "terms and conditions 20" => "Companies",
     // specialist expertise
-    "specialist expertise 1" => "Companies",
-    "specialist expertise 2" => "Companies",
-    "specialist expertise 3" => "Companies",
-    "specialist expertise 4" => "Companies",
-    "specialist expertise 5" => "Companies",
-    "specialist expertise 6" => "Companies",
-    "specialist expertise 7" => "Companies",
-    "specialist expertise 8" => "Companies",
-    "specialist expertise 9" => "Companies",
+    "specialist expertise 1" => "Vanward focuses on providing specialist expertise to achieve deeper and long-lasting relationships with our
+                                clients, in areas where we feel we can add the most value.
+                                <br><br>
+                                By focusing on providing asset servicing to a select number of leading global asset gatherers, we have
+                                become specialists in cross-border asset servicing, and supporting the most complex asset classes and
+                                investment strategies.
+                                <br><br>
+                                Our experts add real value where it counts, whether it is better regulatory advice, quicker time to market
+                                for new products, operational solutions that lead to lower variable costs, or innovative technology
+                                solutions that lead to lower fixed costs.
+                                <br><br>
+                                We work with clients on what matters most to help them differentiate and grow their businesses in an
+                                increasingly crowded marketplace.",
+    "specialist expertise 2" => "Working with global asset managers to further their global investment and cross-border growth objectives.",
+    "specialist expertise 3" => "Partnering with intermediaries to better serve clients.",
+    "specialist expertise 4" => "Providing comprehensive fund services for all major alternative asset classes and strategies.",
+    "specialist expertise 5" => "Providing insurance expertise and strategic services to sophisticated global (re)insurers and asset managers.",
+    "specialist expertise 6" => "Working with asset managers to provide comprehensive modular solutions for US Funds that meet their evolving needs across the middle and back office.",
+    "specialist expertise 7" => "Providing distribution intelligence to assist asset managers in developing and executing their distribution strategies.",
+    "specialist expertise 8" => "Working with a diverse group of asset managers to introduce and administer global and regional ETF products.",
+    "specialist expertise 9" => "Keeping clients informed of market and regulatory requirements that impact their businesses.",
     "specialist expertise 10" => "Companies",
     "specialist expertise 11" => "Companies",
     "specialist expertise 12" => "Companies",
     // alternative funds
-    "alternative funds 1" => "Companies",
-    "alternative funds 2" => "Companies",
-    "alternative funds 3" => "Companies",
-    "alternative funds 4" => "Companies",
-    "alternative funds 5" => "Companies",
-    "alternative funds 6" => "Companies",
-    "alternative funds 7" => "Companies",
-    "alternative funds 8" => "Companies",
-    "alternative funds 9" => "Companies",
-    "alternative funds 10" => "Companies",
-    "alternative funds 11" => "Companies",
-    "alternative funds 12" => "Companies",
-    "alternative funds 13" => "Companies",
-    "alternative funds 14" => "Companies",
-    "alternative funds 15" => "Companies",
+    "alternative funds 1"   => "Vanward is a leading global service provider for alternative funds. Currently servicing over $275 billion*
+                                in alternative assets, we offer comprehensive custody, administration and related services for all major
+                                alternative asset classes and strategies, across three broad categories:",
+    "alternative funds 2"   => "Hedge and other liquid strategies",
+    "alternative funds 3"   => "Our offering helps clients manage the complexity of their alternative funds business, grow and compete
+    globally, and deliver superior service to their own underlying clients.",
+    "alternative funds 4"   => "Enabling Growth",
+    "alternative funds 5"   => "Vanward works with U.S., European and Asian managers and investors. Our experience in servicing both
+                                traditional and alternative assets for some of the world’s most sophisticated asset managers allows us to
+                                truly understand the servicing requirements of a global and complex product set.
+                                <br><br>
+                                We have developed a scalable and integrated platform for hedge, real assets, private equity and debt funds,
+                                allowing our clients to enjoy the benefits of a single global platform.",
+    "alternative funds 6"   => "Protecting your Brand",
+    "alternative funds 7"   => "Vanward’s success is driven by that of our clients and we focus on protecting their businesses and reputations
+                                as we do our own. We take a prudent approach to managing operational processes for alternative investment
+                                funds, founded on the principles of a privately owned and managed firm with a strong culture of risk
+                                management.
+                                <br><br>
+                                We organize our servicing model around the needs of the client, through a single global team comprising
+                                functions such as Custody, Accounting, Transfer Agency and Financial Reporting. This streamlines operational
+                                requirements and provides consistent, high quality servicing and reporting to both our clients and their
+    investors, regardless of their location or time zone.",
+    "alternative funds 8"   => "Transparency & Integrity",
+    "alternative funds 9"   => "Transparency is of paramount importance to investors in alternative assets and strategies. We focus on
+                                handholding investors and our technology platforms provide the granularity of reporting required to fulfill
+                                complex investor needs.
+                                <br><br>
+                                As a partnership, Vanward has a more personal approach to the way we manage our client relationships offering
+                                direct access to the owners and managers of the firm. This also promotes a more open and transparent
+                                approach.",
+    "alternative funds 10"  => "Companies",
+    "alternative funds 11"  => "Companies",
+    "alternative funds 12"  => "Companies",
+    "alternative funds 13"  => "Companies",
+    "alternative funds 14"  => "Companies",
+    "alternative funds 15"  => "Companies",
     // consultants and advisors
-    "consultants and advisors 1" => "Companies",
-    "consultants and advisors 2" => "Companies",
-    "consultants and advisors 3" => "Companies",
+    "consultants and advisors 1" => "Consultants and advisors are playing an increasingly significant role in our clients’ strategic
+    decision-making processes, as well as in our own engagement with the industry.
+    <br><br>
+    Vanward has built a discipline around consultant and advisor engagement with two main goals:",
+    "consultants and advisors 2" => "To ensure consultants and advisors have the tools they need to help their clients meet their changing and evolving needs.",
+    "consultants and advisors 3" => "To provide a forum for exchanging industry insights and information around capabilities, expertise and services.",
     "consultants and advisors 4" => "Companies",
     // cross border funds
     "cross border funds 1" => "Companies",
