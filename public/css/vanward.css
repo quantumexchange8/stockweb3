@@ -408,16 +408,12 @@ nav input {
     padding: 8px;
     width: 100%;
     font-size: 14px;
-    font-weight: 500;
+    font-weight: bold;
     color: var(--vanward-black);
     /* White text color */
     text-decoration: none;
     background-color: transparent;
     transition: background-color 0.3s ease;
-}
-
-#sidebar ul li a.title {
-    font-weight: 700;
 }
 
 #sidebar ul li a:hover,
@@ -448,6 +444,7 @@ nav input {
     margin-top: 5px;
     margin-left: 5px;
     margin-right: 3px;
+    font-weight: bold;
     color: var(--vanward-black);
     /* White text color */
 }
@@ -457,6 +454,7 @@ nav input {
     margin-top: 7px;
     margin-left: 8px;
     margin-right: 3px;
+    font-weight: bold;
     color: var(--vanward-black);
     /* White text color */
 }
