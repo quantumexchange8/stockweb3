@@ -41,7 +41,7 @@
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('taxableFixedIncomeStrategies')">@lang('public.read more ')</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('taxableFixedIncomeStrategies')">@lang('public.read more')</a></div>
                     </div>
                 </div>
             </div>
@@ -64,13 +64,13 @@
             <div class="card" style="padding: 5px;">
                 <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
                     <h6 style="text-align: left;">
-                        <a href="javascript:goTo('taxExemptFixedIncomeStrategy')">@lang('public.tax-exempt fixed public.tax-exempt fixed income strategy')</a>
+                        <a href="javascript:goTo('taxExemptFixedIncomeStrategy')">@lang('public.tax-exempt fixed income strategy')</a>
                     </h6>
                     <p>@lang('public.fixed income 19')
                     </p>
                     <div class="clear"></div>
                     <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('taxExemptFixedIncomeStrategy')">@lang('public.read more ')</a></div>
+                        <div class="cl-effect-14"><a href="javascript:goTo('taxExemptFixedIncomeStrategy')">@lang('public.read more')</a></div>
                     </div>
                 </div>
             </div>

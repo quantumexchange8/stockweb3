@@ -223,7 +223,7 @@ return [
     "military veterans network"         => "Military Veterans Network",
     "parenting network"                 => "Parenting Network",
     "pride network"                     => "Pride Network",
-    "womens network"                   => "Women's Network",
+    "womens network"                    => "Women's Network",
     "young professionals network"       => "Young Professionals Network",
     "cares"                             => "Cares",
 
@@ -327,7 +327,7 @@ return [
     "conversations on women wealth and leadership past event 14" => "CW&W Charlotte Launch Event",
     "conversations on women wealth and leadership past event 14 caption" => "The Centre for Women and Wealth's inauguration in Charlotte was a tremendous success. Brigid Schulte, author of Overwhelmed: Work, Love, and Play When No One Has Time and director of New America's Better Life Lab, delivered the keynote address. In a business culture, discussions centred on work-life balance and finding time for oneself.",
     "conversations on women wealth and leadership past event 15" => "5th Annual Vanward Women’s Network",
-    "conversations on women wealth and leadership past event 15 caption" => `The Women's Network discussed how to transform "Grit to Great." Caroline Miller, a renowned educator on the relationship between objectives, grit, and happiness, discussed what grit is, why it is important, and how anyone can acquire it. Jackie Fenn, the creator of the Gartner Hype Cycle model, presented her research on the necessity of creativity for a prosperous corporate culture.`,
+    "conversations on women wealth and leadership past event 15 caption" => "The Women's Network discussed how to transform &Prime;Grit to Great.&Prime; Caroline Miller, a renowned educator on the relationship between objectives, grit, and happiness, discussed what grit is, why it is important, and how anyone can acquire it. Jackie Fenn, the creator of the Gartner Hype Cycle model, presented her research on the necessity of creativity for a prosperous corporate culture.",
     "conversations on women wealth and leadership past event 16" => "Next Generation Summit",
     "conversations on women wealth and leadership past event 16 caption" => "Families and clients of Vanward attended the second annual Next Generation Summit, which was a captivating event. Effective communication, entrepreneurship, investing, managing work-life balance, and establishing the financial groundwork for your future were discussed.",
     "conversations on women wealth and leadership past event 17" => "CW&W New York Launch",
@@ -693,7 +693,7 @@ return [
     "fixed income 15" => "Learn how our bottom-up investment strategy incorporates",
     "fixed income 16" => "environmental, social and governance (ESG) considerations.",
     "fixed income 17" => "Independent credit research that identifies exceptional value across fixed-income sectors.",
-    "fixed income 18" => `Actively managed "Pure Play" strategy employed in the inflation-indexed market.`,
+    "fixed income 18" => "Actively managed &Prime;Pure Play&Prime; strategy employed in the inflation-indexed market.",
     "fixed income 19" => "Bottom-up credit research designed to identify subsectors of the U.S. municipal bond market with strong value.",
     "fixed income 20" => "*Obligations such as bonds, notes, loans, leases and other forms of indebtedness issued by obligors other than the U.S. Government and its agencies, excluding Cash and Cash Equivalents, and tabulated at the level of the ultimate obligor or guarantor of the Obligation.",
     // open account
@@ -881,13 +881,13 @@ return [
                                             credit, and inflation risk; investments may be worth more or less than the original cost when redeemed.",
     "taxable fixed income strategies 19" => "Companies",
     // us tips strategy
-    "us tips strategy 1" => `Since the inception of the U.S. TIPS market in 1997, Vanward has been at the forefront of U.S. Treasury
+    "us tips strategy 1" => "Since the inception of the U.S. TIPS market in 1997, Vanward has been at the forefront of U.S. Treasury
                             Inflation-Protected Security (TIPS) research, thought leadership, and active management. Our U.S. TIPS
                             strategy seeks to provide investors with a hedge against future inflation by maintaining predominantly U.S.
                             TIPS investments. Our investment process is focused on the long term and employs a collection of time-tested
                             strategies within inflation-indexed markets, which are diversified to avoid reliance on any one tactical
-                            strategy. This "Pure Play" strategy avoids credit and real-asset exposures, as well as the
-                            unrelated-to-inflation volatility that frequently accompanies them.`,
+                            strategy. This &Prime;Pure Play&Prime; strategy avoids credit and real-asset exposures, as well as the
+                            unrelated-to-inflation volatility that frequently accompanies them.",
     "us tips strategy 2" => "Investment Standards",
     "us tips strategy 3" => "Combining quantitative and qualitative analysis, our independent research serves as the foundation of our investment process. We exploit market inefficiencies in U.S. Treasury Inflation-Protected Securities (TIPS) and non-U.S. inflation-indexed markets using three primary strategy categories:",
     "us tips strategy 4" => "Fundamental Strategies:",
@@ -1489,42 +1489,42 @@ return [
     "securities lending 9"  => "Companies",
     "securities lending 10" => "Companies",
     // fx disclosure statement
-    "fx disclosure statement 1" => `Companies`,
-    "fx disclosure statement 2" => `Companies`,
-    "fx disclosure statement 3" => `Companies`,
-    "fx disclosure statement 4" => `Companies`,
-    "fx disclosure statement 5" => `Companies`,
-    "fx disclosure statement 6" => `Companies`,
-    "fx disclosure statement 7" => `Companies`,
-    "fx disclosure statement 8" => `Companies`,
-    "fx disclosure statement 9" => `Companies`,
-    "fx disclosure statement 10" => `Companies`,
-    "fx disclosure statement 11" => `Companies`,
-    "fx disclosure statement 12" => `Companies`,
-    "fx disclosure statement 13" => `Companies`,
-    "fx disclosure statement 14" => `Companies`,
-    "fx disclosure statement 15" => `Companies`,
-    "fx disclosure statement 16" => `Companies`,
-    "fx disclosure statement 17" => `Companies`,
-    "fx disclosure statement 18" => `Companies`,
-    "fx disclosure statement 19" => `Companies`,
-    "fx disclosure statement 20" => `Companies`,
-    "fx disclosure statement 21" => `Companies`,
-    "fx disclosure statement 22" => `Companies`,
-    "fx disclosure statement 23" => `Companies`,
-    "fx disclosure statement 24" => `Companies`,
-    "fx disclosure statement 25" => `Companies`,
-    "fx disclosure statement 26" => `Companies`,
-    "fx disclosure statement 27" => `Companies`,
-    "fx disclosure statement 28" => `Companies`,
-    "fx disclosure statement 29" => `Companies`,
-    "fx disclosure statement 30" => `Companies`,
-    "fx disclosure statement 31" => `Companies`,
-    "fx disclosure statement 32" => `Companies`,
-    "fx disclosure statement 33" => `Companies`,
-    "fx disclosure statement 34" => `Companies`,
-    "fx disclosure statement 35" => `Companies`,
-    "fx disclosure statement 36" => `Companies`,
+    "fx disclosure statement 1" => "Companies",
+    "fx disclosure statement 2" => "Companies",
+    "fx disclosure statement 3" => "Companies",
+    "fx disclosure statement 4" => "Companies",
+    "fx disclosure statement 5" => "Companies",
+    "fx disclosure statement 6" => "Companies",
+    "fx disclosure statement 7" => "Companies",
+    "fx disclosure statement 8" => "Companies",
+    "fx disclosure statement 9" => "Companies",
+    "fx disclosure statement 10" => "Companies",
+    "fx disclosure statement 11" => "Companies",
+    "fx disclosure statement 12" => "Companies",
+    "fx disclosure statement 13" => "Companies",
+    "fx disclosure statement 14" => "Companies",
+    "fx disclosure statement 15" => "Companies",
+    "fx disclosure statement 16" => "Companies",
+    "fx disclosure statement 17" => "Companies",
+    "fx disclosure statement 18" => "Companies",
+    "fx disclosure statement 19" => "Companies",
+    "fx disclosure statement 20" => "Companies",
+    "fx disclosure statement 21" => "Companies",
+    "fx disclosure statement 22" => "Companies",
+    "fx disclosure statement 23" => "Companies",
+    "fx disclosure statement 24" => "Companies",
+    "fx disclosure statement 25" => "Companies",
+    "fx disclosure statement 26" => "Companies",
+    "fx disclosure statement 27" => "Companies",
+    "fx disclosure statement 28" => "Companies",
+    "fx disclosure statement 29" => "Companies",
+    "fx disclosure statement 30" => "Companies",
+    "fx disclosure statement 31" => "Companies",
+    "fx disclosure statement 32" => "Companies",
+    "fx disclosure statement 33" => "Companies",
+    "fx disclosure statement 34" => "Companies",
+    "fx disclosure statement 35" => "Companies",
+    "fx disclosure statement 36" => "Companies",
     // about vanward
     "about vanward 1" => "Companies",
     "about vanward 2" => "Companies",
@@ -1615,7 +1615,7 @@ return [
                                 alternative asset classes and strategies, across three broad categories:",
     "alternative funds 2"   => "Hedge and other liquid strategies",
     "alternative funds 3"   => "Our offering helps clients manage the complexity of their alternative funds business, grow and compete
-    globally, and deliver superior service to their own underlying clients.",
+                                globally, and deliver superior service to their own underlying clients.",
     "alternative funds 4"   => "Enabling Growth",
     "alternative funds 5"   => "Vanward works with U.S., European and Asian managers and investors. Our experience in servicing both
                                 traditional and alternative assets for some of the world’s most sophisticated asset managers allows us to
@@ -2265,10 +2265,10 @@ return [
                         multicultural context, and a networking reception featuring Indian food, Diwali sweets, music, and
                         games.",
     "asia link 8"   => "Asian Pacific American Heritage Month (US)",
-    "asia link 9"   => `The India Chapter of New York City and Jersey City Asia Link celebrated its launch during Asian
+    "asia link 9"   => "The India Chapter of New York City and Jersey City Asia Link celebrated its launch during Asian
                         Pacific American Heritage Month in the US. The color festival celebration included a Bollywood
-                        musical called "Holi Hai,” offering participants an idea of what it is like to celebrate the
-                        festival in India.`,
+                        musical called &Prime;Holi Hai,&Prime; offering participants an idea of what it is like to celebrate the
+                        festival in India.",
     // black affinity network
     "black affinity 1" => "“I am proud to be part of an organization that celebrates diversity and doesn’t ask people to conform
                             in order to belong. We are naturally curious and look to broaden their knowledge by collaborating
@@ -2368,9 +2368,9 @@ return [
                             Hispanic heritage, we help eliminate cultural barriers to promote an environment that accepts, values,
                             and encourages diversity, as well as helps us succeed in the global marketplace.",
     "latino cultural 4" => "Lunch & Learn Book Discussion",
-    "latino cultural 5" => `LCN New York City hosted a book discussion on "The Power of Latino Leadership: Culture, Inclusion,
-                            and Contribution" by Juana Bordas. Attendees shared their perspectives on the book’s themes of
-                            embracing diversity, valuing people and taking action.`,
+    "latino cultural 5" => "LCN New York City hosted a book discussion on &Prime;The Power of Latino Leadership: Culture, Inclusion,
+                            and Contribution&Prime; by Juana Bordas. Attendees shared their perspectives on the book’s themes of
+                            embracing diversity, valuing people and taking action.",
     "latino cultural 6" => "Hispanic Heritage Month Celebrations in the US",
     "latino cultural 7" => "LCN Jersey City chapter kicked off its celebration of Hispanic Heritage Month with a flagship event
                             that included a volunteer activity, keynote speaker, Latin entertainment and a networking reception.
@@ -2474,13 +2474,13 @@ return [
     communities. We also partner with our Lines of Business to ensure policies and practices are sensitive
     to, and inclusive of, LGBTQ professionals.",
     "pride 4" => "Using Sensitivity & Intelligence to Understand Gender Diversity",
-    "pride 5" => `The Vanward Pride Network presented award-winning transgender storyteller, diversity speaker, educator,
-                and Ted Talk Presenter, Scott Turner Schofield, whose presentation touched on themes of "gender
-                diversity," identity, culture, language, and ally-ship. Scott's presentation included transgender
-                themes and introduced the concept of "inter-sectionality" — answering the question of how biological
+    "pride 5" => "The Vanward Pride Network presented award-winning transgender storyteller, diversity speaker, educator,
+                and Ted Talk Presenter, Scott Turner Schofield, whose presentation touched on themes of &Prime;gender
+                diversity,&Prime; identity, culture, language, and ally-ship. Scott's presentation included transgender
+                themes and introduced the concept of &Prime;inter-sectionality&Prime; — answering the question of how biological
                 sex, gender, and sexuality are influenced by factors including race, socioeconomic status,
                 geographical location, and disability. Scott masterfully wove these topics together, speaking to
-                audience members' varied experiences, both in and out of the workplace.`,
+                audience members' varied experiences, both in and out of the workplace.",
     "pride 6" => "Leading the Way: Vanward Hosts LGBT Workplace Summit in Kraków",
     "pride 7" => "Vanward Kraków Pride members hosted the third in a series of LGBT Symposia with organizations that
                 included US Consulate General, IBM, Shell, HSBC, Cisco, LGBT Business Forum, Heineken, CapGemini,
@@ -2514,15 +2514,15 @@ return [
                     advancing, and retaining women in the workforce - encouraging them to be leaders at every stage of their
                     career.",
     "womens 4" => "Breaking the Mold",
-    "womens 5" => `The Boston Women's Network hosted Dr. Patti Fletcher to discuss success strategies from women who
-                    break the mold. Her message to attendees of our annual Women's Network gathering was "When you open
-                    a door for yourself, it paves a path for those behind you."`,
+    "womens 5" => "The Boston Women's Network hosted Dr. Patti Fletcher to discuss success strategies from women who
+                    break the mold. Her message to attendees of our annual Women's Network gathering was &Prime;When you open
+                    a door for yourself, it paves a path for those behind you.&Prime;",
     "womens 6" => "Day of Transformation",
-    "womens 7" => `The Jersey City Women's Network celebrated a "Day of Transformation," featuring Wanda Durant,
+    "womens 7" => "The Jersey City Women's Network celebrated a &Prime;Day of Transformation,&Prime; featuring Wanda Durant,
                     inspirational speaker, philanthropist, and mother of Kevin Durant, two time NBA MVP Champion with
                     the Golden State Warriors as well as Eric Hutcherson, the NBA's Chief Human Resources Officer.
                     Attendees learned about both personal and professional transformation from two individuals who have
-                    led by evolving themselves through personal experiences and have led change in their organizations.`,
+                    led by evolving themselves through personal experiences and have led change in their organizations.",
     "womens 8" => "Building Business Acumen",
     "womens 9" => "The Kraków Women’s Network recently hosted a professional development event entitled ‘Business,
                     Financial and Strategic Acumen – Career Advice You Probably Didn’t Get. Attendees were encouraged to
@@ -2562,10 +2562,10 @@ return [
                                 Everest! Rob shared his insight into the preparations and challenges of reaching the summit, and
                                 discussed how teams can succeed in some of the world’s most inhospitable environments.",
     "young professionals 11" => "Invest in Yourself and Your Career",
-    "young professionals 12" => `YPN hosted a two-part event series on the themes of “Investing in Yourself" and "Investing in Your
-                                Career." The discussions explored how panelists created their own unique, internal career mobility
+    "young professionals 12" => "YPN hosted a two-part event series on the themes of “Investing in Yourself" and "Investing in Your
+                                Career.&Prime; The discussions explored how panelists created their own unique, internal career mobility
                                 opportunities, and the successes, challenges and humor they have encountered over the course of
-                                their careers.`,
+                                their careers.",
     "young professionals 13" => "Understanding the Generation Gap",
     "young professionals 14" => "YPN Boston hosted speakers from Talent Catalyst to help attendees understand how to bridge the
                                 generation gap by learning how to effectively have conversations, set expectations, and build
@@ -2588,7 +2588,7 @@ return [
                             dedicated to providing you with the necessary tools and resources to take ownership of your career and
                             achieve your long-term goals. Our firm-employee partnership is built on continuous learning and
                             development, and we offer a range of resources to support your professional growth, including:",
-    "career management 2"   => `<li>Performance Management: We emphasize frequent feedback and collaboration between you and your
+    "career management 2"   => "<li>Performance Management: We emphasize frequent feedback and collaboration between you and your
                                     manager. Together, you will create a roadmap that outlines your career goals and the steps
                                     needed to achieve them. Our mid-year and year-end review processes ensure that you receive
                                     formal check-ins to track your progress and make any necessary adjustments.</li>
@@ -2604,11 +2604,11 @@ return [
                                     leaders and tap into their expertise. These mentoring relationships can provide valuable
                                     insights, advice, and support as you progress in your career.</li>
                                     <br>
-                                <li>Driving Your Career: Our structured e-Learning series, "Driving Your Career," is designed to
+                                <li>Driving Your Career: Our structured e-Learning series, &Prime;Driving Your Career,&Prime; is designed to
                                     help you create personalized development plans. This series enables you to identify the elements
                                     of an ideal career fit and evaluate different pathways to enhance your career satisfaction. By
                                     leveraging this resource, you can gain clarity on your professional aspirations and take steps
-                                    towards achieving them.</li>`,
+                                    towards achieving them.</li>",
     "career management 3"   => "At Vanward, we are committed to your professional growth and development. We provide the
                                 necessary support, resources, and opportunities for you to thrive in your current role and advance in
                                 your career. By taking advantage of our performance management processes, development planning
@@ -2666,11 +2666,11 @@ return [
     "ongoing learning 10"   => "Vanward pays for professional
                                 organization membership fees and job-related subscriptions that are directly job related.",
     // signature programs
-    "signature programs 1"  => `Our signature development programs are tailored to Vanward’s ("Vanward") unique culture, helping
+    "signature programs 1"  => "Our signature development programs are tailored to Vanward’s unique culture, helping
                                 you as you progress in your career to grow as a leader, build long-term relationships, and
                                 navigate the global marketplace. Some programs are designed for specific points in your
                                 career, such as a promotion to management, while others employ a competitive selection
-                                process and are available throughout the year. Samplings of our offerings include:`,
+                                process and are available throughout the year. Samplings of our offerings include:",
     "signature programs 2"  => "Development Assignment Program (DAP):",
     "signature programs 3"  => "Highly motivated individuals have the
                                 opportunity to grow their skill set and advance their careers with a two-year assignment in
@@ -2783,32 +2783,52 @@ return [
                                     operations, we meticulously organize our firm, teams, and businesses accordingly. Upholding unwavering
                                     integrity, we refuse to compromise on our principles.",
     // philanthropy
-    "philanthropy 1"    => `Companies`,
-    "philanthropy 2"    => `Companies`,
-    "philanthropy 3"    => `Companies`,
-    "philanthropy 4"    => `Companies`,
-    "philanthropy 5"    => `Companies`,
-    "philanthropy 6"    => `Companies`,
-    "philanthropy 7"    => `Companies`,
-    "philanthropy 8"    => `Companies`,
-    "philanthropy 9"    => `Companies`,
-    "philanthropy 10"   => `Companies`,
-    "philanthropy 11"   => `Companies`,
-    "philanthropy 12"   => `Companies`,
-    "philanthropy 13"   => `Companies`,
-    "philanthropy 14"   => `Companies`,
-    "philanthropy 15"   => `Companies`,
-    "philanthropy 16"   => `Companies`,
-    "philanthropy 17"   => `Companies`,
-    "philanthropy 18"   => `Companies`,
+    "philanthropy 1"    => "Companies",
+    "philanthropy 2"    => "Companies",
+    "philanthropy 3"    => "Companies",
+    "philanthropy 4"    => "Companies",
+    "philanthropy 5"    => "Companies",
+    "philanthropy 6"    => "Companies",
+    "philanthropy 7"    => "Companies",
+    "philanthropy 8"    => "Companies",
+    "philanthropy 9"    => "Companies",
+    "philanthropy 10"   => "Companies",
+    "philanthropy 11"   => "Companies",
+    "philanthropy 12"   => "Companies",
+    "philanthropy 13"   => "Companies",
+    "philanthropy 14"   => "Companies",
+    "philanthropy 15"   => "Companies",
+    "philanthropy 16"   => "Companies",
+    "philanthropy 17"   => "Companies",
+    "philanthropy 18"   => "Companies",
     // policies and disclosures
     "policies and disclosures 1" => "Companies",
     // sustainability
-    "sustainability 1" => "Companies",
-    "sustainability 2" => "Companies",
-    "sustainability 3" => "Companies",
-    "sustainability 4" => "Companies",
-    "sustainability 5" => "Companies",
+    "sustainability 1" => " With over 26 years of experience, Vanward has established itself as a stalwart in the industry.
+                        Sustainability, which entails a resolute dedication to long-term value and well-being, lies at the heart of
+                        our identity. We firmly believe that sustainability is achieved by conducting our business responsibly and
+                        ethically, all the while making positive contributions to our clients, our people, and our communities, with
+                        a view towards future generations.",
+    "sustainability 2" => "“In the present moment, it is imperative that we transcend short-term thinking. Instead, we must embrace
+                        our values, act with integrity, and prioritize the interests of our stakeholders above all else.”",
+    "sustainability 3" => "Each day, our clients entrust us with their investments, operations, and financial aspirations. In order to
+                        safeguard their long-term prosperity, it is essential that we offer considerate and forward-thinking
+                        solutions that align with their values and best interests. Additionally, we have a responsibility to uphold
+                        the continuity, security, and stability of our operations, as well as contribute to the long-term
+                        sustainability of the financial industry as a whole. By fulfilling these commitments, we demonstrate our
+                        dedication to our clients and the enduring success of their endeavors.",
+    "sustainability 4" => "Our people, the exceptional Vanward team, play a crucial role in meeting our clients' needs. They
+                        continuously strive for the highest standards of excellence and integrity. In order to foster innovation and
+                        achieve outstanding performance, we actively recruit and support a diverse range of skills and perspectives
+                        within our team. We are committed to creating an inclusive environment that prioritizes the well-being of
+                        all team members, empowering them to make meaningful contributions and thrive in both their professional and
+                        personal lives. By embracing this approach, we cultivate a dynamic workforce that drives our success and
+                        delivers exceptional service to our clients.",
+    "sustainability 5" => "We recognize that our responsibilities extend far beyond the confines of our office walls, encompassing the
+                        broader communities in which we operate. It is our duty to actively contribute to the well-being of our
+                        planet by minimizing threats to its health. Additionally, we strive to make positive and meaningful
+                        contributions to the communities where we conduct our business. By engaging in these efforts, we aim to
+                        create a lasting and positive impact that extends beyond our immediate sphere of influence.",
     // the partnership
     "the partnership 1" => "Our partnership is characterized by its flat hierarchy, collaboration, and transparency. It serves as an
                             organizational structure that fosters innovation and agility, ensuring that the best ideas swiftly emerge.
@@ -2821,102 +2841,102 @@ return [
                             culture. Consequently, Vanward Partners are well-informed about the firm's operations and actively
                             participate in its daily management and decision-making processes.",
     // legal
-    "legal 1"    => `Companies`,
-    "legal 2"    => `Companies`,
-    "legal 3"    => `Companies`,
-    "legal 4"    => `Companies`,
-    "legal 5"    => `Companies`,
-    "legal 6"    => `Companies`,
-    "legal 7"    => `Companies`,
-    "legal 8"    => `Companies`,
-    "legal 9"    => `Companies`,
-    "legal 10"   => `Companies`,
-    "legal 11"   => `Companies`,
-    "legal 12"   => `Companies`,
-    "legal 13"   => `Companies`,
-    "legal 14"   => `Companies`,
-    "legal 15"   => `Companies`,
-    "legal 16"   => `Companies`,
-    "legal 17"   => `Companies`,
-    "legal 18"   => `Companies`,
-    "legal 19"   => `Companies`,
-    "legal 20"   => `Companies`,
-    "legal 21"   => `Companies`,
-    "legal 22"   => `Companies`,
-    "legal 23"   => `Companies`,
-    "legal 24"   => `Companies`,
-    "legal 25"   => `Companies`,
-    "legal 26"   => `Companies`,
-    "legal 27"   => `Companies`,
-    "legal 28"   => `Companies`,
-    "legal 29"   => `Companies`,
-    "legal 30"   => `Companies`,
-    "legal 31"   => `Companies`,
-    "legal 32"   => `Companies`,
-    "legal 33"   => `Companies`,
-    "legal 34"   => `Companies`,
-    "legal 35"   => `Companies`,
-    "legal 36"   => `Companies`,
-    "legal 37"   => `Companies`,
-    "legal 38"   => `Companies`,
-    "legal 39"   => `Companies`,
-    "legal 40"   => `Companies`,
-    "legal 41"   => `Companies`,
-    "legal 42"   => `Companies`,
-    "legal 43"   => `Companies`,
-    "legal 44"   => `Companies`,
-    "legal 45"   => `Companies`,
-    "legal 46"   => `Companies`,
-    "legal 47"   => `Companies`,
+    "legal 1"    => "Companies",
+    "legal 2"    => "Companies",
+    "legal 3"    => "Companies",
+    "legal 4"    => "Companies",
+    "legal 5"    => "Companies",
+    "legal 6"    => "Companies",
+    "legal 7"    => "Companies",
+    "legal 8"    => "Companies",
+    "legal 9"    => "Companies",
+    "legal 10"   => "Companies",
+    "legal 11"   => "Companies",
+    "legal 12"   => "Companies",
+    "legal 13"   => "Companies",
+    "legal 14"   => "Companies",
+    "legal 15"   => "Companies",
+    "legal 16"   => "Companies",
+    "legal 17"   => "Companies",
+    "legal 18"   => "Companies",
+    "legal 19"   => "Companies",
+    "legal 20"   => "Companies",
+    "legal 21"   => "Companies",
+    "legal 22"   => "Companies",
+    "legal 23"   => "Companies",
+    "legal 24"   => "Companies",
+    "legal 25"   => "Companies",
+    "legal 26"   => "Companies",
+    "legal 27"   => "Companies",
+    "legal 28"   => "Companies",
+    "legal 29"   => "Companies",
+    "legal 30"   => "Companies",
+    "legal 31"   => "Companies",
+    "legal 32"   => "Companies",
+    "legal 33"   => "Companies",
+    "legal 34"   => "Companies",
+    "legal 35"   => "Companies",
+    "legal 36"   => "Companies",
+    "legal 37"   => "Companies",
+    "legal 38"   => "Companies",
+    "legal 39"   => "Companies",
+    "legal 40"   => "Companies",
+    "legal 41"   => "Companies",
+    "legal 42"   => "Companies",
+    "legal 43"   => "Companies",
+    "legal 44"   => "Companies",
+    "legal 45"   => "Companies",
+    "legal 46"   => "Companies",
+    "legal 47"   => "Companies",
     // new account policy
-    "new account policy 1"  => `Important Information About Procedures for Opening a New Account`,
-    "new account policy 2"  => `To help the government fight the funding of terrorism and money laundering activities, Federal law requires
+    "new account policy 1"  => "Important Information About Procedures for Opening a New Account",
+    "new account policy 2"  => "To help the government fight the funding of terrorism and money laundering activities, Federal law requires
                                 all financial institutions to obtain, verify, and record information that identifies each person who opens
                                 an account. Therefore, when you open an account, we will ask for your name, address, date of birth, and
                                 other information that will allow us to identify you. We may also request copies of identification
-                                documents.`,
-    "new account policy 3"  => `Notice to Commercial Account Holders`,
-    "new account policy 4"  => `If you are a commercial customer, please be advised that you are prohibited from engaging in any activity or
+                                documents.",
+    "new account policy 3"  => "Notice to Commercial Account Holders",
+    "new account policy 4"  => "If you are a commercial customer, please be advised that you are prohibited from engaging in any activity or
                                 business that is unlawful under the Unlawful Internet Gambling Enforcement Act of 2006, 31 USC 5361, et
-                                seq., (the "UIGEA"). You may not use your account or any other service we offer to receive any funds
+                                seq., (the &Prime;UIGEA&Prime;). You may not use your account or any other service we offer to receive any funds
                                 transfer, credit, instrument or proceeds that arise out of a business that is unlawful under the UIGEA. If
                                 anyone asks us to process a transaction that we believe is restricted under the UIGEA, we may block the
-                                transaction and take any other action we deem to be reasonable under the UIGEA.`,
+                                transaction and take any other action we deem to be reasonable under the UIGEA.",
     // additional disclosures
-    "additional disclosures 1"  => `The information provided in this material is solely for informational purposes and should not be considered
+    "additional disclosures 1"  => "The information provided in this material is solely for informational purposes and should not be considered
                                     as legal, tax, or investment advice. It does not constitute an offer to sell or a solicitation to buy
                                     securities or investment products. While we strive to gather information from reliable sources, we cannot
                                     guarantee the accuracy, completeness, or fairness of the information presented. This material does not
-                                    constitute an offer of services from Vanward ("Vanward"). Any opinions expressed are subject to change without
+                                    constitute an offer of services from Vanward. Any opinions expressed are subject to change without
                                     prior notice. Links to third-party websites are provided for your convenience and do not imply endorsement
-                                    or recommendation by Vanward of these websites or the products and services they offer.`,
-    "additional disclosures 2"  => `Vanward is not responsible for the accuracy and validity of the content of these third party websites. Any
+                                    or recommendation by Vanward of these websites or the products and services they offer.",
+    "additional disclosures 2"  => "Vanward is not responsible for the accuracy and validity of the content of these third party websites. Any
                                     reference to tax matters is not intended to be used, and may not be used, for purposes of avoiding penalties
                                     under the U.S. Internal Revenue Code or for promotion, marketing or recommendation to third parties.
                                     Unauthorized use or distribution without the prior written permission of Vanward is prohibited. This content is
                                     approved for distribution in member states of the EEA by Vanward Investor Services Limited, authorized and
                                     regulated by the Financial Conduct Authority (FCA). Vanward is a service mark of Vanward, registered in the
-                                    United States and other countries. © Vanward 2023. All rights reserved.`,
+                                    United States and other countries. © Vanward 2023. All rights reserved.",
     // bcp statement
-    "bcp statement 1"   => `Vanward's Business Continuity Planning Program is a comprehensive and ongoing initiative that
+    "bcp statement 1"   => "Vanward's Business Continuity Planning Program is a comprehensive and ongoing initiative that
                             encompasses various measures to ensure the continuity of our operations. These include implementing
                             preventative measures, conducting ongoing risk management, developing recovery plans for all business units
                             and systems, testing the plans, providing BCP training to senior management, business unit planners, and
-                            employees, as well as fostering safety awareness and effective event management.`,
-    "bcp statement 2"   => `Our Business Continuity Planning program encompasses scenario-based plans that address a range of events,
+                            employees, as well as fostering safety awareness and effective event management.",
+    "bcp statement 2"   => "Our Business Continuity Planning program encompasses scenario-based plans that address a range of events,
                             including natural risks, technology risks, and human risks. This approach enables us to effectively manage
                             business interruptions of different scales and impacts by leveraging geographically dispersed staff,
                             alternative processing locations, and redundant infrastructure. We conduct regular and extensive testing of
-                            our BCP arrangements to ensure their effectiveness.`,
-    "bcp statement 3"   => `While it is impossible to guarantee uninterrupted service, Vanward is well-positioned to maintain a high level
+                            our BCP arrangements to ensure their effectiveness.",
+    "bcp statement 3"   => "While it is impossible to guarantee uninterrupted service, Vanward is well-positioned to maintain a high level
                             of client service during any interruption. For detailed information about our Business Continuity Planning
                             Program, please reach out to your Relationship Manager, who will be able to provide you with further
-                            details.`,
+                            details.",
     // confidential ethics reporting
-    "confidential ethics reporting 1" => `This system makes it easy to report possible illegal or unethical activity.`,
-    "confidential ethics reporting 2" => `Convercent Anonymous Reporting`,
+    "confidential ethics reporting 1" => "This system makes it easy to report possible illegal or unethical activity.",
+    "confidential ethics reporting 2" => "Convercent Anonymous Reporting",
     // data protection notice
-    "data protection notice 1"      => `This notice is to make you aware of how the personal data that you provide to Vanward is processed. In this
+    "data protection notice 1"      => "This notice is to make you aware of how the personal data that you provide to Vanward is processed. In this
                                         notice, “Vanward” means one or more of the following Vanward entities with which you are contracted: Vanward
                                         Trustee Services (Ireland) Limited, Vanward Fund Administration Services (Ireland) Limited, Vanward Investor
                                         Services Limited (UK), Vanward (Luxembourg) S.C.A.
@@ -2928,8 +2948,8 @@ return [
                                         your business relationship with us, the information in this notice is relevant to such individuals, and we
                                         request that you make this information available to them.
                                         <br><br>
-                                        By continuing to provide us with personal data, you confirm that:`,
-    "data protection notice 2"      => `1. All personal data that you provide to Vanward has been collected, processed and provided to Vanward in
+                                        By continuing to provide us with personal data, you confirm that:",
+    "data protection notice 2"      => "1. All personal data that you provide to Vanward has been collected, processed and provided to Vanward in
                                         compliance with applicable laws, including the GDPR; <br>
                                         2. All such personal data is accurate, relevant, limited to what is necessary for the purposes for which
                                         you <br>
@@ -2937,49 +2957,45 @@ return [
                                         When you provide personal data to Vanward for the express purpose of being forwarded to a jurisdiction that
                                         does not have equivalent protections for personal data as those in the EU, you have informed the
                                         relevant individuals whose personal data you are providing to us in accordance with GDPR and obtained
-                                        specific, unambiguous and freely given consent from them.`,
-    "data protection notice 3"      => `GDPR Compliance`,
-    "data protection notice 4"      => `Vanward will process any personal data that you provide in accordance with the GDPR. Vanward has implemented
+                                        specific, unambiguous and freely given consent from them.",
+    "data protection notice 3"      => "GDPR Compliance",
+    "data protection notice 4"      => "Vanward will process any personal data that you provide in accordance with the GDPR. Vanward has implemented
                                         technical and organizational measures to provide an appropriate level of security for such personal data.
-                                        Vanward shall act as a Data Controller under the GDPR with respect to such processing.`,
-    "data protection notice 5"      => `Purposes and Legal Basis of Processing`,
-    "data protection notice 6"      => `1. To perform its obligations under its agreement(s) with you; <br>
+                                        Vanward shall act as a Data Controller under the GDPR with respect to such processing.",
+    "data protection notice 5"      => "Purposes and Legal Basis of Processing",
+    "data protection notice 6"      => "1. To perform its obligations under its agreement(s) with you; <br>
                                         2. To communicate with you and to otherwise maintain and develop our business relationship, including
                                         providing you information about our products and services; and <br>
                                         3. To comply with applicable laws, rules and regulations, including, but not limited to, those relating to
-                                        anti-money laundering, sanctions screening and taxation.`,
-    "data protection notice 7"      => `Will only process personal data for the purposes for which it has been provided to us, unless otherwise
+                                        anti-money laundering, sanctions screening and taxation.",
+    "data protection notice 7"      => "Will only process personal data for the purposes for which it has been provided to us, unless otherwise
                                         permitted by applicable law.
                                         <br><br>
                                         The legal bases upon which Vanward will process personal data are Vanward’s legitimate interest in operating its
-                                        business and to comply with laws, rules and regulations to which Vanward is subject.`,
-    "data protection notice 8"      => `Recipients of Personal Data`,
-    "data protection notice 9"      => `In processing personal data for the purposes identified above, we may transfer or disclose such personal
-                                        data to the following entities and their personnel and agents:`,
-    "data protection notice 10"     => `1. Vanward’s affiliates; <br>
+                                        business and to comply with laws, rules and regulations to which Vanward is subject.",
+    "data protection notice 8"      => "Recipients of Personal Data",
+    "data protection notice 9"      => "In processing personal data for the purposes identified above, we may transfer or disclose such personal data to the following entities and their personnel and agents:",
+    "data protection notice 10"     => "1. Vanward’s affiliates; <br>
                                         2. Vanward’s agents, network and service providers, including those providing audit, legal, tax, sub custody
                                         and information technology services; and <br>
-                                        3. Regulatory agencies with jurisdiction over Vanward, as required by applicable law.`,
-                                        "data protection notice 11"     => `Vanward will comply with the GDPR when transferring personal data to a recipient outside of the European
-    Economic Area.`,
-    "data protection notice 12"     => `Storage Limitation`,
-    "data protection notice 13"     => `Vanward will retain personal data only for as long as is reasonably necessary for the purpose for which it was
-                                        provided, except to the extent Vanward is required to retain such personal data for a longer period of time by
-                                        applicable laws, rules and regulations.`,
-    "data protection notice 14"     => `Individuals’ Rights`,
-    "data protection notice 15"     => `Individuals have a right to obtain a copy of, and the right to rectify any inaccuracies in, the personal
+                                        3. Regulatory agencies with jurisdiction over Vanward, as required by applicable law.",
+                                        "data protection notice 11"     => "Vanward will comply with the GDPR when transferring personal data to a recipient outside of the European
+    Economic Area.",
+    "data protection notice 12"     => "Storage Limitation",
+    "data protection notice 13"     => "Vanward will retain personal data only for as long as is reasonably necessary for the purpose for which it was provided, except to the extent Vanward is required to retain such personal data for a longer period of time by applicable laws, rules and regulations.",
+    "data protection notice 14"     => "Individuals’ Rights",
+    "data protection notice 15"     => "Individuals have a right to obtain a copy of, and the right to rectify any inaccuracies in, the personal
                                         data Vanward holds about them by making a request to us in writing. Such individuals also have certain rights
                                         under the GDPR to request erasure, restriction, and portability, and to not be subject to a decision based
                                         on automated processing (including profiling). An individual seeking to assert any such rights should
                                         contact Vanward using the email address set out below. Vanward will respond to such a request in writing, or
                                         orally, if requested, as soon as practicable, but in any event within the time frame prescribed by
-                                        applicable law.`,
-    "data protection notice 16"     => `Individuals also have the right to lodge a complaint with the relevant data protection supervisory authority
-                                        if they are unhappy with how Vanward personal data is processing their personal data.`,
-    "data protection notice 17"     => `Contact`,
-    "data protection notice 18"     => `Please address requests to Vanward by email at`,
-    "data protection notice 19"     => `This publication is provided by Vanward and its subsidiaries ("Vanward") to recipients, who are classified as
-                                        Professional Clients or Eligible Counterparties if in the European Economic Area ("EEA"), solely for
+                                        applicable law.",
+    "data protection notice 16"     => "Individuals also have the right to lodge a complaint with the relevant data protection supervisory authority if they are unhappy with how Vanward personal data is processing their personal data.",
+    "data protection notice 17"     => "Contact",
+    "data protection notice 18"     => "Please address requests to Vanward by email at",
+    "data protection notice 19"     => "This publication is provided by Vanward and its subsidiaries to recipients, who are classified as
+                                        Professional Clients or Eligible Counterparties if in the European Economic Area (&Prime;EEA&Prime;), solely for
                                         informational purposes. This does not constitute legal, tax or investment advice and is not intended as an
                                         offer to sell or a solicitation to buy securities or investment products. Any reference to tax matters is
                                         not intended to be used, and may not be used, for purposes of avoiding penalties under the U.S. Internal
@@ -2989,57 +3005,40 @@ return [
                                         or distribution without the prior written permission of Vanward is prohibited. This publication is approved for
                                         distribution in member states of the EEA by Vanward Investor Services Limited, authorized and regulated by
                                         the Financial Conduct Authority (FCA). Vanward is a service mark of Vanward, registered in the United States
-                                        and other countries. © Vanward 2023. All rights reserved.`,
+                                        and other countries. © Vanward 2023. All rights reserved.",
     // online security
-    "online security 1"     => `Last Updated: November 11, 2022`,
-    "online security 2"     => `Be aware of potential threats, steps you can take to protect yourself, staying informed and
-                                reporting Fraud or Suspicious Activity to Vanward ("Vanward").`,
-    "online security 3"     => `At Vanward, the security of our client’s information is paramount. As part of our Information Security Program,
-                                we employ technology and processes to protect our clients’ information. However, there are steps you can
-                                take to help further protect your information.
+    "online security 1"     => "Last Updated: November 11, 2022",
+    "online security 2"     => 'Be aware of potential threats, steps you can take to protect yourself, staying informed and reporting Fraud or Suspicious Activity to Vanward ("Vanward").',
+    "online security 3"     => "At Vanward, the security of our client’s information is paramount. As part of our Information Security Program, we employ technology and processes to protect our clients’ information. However, there are steps you can take to help further protect your information.
                                 <br><br>
-                                The purpose of this page is to provide you with suggestions regarding actions that you can take to ensure
-                                the protection of your information.`,
-    "online security 4"     => `Be aware of potential threats`,
-    "online security 5"     => `To protect your information, it is important to be vigilant to the potential threats that exist today. Cyber
-                                criminals looking to obtain confidential and/or personal information from an individual or company often
-                                employ deceptive techniques to “trick” people into readily handing over such information (i.e., phishing) or
-                                unwittingly opening themselves up for security attacks (i.e., spoofing). These techniques can include, but
-                                are not limited to, emails appearing to be from legitimate sources, internet “pop-ups”, and online
-                                advertisements hiding malicious viruses or malware, fake websites, etc.
+                                The purpose of this page is to provide you with suggestions regarding actions that you can take to ensure the protection of your information.",
+    "online security 4"     => "Be aware of potential threats",
+    "online security 5"     => "To protect your information, it is important to be vigilant to the potential threats that exist today. Cyber criminals looking to obtain confidential and/or personal information from an individual or company often employ deceptive techniques to “trick” people into readily handing over such information (i.e., phishing) or unwittingly opening themselves up for security attacks (i.e., spoofing). These techniques can include, but are not limited to, emails appearing to be from legitimate sources, internet “pop-ups”, and online advertisements hiding malicious viruses or malware, fake websites, etc.
                                 <br><br>
-                                In today’s world, it is critical to be cautious when accessing and sharing your personal and confidential
-                                information online and in your daily interactions. The following are some important considerations to be
-                                mindful of while performing your daily business and personal routines:`,
-    "online security 6"     => `Vanward's website address is`,
-    "online security 7"     => `All legitimate communications from Vanward will come from a
-                                wgaml.com domain. All others should be considered suspect. If you have any questions about Vanward's website or
-                                suspect you may have received a suspicious Vanward link or Vanward email you may call your Vanward Relationship
-                                Manager or contact Vanward at any of our main locations.
+                                In today’s world, it is critical to be cautious when accessing and sharing your personal and confidential information online and in your daily interactions. The following are some important considerations to be mindful of while performing your daily business and personal routines:",
+    "online security 6"     => "Vanward's website address is",
+    "online security 7"     => "All legitimate communications from Vanward will come from a wgaml.com domain. All others should be considered suspect. If you have any questions about Vanward's website or suspect you may have received a suspicious Vanward link or Vanward email you may call your Vanward Relationship Manager or contact Vanward at any of our main locations.
                                 <br><br>
-                                Be cautious of any emails requesting personal or confidential information. Under no circumstances will Vanward
-                                ever contact you on an unsolicited basis (by telephone, email or otherwise) and request that you provide
-                                your logon credentials, electronic banking or other personal information.
+                                Be cautious of any emails requesting personal or confidential information. Under no circumstances will Vanward ever contact you on an unsolicited basis (by telephone, email or otherwise) and request that you provide your logon credentials, electronic banking or other personal information.
                                 <br><br>
                                 Do not share personal information with anyone whom you are not familiar with or trust.
                                 <br><br>
                                 Access your accounts regularly and monitor activity for possible fraud.
                                 <br><br>
-                                Institutional banking clients should perform information security risk assessments of the related controls
-                                in their environments periodically in accordance with their institutions applicable programs.
+                                Institutional banking clients should perform information security risk assessments of the related controls in their environments periodically in accordance with their institutions applicable programs.
                                 <br><br>
                                 Not all public Wi-Fi networks are secure, especially in café's, hotels and airports. Learn what to look for
-                                and how to protect yourself when using these networks.`,
-    "online security 8"     => `Steps you can take to protect yourself`,
-    "online security 9"     => `In addition to being aware of potential online security threats, there are several steps that can be taken
+                                and how to protect yourself when using these networks.",
+    "online security 8"     => "Steps you can take to protect yourself",
+    "online security 9"     => "In addition to being aware of potential online security threats, there are several steps that can be taken
                                 to enhance the security of computer, network or personal devices. Below are some points to consider for
                                 protecting the integrity of personal and confidential information on these devices. For additional
                                 information, please refer to the Stay Informed section below.
                                 <br><br>
                                 For all internet capable devices, refer to your device's security protocols for a complete list of security
-                                related options, and consider the following:`,
-    "online security 10"    => `Securing the Computer`,
-    "online security 11"    => `<li>Enable automatic updates on security software</li>
+                                related options, and consider the following:",
+    "online security 10"    => "Securing the Computer",
+    "online security 11"    => "<li>Enable automatic updates on security software</li>
                                 <li>Enable personal firewalls as a protective barrier between the user and the internet</li>
                                 <li>Operating systems should be updated to the latest version</li>
                                 <li>Patches from the vendor should be updated on a regular basis</li>
@@ -3047,16 +3046,16 @@ return [
                                 <li>Web browsers should be configured to use the strongest encryption available</li>
                                 <li>Virus protection and anti-spyware software should be installed and updated regularly</li>
                                 <li>Periodic full scans should be performed</li>
-                                <li>Where possible, access to the device should be limited to only the required individuals</li>`,
-    "online security 12"    => `Securing Wireless Networks`,
-    "online security 13"    => `<li>Wireless networks should be configured to use the strongest encryption available and password
+                                <li>Where possible, access to the device should be limited to only the required individuals</li>",
+    "online security 12"    => "Securing Wireless Networks",
+    "online security 13"    => "<li>Wireless networks should be configured to use the strongest encryption available and password
                                     protected</li>
                                 <li>Older, out dated wireless equipment should be replaced with newer, more secure models</li>
                                 <li>Default router names and default passwords that were assigned by the manufacturer should be
                                     changed during installation</li>
-                                <li>Wireless networks should be disabled if they are not going to be used for long periods of time</li>`,
-    "online security 14"    => `Securing Personal and Confidential Information`,
-    "online security 15"    => `<li>Where possible, passwords should be complex and unique to each individual account</li>
+                                <li>Wireless networks should be disabled if they are not going to be used for long periods of time</li>",
+    "online security 14"    => "Securing Personal and Confidential Information",
+    "online security 15"    => '<li>Where possible, passwords should be complex and unique to each individual account</li>
                                 <li>Passwords should be kept secure and not shared with anyone</li>
                                 <li>Sharing personal and confidential information should be limited to trusted individuals and
                                     should only be provided as required via secure websites</li>
@@ -3064,9 +3063,9 @@ return [
                                     email systems are not secure</li>
                                 <li>Important files should be backed up on a regular basis</li>
                                 <li>Always "logout" of online sessions when exiting to ensure the session is completely terminated
-                                    -simply closing the browser may not terminate the sessions completely</li>`,
-    "online security 16"    => `Securing Mobile Devices`,
-    "online security 17"    => `<li>Enable the password lock functionality</li>
+                                    -simply closing the browser may not terminate the sessions completely</li>',
+    "online security 16"    => "Securing Mobile Devices",
+    "online security 17"    => "<li>Enable the password lock functionality</li>
                                 <li>Enable idle timeout to automatically lock the device when not in use</li>
                                 <li>Operating systems and installed applications should be kept up to date</li>
                                 <li>Where possible, encrypt data residing on personal devices</li>
@@ -3074,41 +3073,41 @@ return [
                                     data
                                     storage media</li>
                                 <li>Simply deleting the file names may not permanently remove the data so use the device's wipe features, or
-                                    look for products designed to prepare a device for disposal</li>`,
-    "online security 18"    => `Stay Informed`,
-    "online security 19"    => `There are many resources available online that provide information and tips about staying secure while on
+                                    look for products designed to prepare a device for disposal</li>",
+    "online security 18"    => "Stay Informed",
+    "online security 19"    => "There are many resources available online that provide information and tips about staying secure while on
                                 the internet. Take the time and stay informed.
                                 <br><br>
                                 The Federal Trade Commission's (FTC) website is a resource for institutions and individuals alike.
                                 Throughout the site, there are tips and information on preventative security and what to do in case of
-                                fraud. Click this link for more information:`,
-    "online security 20"    => `Privacy Identity Online Security`,
-    "online security 21"    => `The Department of Homeland Security (DHS) website has many topics and links about the responsibilities of
-                                the DHS including many useful tips and information sources. Click this link for more information:`,
-    "online security 22"    => `Cybersecurity`,
-    "online security 23"    => `Reporting Fraud or suspicious activity to Vanward
+                                fraud. Click this link for more information:",
+    "online security 20"    => "Privacy Identity Online Security",
+    "online security 21"    => "The Department of Homeland Security (DHS) website has many topics and links about the responsibilities of
+                                the DHS including many useful tips and information sources. Click this link for more information:",
+    "online security 22"    => "Cybersecurity",
+    "online security 23"    => "Reporting Fraud or suspicious activity to Vanward
                                 <br><br>
                                 If you have a question regarding any Vanward correspondence, or suspect any suspicious or fraudulent activity,
                                 please contact us at any one of our locations or by calling your Vanward Relationship Manager directly.
                                 <br><br>
-                                Locations can be viewed here:`,
-    "online security 24"    => `Office Locations`,
+                                Locations can be viewed here:",
+    "online security 24"    => "Office Locations",
     // regulation e
-    "regulation e 1" => `Federal Reserve Board Regulation E provides for the rights, liabilities and responsibilities of our consumer
+    "regulation e 1" => "Federal Reserve Board Regulation E provides for the rights, liabilities and responsibilities of our consumer
                         clients who use certain electronic funds transfer services. Regulation E does not apply to wire transfers.
-                        For more information on Regulation E, please refer to this link and the relevant account agreements:`,
+                        For more information on Regulation E, please refer to this link and the relevant account agreements:",
     // cookie policy
-    "cookie policy 1"    => `IMPORTANT NOTICE: PLEASE READ BEFORE USING THIS WEBSITE:`,
-    "cookie policy 2"    => `Last Updated: 29 May 2022`,
-    "cookie policy 3"    => `Vanward and all other related affiliates and subsidiaries (collectively “Vanward”, “we” or “us”)
+    "cookie policy 1"    => "IMPORTANT NOTICE: PLEASE READ BEFORE USING THIS WEBSITE:",
+    "cookie policy 2"    => "Last Updated: 29 May 2022",
+    "cookie policy 3"    => 'Vanward and all other related affiliates and subsidiaries (collectively “Vanward”, “we” or “us”)
                             use cookies, web beacons and similar technologies ("Cookies") to store information, enhance
                             your web browsing experience and improve the functionality of our websites. The information
                             set out in this Cookie Policy is provided in addition to and should be read alongside our
-                            Privacy Policy, which can be found at`,
-    "cookie policy 4"    => `Websites covered by this Cookie Policy`,
-    "cookie policy 5"    => `<p>This Cookie Policy explains how Cookies are used on wgaml.com and other websites operated by
+                            Privacy Policy, which can be found at',
+    "cookie policy 4"    => "Websites covered by this Cookie Policy",
+    "cookie policy 5"    => "<p>This Cookie Policy explains how Cookies are used on wgaml.com and other websites operated by
                                 us from which you are accessing this Cookie Policy (collectively referred to as the
-                                "Sites").</p>
+                                &Prime;Sites&Prime;).</p>
                             <p>The policy may be amended from time to time. When it is amended, we will let you know by
                                 posting the revised policy on this page with a new “Last Updated” date.  If you do not
                                 wish to accept Cookies from our Sites please either disable Cookies in your web browser
@@ -3116,18 +3115,18 @@ return [
                             <p>This Cookie Policy does not apply to those websites that have their own cookie policy or to
                                 websites of other companies or entities that are linked to this website. To learn about the
                                 privacy and cookie policies of a linked site, please refer to the privacy or cookie policy
-                                for that site.</p>`,
-    "cookie policy 6"    => `What this Cookie Policy covers`,
-    "cookie policy 7"    => `This Cookie Policy covers:`,
-    "cookie policy 8"    => `<li>What are Cookies and similar technologies;</li>
+                                for that site.</p>",
+    "cookie policy 6"    => "What this Cookie Policy covers",
+    "cookie policy 7"    => "This Cookie Policy covers:",
+    "cookie policy 8"    => "<li>What are Cookies and similar technologies;</li>
                             <li>Who sets Cookies;</li>
                             <li>How long do Cookies last;</li>
                             <li>Cookies used on our Sites;</li>
                             <li>Refusing or managing Cookies on our Sites;</li>
                             <li>Cookies and emails; and</li>
-                            <li>How to contact us.</li>`,
-    "cookie policy 9"    => `What are Cookies and similar technologies?`,
-    "cookie policy 10"   => `<p>Cookies are text files containing small amounts of information downloaded to your computer or
+                            <li>How to contact us.</li>",
+    "cookie policy 9"    => "What are Cookies and similar technologies?",
+    "cookie policy 10"   => "<p>Cookies are text files containing small amounts of information downloaded to your computer or
                                 device when you visit a website. Cookies are then sent back to the originating site on each
                                 subsequent visit, or to another site that recognizes that cookie. Cookies are useful because
                                 they allow a site to recognize a user’s device.</p>
@@ -3146,10 +3145,10 @@ return [
                                 changing the settings on your browser.  For more information on how to do this, please
                                 visit our Managing Cookies page.  However, if you disable Cookies and similar
                                 technologies, your experience on the Sites may be diminished and some features may not work
-                                as intended.</p>`,
-    "cookie policy 11"   => `You can find more information about Cookies and similar technologies at:`,
-    "cookie policy 12"   => `Who sets Cookies?`,
-    "cookie policy 13"   => `<p>Cookies may be set by our Sites or by another site prior to or during your visit to our
+                                as intended.</p>",
+    "cookie policy 11"   => "You can find more information about Cookies and similar technologies at:",
+    "cookie policy 12"   => "Who sets Cookies?",
+    "cookie policy 13"   => "<p>Cookies may be set by our Sites or by another site prior to or during your visit to our
                                 Sites. These are known as ‘first party’ and ‘third party’ Cookies.</p>
                             <p>First party Cookies belong to the website domain that appears in the browser address bar.</p>
                             <p>Third-party Cookies belong to website domains different from the one shown in the address
@@ -3157,12 +3156,12 @@ return [
                                 elements of the Services (for example, video clips) may also set Cookies on your device
                                 during a visit to one of our Sites.   </p>
                             <p><em>How long do Cookies last?</em></p>
-                            <p>Cookies can be placed either for an individual "session" or on a "persistent" basis.</p>
-                            <p>"Session Cookies” are temporary and will expire at the end of a browser session; that is,
+                            <p>Cookies can be placed either for an individual &Prime;session&Prime; or on a &Prime;persistent&Prime; basis.</p>
+                            <p>&Prime;Session Cookies&Prime; are temporary and will expire at the end of a browser session; that is,
                                 when you leave a website. Session Cookies allow a website to recognize you and carry
                                 information as you navigate between pages during a single browser session and allow you to
                                 use the website efficiently.</p>
-                            <p>"Persistent Cookies" remain in the file of your browser even after you leave a website and
+                            <p>&Prime;Persistent Cookies&Prime; remain in the file of your browser even after you leave a website and
                                 after the browser is closed. These Cookies remain valid until their set expiry date (unless
                                 deleted by the user before the expiry date). These Cookies allow a website to collect and
                                 analyze (on an anonymous basis) traffic and use of the website, monitor the system and
@@ -3173,68 +3172,68 @@ return [
                                 the extent any personal information, such as IP address, is collected through Cookies, our
                                 Privacy Policy applies and complements this Cookie Policy.  The Cookies used on our
                                 Sites have been categorized on the basis of the categories found in the International
-                                Chamber of Commerce UK Cookie guide issued in April 2012.</p>`,
-    "cookie policy 14"   => `Strictly necessary Cookies`,
-    "cookie policy 15"   => `- These Cookies are essential in order to
-                enable you to move around the site and use its features, such as accessing secure areas of
-                the site. Without these Cookies the Services cannot be provided.</p>
-            <p>We categorize the following Cookie as strictly necessary:`,
-    "cookie policy 16"   => `Registered Visitor Cookie for INFUSE, our client portal - If a visitor to our Site logs
-                    into INFUSE, our secure client portal, the Site will place the ID cookie on the user’s
-                    computer to uniquely identify the user throughout the user’s interaction with
-                    INFUSE.  This cookie expires twenty-four (24) hours after it is issued, or when the
-                    user logs out from the portal or closes their browser.  The INFUSE portal will not
-                    operate without this cookie.`,
-    "cookie policy 17"   => `Performance Cookies`,
-    "cookie policy 18"   => `- These Cookies collect information about how
-                visitors use a site, for instance which pages visitors go to most often, and if they get
-                error messages from web pages. These Cookies don't collect information that identifies a
-                visitor. All information these Cookies collect is anonymous and is only used to improve how
-                a site works.`,
-    "cookie policy 19"   => `We categorize the following as performance Cookies:`,
-    "cookie policy 20"   => `<li>Referrer URL (internal page) - Used to store the URL of the previous page visited.
-                    Allows us to track how visitors navigate through our Sites.</li>
-                <li>Referrer URL - Used to store the URL which refers a visitor to our Sites so we may
-                    understand what URLs are referring visitors.</li>
-                <li>URL History - Used to store the page visited by a user before that user submits a form.
-                    Also, used to display recently viewed articles to each visitor.</li>
-                <li>Unregistered Visitor Cookie - A unique identifier given to each visitor to allow
-                    analysis on how unregistered visitors use our site.</li>
-                <li>Session Management Cookies - These Cookies allow us to follow the actions of a user
-                    during a browser session. A browser session starts when a user opens the browser window
-                    and finishes when they close their browser window. Our session management Cookies are
-                    created temporarily. Once you close your browser, our session management Cookies are
-                    deleted.<br></li>`,
-    "cookie policy 21"   => `Functionality Cookies`,
-    "cookie policy 22"   => `- These Cookies allow a site to remember choices
-                you make (such as your user name, language or the region you are in) and provide enhanced,
-                more personal features. For instance, a site may be able to provide you with local
-                information by storing in a Cookie the region in which you are currently located. These
-                Cookies can also be used to remember changes you have made to text size, font and other
-                parts of web pages that you can customize. They may also be used to provide services you
-                have asked for such as watching a video or commenting on a blog. Subject to applicable legal
-                restrictions, we may use information collected from our Cookies to identify user behavior
-                and to serve content and information on products and services based on your profile. We may
-                pass or share this information within Vanward for marketing or analysis purposes. However, we
-                will not be able to associate this information with your name, unless you have previously
-                provided your contact information to us and are opening or clicking on a link in an email
-                which you have received from us.`,
-    "cookie policy 23"   => `These Cookies cannot track your browsing activity on other websites. They don’t gather any
-                information about you that could be used for advertising or remembering where you’ve been on
-                the internet outside our site.`,
-    "cookie policy 24"   => `We categorize the following as functionality Cookies:`,
-    "cookie policy 25"   => `<li>Recently viewed pages - Stores pages visited by the user on our Sites and displays them
-                    in right hand navigation for easy reference.</li>
-                <li>Search history - Stores searches on our Sites conducted by the user and displays them
-                    for the user in the right-hand navigation for easy reference.</li>`,
-    "cookie policy 26"   => `Refusing or Managing Cookies on our Sites`,
-    "cookie policy 27"   => `If you want to remove existing Cookies from your device, you can do this using your browser
-                options. If you want to block future Cookies being placed on your device or would like to
-                prohibit website tracking, you can change your browser settings to do this.  For
-                instructions on how to manage your Cookie preferences across various browsers, visit our
-                Managing Cookies page or visit the following third party site:`,
-    "cookie policy 28"   => `Instructions must be followed on each browser separately.`,
-    "cookie policy 29"   => `<p>Deleting and blocking Cookies will have an impact on your user experience as parts of the
+                                Chamber of Commerce UK Cookie guide issued in April 2012.</p>",
+    "cookie policy 14"   => "Strictly necessary Cookies",
+    "cookie policy 15"   => "- These Cookies are essential in order to
+                                enable you to move around the site and use its features, such as accessing secure areas of
+                                the site. Without these Cookies the Services cannot be provided.</p>
+                            <p>We categorize the following Cookie as strictly necessary:",
+    "cookie policy 16"   => "Registered Visitor Cookie for INFUSE, our client portal - If a visitor to our Site logs
+                            into INFUSE, our secure client portal, the Site will place the ID cookie on the user’s
+                            computer to uniquely identify the user throughout the user’s interaction with
+                            INFUSE.  This cookie expires twenty-four (24) hours after it is issued, or when the
+                            user logs out from the portal or closes their browser.  The INFUSE portal will not
+                            operate without this cookie.",
+    "cookie policy 17"   => "Performance Cookies",
+    "cookie policy 18"   => "- These Cookies collect information about how
+                            visitors use a site, for instance which pages visitors go to most often, and if they get
+                            error messages from web pages. These Cookies don't collect information that identifies a
+                            visitor. All information these Cookies collect is anonymous and is only used to improve how
+                            a site works.",
+    "cookie policy 19"   => "We categorize the following as performance Cookies:",
+    "cookie policy 20"   => "<li>Referrer URL (internal page) - Used to store the URL of the previous page visited.
+                                Allows us to track how visitors navigate through our Sites.</li>
+                            <li>Referrer URL - Used to store the URL which refers a visitor to our Sites so we may
+                                understand what URLs are referring visitors.</li>
+                            <li>URL History - Used to store the page visited by a user before that user submits a form.
+                                Also, used to display recently viewed articles to each visitor.</li>
+                            <li>Unregistered Visitor Cookie - A unique identifier given to each visitor to allow
+                                analysis on how unregistered visitors use our site.</li>
+                            <li>Session Management Cookies - These Cookies allow us to follow the actions of a user
+                                during a browser session. A browser session starts when a user opens the browser window
+                                and finishes when they close their browser window. Our session management Cookies are
+                                created temporarily. Once you close your browser, our session management Cookies are
+                                deleted.<br></li>",
+    "cookie policy 21"   => "Functionality Cookies",
+    "cookie policy 22"   => "- These Cookies allow a site to remember choices
+                            you make (such as your user name, language or the region you are in) and provide enhanced,
+                            more personal features. For instance, a site may be able to provide you with local
+                            information by storing in a Cookie the region in which you are currently located. These
+                            Cookies can also be used to remember changes you have made to text size, font and other
+                            parts of web pages that you can customize. They may also be used to provide services you
+                            have asked for such as watching a video or commenting on a blog. Subject to applicable legal
+                            restrictions, we may use information collected from our Cookies to identify user behavior
+                            and to serve content and information on products and services based on your profile. We may
+                            pass or share this information within Vanward for marketing or analysis purposes. However, we
+                            will not be able to associate this information with your name, unless you have previously
+                            provided your contact information to us and are opening or clicking on a link in an email
+                            which you have received from us.",
+    "cookie policy 23"   => "These Cookies cannot track your browsing activity on other websites. They don’t gather any
+                            information about you that could be used for advertising or remembering where you’ve been on
+                            the internet outside our site.",
+    "cookie policy 24"   => "We categorize the following as functionality Cookies:",
+    "cookie policy 25"   => "<li>Recently viewed pages - Stores pages visited by the user on our Sites and displays them
+                                in right hand navigation for easy reference.</li>
+                            <li>Search history - Stores searches on our Sites conducted by the user and displays them
+                                for the user in the right-hand navigation for easy reference.</li>",
+    "cookie policy 26"   => "Refusing or Managing Cookies on our Sites",
+    "cookie policy 27"   => "If you want to remove existing Cookies from your device, you can do this using your browser
+                            options. If you want to block future Cookies being placed on your device or would like to
+                            prohibit website tracking, you can change your browser settings to do this.  For
+                            instructions on how to manage your Cookie preferences across various browsers, visit our
+                            Managing Cookies page or visit the following third party site:",
+    "cookie policy 28"   => "Instructions must be followed on each browser separately.",
+    "cookie policy 29"   => "<p>Deleting and blocking Cookies will have an impact on your user experience as parts of the
                                 Sites may no longer work. Unless you have adjusted your browser settings to block Cookies,
                                 our system will issue Cookies as soon you visit our Sites, even if you have previously
                                 deleted our Cookies.</p>
@@ -3245,5 +3244,101 @@ return [
                                 information to assess the performance of our email campaigns, understand which content is
                                 resonating, and track responses to our event communications.</p>
                             <p><em>How to contact us</em></p>
-                            <p>If you have questions or comments about this policy please contact`,
+                            <p>If you have questions or comments about this policy please contact",
+    // manage cookies
+    "manage cookies 1"    => "<p>Based on your browser version, browser settings, and device settings, the below instructions
+    may vary for each user.</p>
+<p>Note: Changes made to your cookie settings as described below will change your settings for
+    all websites accessed from the appropriate browser (unless you update them again at a later
+    date). While disabling cookies will not impact your ability to access the  content on
+    this website, all sites operate differently. You may experience reduced functionality on
+    other websites you visit.</p>
+<br>
+<h3>Please follow these instructions to <em>delete </em>your cookies based on your browser</h3>",
+    "manage cookies 2"    => "Chrome",
+    "manage cookies 3"    => "<p>Go to settings (3 dots in the upper right of the browser window)</p>
+    <p>Select “More Tools”</p>
+    <p>Select “Clear Browsing Data”</p>
+    <p>Select “Cookies and other site data”</p>
+    <p>Click the “Clear Data” button<br> </p>",
+    "manage cookies 4"    => "Mobile Chrome",
+    "manage cookies 5"    => "<p>Tap the menu button at the lower right of the screen (3 stacked dots)</p>
+    <p>Choose “Settings”</p>
+    <p>Under Privacy, tap “Clear Browsing Data”</p>
+    <p>On the next screen, select “Cookies, Site Data” to uncheck this selection and tap the “Clear
+        Browsing Data” link</p>
+    <p>Select “Done” </p>",
+    "manage cookies 6"    => "Firefox",
+    "manage cookies 7"    => "<p>Select the stacked line menu in the upper right (3 lines)</p>
+    <p>Select “Options”</p>
+    <p>Navigate to “Privacy and Security” in the left-side navigation</p>
+    <p>Under the “History” heading, click the link “Clear History”</p>
+    <p>Under “Time range to clear,” select “Everything”</p>
+    <p>Using the “Details” drop down, make sure “Cookies” is checked and click the “Clear Now”
+        button<br> </p>",
+    "manage cookies 8"    => "Microsoft Edge",
+    "manage cookies 9"    => "<p>Open the menu (3 dots in upper right)</p>
+    <p>Select “Settings”</p>
+    <p>Under “Clear browsing data,” select “Choose What to Clear”</p>
+    <p>Select “Cookies and saved website data” and click the “Clear” button<br> </p>",
+    "manage cookies 10"   => "Internet Explorer",
+    "manage cookies 11"   => "<p>Open the settings menu (gear icon in upper right)</p>
+                            <p>Under “Internet Options,” navigate to the “General” tab and scroll down to the “Browsing History”</p>
+                            <p>Select &Prime;Cookies and website data&Prime;</p>
+                            <p>Click the &Prime;Delete&Prime; button<br> </p>
+                            <p>Note: Make sure that the “preserve websites favorites data” box is unchecked<br> </p>",
+    "manage cookies 12"   => "Safari",
+    "manage cookies 13"   => "<p>Select the Safari &gt; Preferences menu item</p>
+                            <p>Select the “Privacy” tab</p>
+                            <p>Click “Manage Website Data” and click the “Remove All” button<br> </p>",
+    "manage cookies 14"   => "Mobile Safari",
+    "manage cookies 15"   => "<p>Open the “Settings” app on your iPhone</p>
+                            <p>Scroll down and tap “Safari”</p>
+                            <p>Scroll down and tap “Clear History and Website Data”</p>
+                            <p>Confirm and tap the “Clear browsing data” button<br> </p>
+                            <h3>Please follow these instructions to <em>disable </em>your cookies based on your browser</h3>",
+    "manage cookies 16"   => "Chrome",
+    "manage cookies 17"   => "<p>Click the 3 dots in the upper right corner</p>
+                                <p>Click “Settings”</p>
+                                <p>Using the left hand navigation, click “Advanced to reveal a dropdown menu</p>
+                                <p>Click “Privacy and Security” and scroll down to “Content Settings”</p>
+                                <p>Click “Content Settings”</p>
+                                <p>Click “Cookies”</p>
+                                <p>Turn off “Allow sites to save and read cookie data”<br> </p>",
+    "manage cookies 18"   => "Mobile Chrome",
+    "manage cookies 19"   => "<p>Tap the menu button at the lower right of the screen (3 stacked dots)</p>
+                            <p>Choose “Settings”</p>
+                            <p>Select “Site Settings”</p>
+                            <p>Turn off cookies and deselect “Allow third party cookies”<br> </p>",
+    "manage cookies 20"   => "Firefox",
+    "manage cookies 21"   => "<p>Select the stacked line menu in the upper right (3 lines)</p>
+                            <p>Select “Options”</p>
+                            <p>Navigate to “Privacy and Security” in the left-side navigation</p>
+                            <p>Under the “History” heading, select “Use custom settings for history&Prime; under the dropdown menu
+                            </p>
+                            <p>Uncheck “Accept cookies from websites”<br> </p>",
+    "manage cookies 22"   => "Microsoft Edge",
+    "manage cookies 23"   => "<p>Open the menu (3 dots in upper right)</p>
+    <p>Select “Settings”</p>
+    <p>Scroll down to “Advanced settings” and click “View Advanced Settings”</p>
+    <p>Under the “Cookies” section, select “Block all cookies”<br> </p>",
+    "manage cookies 24"   => "Internet Explorer",
+    "manage cookies 25"   => "<p>Open the settings menu (gear icon in upper right)</p>
+    <p>Under “Internet Options” navigate to the “Privacy” tab and click “Advanced”</p>
+    <p>Select “block” for each type of cookie you want to block (first party and third party)</p>
+    <p>Click “OK” when finished<br> </p>",
+    "manage cookies 26"   => "Safari",
+    "manage cookies 27"   => "<p>Select the Safari menu</p>
+                            <p>Select &Prime;Preferences&Prime;</p>
+                            <p>Click &Prime;Privacy&Prime;</p>
+                            <p>Under “Cookies and website data,&Prime; select “Always block”<br> </p>",
+    "manage cookies 28"   => "Mobile Safari",
+    "manage cookies 29"   => "<p>Open the “Settings” app on your iPhone</p>
+                            <p>Scroll down and tap “Safari”</p>
+                            <p>Under “Privacy and Security,” tap “Block Cookies” toggle to activate</p>",
+    // personal information request
+    "personal information 1"    => "At Vanward, our purpose is clear and concise: to safeguard our clients' financial well-being and
+                                    foster the growth of their assets over extended periods. Placing our clients at the forefront of our
+                                    operations, we meticulously organize our firm, teams, and businesses accordingly. Upholding unwavering
+                                    integrity, we refuse to compromise on our principles.",
 ];

@@ -3,7 +3,7 @@
         <span>
             <a href="https://vanwardintl.com/">@lang('public.home')</a>&nbsp;&nbsp;>
             <a href="javascript:goTo('ourFirm')">@lang('public.our firm')</a>&nbsp;&nbsp;>
-            &nbsp;&nbsp;<strong>@lang('public.the partnership')</strong>
+            &nbsp;&nbsp;<strong>@lang('public.sustainability')</strong>
         </span>
     </div>
     <br><br>
@@ -12,45 +12,29 @@
 <div class="container">
 
     <div class="eleven columns">
-        <h2>@lang('public.the partnership')</h2>
+        <h2>@lang('public.sustainability')</h2>
         <p style="padding-top: 10px;">
-            With over 26 years of experience, Vanward has established itself as a stalwart in the industry.
-            Sustainability, which entails a resolute dedication to long-term value and well-being, lies at the heart of
-            our identity. We firmly believe that sustainability is achieved by conducting our business responsibly and
-            ethically, all the while making positive contributions to our clients, our people, and our communities, with
-            a view towards future generations.
+            @lang('public.sustainability 1')
 
             <span style="font-style: italic;">
-                “In the present moment, it is imperative that we transcend short-term thinking. Instead, we must embrace
-                our values, act with integrity, and prioritize the interests of our stakeholders above all else.”
+                @lang('public.sustainability 2')
+
             </span>
         </p>
         <h2>@lang('public.our clients')</h2>
         <p style="padding-top: 10px;">
-            Each day, our clients entrust us with their investments, operations, and financial aspirations. In order to
-            safeguard their long-term prosperity, it is essential that we offer considerate and forward-thinking
-            solutions that align with their values and best interests. Additionally, we have a responsibility to uphold
-            the continuity, security, and stability of our operations, as well as contribute to the long-term
-            sustainability of the financial industry as a whole. By fulfilling these commitments, we demonstrate our
-            dedication to our clients and the enduring success of their endeavors.
+            @lang('public.sustainability 3')
+
         </p>
         <h2>@lang('public.our people')</h2>
         <p style="padding-top: 10px;">
-            Our people, the exceptional Vanward team, play a crucial role in meeting our clients' needs. They
-            continuously strive for the highest standards of excellence and integrity. In order to foster innovation and
-            achieve outstanding performance, we actively recruit and support a diverse range of skills and perspectives
-            within our team. We are committed to creating an inclusive environment that prioritizes the well-being of
-            all team members, empowering them to make meaningful contributions and thrive in both their professional and
-            personal lives. By embracing this approach, we cultivate a dynamic workforce that drives our success and
-            delivers exceptional service to our clients.
+            @lang('public.sustainability 4')
+
         </p>
         <h2>@lang('public.our communities')</h2>
         <p style="padding-top: 10px;">
-            We recognize that our responsibilities extend far beyond the confines of our office walls, encompassing the
-            broader communities in which we operate. It is our duty to actively contribute to the well-being of our
-            planet by minimizing threats to its health. Additionally, we strive to make positive and meaningful
-            contributions to the communities where we conduct our business. By engaging in these efforts, we aim to
-            create a lasting and positive impact that extends beyond our immediate sphere of influence.
+            @lang('public.sustainability 5')
+
         </p>
     </div>
     <div class="five columns">
