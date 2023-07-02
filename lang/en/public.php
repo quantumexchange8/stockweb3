@@ -16,6 +16,7 @@ return [
     "fx disclosure statement"               => "FX Disclosure Statement",
     "fx terms and conditions"               => "FX Terms & Conditions",
     "and"                                   => "and",
+    "or"                                   => "or",
     "our"                                   => "our",
     "we provide"                            => "We provide",
     "administration"                        => "administration",
@@ -1488,101 +1489,336 @@ return [
     "securities lending 8"  => "Companies",
     "securities lending 9"  => "Companies",
     "securities lending 10" => "Companies",
-    // fx disclosure statement
-    "fx disclosure statement 1" => "Companies",
-    "fx disclosure statement 2" => "Companies",
-    "fx disclosure statement 3" => "Companies",
-    "fx disclosure statement 4" => "Companies",
-    "fx disclosure statement 5" => "Companies",
-    "fx disclosure statement 6" => "Companies",
-    "fx disclosure statement 7" => "Companies",
-    "fx disclosure statement 8" => "Companies",
-    "fx disclosure statement 9" => "Companies",
-    "fx disclosure statement 10" => "Companies",
-    "fx disclosure statement 11" => "Companies",
-    "fx disclosure statement 12" => "Companies",
-    "fx disclosure statement 13" => "Companies",
-    "fx disclosure statement 14" => "Companies",
-    "fx disclosure statement 15" => "Companies",
-    "fx disclosure statement 16" => "Companies",
-    "fx disclosure statement 17" => "Companies",
-    "fx disclosure statement 18" => "Companies",
-    "fx disclosure statement 19" => "Companies",
-    "fx disclosure statement 20" => "Companies",
-    "fx disclosure statement 21" => "Companies",
-    "fx disclosure statement 22" => "Companies",
-    "fx disclosure statement 23" => "Companies",
-    "fx disclosure statement 24" => "Companies",
-    "fx disclosure statement 25" => "Companies",
-    "fx disclosure statement 26" => "Companies",
-    "fx disclosure statement 27" => "Companies",
-    "fx disclosure statement 28" => "Companies",
-    "fx disclosure statement 29" => "Companies",
-    "fx disclosure statement 30" => "Companies",
-    "fx disclosure statement 31" => "Companies",
-    "fx disclosure statement 32" => "Companies",
-    "fx disclosure statement 33" => "Companies",
-    "fx disclosure statement 34" => "Companies",
-    "fx disclosure statement 35" => "Companies",
-    "fx disclosure statement 36" => "Companies",
-    // about vanward
-    "about vanward 1" => "Companies",
-    "about vanward 2" => "Companies",
-    "about vanward 3" => "Companies",
-    "about vanward 4" => "Companies",
-    "about vanward 5" => "Companies",
-    "about vanward 6" => "Companies",
-    "about vanward 7" => "Companies",
+    // fx disclosure
+    "fx disclosure 1"   => "Introduction
+                            <br><br>
+                            This FX Disclosure Statement (“Statement”) describes the relationship between clients and Vanward (“Vanward”)1
+                            and/or its affiliates (collectively “Vanward”) and discloses certain practices of Vanward in pricing, handling and
+                            executing FX transactions in relation to its currency dealing business or currency execution services
+                            business. Vanward may provide other products and/or services to clients, however unless explicitly referenced
+                            herein such products and/or services are not contemplated in this Statement.
+                            <br><br>
+                            This Statement supplements but does not supersede contracts governing the relationships between clients and
+                            Vanward. In case of any conflict between this Statement and a contract, the contract shall take precedence.
+                            <br><br>
+                            Clients who have questions about this Statement or how Vanward prices, handles or executes FX transactions may
+                            contact their FX Relationship Manager.",
+    "fx disclosure 2"   => "General practices",
+    "fx disclosure 3"   => "Communication methods",
+    "fx disclosure 4"   => "Clients may communicate with Vanward electronically, by phone or through other permissible channels.2 Vanward may,
+                            at its discretion, agree to accept certain client instructions via email. Clients may be required to execute
+                            certain documents and/or meet specific Vanward requirements prior to Vanward accepting such instructions via
+                            email.",
+    "fx disclosure 5"   => "Information handling",
+    "fx disclosure 6"   => "Vanward has in place policies and procedures reasonably designed to protect the confidentiality of client and
+                            counterparty information by restricting the dissemination and use of confidential information. These
+                            policies and procedures generally restrict the dissemination of client confidential information to parties
+                            who ‘need to know’ in order to execute transactions or otherwise perform under the agreed upon arrangement,
+                            and manage subsequent events related to such execution or performance. They also provide that client
+                            confidential information may only be used for legitimate business purposes to provide a product, perform a
+                            service or conduct oversight of a product or service that Vanward has been contracted, or is expected, to
+                            perform. However, Vanward may use sufficiently aggregated and anonymized client confidential information to
+                            form views on market trends that it may share with clients (for example, market color). Additionally, as a
+                            regulated entity, Vanward may be required to share client confidential information with relevant global
+                            regulators.",
+    "fx disclosure 7"   => "Conflicts of interest",
+    "fx disclosure 8"   => "Although Vanward takes all reasonable steps to prevent conflicts of interest from adversely affecting the
+                            interests of its clients, Vanward’s own interest may at times conflict with the interests of its clients and
+                            its clients’ interests may conflict with one another. For example, Vanward may execute transactions and carry
+                            positions in various FX products including spot, forwards (including non-deliverable forwards) and swaps on
+                            its book in connection with actual or anticipated client trade requests, hedging strategies or otherwise.
+                            Vanward’s activities in connection with such transactions and positions could impact prices and available
+                            liquidity, potentially to the detriment of a client. When Vanward accepts and attempts to fill a client order,
+                            it may be engaged in FX trading activities for its own benefit in the same or similar FX products. Where
+                            Vanward provides other products and/or services to a client, the provision of such products and/or services may
+                            also lead to other conflicts of interest.",
+    "fx disclosure 9"   => "Vanward transacts with clients in a principal capacity",
+    "fx disclosure 10"  => "Vanward executes FX transactions on a principal basis as counterparty to its clients. When acting in a
+                            principal capacity, Vanward: (i) trades for its own account, at its own risk, for its benefit; and (ii) does
+                            not act as an agent, fiduciary, financial advisor or other similar capacity for or on behalf of clients.
+                            Clients who trade with Vanward acting in a principal capacity are expected to independently evaluate the
+                            appropriateness of any proposed transaction. Furthermore, any statement(s) made by Vanward trading personnel or
+                            distributed through a Vanward electronic system must not be construed or relied upon as advice or a
+                            recommendation.",
+    "fx disclosure 11"  => "Pricing",
+    "fx disclosure 12"  => "Any price quotes or streaming rates Vanward provides are an ‘all in’ indicative price. Vanward exercises
+                            discretion in tailoring its indicative pricing for individual clients / transactions taking into account a
+                            variety of commercial factors. These factors may include, but are not limited to: (i) prevailing market
+                            conditions; (ii) the size of the order; (iii) time of day; (iv) liquidity of the currency(ies); (v) Vanward’s
+                            relationship with the client; (vi) the costs Vanward may incur in connection with the transaction; and (vii)
+                            the credit, settlement, operational and other risks of the transaction. Vanward may differentiate its
+                            indicative pricing by trading venue, platform or communication method. As such, Vanward may provide different
+                            indicative prices for the same or similar transactions to different clients. Vanward may change its pricing
+                            strategies without notice and is not obliged to disclose the components of its ‘all in’ price.
+                            <br><br>
+                            Vanward may from time to time agree to execute orders using alternative pricing arrangements (see for example,
+                            Benchmark and fixing rates and Algorithms).",
+    "fx disclosure 13"  => "Pre-hedging and pre-positioning",
+    "fx disclosure 14"  => "Vanward may engage in pre-hedging and hedging activities based on its knowledge of its clients’ trading
+                            activities. Vanward will endeavor to conduct such pre-hedging and hedging activities in a manner that does not
+                            disadvantage clients and with an intent to avoid materially impacting market prices. Vanward conducts
+                            pre-hedging and hedging activities on a principal basis in respect of its principal activities, at its own
+                            risk, and not as an agent for clients.",
+    "fx disclosure 15"  => "Benchmark and fixing rates",
+    "fx disclosure 16"  => "Vanward may agree to execute a client order based on a benchmark or fixing rate. While Vanward does not
+                            intentionally attempt to affect benchmark or fixing rates, it may engage in hedging or other FX activities
+                            that may impact ultimate benchmark or fixing rates.",
+    "fx disclosure 17"  => "Order handling",
+    "fx disclosure 18"  => "When Vanward acknowledges, accepts or states that it is willing to ‘work’ a client order, it will attempt but
+                            is not contractually bound to execute the trade at or near the requested price and quantity. Vanward is not
+                            obligated to accept client orders and may accept or reject any order for any reason in its sole discretion.
+                            The fact that a condition to which an order is subject (for example, a stop loss order) has been triggered
+                            does not mean that Vanward can or will complete the order at the requested price and/or quantity. Vanward may
+                            sequence / prioritize client orders in its sole discretion and may aggregate client orders for the purpose
+                            of pricing.",
+    "fx disclosure 19"  => "Handling of requests received via electronic trading platforms (Last look)",
+    "fx disclosure 20"  => "Any price quotes or streaming rates that Vanward provides are an ‘all in’ indicative price. Clients may submit
+                            an electronic trade request (an offer) to trade with Vanward in response to such ‘all in’ indicative prices
+                            and, if so, Vanward may accept or reject that electronic trade request in its sole discretion.",
+    "fx disclosure 21"  => "Algorithmic trading",
+    "fx disclosure 22"  => "Vanward may employ algorithmic trading strategies in executing principal FX trades for its own risk management
+                            purposes. Vanward may also provide clients access to its algorithmic execution service (“Algo Execution
+                            Service”). The Algo Execution Service allow a client to request to enter into an FX transaction with Vanward,
+                            at a price based on rate(s) derived from offsetting trade(s) between Vanward and liquidity provider(s) and
+                            subject to any agreed upon mark-ups/downs by Vanward. Under the Algo Execution Service, the aforementioned
+                            offsetting trade(s) between Vanward and liquidity provider(s) would be arrived at based on the client’s
+                            requested algorithm and other parameters in accordance with the applicable Algorithmic Execution Terms &
+                            Conditions.",
+    "fx disclosure 23"  => "Agency FX",
+    "fx disclosure 24"  => "Currency Execution Services",
+    "fx disclosure 25"  => "Vanward Investor Services Limited (“VanwardISL”) may agree to act as an agent in executing client trades with
+                            client designated clearing brokers or approved bank counterparties as a part of its Currency Execution
+                            Services (“CES trades”). The pricing of CES trades will be based upon rates derived from a panel of
+                            liquidity providers plus, as applicable, a prearranged fee. Agency trades are conducted in accordance with
+                            the VanwardISL Order Handling Policy. VanwardISL may delegate responsibility for discharging certain functions
+                            related to CES trades to Vanward, which also engages in a principal trading business. As such, there is a risk
+                            of a conflict of interest between Vanward’s agency and principal trading businesses.
+                            <br><br>
+                            VanwardISL may in its discretion aggregate the CES trades of multiple clients for pricing purposes. While it is
+                            unlikely that the aggregation of orders and transactions will work overall to the disadvantage of any client
+                            whose orders are to be aggregated, the effect of aggregation may work to a client’s disadvantage in relation
+                            to a particular order.",
+    "fx disclosure 26"  => "Other Agency activities",
+    "fx disclosure 27"  => "In certain other instances, Vanward may execute FX transactions as an agent for its clients. In such instances,
+                            Vanward acts as an agent solely for purposes of execution and does not otherwise act as an agent, fiduciary,
+                            financial advisor or other similar capacity for or on behalf of clients.",
+    "fx disclosure 28"  => "Pre-hedging and pre-positioning",
+    "fx disclosure 29"  => "VanwardISL does not engage in pre-hedging or pre-positioning when acting in an agency capacity.
+                            <br><br>
+                            ¹ As of the date of publication of this Statement, Vanward is the only Vanward entity that executes FX
+                            transactions on a principal basis. <br>
+                            ² Vanward may record phone communications as permitted under applicable local rules.",
     // regulatory reporting requirements
-    "regulatory reporting requirements 1" => "Companies",
-    "regulatory reporting requirements 2" => "Companies",
-    "regulatory reporting requirements 3" => "Companies",
-    "regulatory reporting requirements 4" => "Companies",
-    "regulatory reporting requirements 5" => "Companies",
-    "regulatory reporting requirements 6" => "Companies",
-    "regulatory reporting requirements 7" => "Companies",
-    "regulatory reporting requirements 8" => "Companies",
-    "regulatory reporting requirements 9" => "Companies",
-    "regulatory reporting requirements 10" => "Companies",
-    "regulatory reporting requirements 11" => "Companies",
-    "regulatory reporting requirements 12" => "Companies",
-    "regulatory reporting requirements 13" => "Companies",
-    "regulatory reporting requirements 14" => "Companies",
-    "regulatory reporting requirements 15" => "Companies",
-    "regulatory reporting requirements 16" => "Companies",
-    "regulatory reporting requirements 17" => "Companies",
-    "regulatory reporting requirements 18" => "Companies",
-    "regulatory reporting requirements 19" => "Companies",
-    "regulatory reporting requirements 20" => "Companies",
-    "regulatory reporting requirements 21" => "Companies",
-    "regulatory reporting requirements 22" => "Companies",
-    "regulatory reporting requirements 23" => "Companies",
-    "regulatory reporting requirements 24" => "Companies",
-    "regulatory reporting requirements 25" => "Companies",
-    "regulatory reporting requirements 26" => "Companies",
-    "regulatory reporting requirements 27" => "Companies",
-    "regulatory reporting requirements 28" => "Companies",
-    "regulatory reporting requirements 29" => "Companies",
+    "regulatory reporting requirements 1" => "In accordance with relevant Dodd-Frank/CFTC reporting requirements, Vanward (“Vanward”) began reporting certain
+                                                Covered FX Transactions to its swap data repository, DTCC Data Repository (U.S.) LLC, on April 10, 2013.",
+    "regulatory reporting requirements 2" => "COVERED FX TRANSACTIONS",
+    "regulatory reporting requirements 3" => "Covered FX Transactions include all foreign exchange (“FX”) forward, FX swap and/or swap transactions
+                                                executed with Vanward as principal, either (1) before July 21, 2010, but were still outstanding on July 21,
+                                                2010, or (2) on or after July 21, 2010.
+                                                <br><br>
+                                                Covered FX Transactions do not include spot transactions (i.e., FX trades with a T+2 settlement date or
+                                                otherwise constituting bona fide spot transactions), which are generally excluded from Dodd-Frank reporting.
+                                                Vanward will treat any FX transaction with a tenor of T+3 or greater as a spot transaction if (i) sufficient
+                                                details relating to the underlying security trade are provided to Vanward at the time of execution, or (ii)
+                                                Vanward has concluded that such FX transaction is a bona fide spot transaction (e.g., by virtue of the trading
+                                                relationship, e.g., FX transaction instructed via a custody FX standing instruction or Vanward’s InfoFX
+                                                product). Otherwise, Vanward will treat such FX transaction as an FX forward subject to Dodd-Frank reporting. .",
+    "regulatory reporting requirements 4" => "REPORTING COUNTERPARTY",
+    "regulatory reporting requirements 5" => "Vanward is and will be the reporting counterparty in respect of a Covered FX Transaction, unless:
+                                                <br><br>
+                                                Vanward’s trading counterparty is a swap dealer (whether or not also a US Person);
+                                                Vanward’s trading counterparty is a major swap participant (whether or not also a US Person); or
+                                                Vanward’s trading counterparty is a US Person and a financial entity (and not a swap dealer or a major swap
+                                                participant) that has requested that it be the reporting counterparty.",
+    "regulatory reporting requirements 6" => "TRADING COUNTERPARTY INFO",
+    "regulatory reporting requirements 7" => "To confirm its role as reporting counterparty and to ensure accurate and complete reporting, Vanward will
+                                                require the following information from its trading counterparties:
+                                                <br><br>
+                                                Trading counterparty’s Legal Entity Identifier (“LEI”) or Global Markets Entity Identifier (“GMEI”).[1]
+                                                Whether the trading counterparty is a US Person;
+                                                Whether the trading counterparty is a registered swap dealer or major swap participant; and
+                                                Whether the trading counterparty is a financial entity.
+                                                <br><br>
+                                                Vanward also expects to be promptly notified in the event of changes to the above.
+                                                <br><br>
+                                                In its reporting of a Covered FX Transaction, Vanward will reach out to a trading counterparty for its LEI/GMEI
+                                                if Vanward had not already been provided with that information, or for assurances to demonstrate that the
+                                                Covered FX Transaction was in fact a bona fide spot transaction. If neither is provided to the satisfaction
+                                                of Vanward, Vanward will report the Covered FX Transaction using a Vanward internal identifier.
+                                                <br><br>
+                                                Please direct any Dodd Frank inquiries to your Vanward relationship manager or to FXReg.reports@wgaml.com.
+                                                <br><br>
+                                                [1] LEI/GMEI information not applicable to Covered FX Transactions that expired or terminated prior to April
+                                                25, 2011.
+                                                <br><br>
+                                                In accordance with relevant transaction reporting requirements adopted by Canadian provincial regulators,
+                                                Vanward (“Vanward”) began reporting certain Covered FX Transactions to its designated trade repository, DTCC
+                                                Data Repository (U.S.) LLC, on October 31, 2014.",
+    "regulatory reporting requirements 8" => "COVERED FX TRANSACTIONS",
+    "regulatory reporting requirements 9" => "Covered FX Transactions include all foreign exchange (“FX”) forward, FX swap and/or swap transactions
+                                                executed with Vanward, as principal, either on or after October 31, 2014 with a Canadian local counterparty.
+                                                <br><br>
+                                                A “local counterparty” is, at the time of the transaction: (a) a person or company organized under the laws
+                                                of, or having its head office or principal place of business in the respective Canadian province, or (b) an
+                                                affiliate of an entity described in (a) where the entity in (a) has guaranteed all or substantially all of
+                                                the liabilities of its affiliate.
+                                                <br><br>
+                                                Covered FX Transactions do not include spot transactions which are defined as a contract or instrument for
+                                                the purchase and sale of currency that (i) requires settlement within T+2 or after T+2 provided that the
+                                                contract or instrument was entered into contemporaneously with a related security trade and requires
+                                                settlement on or before the relevant security trade settlement deadline, (ii) is intended, at the time of
+                                                execution, to be settled by the delivery of the currency within the time periods set out in (i) above, and
+                                                (iii) does not allow for the contract or instrument to be rolled over.
+                                                <br><br>
+                                                Vanward will generally treat any FX transaction with a tenor of T+3 or greater as a spot transaction if (i)
+                                                sufficient details relating to the underlying security trade are provided to Vanward at the time of execution,
+                                                or (ii) Vanward has concluded that such FX transaction is a spot transaction (e.g., by virtue of the trading
+                                                relationship, e.g., FX transaction instructed via a custody FX standing instruction or Vanward’s InfoFX
+                                                product). Otherwise, Vanward will treat such FX transaction as an FX forward subject to Canadian provincial
+                                                regulator trade reporting.",
+    "regulatory reporting requirements 10" => "REPORTING COUNTERPARTY",
+    "regulatory reporting requirements 11" => "Vanward is and will be the reporting counterparty in respect of a Covered FX Transaction, unless:
+                                                <br><br>
+                                                Vanward’s trading counterparty is a Canadian dealer or derivatives dealer that has agreed to be the reporting
+                                                counterparty; or
+                                                Vanward’s trading counterparty is a Canadian local counterparty (and not a Canadian dealer or derivatives
+                                                dealer) that has requested that it be the reporting counterparty.",
+    "regulatory reporting requirements 12" => "TRADING COUNTERPARTY INFO",
+    "regulatory reporting requirements 13" => "To confirm its role as reporting counterparty and to ensure accurate and complete reporting, Vanward will
+                                                require the following information from its trading counterparties:
+                                                <br><br>
+                                                Trading counterparty’s Legal Entity Identifier (“LEI”) or Global Markets Entity Identifier (“GMEI”);
+                                                Whether the trading counterparty is a Canadian dealer or derivatives dealer; and
+                                                Whether the trading counterparty is a Canadian local counterparty.
+                                                <br><br>
+                                                Vanward also expects to be promptly notified in the event of changes to the above.
+                                                <br><br>
+                                                In its reporting of a Covered FX Transaction, Vanward will reach out to a trading counterparty for its LEI/GMEI
+                                                if Vanward had not already been provided with that information, or for assurances to demonstrate that the
+                                                Covered FX Transaction was a spot transaction meeting the requirements above.
+                                                <br><br>
+                                                Please direct any Canadian provincial regulator trade reporting inquiries to your Vanward relationship
+                                                manager.",
     // terms and conditions
-    "terms and conditions 1" => "Companies",
-    "terms and conditions 2" => "Companies",
-    "terms and conditions 3" => "Companies",
-    "terms and conditions 4" => "Companies",
-    "terms and conditions 5" => "Companies",
-    "terms and conditions 6" => "Companies",
-    "terms and conditions 7" => "Companies",
-    "terms and conditions 8" => "Companies",
-    "terms and conditions 9" => "Companies",
-    "terms and conditions 10" => "Companies",
-    "terms and conditions 11" => "Companies",
-    "terms and conditions 12" => "Companies",
-    "terms and conditions 13" => "Companies",
-    "terms and conditions 14" => "Companies",
-    "terms and conditions 15" => "Companies",
-    "terms and conditions 16" => "Companies",
-    "terms and conditions 17" => "Companies",
-    "terms and conditions 18" => "Companies",
-    "terms and conditions 19" => "Companies",
+    "terms and conditions 1" => "These FX Terms and Conditions shall form the contract to which any foreign exchange trades including,
+                                    without limitation, any standing instruction for a foreign exchange trade (each a “Transaction”) entered
+                                    into between Vanward (“Vanward”) and a counterparty (“you,” “your”) apply, except to the extent (if any) that
+                                    Vanward shall have agreed in writing or notified you in writing otherwise that other or additional terms apply.",
+    "terms and conditions 2" => "Settlement Netting.",
+    "terms and conditions 3" => "Unless agreed otherwise in writing by Vanward, any amounts payable by a party to a
+                                    Transaction to the other party to such Transaction in respect of sales or purchases of the same currency for
+                                    the same value date will settle for the net amount of the currency bought and sold, and each party’s
+                                    obligation to make payment of the gross amount will be automatically satisfied and discharged and replaced
+                                    by an obligation on the relevant party to make payment of the net amount",
+    "terms and conditions 4" => "Events of Default",
+    "terms and conditions 5" => "(i) Each of the following shall be deemed an event of default (each, an “Event of
+                                    Default”): (a) Failure by you to make (or your available funds are insufficient to make), when due, any
+                                    payment required under a Transaction, if such failure is not remedied on or before the first business day
+                                    after notice of such failure from Vanward; (b) You, your parent, affiliate or investment manager/advisor (where
+                                    applicable), are subject to an event involving the bankruptcy, insolvency, receivership, liquidation,
+                                    dissolution, or winding-up, enforcement of a lien or security interest, foreclosure or other legal process
+                                    involving the loss of beneficial ownership of the whole of or a substantial part of its assets (an
+                                    “Insolvency Event”); or (c) You are subject to an event or series of events whether or not within your
+                                    control (including without limitation, any material adverse change in your business, assets or financial
+                                    condition/position or credit rating) which Vanward determines in its sole discretion may adversely affect your
+                                    ability to perform your obligations under any Transaction.",
+    "terms and conditions 6" => "Consequences of Termination",
+    "terms and conditions 7" => "(i) Following termination under Clauses 2 above and 5 below, Vanward shall have
+                                    the right to close out all outstanding Transactions between you and Vanward. Vanward will use the methodology set
+                                    out in Section 6(e)(i) of the 2002 ISDA Master Agreement, as published by the International Swaps and
+                                    Derivatives Association, Inc. (“ISDA Agreement”) to calculate the payment due on termination (the “Early
+                                    Termination Amount”). In applying Section 6(e)(i) of the ISDA Master Agreement, references to “Terminated
+                                    Transaction” mean each Transaction subject to close out under this clause, the “Termination Currency” is US
+                                    Dollars, the “Determining Party” in the definition of “Close-out Amount” is Vanward, and the “Early Termination
+                                    Date” is the effective date of termination under Clauses 2 above and 5 below, as the case may be. (ii) Vanward
+                                    will notify you (or your investment manager/advisor, as the case may be) of the Early Termination Amount in
+                                    writing as soon as reasonably practicable following termination. If an Early Termination Amount is owed to
+                                    Vanward, you will pay to Vanward to an account specified by Vanward. If the amount is owed to you by Vanward, Vanward will
+                                    pay the absolute value of the Early Termination Amount to your account. Such payments will be payable on the
+                                    date on which Vanward provides the notification under this clause.",
+    "terms and conditions 8" => "Set-Off",
+    "terms and conditions 9" => "(i) Vanward shall have a general right of set-off with respect to all amounts owed by you pursuant
+                                    to a Transaction or otherwise, whether due and payable or not, and regardless of whether an Event of Default
+                                    has occurred and/or whether a Transaction has been terminated. (ii) Vanward’s rights hereunder shall be in
+                                    addition to, and not in limitation or exclusion of, any rights which Vanward may have (by agreement, operation
+                                    of law or otherwise).",
+    "terms and conditions 10" => "Force Majeure",
+    "terms and conditions 11" => "No liability will attach to any party for any losses or damages as a result of a Force
+                                    Majeure event. A Force Majeure event shall mean any circumstance or event which is beyond the reasonable
+                                    control of the affected party (the “Affected Party”) (other than as a result of its own misconduct), and
+                                    which materially and adversely affects the performance by such Affected Party of its obligations (whether
+                                    absolute or contingent) hereunder, including any event caused by, arising out of or involving (a) an act of
+                                    God, (b) accident, fire, water or wind damage or explosion, (c) any computer, system or other equipment
+                                    failure or malfunction caused by any computer virus or the malfunction or failure of any communications
+                                    medium, (d) any interruption of the power supply or other utility service, (e) any strike or other work
+                                    stoppage, whether partial or total, (f) any act of war, terrorism, riot, insurrection or civil commotion or
+                                    other act caused by economic or political factors, (g) the imposition of any taxes, levies or other charges
+                                    affecting currencies or Transactions, (h) any change in the applicable laws such that settlement is
+                                    prohibited or legally impossible or impracticable, (i) any disruption of, or suspension of trading in, the
+                                    securities, commodities or foreign exchange markets or delay or disruption in the execution or settlement of
+                                    Transactions, (j) any encumbrance or adverse effect on the transferability, convertibility, or ability to
+                                    hold a currency or a currency position on the actual settlement date of a Transaction, or (k) any other
+                                    cause similarly beyond the reasonable control of the Affected Party. In the event of a Force Majeure event,
+                                    the non-Affected Party may terminate the affected Transactions upon written notice to the Affected Party
+                                    with immediate effect, and the provisions of Clause 3 shall apply to such outstanding affected Transactions.",
+    "terms and conditions 12" => "Transaction Instructions, Confirmations and Settlement Instructions",
+    "terms and conditions 13" => "(i) Transaction instructions may be
+                                    given by you to Vanward in such manner and subject to such terms as agreed between the parties from time to
+                                    time. Vanward may, without further enquiry, act on, and you shall be bound by, any instruction actually
+                                    received by Vanward, which it reasonably believes, in good faith, to have been given by you, or on your behalf.
+                                    (ii) Vanward will endeavor to dispatch a confirmation within 24 hours of execution of a Transaction, in such
+                                    manner as agreed between the parties from time to time. Unless you notify Vanward prior to settlement with
+                                    reasonable time for Vanward to unwind the trade that a confirmation is incorrect or that the Transaction
+                                    described therein was not properly authorized, such Transaction shall be deemed valid and binding on you.
+                                    Vanward’s failure for any reason to provide a confirmation shall not invalidate any Transaction executed by
+                                    Vanward. (iii) You will provide to Vanward a list of the persons designated to receive confirmations from Vanward,
+                                    along with their contact information (e.g., mailing addresses, email addresses, facsimile and/or telephone
+                                    numbers, and SWIFT addresses, as applicable) in a format agreed by the parties. Unless and until notified
+                                    otherwise by you in writing, Vanward shall be entitled to conclusively rely on any such list of designated
+                                    persons (and the information set out therein) provided by you from time to time. You acknowledge that
+                                    electronic mail (“e-mail”) transmissions through the Internet and/or facsimile transmissions are not a
+                                    guaranteed method of delivery and may be susceptible to loss of information, errors, mis-delivery,
+                                    mis-transmission, delivery delays, deletions in error, and unwanted access and use by third parties. You
+                                    further acknowledge that the receipt of legible instructions via facsimile cannot be assured, that Vanward
+                                    cannot verify that authorized signatures on a facsimile instruction are original or properly affixed.
+                                    Accordingly, you agree not to hold Vanward liable for any losses incurred as a consequence of effecting any
+                                    e-mail or facsimile instructions.",
+    "terms and conditions 14" => "Electronic Communications",
+    "terms and conditions 15" => "You consent to the monitoring and recording of all electronic communications
+                                    (including e-mail, voicemail, telephone calls and website usage) between you and Vanward and agree (i) to
+                                    notify (and where applicable, obtain consent from) their employees and officers of such recording and
+                                    monitoring if legally required; and (ii) that any such recordings may be submitted in evidence to any court
+                                    or in any legal proceeding related to a Transaction.",
+    "terms and conditions 16" => "Assignment, Integration, Qualifying Financial Contract",
+    "terms and conditions 17" => "No assignment of this contract or any of your
+                                    rights or obligations hereunder shall be made without Vanward’s express prior written consent, and any such
+                                    purported assignment or transfer without Vanward’s prior written consent shall be of no effect. This contract
+                                    shall be binding upon you and/or your estate, executors, administrators, successors and assigns. Time is of
+                                    the essence with respect to all of your performance. This contract, together with all Transactions and
+                                    options between you and Vanward constitute one integrated contract (notwithstanding Vanward’s right to consider
+                                    each Transaction a separate contract for purposes of the fifth paragraph above). This contract shall
+                                    constitute a “qualifying financial contract” as that term is defined in the New York General Obligations Law
+                                    and Uniform Commercial Code and is a final expression of the agreement of Vanward and you with respect to the
+    Transactions listed on the reverse side hereof.",
+    "terms and conditions 18" => "Jurisdiction and Governing Law",
+    "terms and conditions 19" => "This contract and the Transactions between you and Vanward shall be governed
+                                    by, and construed in accordance with, the laws of the State of New York without reference to any choice of
+                                    law rules. Vanward and you irrevocably (a) submit to the non-exclusive jurisdiction of the court of the State
+                                    of New York and the United States District Court located in the Borough of Manhattan in New York City, (b)
+                                    waive any objection to the laying of venue in such courts, (c) waive any claim that any suit, action or
+                                    proceeding in any such court has been brought in an inconvenient forum, (d) waive the right to object that
+                                    any such court does not have jurisdiction over Vanward or you, as the case may be, (e) waive the right to trial
+                                    by jury in any suit, action or proceeding, and (f) designate the Secretary of State of the State of New York
+                                    as its agent for the service of process (provided that Vanward and you may by written notice to the other
+                                    change its/your designation of agent to a specified person located in the Borough of Manhattan).
+                                    <br><br>
+                                    This information is not intended as financial advice or as an offer or recommendation of any financial
+                                    products and is subject to change without notice. Neither Vanward nor its affiliates accept any
+                                    responsibility for the results or liabilities arising out of the use of this information. All information
+                                    supplied by Vanward & Co. is from sources deemed reliable and is furnished subject to errors, omissions,
+                                    modifications. and is not guaranteed. The recipient of this report acknowledges and agrees that is solely
+                                    responsible for any trading or investment decisions that the recipient makes after reviewing this report,
+                                    and also agrees that Vanward and its affiliates bear no responsibility or liability for such decisions.",
     "terms and conditions 20" => "Companies",
     // specialist expertise
     "specialist expertise 1" => "Vanward focuses on providing specialist expertise to achieve deeper and long-lasting relationships with our
@@ -2783,24 +3019,29 @@ return [
                                     operations, we meticulously organize our firm, teams, and businesses accordingly. Upholding unwavering
                                     integrity, we refuse to compromise on our principles.",
     // philanthropy
-    "philanthropy 1"    => "Companies",
-    "philanthropy 2"    => "Companies",
-    "philanthropy 3"    => "Companies",
-    "philanthropy 4"    => "Companies",
-    "philanthropy 5"    => "Companies",
-    "philanthropy 6"    => "Companies",
-    "philanthropy 7"    => "Companies",
-    "philanthropy 8"    => "Companies",
-    "philanthropy 9"    => "Companies",
-    "philanthropy 10"   => "Companies",
-    "philanthropy 11"   => "Companies",
-    "philanthropy 12"   => "Companies",
-    "philanthropy 13"   => "Companies",
-    "philanthropy 14"   => "Companies",
-    "philanthropy 15"   => "Companies",
-    "philanthropy 16"   => "Companies",
-    "philanthropy 17"   => "Companies",
-    "philanthropy 18"   => "Companies",
+    "philanthropy 1"    => "At Vanward, it's good to share your time and talent.
+    <br><br>
+    Because of this, we created Cares, our philanthropic program dedicated to providing education and basic
+    necessities to those in need. Through this program, Vanward Employees are able to give back to our
+    communities and help transform the lives of others while inspiring a spirit of citizenship and social
+    responsibility.
+    <br><br>
+    Reflective of our philanthropic mission, we place our focus on the following categories.",
+    "philanthropy 2"    => "Basic Needs",
+    "philanthropy 3"    => "Providing residents in our local communities with the basic necessities to improve quality of life, such as:",
+    "philanthropy 4"    => "serving meals to the homeless",
+    "philanthropy 5"    => "donating food and gifts during the winter holiday season",
+    "philanthropy 6"    => "building homes for low-income families",
+    "philanthropy 7"    => "citywide clean-up initiatives",
+    "philanthropy 8"    => "working to beautify schools",
+    "philanthropy 9"    => "Education",
+    "philanthropy 10"   => "Providing resources and skills that position people for success, including:",
+    "philanthropy 11"   => "distributing books and school supplies",
+    "philanthropy 12"   => "helping prepare tax returns",
+    "philanthropy 13"   => "assembling literacy kits",
+    "philanthropy 14"   => "teaching leadership skills",
+    "philanthropy 15"   => "reading to school children",
+    "philanthropy 16"   => "helping with resume writing",
     // policies and disclosures
     "policies and disclosures 1" => "Companies",
     // sustainability
@@ -2841,53 +3082,704 @@ return [
                             culture. Consequently, Vanward Partners are well-informed about the firm's operations and actively
                             participate in its daily management and decision-making processes.",
     // legal
-    "legal 1"    => "Companies",
-    "legal 2"    => "Companies",
-    "legal 3"    => "Companies",
-    "legal 4"    => "Companies",
-    "legal 5"    => "Companies",
-    "legal 6"    => "Companies",
-    "legal 7"    => "Companies",
-    "legal 8"    => "Companies",
-    "legal 9"    => "Companies",
-    "legal 10"   => "Companies",
-    "legal 11"   => "Companies",
-    "legal 12"   => "Companies",
-    "legal 13"   => "Companies",
-    "legal 14"   => "Companies",
-    "legal 15"   => "Companies",
-    "legal 16"   => "Companies",
-    "legal 17"   => "Companies",
-    "legal 18"   => "Companies",
-    "legal 19"   => "Companies",
-    "legal 20"   => "Companies",
-    "legal 21"   => "Companies",
-    "legal 22"   => "Companies",
-    "legal 23"   => "Companies",
-    "legal 24"   => "Companies",
-    "legal 25"   => "Companies",
-    "legal 26"   => "Companies",
-    "legal 27"   => "Companies",
-    "legal 28"   => "Companies",
-    "legal 29"   => "Companies",
-    "legal 30"   => "Companies",
-    "legal 31"   => "Companies",
-    "legal 32"   => "Companies",
-    "legal 33"   => "Companies",
-    "legal 34"   => "Companies",
-    "legal 35"   => "Companies",
-    "legal 36"   => "Companies",
-    "legal 37"   => "Companies",
-    "legal 38"   => "Companies",
-    "legal 39"   => "Companies",
-    "legal 40"   => "Companies",
-    "legal 41"   => "Companies",
-    "legal 42"   => "Companies",
-    "legal 43"   => "Companies",
-    "legal 44"   => "Companies",
-    "legal 45"   => "Companies",
-    "legal 46"   => "Companies",
-    "legal 47"   => "Companies",
+    "legal 1"    => "These Vanward Online Terms and Conditions (the “Terms”) comprise the “General Terms” and “Product Specific
+    Terms” set forth below. All use of the electronic and online services offered by Vanward (together with its
+    affiliates, “Vanward” or “us”), including but not limited to the Vanward WorldView® portal, any future release
+    thereof or successor thereto, and all products and services accessible or made available through such portal
+    (collectively, the “Online Services”), is subject to the General Terms. By using any of the Online Services,
+    you are agreeing to the General Terms.
+    <br><br>
+    To the extent that you use any of our products or services made available through the Online Services
+    specifically referenced below under “Product Specific Terms,” you are also agreeing to the applicable Terms
+    set forth under that heading. In the event of a conflict between the General Terms and any applicable
+    Product Specific Terms, the Product Specific Terms shall prevail. The terms of each separate agreement
+    governing your business relationship with Vanward (each, a “Client Agreement”) shall also apply to your use of
+    the Online Services in connection with such relationship, and the Terms are hereby incorporated in their
+    entirety into such Client Agreement by reference. Except where specifically provided to the contrary in the
+    Terms, in the event of a conflict between the terms of the Terms and those of any applicable Client
+    Agreement, the provisions of the Terms shall prevail.",
+    "legal 2"    => "General Terms",
+    "legal 3"    => "ACCESS TO ONLINE SERVICES",
+    "legal 4"    => "Security Credentials",
+    "legal 5"    => "An identification code (“User ID”)
+    and password(s) (“Password”) are required to
+    access any of the Online Services. A digital certificate, an encryption key and/or other security devices
+    may also be required, at Vanward’s discretion, to access certain Online Services. You are responsible: (a) for
+    the security and confidentiality of all User IDs, Passwords, digital certificates, encryption keys and other
+    security devices (collectively, “Security Credentials”): (b) to safeguard your Security Credentials and not
+    to give or make available, intentionally or otherwise, any of your Security Credentials to any unauthorized
+    person; and (c) for all use of the Online Services through your Security Credentials, including
+    transactional activity, whether or not such use is actually authorized by you. Should you elect to share
+    your Security Credentials with a third party (including, without limitation, investment advisors and data
+    aggregators), you will bear full responsibility and liability for all actions taken by such third parties
+    through use of your Security Credentials, which we will be entitled to assume to be authorized by you. We
+    will not be responsible for any breach of security, or for any unauthorized activity or theft by any third
+    party, caused by your failure (be it intentional, unintentional, or negligent) to maintain the security or
+    confidentiality of your Security Credentials. You must immediately notify us in writing if you believe that
+    the security or confidentiality of any of your Security Credentials has been compromised, if you suspect
+    unauthorized access to your account by means of the Online Services or otherwise, or if a person to whom a
+    Security Credential has been assigned leaves your employment or is otherwise no longer permitted to access
+    the Online Services on your behalf. An authorized person from your organization must communicate such
+    notification to Vanward by submitting a completed user access request form, which can be obtained from your
+    organization’s relationship management contacts at Vanward.",
+    "legal 6"    => "Termination of Access",
+    "legal 7"    => "We may terminate your access to
+    the Online Services at any time, for any reason,
+    with five (5) business days’ prior notice; provided that we may terminate your access to the Online Services
+    with no prior notice if (a) your account with us is closed, (b) you fail to comply with any of these Terms,
+    (c) we believe that your continued access to the Online Services poses a security risk, or (d) we believe
+    that you are violating or have violated applicable laws, and we will not be liable for any loss you may
+    experience as a result of such termination. You may terminate your access to the Online Services at any time
+    by giving us ten (10) business days’ notice. Upon termination, we will cancel all of your Security
+    Credentials and any in-process or pending Instructions (as defined in the applicable Client Agreement) will
+    be carried out or cancelled, at our sole discretion.",
+    "legal 8"    => "INTELLECTUAL PROPERTY / TRADE SECRETS",
+    "legal 9"    => "Permitted Use",
+    "legal 10"   => "The information that you obtain through
+    the Online Services is our intellectual property
+    or the intellectual property of third parties. You are permitted to use such information solely for your own
+    end use in the ordinary course of your business; this limited license does not authorize you to distribute
+    such information to those outside your organization, either for compensation or for free, and you are
+    expressly prohibited from doing so; provided, however, that you may distribute (a) normal business records
+    maintained by us for you as your administrative agent (such as account information, fund administrative
+    reports and similar financial information), if applicable, to the extent required by applicable law or
+    business custom to be disclosed to regulators or shareholders or to advisors in connection therewith, and
+    (b) such information that we have, by contract other than these Terms, agreed that you may distribute,
+    subject to the applicable terms of such contract.",
+    "legal 11"   => "Proprietary Marks",
+    "legal 12"   => "Copyright in the pages which comprise
+    the Online Services and in the screens
+    displaying such pages, including but not limited to all design, text, sound recordings, and images, and in
+    the information and material therein and in their arrangement, is owned by or licensed to us unless
+    otherwise indicated. Except as otherwise expressly stated herein, they may not be copied, transmitted,
+    displayed, performed, distributed (for compensation or otherwise), licensed, altered, framed, deep-linked,
+    stored for subsequent use or otherwise used in whole or in part in any manner without our prior written
+    consent, except to the extent permitted by the Copyright Act of 1976 (17 U.S.C. § 107), as amended, and
+    then, only with notices of our proprietary rights. Our trademarks and service marks include, but are not
+    limited to, “ActionView”, “ActionWorld”, “AP Exchange”, “APEX”, “Vanward”, “Vanward & Co.”, “Vanward Comset Plus”,
+    “COnnect”, “Vanward Direct”, “Vanward INFOFX”, “BIDS”, “Vanward”, “DEALBOARD”, “ETF Connect”, “FX INDEXLINK”, “FX
+    OrderView”, “INFOACTION”, “INFOFX”, “INFOMEDIARY”, “INFOSETTLE”, “LIFE OF A TRADE”, “Shared Goals. Shared
+    Success”, “Trust in Partnership”, “WorldView” and “59 Wall St.”. Other featured words or symbols, used to
+    identify the source of goods and services, are the trademarks of their respective owners. You may not copy,
+    republish, redistribute, transmit, participate in the transmission of, create derivatives of, alter, edit or
+    exploit in any manner any material from the Online Services, including by storage on retrieval systems,
+    except as expressly provided herein. Without limiting the generality of the foregoing, you may not remove or
+    obscure any copyright or other notices contained in any such information.",
+    "legal 13"   => "SOURCES OF INFORMATION",
+    "legal 14"   => "The information made available through the Online Services has been compiled from both internal and external
+    sources. Such information may include quotes, news, and research data prepared by third parties and provided
+    by us or obtained from sources we believe to be reliable, but we cannot and do not guarantee the accuracy,
+    timeliness, or completeness of such information for any particular purpose. Such information is inherently
+    subject to change without notice and may become dated. You agree that we will not be responsible for any
+    loss you experience as a result of your reliance on such information. We use reasonable efforts to make sure
+    that the information available through the Online Services is accurate and up-to-date. However, we do not
+    represent or warrant that the information contained therein is accurate or complete, and you should
+    therefore verify any information obtained through the Online Services before you act upon it. (“Third Party
+    Terms and Conditions”) are applicable to your use and receipt of third party data and information available
+    to you through the Online Services. Such Third Party Terms and Conditions are required by the relevant
+    third-party data providers pursuant to our arrangements with them, and are incorporated herein by reference
+    in their entirety.",
+    "legal 15"   => "USE IN OTHER JURISDICTIONS",
+    "legal 16"   => "We do not operate as a banking entity in all jurisdictions. The information made available through the
+    Online Services is not intended for distribution to, or use by, any person or entity in any jurisdiction or
+    country where such distribution or use would be contrary to law or regulation or which would subject us or
+    any of our affiliates to any registration qualification, licensing, approval, or non-disapproval requirement
+    within such jurisdiction or country. Some products and services may not be available in all jurisdictions or
+    to all clients. By choosing to access these Online Services from any location other than the United States,
+    you accept full responsibility for compliance with all local laws.",
+    "legal 17"   => "INSTRUCTIONS",
+    "legal 18"   => "Issuance of Instructions Generally",
+    "legal 19"   => "Where applicable,
+    issuance of proper Instructions to Vanward shall be
+    provided as designated in the applicable Client Agreement.",
+    "legal 20"   => "Issuance of Instructions Via Online Services",
+    "legal 21"   => "The
+    following additional provisions apply to Instructions
+    provided via the Online Services:
+    (a) You authorize us to act upon Instructions received through the Online Services utilizing your Security
+    Credentials as though they were duly authorized written instructions, without any duty of verification or
+    inquiry on our part, and agree to hold us harmless for any liabilities, losses, claims, costs, damages,
+    penalties, fines, obligations, or expenses of any kind (including without limitation, reasonable attorneys’,
+    accountants’, consultants’, or experts’ fees and disbursements) (collectively, “Losses”) experienced by you
+    or any third party as a result.<br>
+    (b) From time to time, the temporary unavailability of third party telecommunications or computer systems
+    required by the Online Services may result in a delay in processing Instructions. In such an event, we shall
+    not be liable to you or any third party for any Losses that you experience due to such a delay.",
+    "legal 22"   => "ELECTRONIC DOCUMENTS",
+    "legal 23"   => "We may make periodic statements, disclosures, notices, and other documents available to you electronically
+    (including, without limitation, through the Online Services), and, subject to any delivery and receipt
+    verification procedures required by law, you agree to receive such documents electronically (including,
+    without limitation, through the Online Services) and to check the statements for accuracy. If you believe
+    any such statement contains incorrect information, you must follow the procedures set forth in the
+    applicable Client Agreement(s).",
+    "legal 24"   => "OTHER NOTICES",
+    "legal 25"   => "Banking Notices",
+    "legal 26"   => "(a) Non-deposit Investment Products <br>
+    Certificates of deposit, mutual funds, annuities and other investment products may be available through us.
+    THESE PRODUCTS ARE NOT DEPOSITS OR OTHER OBLIGATIONS OF, AND ARE NOT GUARANTEED BY, US OR OUR AFFILIATES,
+    AND MAY FLUCTUATE IN VALUE AND ARE SUBJECT TO INVESTMENT RISKS, INCLUDING POSSIBLE LOSS OF PRINCIPAL
+    INVESTED. IN ADDITION, THESE PRODUCTS, AS WELL AS DEPOSITS PLACED WITH US, ARE NOT INSURED BY THE FEDERAL
+    DEPOSIT INSURANCE CORPORATION AND MAY NOT BE COVERED BY ANY OTHER TYPE OF DEPOSIT INSURANCE.<br>
+    (b) Regulation E <br>
+    Federal Reserve Board Regulation E provides for the rights, liabilities and responsibilities of our consumer
+    clients who use certain electronic funds transfer services. Regulation E does not apply to wire transfers.
+    For more information on Regulation E, please refer to this link and the relevant Client Agreements:",
+    "legal 27"   => "Internet Access",
+    "legal 28"   => "Email Communications",
+    "legal 29"   => "Prohibited Usage",
+    "legal 30"   => "(a) If you access the Online Services via the Internet (including, without limitation, through a mobile
+    device), you will be required to use a third-party provided Internet browser, such as Firefox or Internet
+    Explorer, Internet utility software from various software providers not affiliated with Vanward, and/or a
+    Vanward-provided mobile application. Your use of such software to access the Online Services shall be at your
+    own risk and shall be subject to terms and conditions imposed by Vanward and such third parties in addition to
+    these Terms (e.g., the Apple Licensed Application End User License Agreement). We do not warrant the
+    performance of, and bear no responsibility for, your use of any third party information, software,
+    telecommunications hardware, or Internet connection. Some Online Services may be accessed via a direct
+    dial-up connection through software we provide to you; in those cases, your use of that software is subject
+    to license terms included with the software for each Service. Such license terms, which include limitations
+    with respect to liability, use and redistribution, are hereby expressly incorporated into these Terms. We
+    are not responsible for any access costs you incur to connect to the Online Services.<br>
+    (b) Your use of any third-party Internet links made available on the Online Services is at your own risk.
+    The content to which you link has not been developed, checked for accuracy, or otherwise reviewed by us. We
+    make no representations as to, and shall have no liability for, any third-party site, including without
+    limitation, the accuracy, subject matter, quality, or timeliness of any electronic content.<br>
+    (c) Because Internet electronic mail (“e-mail”) presents issues of reliability of delivery, content
+    accuracy, timeliness, and security, you should not send us any personal or identifying information, such as
+    account numbers, credit card numbers, Social Security numbers, passwords, etc., via Internet e-mail. We will
+    take reasonable security precautions to safeguard data and communications transported to us over the
+    Internet; however, we disclaim any liability for interception of any such data or communications. You agree
+    that you will not use e-mail to request, authorize, or effect the purchase or sale of any securities,
+    currency, or commodities, to send funds transfers instructions, or for any other transactions unless we
+    mutually agree on procedures by which all such e-mail communications from you can be transmitted in
+    compliance with Vanward’s applicable policies and procedures (e.g., Investor Services Client Email Instruction
+    Policy). <br>
+    (d) You are prohibited from deliberate misuse of any element of the Online Services, including, without
+    limitation, hacking, disruption or excessive use or any use in contravention of applicable law, and making
+    any modifications to the Online Services, including, without limitation, the software, information, formats,
+    and interfaces that comprise the Online Services. You further acknowledge and agree that you will be
+    responsible for the introduction, whether intentional or unintentional, of (i) any virus or other code,
+    program, or sub-program that damages or interferes with the operation of the computer system containing the
+    code, program or sub-program, or halts, disables, or interferes with the operation of the Online Services
+    themselves; and (ii) any device, method, or token whose knowing or intended purpose is to permit any person
+    to circumvent the normal security of the Online Services or the system containing the software code for the
+    Online Services ((i) and (ii) collectively, “Malicious Code”). You agree to take all necessary actions and
+    precautions to prevent the introduction and proliferation of any Malicious Code into those systems that
+    interact with the Online Services. You will be held strictly liable for decreased effectiveness or
+    efficiency of, or for any errors and omissions arising out of the use of, the Online Services provided to
+    you or our other clients as a result of any violation of the foregoing.<br>
+    (e) The risk profiling software which is a part of the Online Services is not being made available for the
+    purpose of providing investment or other advice to you or any other party, and no information or material
+    available on or through these Online Services is to be relied upon for the purpose of making or
+    communicating investment or other decisions. Neither the information nor any opinion contained on these
+    Online Services or any other web site, web page, online service or any other electronic service constitutes
+    investment advice or a solicitation by us or our affiliates for the purchase or sale of any securities,
+    futures, options or other financial instruments or a solicitation to provide any investment advice or
+    service.",
+    "legal 31"   => "NO WARRANTIES; LIMITATION OF LIABILITY",
+    "legal 32"   => "THE ONLINE SERVICES AND ALL INFORMATION, SOFTWARE, AND OTHER MATERIALS PROVIDED THROUGH THE ONLINE SERVICES
+    ARE PROVIDED “AS IS” AND ON AN “AS AVAILABLE” BASIS WITHOUT ANY EXPRESS OR IMPLIED WARRANTY OF ANY KIND. WE
+    AND OUR SUPPLIERS SPECIFICALLY DISCLAIM ANY WARRANTIES OF MERCHANTABILITY, NONINFRINGEMENT OF INTELLECTUAL
+    PROPERTY, QUALITY, OR FITNESS FOR ANY PARTICULAR PURPOSE. WE DO NOT GUARANTEE THE SECURITY OF THE ONLINE
+    SERVICES OR THE PREVENTION FROM LOSS OF, ALTERATION OF, OR IMPROPER ACCESS TO, YOUR ACCOUNT INFORMATION OR
+    DATA, OR THAT THE ONLINE SERVICES WILL BE FREE OF VIRUSES, WORMS OR OTHER HARMFUL COMPONENTS. WE MAKE NO
+    REPRESENTATION OR WARRANTY WHATSOEVER RELATING TO OR RESULTING FROM THE USE OR INABILITY TO USE THE ONLINE
+    SERVICES, MISTAKES, OMISSIONS, SERVICE INTERRUPTIONS, DELETION OF FILES, LOSS OR MODIFICATION OF CONTENT OR
+    DATA, ERRORS, DEFECTS, MISDELIVERIES, DELAYS IN OPERATION OR TRANSMISSION, OR ANY FAILURE OF PERFORMANCE,
+    COMMUNICATION FAILURE, THEFT, DESTRUCTION, OR UNAUTHORIZED ACCESS TO ANY SERVER, RECORDS, PROGRAMS, OR
+    SERVICES, WHETHER OR NOT LIMITED TO CIRCUMSTANCES BEYOND OUR CONTROL. TO THE MAXIMUM EXTENT PERMITTED BY
+    APPLICABLE LAW, IN NO EVENT WILL WE, OUR AFFILIATES, OR OUR OR THEIR PARTNERS, PRINCIPALS, LICENSORS,
+    SUPPLIERS, CONTRACTORS, SERVICE PROVIDERS, DIRECTORS, OFFICERS, AGENTS, AND/OR EMPLOYEES BE LIABLE FOR ANY
+    DAMAGES, WHETHER OR NOT FORESEEABLE, INCLUDING WITHOUT LIMITATION, DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+    CONSEQUENTIAL, OR PUNITIVE DAMAGES, ARISING IN CONNECTION WITH THE ONLINE SERVICES, INCLUDING WITH RESPECT
+    TO THE THIRD PARTY MATERIALS, OR IN CONNECTION WITH THE USE OF OR INABILITY TO USE THE ONLINE SERVICES,
+    INCLUDING WITHOUT LIMITATION DAMAGES FOR ANY FAILURE OF PERFORMANCE, ERROR, OMISSION, INTERRUPTION, DEFECT,
+    DELAY IN OPERATION OR TRANSMISSION, COMPUTER VIRUS, COMMUNICATION LINE FAILURE, OR LOSS OR MODIFICATION OF
+    CONTENT OR DATA, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. NO THIRD PARTY SHALL HAVE ANY RIGHT OR
+    CLAIM UNDER THESE TERMS.",
+    "legal 33"   => "INDEMNIFICATION",
+    "legal 34"   => "You agree to indemnify, defend and hold us and our suppliers harmless against any Losses, incurred as a
+    result of your breach of these Terms, or your unauthorized use of the content of the Online Services. For
+    avoidance of doubt, you hereby acknowledge that the provisions in the applicable Client Agreement(s) related
+    to your indemnification of us and any limitations on our liability and responsibilities to you shall also be
+    applicable to your use of the Online Services and the Terms, and are hereby expressly incorporated herein.
+    The provisions of this paragraph shall survive the termination of the applicable Client Agreement(s).",
+    "legal 35"   => "CHANGES",
+    "legal 36"   => "Changes in Products and Services",
+    "legal 37"   => "WE OR OUR SUPPLIERS
+    MAY DISCONTINUE OR MAKE CHANGES IN PRODUCTS,
+    SERVICES (INCLUDING, BUT NOT LIMITED TO, THE ONLINE SERVICES) AND INFORMATION PROVIDED THROUGH SUCH PRODUCTS
+    AND SERVICES AT ANY TIME WITHOUT NOTICE. ANY DATED INFORMATION IS PUBLISHED AS OF ITS DATE ONLY, AND WE DO
+    NOT UNDERTAKE ANY OBLIGATION OR RESPONSIBILITY TO UPDATE OR AMEND ANY SUCH INFORMATION. Your eligibility for
+    particular products and services is subject to our final determination and acceptance.",
+    "legal 38"   => "Changes to the Online Terms and Conditions",
+    "legal 39"   => "We will
+    inform you of any changes in these Terms by posting
+    notices of such changes on Vanward WorldView or its successor. We will provide you with notices of such changes
+    at least fifteen (15) days in advance except when a shorter notice period is required, in which case we will
+    provide you with as much prior notice as is reasonably possible under the circumstances. Continued use of
+    the Online Services following the effective date of any such changes will be deemed your acceptance of and
+    agreement to such changes.",
+    "legal 40"   => "PRIVACY POLICY",
+    "legal 41"   => "Any personal information provided by you through the Online Services will be handled in accordance with the
+    Vanward online privacy policy, which is incorporated herein by reference in its entirety.",
+    "legal 42"   => "COOKIE POLICY",
+    "legal 43"   => "The portions of Vanward’s website where these Terms appear and the Online Services each employ cookies in their
+    operation. By using such website and the Online Services you agree to the placement of cookies on your
+    computer in accordance with the terms of the Vanward cookie policy, which is incorporated herein by reference
+    in its entirety.",
+    "legal 44"   => "If you do not wish to accept cookies from this website or the Online Services please either disable cookies
+    in your web browser or refrain from using this site.",
+    "legal 45"   => "Product Specific Terms",
+    "legal 46"   => "As described above, your use of any product or service referenced below is subject to the applicable Product
+    Specific Terms listed below with respect to such use, which are expressly incorporated herein by reference.",
+    "legal 47"   => "Vanward FX",
+    "legal 48"   => "Trading Platform Terms",
+    // privacy policy
+    "privacy policy 1" => "Vanward Privacy Policy",
+    "privacy policy 2" => "Last Updated: November 11 2022",
+    "privacy policy 3" => "Vanward and all other related affiliates and subsidiaries (collectively “Vanward”, “we” or “us”)
+                            respect your privacy and are committed to protecting it.",
+    "privacy policy 4" => "Websites and Services Covered by This Privacy Policy",
+    "privacy policy 5" => "<p>This privacy policy applies to our privacy practices for handling information relating to
+                            your use of wgaml.com and other websites operated by us from which you are accessing this
+                            privacy policy (collectively referred to as the “Sites”), as well as our online services on
+                            the Sites and services related to our business products (the “Services”). We also describe
+                            the rights you may have and how you can contact us about our privacy practices.</p>
+                        <p>The privacy policy does not apply to those websites or communications that have their own
+                            privacy policies or to websites of other companies or entities that are linked to this
+                            website. To learn about the privacy policy of a linked site, please refer to the privacy
+                            policy for that site.</p>
+                        <p>Vanward is the data controller for personal information that we collect through the Sites.
+                            We are also the controller for personal data we collect for our key business contacts.
+                            For personal data provided in relation to our business products there are times when we are
+                            a controller.  If you have questions on when we are acting as a controller or questions
+                            related to our processing of your personal data (or about any content in this policy),
+                            please find our contact details, including the contact details of our Data Protection
+                            Officers in the <strong>How to Contact Us</strong> section at the end of this policy.</p>
+                        <p>Please read this policy carefully.  Your use of the Sites and/or the Services, including
+                            your disclosure of any personal information into the Sites and/or Services is subject to and
+                            governed by this policy. </p>",
+    "privacy policy 6" => "What this Privacy Policy covers",
+    "privacy policy 7" => "This Privacy Policy covers:",
+    "privacy policy 8" => "<li>Personal information we collect about you;</li>
+                            <li>Sensitive data;</li>
+                            <li>How we use and share personal information;</li>
+                            <li>How we transfer and store personal information;</li>
+                            <li>How long we keep personal information;</li>
+                            <li>Your rights;</li>
+                            <li>Children’s privacy:</li>
+                            <li>Effective date and policy changes; and</li>
+                            <li>How to contact us.</li>",
+    "privacy policy 9" => "Personal information we collect about you",
+    "privacy policy 10" => "We collect and store information that you voluntarily provide to us, information related to
+                            your Sites visit and usage, as well as information provided to us by or through our clients
+                            in connection with our Services.  We also collect certain information when you:",
+    "privacy policy 11" => "<li>submit inquiries via an online form;</li>
+                            <li>sign up to Services offered by Vanward;</li>
+                            <li>apply for jobs with Vanward via our online portal;</li>
+                            <li>browse our Sites; or</li>
+                            <li>engage with our electronic marketing communications (also referred to below as emails).
+                            </li>",
+    "privacy policy 12" => "Information that you provide us",
+    "privacy policy 13" => "Personal information that you provide directly to us will be apparent from the context in
+                            which you provide it, for example:",
+    "privacy policy 14" => "<li>if you fill out a form on our Sites, you will generally provide your name, contact
+                            details and any other information required by the form, such as the content of your
+                            inquiry;</li>
+                        <li>if you sign up to receive electronic marketing communications from us, you will
+                            generally provide your name, email address and other contact information, and your
+                            product or topic preferences;</li>
+                        <li>if you sign up for any of the online Services we provide, you will generally provide
+                            your name and contact information and any other information necessary to access the
+                            feature;</li>
+                        <li>if you apply for a role with Vanward via our online application facility, you will
+                            generally provide your name, contact details and a copy of your CV or resume, and if you
+                            apply using your LinkedIn profile, you will generally provide information about your
+                            LinkedIn account.</li>
+                        <li>If you are a key contact in a business that has a business account with Vanward, we
+                            generally have your name, email address, phone number, title and other information
+                            relevant to your interaction with Vanward on behalf of your employer. </li>
+                        <li>if you are a person that we hold information on in relation to Services provided by us,
+                            we generally have information you have provided to us in order to open and administer
+                            your account and or the register of the Fund(s) you own shares of, which could include
+                            data to detect and prevent fraud, anti-money laundering and terrorism financing as well
+                            as to perform negative news and sanctions screening.</li>",
+    "privacy policy 15" => "Information that we collect automatically",
+    "privacy policy 16" => "Our web servers may log information such as your device type, operating system type, browser
+                            type, domain, the website from which you were referred to our Sites (if any), and other
+                            system settings, as well as the language your system uses and the country, city, and time
+                            zone where your device is located. The web server logs may also record information such as
+                            the address of the web page that referred you to our Sites and the IP address of the device
+                            you use to connect to the Internet. They may also log information about your interaction
+                            with the Sites, such as which pages you visit. To control which web servers collect
+                            information by automated means, we may place tags called “web beacons” – small files that
+                            link web pages to particular web servers and their cookies. We may also collect information
+                            from your browser, such as your browsing history on the Sites, and use it in conjunction
+                            with data gathered from forms and emails to help understand and respond to your needs. See
+                            our ",
+    "for more information" => "for more information",
+    "privacy policy 18" => "<p><em>“Do Not Track” Signals</em></p>
+                            <p>Your browser settings may allow you to transmit a “Do Not Track” signal to websites and
+                                online services you visit. Like many other websites and online services, we do not currently
+                                process or respond to “Do Not Track” signals from your browser or to other mechanisms that
+                                enable choice. </p>
+                            <p>Both we and our service providers who provide the technology platforms which support elements
+                                of the Services (e.g., video clips) may collect personal information about our visitors’ use
+                                of the Services online.  Other than collection of information as described in this
+                                Privacy Policy, we will not collect personal information about you when you use the Sites or
+                                the Services, unless you choose to directly provide such information to us when contacting
+                                us via email or other method.  We will use your personal information to process your
+                                request and, when applicable, respond to you. </p>
+                            <p><em>If you are a client of Vanward</em></p>
+                            <p>In addition to collecting information directly from you, we may collect information from
+                                third- party sources to satisfy our due diligence obligations in connection with your new
+                                account opening.  This third-party data allows us to verify the information you have
+                                provided to us, for example, to comply with our legal obligations under “know your customer”
+                                laws.</p>",
+    "privacy policy 19" => "Sensitive data",
+    "privacy policy 20" => "<p>We recognize that certain jurisdictions have enacted laws that require higher protection of
+                                certain sensitive personally identifiable information, such as state or national ID numbers,
+                                or other information regarding racial or ethnic origin, health or medical records
+                                (“Sensitive Data”).  As a general rule, we do not collect Sensitive Data from you.</p>
+                            <p>In the limited cases where we do seek to collect such information, we will seek to do so only
+                                in accordance with applicable data privacy law requirements.</p>",
+    "privacy policy 21" => "How we use and share personal information",
+    "privacy policy 22" => "Information that we collect from you",
+    "privacy policy 23" => "We may use the personal information you provide for a number of reasons, including, but not limited to:",
+    "privacy policy 24" => "<li>To respond to inquiries or service requests and monitor such responses;</li>
+                            <li>To provide information about and market our products or Services which we believe may be
+                                of interest.  This includes tailored product, thought leadership, and event
+                                communications.</li>
+                            <li>To manage and improve the Sites and assess their usage and effectiveness;</li>
+                            <li>To develop our business and to inform our marketing strategy, in particular, by
+                                monitoring the effectiveness of marketing campaigns;</li>
+                            <li>To assess the usage of the Services we provide;</li>
+                            <li>To operate our business in accordance with industry standards and applicable law, which
+                                may include, in addition to supporting the Services; responding to inquiries and
+                                requests, prevent fraud; and monitoring and archiving communications; and</li>
+                            <li>To administer client accounts, including anti-money laundering, sanctions and anti-fraud
+                                checks.</li>",
+    "privacy policy 25" => "<p>We use the personal information for the purposes described above because we have a legitimate
+                                interest in operating and improving our business that is not overridden by your interests,
+                                rights and freedoms to protect personal information about you.  We will only send you
+                                direct marketing materials if you have given consent for us to do so, unless such consent is
+                                not required, in which case you will be provided the opportunity to opt-out of receipt of
+                                direct marketing materials.</p>
+                            <p><em>Information that we collect automatically</em></p>
+                            <p>We use certain limited personal information that we collect automatically through cookies,
+                                non-cookie-based tokens, web beacons, and other automated means for purposes such as
+                                customizing and enhancing our visitors’ experience on the Sites, facilitating use of the
+                                Sites, collecting statistics about your visits to the Sites, and understanding the way in
+                                which our visitors browse the Sites. We also use the information to help diagnose technical
+                                and service problems, administer the Sites, and, in some cases, to identify visitors to the
+                                Sites who are subscribed to receive communications from us. We use clickstream data to
+                                determine how much time visitors spend on web pages of the Sites, how visitors navigate the
+                                Sites, and how we may tailor the Sites to better meet the needs of our visitors. We use the
+                                personal information for the purposes described above because we have a legitimate interest
+                                in operating and improving our Sites that is not overridden by your interests, rights and
+                                freedoms to protect personal information about you.  See our",
+    "privacy policy 26" => "We also collect personal information when you engage with our email communications.
+                            This includes email open and click information, and any responses submitted to our event
+                            communications.  We use personal information for these purposes because we have a
+                            legitimate interest in growing our business and developing our marketing strategy. See our",
+    "privacy policy 27" => "<p><em>Other uses of your personal information</em></p>
+                            <p>We also may use the personal information that we collect to protect against and prevent
+                                fraud, claims, and other liabilities and to comply with or enforce applicable legal
+                                requirements, industry standards, and our policies and terms.  We use personal
+                                information for these purposes when it is necessary to protect, exercise or defend our legal
+                                rights, or when we are required to do so by law that applies to us.</p>
+                            <p><em>Mobile Phone Information</em></p>
+                            <p>In connection with certain of our products and services, we may authenticate instructions
+                                which purport to come from you by calling back a telephone number which you have previously
+                                provided to us.  By providing us with a mobile phone number for call back purposes, or
+                                by submitting an instruction, you authorize (on behalf of yourself and any Authorized
+                                Person) that the appropriate carrier (AT&T, Sprint, T-Mobile, U.S. Cellular, Verizon or
+                                any other branded operator) may disclose to us and our third-party service providers the
+                                mobile number, network status, customer type, customer’s role, billing type, mobile device
+                                identifiers (IMSI [International Mobile Subscriber Identity] and IMEI [International Mobile
+                                Equipment Identifier]) and other subscriber status and device details, if available, solely
+                                to verify the caller’s identity and prevent fraud for the duration of the relationship.
+                                Please note that this information is used only as part of the call back procedure to
+                                verify your instruction, and this information is not retained by us after completion of the
+                                verification. </p>
+                            <p>In addition to the uses described above, we may use personal information that you provide to
+                                us or that we collect for other purposes. Where this is the case, we will provide an
+                                additional privacy notice to you that describes the purposes for which we will use the
+                                personal information and our legal basis for doing so. </p>
+                            <p><em>Sharing your personal information</em></p>
+                            <p>We do not sell any personal information that we collect about you. We do not disclose any
+                                personal information about our current or former clients to anyone, except as described in
+                                this policy, as permitted by contract or law and subject to confidentiality obligations that
+                                apply in certain jurisdictions.</p>
+                            <p>We may disclose or share personal information about our customers to our affiliates, as
+                                permitted by law, for our affiliates to provide services.  We also may share your
+                                personal information with service providers that perform services on our behalf, such as
+                                hosting providers and advisers.  All service providers have entered into legally
+                                binding agreements requiring them to use or disclose personal information only as necessary
+                                to perform services on our behalf or comply with applicable legal requirements.  We may
+                                share personal information with our affiliates and service providers for a number of
+                                reasons, including:</p>",
+    "privacy policy 28" => "<li>You have requested information about our affiliates’ products and services;</li>
+                            <li>We rely on services provided by our affiliates and service providers to provide you with
+                                the services you require;</li>",
+    "privacy policy 29" => "In addition, we may disclose your personal information (i) at the request of a bank or other
+                            regulatory agency or in connection with an examination of us by bank or other examiners;
+                            (ii) to our internal or external auditors or attorneys; (iii) when we believe disclosure is
+                            necessary or appropriate to prevent physical harm or financial loss; (iv) if we are required
+                            or permitted to do so by law or legal process, for example due to a court order or a request
+                            from a law enforcement agency; (v) if disclosure is necessary to protect the vital interests
+                            of a person; or (vi) in the event we sell or transfer all or a portion of our business or
+                            assets (including in the event of a reorganization, dissolution, or liquidation).",
+    "privacy policy 30" => "How we transfer and store personal information",
+    "privacy policy 31" => "<p>Vanward is a global organization; personal information we collect may be transferred
+                                internationally throughout the world to countries where we do business, which may not have
+                                the same data protection laws as the country in which you reside. We have internal policies
+                                and procedures in place to achieve an equivalent level of protection in place across our
+                                organization. The transfer of personal information to other countries is based on a business
+                                need or to comply with applicable laws. Personal information stored or processed in a
+                                foreign jurisdiction may be accessed under a lawful order made in that jurisdiction.</p>
+                            <p>If you are in the European Economic Area (“EEA”), the United Kingdom or Switzerland, we will
+                                comply with applicable legal requirements providing adequate protection for the transfer of
+                                personal information to recipients in countries outside of the EEA, the United Kingdom and
+                                Switzerland. In all such cases, we will only transfer your personal information if:</p>",
+    "privacy policy 32" => "The country to which the personal information will be transferred to has been granted a",
+    "privacy policy 33" => "European Commission adequacy decision",
+    "privacy policy 34" => "The recipient of the personal information is located in the U.S. and has certified to the",
+    "privacy policy 35" => "EU-U.S. Privacy Shield Framework",
+    "privacy policy 36" => "We have put in place appropriate safeguards in respect of the transfer, for example the",
+    "privacy policy 37" => "EU Model Clauses",
+    "privacy policy 38" => "<li>The recipient of the personal information has adopted Binding Corporate Rules in
+                                relation to the personal information transferred; or</li>
+                            <li>The transfer is otherwise authorized by applicable legal requirements.</li>",
+    "privacy policy 39" => "You may request a copy of the safeguards that we have put in place in respect of transfers of
+                            personal information by contacting us as described in the How to Contact Us section below.",
+    "privacy policy 40" => "How long we keep personal information",
+    "privacy policy 41" => "<p>The time period for which we keep personal information depends on the purpose for which we
+                                collect it.  In all cases we keep it for as long as is necessary to fulfil the purposes
+                                for which we collected it.  We will then delete or anonymize the personal information,
+                                unless we are legally required to retain it or if we need to retain it in order to comply
+                                with our legal obligations (for example, for tax and accounting purposes).</p>
+                            <p>Subject to any applicable legal requirements, we typically retain personal information as
+                                follows:</p>",
+    "privacy policy 42" => "<li>Personal information you provide to us through our Sites: we keep this personal
+                                information for as long as necessary to respond to your request, and for a short further
+                                period in the event that you send us further requests.</li>
+                            <li>Personal information you provide when you sign up to receive direct marketing
+                                communications: we keep most of this personal information for the duration of our
+                                relationship with you until you opt out of receiving future marketing communications or
+                                we do not have any contact with you for a long period of time.</li>
+                            <li>Personal information collected for analytics purposes: we keep this personal information
+                                for a short period of time necessary for us to carry out the analytics. We anonymize or
+                                aggregate personal information used for analytics once it is no longer required.</li>
+                            <li>Website logs: we keep audit logs for our Sites, which may contain your personal
+                                information, for several months. These logs include access logs (to monitor and maintain
+                                the security of our Sites), error logs (to track and record errors), and security logs
+                                (to track and record security related events, such as, unauthorized access attempts).
+                                </li>",
+    "privacy policy 43" => "Your rights",
+    "privacy policy 44" => "As a person who provides us with personal information, you may inquire as to the nature of
+                            the personal information stored at and/or processed by us. You will be provided reasonable
+                            access to your personal information held by us and, where appropriate, with the ability to
+                            review and correct inaccuracies. We will cooperate in providing such access. All such
+                            requests for access may be made by sending a request in writing to:",
+    "privacy policy 45" => "If you are in the EEA or Switzerland, you may have the following rights in relation to your
+                            personal information that we hold about you:",
+    "privacy policy 46" => "<li>To request confirmation of whether we process personal information relating to you and,
+                                if so, to request a copy of that personal information;</li>
+                            <li>To request that we rectify or update your personal information that is inaccurate,
+                                incomplete or outdated;</li>
+                            <li>To request that we erase your personal information in certain circumstances, such as
+                                where we collected personal information on the basis of your consent, and you withdraw
+                                your consent;</li>
+                            <li>To request that we restrict the use of your personal information in certain
+                                circumstances, such as while we consider another request that you have submitted, for
+                                example as a request that we update your personal information;</li>
+                            <li>Where you have given us consent to process your personal information, to withdraw your
+                                consent; and</li>
+                            <li>To request that we provide a copy of your personal information to you in a structured,
+                                commonly used and machine-readable format in certain circumstances. </li>",
+    "privacy policy 47" => "<p>To help protect your privacy and provide security, we may take reasonable steps to verify
+                                your identity before we satisfy your request. We shall respond to such reasonable request
+                                made by you within such time period as required under applicable law after your identity has
+                                been confirmed.</p>
+                            <p>You also have the right to lodge a complaint with the data protection supervisory authority
+                                in your country.</p>",
+    "privacy policy 48" => "Children’s privacy",
+    "privacy policy 49" => "We recognize the need to provide particular privacy protections with respect to personal
+                            information that may be collected from children.  Our Sites and Services are not aimed
+                            at or intended for children.",
+    "privacy policy 50" => "Effective date and policy changes",
+    "privacy policy 51" => "<p>Each time you use our Sites, the current version of the Privacy Policy will apply. This
+                                policy is subject to change from time to time. The ‘Last Updated’ section at the top of this
+                                policy indicates when the policy was last updated. If we change it, we will post the current
+                                privacy statement on this page. Any changes to this statement will be effective as of the
+                                day they are posted. Use of the Sites following these changes signifies acceptance of the
+                                revised Privacy Policy.</p>
+                            <p>Unless stated otherwise, our current Privacy Policy applies to all information that we have
+                                about you. We will not materially change our policies and practices to make them less
+                                protective of your privacy without your consent.</p>",
+    "privacy policy 52" => "How to contact us",
+    "privacy policy 53" => "If you have questions or comments about this Privacy Policy, or about how your personal
+    information is processed you may contact us:",
+    "privacy policy 54" => "By email at:",
+    "privacy policy 55" => "comp",
+    "privacy policy 56" => "In writing at:",
+    "privacy policy 57" => "Attention: Privacy Officer",
+    "vanward address" => "Unit 1 25/F Shanghai Commercial Bank Tower, 12 Queen's Road Central, Hong Kong",
+    "privacy policy 59" => "You may also contact our Data Protection Officers:",
+    "privacy policy 60" => "Attention: Data Protection Officer",
+    "privacy policy 61" => "In writing at:",
+    "privacy policy 62" => "California Consumer Privacy Act Disclosures",
+    "privacy policy 63" => "Last Updated: 21 May 2020",
+    "privacy policy 64" => "The California Consumer Privacy Act (“CCPA”) requires that we disclose certain information
+                            regarding our collection, use, and disclosure of personal information of California
+                            residents.  These California Consumer Privacy Disclosures (“Disclosures”) supplement
+                            the Vanward Privacy Policy above and apply solely to California consumers. These Disclosures
+                            do not apply to Vanward personnel. Sections 2-4 of these Disclosures do not apply to Vanward
+                            job applicants.",
+    "privacy policy 65" => "Notice of Collection and Use of Personal Information",
+    "privacy policy 66" => "Depending on the nature of your relationship with us, we may collect (and may have collected
+                            during the 12-month period prior to the effective date of these Disclosures) the following
+                            categories of personal information about you:",
+    "privacy policy 67" => "<li><strong>Identifiers:</strong> identifiers such as a real name, alias, postal address,
+                                unique personal identifier (such as a device identifier; cookies, beacons, pixel tags,
+                                mobile ad identifiers and similar technology; customer number, unique pseudonym, or user
+                                alias; telephone number and other forms of persistent or probabilistic identifiers),
+                                online identifier, internet protocol address, email address, account name, Social
+                                Security number, driver’s license number, passport number, and other similar identifiers
+                            </li>
+                            <li><strong>Additional Data Subject to Cal. Civ. Code § 1798.80:</strong> signature, state
+                                identification card number, insurance policy number, education, bank account number,
+                                credit card number, debit card number, and other financial information, medical
+                                information</li>
+                            <li><strong>Protected Classifications: </strong>characteristics of protected classifications
+                                under California or federal law, such as national origin, age, sex, gender, sexual
+                                orientation, marital status, medical condition, disability, citizenship status, and
+                                military and veteran status</li>
+                            <li><strong>Commercial Information: </strong>commercial information, including records of
+                                personal property, products or services purchased, obtained, or considered, and other
+                                purchasing or consuming histories or tendencies</li>
+                            <li><strong>Online Activity: </strong>Internet and other electronic network activity
+                                information, including, but not limited to, browsing history, search history, and
+                                information regarding your interaction with websites, applications or advertisements
+                            </li>
+                            <li><strong>Geolocation Data </strong></li>
+                            <li><strong>Sensory Information:</strong> Audio</li>
+                            <li><strong>Employment Information:</strong> professional or employment-related information
+                            </li>
+                            <li><strong>Education Information:</strong> education information that is not publicly
+                                available personally identifiable information as defined in the Family Educational
+                                Rights and Privacy Act (20 U.S.C. Sec. 1232g; 34 C.F.R. Part 99)</li>
+                            <li><strong>Inferences: </strong>inferences drawn from any of the information identified
+                                above to create a profile about you reflecting your preferences, characteristics,
+                                psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and
+                                aptitudes.</li>",
+    "privacy policy 68" => "We may use (and may have used during the 12-month period prior to the effective date of these
+                            Disclosures) your personal information for the purposes described in our Privacy Policy and
+                            for the following business purposes specified in the CCPA:",
+    "privacy policy 69" => "<li>Performing services, including maintaining or servicing accounts, providing customer
+                                service, processing or fulfilling orders and transactions, verifying customer
+                                information, processing payments, providing advertising or marketing services, providing
+                                analytics services, or providing similar services</li>
+                            <li>Auditing related to a current interaction with you and concurrent transactions,
+                                including, but not limited to, counting ad impressions to unique visitors, verifying
+                                positioning and quality of ad impressions, and auditing compliance</li>
+                            <li>Detecting security incidents, protecting against malicious, deceptive, fraudulent, or
+                                illegal activity, and prosecuting those responsible for that activity</li>
+                            <li>Debugging to identify and repair errors that impair existing intended functionality</li>
+                            <li>Undertaking internal research for technological development and demonstration</li>
+                            <li>Undertaking activities to verify or maintain the quality or safety of a service or
+                                device that is owned, manufactured, manufactured for, or controlled by us, and to
+                                improve, upgrade, or enhance the service  that is owned, manufactured, manufactured
+                                for, or controlled by us.</li>
+                            <li>Managing career opportunities with Vanward.</li>",
+    "privacy policy 70" => "Sources of Personal Information",
+    "privacy policy 71" => "Depending on the nature of your relationship with us, during the 12-month period prior to the
+                            effective date of these Disclosures, we may have obtained personal information about you
+                            from the following categories of sources:",
+    "privacy policy 72" => "<li>Directly from you, such as when you enter your personal information on our Site or
+                                contact us</li>
+                            <li>Your devices, such as your online activity when you visit our Site, including how you
+                                interact with our Site</li>
+                            <li>Our affiliates</li>
+                            <li>Vendors who provide services on our behalf</li>
+                            <li>Our joint marketing partners</li>
+                            <li>Online advertising services and advertising networks</li>
+                            <li>Data analytics providers</li>
+                            <li>Government entities</li>
+                            <li>Operating systems and platforms</li>
+                            <li>Social networks</li>
+                            <li>Data brokers</li>",
+    "privacy policy 73" => "Sharing of Personal Information",
+    "privacy policy 74" => "Depending on the nature of your relationship with us, during the 12-month period prior to the
+    effective date of these Disclosures, we may have disclosed the following categories of
+                            personal information about you for a business purpose to the following categories of third
+                            parties:",
+    "privacy policy 75" => "Category of Personal Information",
+    "privacy policy 76" => "Category of Third Party",
+    "privacy policy 77" => "Identifiers",
+    "privacy policy 78" => "Data analytics providers, government entities, operating systems and platforms",
+    "privacy policy 79" => "Additional Data Subject to Cal. Civ. Code § 1798.80 Law",
+    "goverment entities" => "Government entities",
+    "privacy policy 80" => "Protected Classifications",
+    "privacy policy 81" => "Commercial Information",
+    "privacy policy 82" => "Online Activity",
+    "privacy policy 83" => "Data analytics providers, operating systems and platforms",
+    "privacy policy 84" => "Sensory Information",
+    "privacy policy 85" => "Employment Information",
+    "privacy policy 86" => "Education Information",
+    "privacy policy 87" => "Inferences",
+    "privacy policy 88" => "<p>As noted in our main Privacy Policy, we do not sell any personal information, including but
+                                not limited to personal information of minors under sixteen (16) years of age.</p>
+                            <p></p>
+                            <p><strong>4. Specific Rights under the CCPA</strong></p>
+                            <p>Under the CCPA, California residents have certain specific rights with respect to their
+                                personal information.  The following describes these rights:</p>
+                            <p><em>Right to Request Information</em></p>
+                            <p>You have the right to request, twice in a 12-month period, that we disclose to you the
+                                personal information we have collected, used, disclosed and sold about you during the past
+                                12 months.</p>
+                            <p><em>Right to Request Deletion of Personal Information</em></p>
+                            <p>You also have the right to request that we delete certain personal information that we have
+                                collected from you. </p>
+                            <p><em>Opt-Out of Sale</em></p>
+                            <p><em>You have the right to opt out of the sale of your personal information. </em>As noted in
+                                our main Privacy Policy, we do not sell any personal information, including but not limited
+                                to personal information of minors under sixteen (16) years of age.</p>
+                            <p><em>How to Exercise Your Rights</em></p>
+                            <p>We offer three methods by which you may submit a request for information or for deletion of
+                                your personal information:</p>",
+    "privacy policy 89" => "You may submit a request using the",
+    "privacy policy 90" => "dedicated request form",
+    "privacy policy 91" => "on our website:",
+    "privacy policy 92" => "You may submit a request via email to",
+    "privacy policy 93" => "You may call us toll-free at +852 5808 6078 and ask to speak to the Vanward Privacy Officer.",
+    "privacy policy 94" => "<p>Please note that for us to act on your request, we must verify that you are the individual to
+                                whom the request relates.  The procedure for verifying your request will vary depending
+                                on the nature of your request and your relationship with us but will typically involve
+                                requiring you to provide us with two or more pieces of identifying information matching your
+                                personal information already in our records. In addition, if you ask us to provide you with
+                                specific pieces of personal information, we may require you to sign a declaration under
+                                penalty of perjury that you are the consumer whose personal information is the subject of
+                                the request.  We will notify you if we are unable to verify your request as required by
+                                the CCPA. </p>
+                            <p>To submit a request as an authorized agent on behalf of an individual, you must provide us
+                                with written and signed permission from the individual to submit requests on their behalf,
+                                in addition to any other information which would be necessary if the individual were making
+                                the request directly.</p>
+                            <p><em>Right of Non-Discrimination</em></p>
+                            <p>We will not discriminate against you because you have exercised any of your rights under the
+                                CCPA.  This includes, but is not limited to, denying you goods or services, charging
+                                you different prices or rates for goods or services, providing you with a different level or
+                                quality of goods or services, or suggesting that you will receive a different price or rate
+                                for goods or services or a different level or quality of goods or services because you have
+                                exercised any of your rights under the CCPA.</p>",
+    "privacy policy 95" => "Contact Information",
+    "privacy policy 96" => "If you have questions or concerns about our privacy policies and practices, please contact us as described in the “How to contact us” section of our main Privacy Policy.",
+    "privacy policy 97" => "comp",
+    "privacy policy 98" => "comp",
+    "privacy policy 99" => "comp",
+    "privacy policy 100" => "comp",
     // new account policy
     "new account policy 1"  => "Important Information About Procedures for Opening a New Account",
     "new account policy 2"  => "To help the government fight the funding of terrorism and money laundering activities, Federal law requires

@@ -14,35 +14,29 @@
     <div class="eleven columns">
         <h2>@lang('public.philanthropy')</h2>
         <p style="padding-top: 10px;">
-            At Vanward, it's good to share your time and talent.
+            @lang('public.philanthropy 1')
             <br><br>
-            Because of this, we created Cares, our philanthropic program dedicated to providing education and basic
-            necessities to those in need. Through this program, Vanward Employees are able to give back to our
-            communities and help transform the lives of others while inspiring a spirit of citizenship and social
-            responsibility.
+            <strong>@lang('public.philanthropy 2')</strong>
             <br><br>
-            Reflective of our philanthropic mission, we place our focus on the following categories.
+            @lang('public.philanthropy 3')
+
             <br><br>
-            <strong>Basic Needs</strong>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.philanthropy 4')<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.philanthropy 5')<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.philanthropy 6')<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.philanthropy 7')<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.philanthropy 8')<br>
             <br><br>
-            Providing residents in our local communities with the basic necessities to improve quality of life, such as:
+            <strong>@lang('public.philanthropy 9')</strong>
             <br><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;serving meals to the homeless <br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;donating food and gifts during the winter holiday season<br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;building homes for low-income families<br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;citywide clean-up initiatives<br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;working to beautify schools<br>
+            @lang('public.philanthropy 10')
             <br><br>
-            <strong>Education</strong>
-            <br><br>
-            Providing resources and skills that position people for success, including:
-            <br><br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;distributing books and school supplies<br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;helping prepare tax returns<br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;assembling literacy kits<br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;teaching leadership skills<br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;reading to school children<br>
-            &nbsp;&nbsp;&nbsp;&bull;&nbsp;helping with resume writing<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.philanthropy 11')<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.philanthropy 12')<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.philanthropy 13')<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.philanthropy 14')<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.philanthropy 15')<br>
+            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.philanthropy 16')<br>
         </p>
     </div>
     <div class="five columns">
