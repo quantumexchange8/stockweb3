@@ -15,17 +15,10 @@
     <div class="eleven columns">
         <h2>@lang('public.benefits, wellness and compensation')</h2>
         <p style="padding-top: 10px;">
-        <p><strong>Together We Thrive</strong></p>
+        <p><strong>@lang('public.benefits wellness compensation 1')</strong></p>
         <br>
-        <p>It’s simple – a healthier you is a happier you. Our Thrive program will enable you to enhance
-            your well-being by giving you resources and support to help make the best lifestyle
-            choices--physically, financially, and personally. Well-being means something different for
-            everyone at different points in their lives.</p>
-            <br>
-        <p> The choice about how to live your best life is yours. The commitment to help our employees
-            get there is ours. Our program varies by location, and is designed to engage, encourage and
-            reward our employees and their families by emphasizing continued good health, financial
-            security for your future, and peace of mind.</p>
+        @lang('public.benefits wellness compensation 2')
+
         <p><span class="richTextImage">
             </span>
         </p>

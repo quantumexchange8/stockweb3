@@ -2459,160 +2459,356 @@ return [
                     own “otherness.” This event allowed parents and allies to ask questions in a safe environment to
                     learn from those navigating similar experiences.",
     // pride network
-    "pride 1" => "Companies",
-    "pride 2" => "Companies",
-    "pride 3" => "Companies",
-    "pride 4" => "Companies",
-    "pride 5" => "Companies",
-    "pride 6" => "Companies",
-    "pride 7" => "Companies",
-    "pride 8" => "Companies",
-    "pride 9" => "Companies",
-    "pride 10" => "Companies",
-    "pride 11" => "Companies",
+    "pride 1" => "I’m proud to be part of the Pride Network and be part of a Firm where LGBTQ professionals and
+    supporters have a community of peers to come together for sharing, networking, and volunteering. The
+    greater our diversity and inclusion, the more we unlock human potential and the greater the
+    prosperity of Vanward. Having a diverse set of colleagues who feel comfortable being themselves is our
+    culture in tangible and intangible ways.",
+    "pride 2" => "– Jeff Schoenfeld, Partner and Pride Network",
+    "pride 3" => "Vanward believes everyone should feel empowered to bring their whole selves to work regardless of sexual
+    orientation or gender identity. The Pride Network creates a welcoming community for employees who
+    identify as LGBTQ (lesbian, gay, bisexual, transgender or questioning) and their allies. Through
+    education and advocacy, we raise awareness of topics relevant to the LGBTQ community, helping to create
+    a diverse, accepting, and inclusive workplace. Members benefit from professional development
+    opportunities, including a formalized mentoring program and targeted volunteerism to give back to local
+    communities. We also partner with our Lines of Business to ensure policies and practices are sensitive
+    to, and inclusive of, LGBTQ professionals.",
+    "pride 4" => "Using Sensitivity & Intelligence to Understand Gender Diversity",
+    "pride 5" => `The Vanward Pride Network presented award-winning transgender storyteller, diversity speaker, educator,
+                and Ted Talk Presenter, Scott Turner Schofield, whose presentation touched on themes of "gender
+                diversity," identity, culture, language, and ally-ship. Scott's presentation included transgender
+                themes and introduced the concept of "inter-sectionality" — answering the question of how biological
+                sex, gender, and sexuality are influenced by factors including race, socioeconomic status,
+                geographical location, and disability. Scott masterfully wove these topics together, speaking to
+                audience members' varied experiences, both in and out of the workplace.`,
+    "pride 6" => "Leading the Way: Vanward Hosts LGBT Workplace Summit in Kraków",
+    "pride 7" => "Vanward Kraków Pride members hosted the third in a series of LGBT Symposia with organizations that
+                included US Consulate General, IBM, Shell, HSBC, Cisco, LGBT Business Forum, Heineken, CapGemini,
+                Akamai, ABB, Diversity Hub, and Stowarzyszenie Queerowy Maj. The symposium’s goal is to strengthen
+                alliances with other companies and share strategies on how to build LGBT networks and employee
+                resource groups in Kraków, Poland. As an early member of this consortium, Vanward is leading the way
+                alongside our corporate partners in sharing information, experiences and knowledge on how to ensure
+                our workplaces remain welcoming and open to the LGBT community and allies.",
+    "pride 8" => "Parent Panel",
+    "pride 9" => "Partner Jeff Schoenfeld, Pride Network’s Executive Sponsor, led a conversation with three of his
+    fellow Vanward Partners, Carter Sullivan, Rick Berk, and Digger Donahue, along with their LGBT+ family
+    members. Participants shared their perspectives on what it means to be a supportive parent or
+    sibling to an LGBT+ individual.",
+    "pride 10" => "Where Will We Go?",
+    "pride 11" => "The Boston Pride Network hosted a panel discussion about the LGBT+ community's aging crisis. A
+    representative from Fenway Health led a discussion about the complexity of this issue and the
+    efforts being made to address it. Attendees got a chance to learn about the culture, needs, and
+    concerns of LGBT+ older adults.",
     // womens network
-    "womens 1" => "Companies",
-    "womens 2" => "Companies",
-    "womens 3" => "Companies",
-    "womens 4" => "Companies",
-    "womens 5" => "Companies",
-    "womens 6" => "Companies",
-    "womens 7" => "Companies",
-    "womens 8" => "Companies",
-    "womens 9" => "Companies",
-    "womens 10" => "Companies",
-    "womens 11" => "Companies",
-    "womens 12" => "Companies",
-    "womens 13" => "Companies",
-    "womens 14" => "Companies",
+    "womens 1" => "“My involvement in the Women’s Network has provided great opportunities for me to build
+                    long-term relationships with other members. This has helped me professionally, as well as given me a
+                    platform to help others. Many women who have demonstrated a range of skills through their
+                    Women’s Network involvement have found new and unexpected opportunities within the
+                    bank.”",
+    "womens 2" => "- Sarah Holmes, Women's Network Co-Chair",
+    "womens 3" => "The Women’s Network provides opportunities for women to further their personal and professional
+                    development, build relationships, and collaborate with employees of all backgrounds, expertise and
+                    levels across the Firm. We aim to inspire, educate and engage our members through events, networking
+                    opportunities and industry forums. We are committed to educating all employees about the unique ways to
+                    support women in the workplace. In partnership with our business leaders, we focus on attracting,
+                    advancing, and retaining women in the workforce - encouraging them to be leaders at every stage of their
+                    career.",
+    "womens 4" => "Breaking the Mold",
+    "womens 5" => `The Boston Women's Network hosted Dr. Patti Fletcher to discuss success strategies from women who
+                    break the mold. Her message to attendees of our annual Women's Network gathering was "When you open
+                    a door for yourself, it paves a path for those behind you."`,
+    "womens 6" => "Day of Transformation",
+    "womens 7" => `The Jersey City Women's Network celebrated a "Day of Transformation," featuring Wanda Durant,
+                    inspirational speaker, philanthropist, and mother of Kevin Durant, two time NBA MVP Champion with
+                    the Golden State Warriors as well as Eric Hutcherson, the NBA's Chief Human Resources Officer.
+                    Attendees learned about both personal and professional transformation from two individuals who have
+                    led by evolving themselves through personal experiences and have led change in their organizations.`,
+    "womens 8" => "Building Business Acumen",
+    "womens 9" => "The Kraków Women’s Network recently hosted a professional development event entitled ‘Business,
+                    Financial and Strategic Acumen – Career Advice You Probably Didn’t Get. Attendees were encouraged to
+                    share experiences and advice during this informative session.",
+    "womens 10" => "Greater China's Women's Network Clothing Drive",
+    "womens 11" => "The Greater China Women's Network is suited for success! They recently ran a clothing donation drive
+                    for job-seekers in need of professional attire.",
+    "womens 12" => "The Power of ESG Investing",
+    "womens 13" => "The Women's Network and the",
+    "womens 14" => "hosted MSCI's Whitney Rauschenbach for a conversation on ESG
+                    (Environmental, Social, and Governance) investing in Boston. Whitney shared MSCI's research on
+                    trends in the ESG space and explained why the movement is here to stay.",
     // young professionals network
-    "young professionals 1" => "Companies",
-    "young professionals 2" => "Companies",
-    "young professionals 3" => "Companies",
-    "young professionals 4" => "Companies",
-    "young professionals 5" => "Companies",
-    "young professionals 6" => "Companies",
-    "young professionals 7" => "Companies",
-    "young professionals 8" => "Companies",
-    "young professionals 9" => "Companies",
-    "young professionals 10" => "Companies",
-    "young professionals 11" => "Companies",
-    "young professionals 12" => "Companies",
-    "young professionals 13" => "Companies",
-    "young professionals 14" => "Companies",
+    "young professionals 1" => "“The Young Professionals Network offers fantastic opportunities for employees in the early stages of
+                                their career to get involved at Vanward, joining has helped me grow personally and professionally.”",
+    "young professionals 2" => "– Sean Farrell, Young Professional Network Co-Chair",
+    "young professionals 3" => "The mission of the Young Professionals Network is to engage, develop, and connect employees who are early
+                                in their careers, or new to Vanward or the financial services industry. We offer opportunities for
+                                employees to expand their professional networks, build their personal brands, and support our
+                                communities. Special programs promote constructive peer and mentor relationships while empowering
+                                members with the skills needed to drive success as future leaders. We create a forum for employees to
+                                have an open dialogue about the opportunities and challenges of a multi-generational workplace.",
+    "young professionals 4" => "YPN Survey",
+    "young professionals 5" => "The Dublin chapter of Vanward’s Young Professionals Network marked the firm’s bicentennial anniversary in
+                                2018 by assessing the current and future shape of today’s workplace. The network conducted a survey of
+                                two distinct demographic groups in employment—under 30 and over 30—to understand their attitudes toward
+                                work and education. The survey tested the hypothesis that the current and future workforces are
+                                distinctly different in terms of work attitudes, expectations, and values.",
+    "young professionals 6" => "Read the full report here.",
+    "young professionals 7" => "Urban Garden",
+    "young professionals 8" => "Cares and YPN New York City hosted an Urban Garden Rooftop event. The volunteers spent a morning
+                                planting new vegetables, weeding and watering the garden. The garden benefits local residents who
+                                are learning how to farm, cook and serve more nutritious meals to their families.",
+                                "young professionals 9" => "Meet the Youngest Irish Person Ever to Climb Mount
+                                Everest",
+    "young professionals 10" => "YPN Dublin hosted special guest speaker, Rob Mortell, — the youngest Irish person ever to climb Mount
+                                Everest! Rob shared his insight into the preparations and challenges of reaching the summit, and
+                                discussed how teams can succeed in some of the world’s most inhospitable environments.",
+    "young professionals 11" => "Invest in Yourself and Your Career",
+    "young professionals 12" => `YPN hosted a two-part event series on the themes of “Investing in Yourself" and "Investing in Your
+                                Career." The discussions explored how panelists created their own unique, internal career mobility
+                                opportunities, and the successes, challenges and humor they have encountered over the course of
+                                their careers.`,
+    "young professionals 13" => "Understanding the Generation Gap",
+    "young professionals 14" => "YPN Boston hosted speakers from Talent Catalyst to help attendees understand how to bridge the
+                                generation gap by learning how to effectively have conversations, set expectations, and build
+                                relationships in today’s multi-generational workforce.",
     // benefits wellness compensation
-    "benefits wellness compensation 1" => "Companies",
-    "benefits wellness compensation 2" => "Companies",
+    "benefits wellness compensation 1" => "Together We Thrive",
+    "benefits wellness compensation 2" => "<p>
+                                                It’s simple – a healthier you is a happier you. Our Thrive program will enable you to enhance
+                                                your well-being by giving you resources and support to help make the best lifestyle
+                                                choices--physically, financially, and personally. Well-being means something different for
+                                                everyone at different points in their lives.</p>
+                                                <br>
+                                            <p> The choice about how to live your best life is yours. The commitment to help our employees
+                                                get there is ours. Our program varies by location, and is designed to engage, encourage and
+                                                reward our employees and their families by emphasizing continued good health, financial
+                                                security for your future, and peace of mind.</p>",
     "benefits wellness compensation 3" => "Companies",
     // career management
-    "career management 1" => "Companies",
-    "career management 2" => "Companies",
-    "career management 3" => "Companies",
+    "career management 1"   => "At Vanward, we believe in fostering the growth and development of our employees. We are
+                            dedicated to providing you with the necessary tools and resources to take ownership of your career and
+                            achieve your long-term goals. Our firm-employee partnership is built on continuous learning and
+                            development, and we offer a range of resources to support your professional growth, including:",
+    "career management 2"   => `<li>Performance Management: We emphasize frequent feedback and collaboration between you and your
+                                    manager. Together, you will create a roadmap that outlines your career goals and the steps
+                                    needed to achieve them. Our mid-year and year-end review processes ensure that you receive
+                                    formal check-ins to track your progress and make any necessary adjustments.</li>
+                                    <br>
+                                <li>Development Planning: We understand the importance of continuous learning and growth. Our
+                                    development plans are designed to identify any skill gaps and provide you with a tailored plan
+                                    to close them. This may include a combination of on-the-job experiences, formal learning
+                                    programs (such as classroom or web-based training), and informal learning opportunities (such as
+                                    participating in communities, reading articles, or books).</li>
+                                    <br>
+                                <li>Mentoring: We recognize the value of guidance from experienced colleagues. Through our
+                                    mentorship programs and discussion groups, you have the opportunity to connect with senior
+                                    leaders and tap into their expertise. These mentoring relationships can provide valuable
+                                    insights, advice, and support as you progress in your career.</li>
+                                    <br>
+                                <li>Driving Your Career: Our structured e-Learning series, "Driving Your Career," is designed to
+                                    help you create personalized development plans. This series enables you to identify the elements
+                                    of an ideal career fit and evaluate different pathways to enhance your career satisfaction. By
+                                    leveraging this resource, you can gain clarity on your professional aspirations and take steps
+                                    towards achieving them.</li>`,
+    "career management 3"   => "At Vanward, we are committed to your professional growth and development. We provide the
+                                necessary support, resources, and opportunities for you to thrive in your current role and advance in
+                                your career. By taking advantage of our performance management processes, development planning
+                                initiatives, mentorship programs, and career-driven e-Learning series, you can actively shape your
+                                career trajectory and achieve long-term success.",
     "career management 4" => "Companies",
     "career management 5" => "Companies",
     "career management 6" => "Companies",
     // mobility
-    "mobility 1" => "Companies",
-    "mobility 2" => "Companies",
-    "mobility 3" => "Companies",
-    "mobility 4" => "Companies",
+    "mobility 1" => "Vanward provides countless opportunities throughout your career to hone your
+                    expertise, take on new challenges, and reinvent yourself in new roles and business areas. We
+                    look for ways to help our employees grow, creating succession plans, assigning stretch
+                    projects outside everyday responsibilities, and advertising all open roles and giving
+                    priority to internal candidates. This brings new perspectives throughout our business
+                    areas—which is good for you and our clients. Mobility enables you to benefit from
+                    cross-regional, cross-product and/or cross-functional experiences—exposing you to varied
+                    work, teams, and client perspectives.",
+    "mobility 2" => "Take on the World",
+    "mobility 3" => "Interested in expanding your global mindset, developing language skills, and applying your
+                    expertise in different businesses and cultures? Our Global Assignment Program supports
+                    Vanward’s global strategy while providing employees development and cross-cultural
+                    opportunities. We offer both short-term and long-term assignments that run anywhere from
+                    three months to five years. These assignments provide you the opportunity to:",
+    "mobility 4"    => "<li>gain advanced international skills and experience</li>
+                        <li>work in diverse global markets</li>
+                        <li>develop leadership skills</li>
+                        <li>explore new cultures</li>
+                        <li>build global networks</li>",
     "mobility 5" => "Companies",
     "mobility 6" => "Companies",
     "mobility 7" => "Companies",
     "mobility 8" => "Companies",
     // ongoing learning
-    "ongoing learning 1" => "Companies",
-    "ongoing learning 2" => "Companies",
-    "ongoing learning 3" => "Companies",
-    "ongoing learning 4" => "Companies",
-    "ongoing learning 5" => "Companies",
-    "ongoing learning 6" => "Companies",
-    "ongoing learning 7" => "Companies",
-    "ongoing learning 8" => "Companies",
-    "ongoing learning 9" => "Companies",
-    "ongoing learning 10" => "Companies",
+    "ongoing learning 1"    => "Opportunities for learning and development begin on your first day of work at Vanward
+                                and continue throughout your career. Our approach is a mix of collaborative
+                                learning, on-the-job application, and online tools that help you apply new ideas and
+                                grow. Here are a few ways we support your development:",
+    "ongoing learning 2"    => "Our custom-designed developmental programs prepare
+                                you to be a trusted advisor to our clients, providing innovative solutions to address their
+                                financial needs. We look to develop leaders at all levels within our organization and
+                                our specialized courses prepare you to succeed.",
+    "ongoing learning 3"    => "Vanward Academy:",
+    "ongoing learning 4"    => "Our online learning and career center provides the
+                                resources and guidance to help you realize your career aspirations. Enjoy 24/7 access to
+                                e-Learning courses, online business and technical articles, competency assessments, and
+                                interactive tools offering hundreds of learning opportunities.",
+    "ongoing learning 5"    => "Vanward Scholars Program:",
+    "ongoing learning 6"    => "Where the business need exists, Vanward assists
+                                you in obtaining professional certifications, as well as continuing your formal education
+                                through tuition reimbursement.",
+    "ongoing learning 7"    => "Toastmasters:",
+    "ongoing learning 8"    => "These clubs build leadership and public speaking skills
+                                with a “learn-by-doing” approach while providing opportunities to network with colleagues.",
+    "ongoing learning 9"    => "Professional Memberships and Subscriptions:",
+    "ongoing learning 10"   => "Vanward pays for professional
+                                organization membership fees and job-related subscriptions that are directly job related.",
     // signature programs
-    "signature programs 1" => "Companies",
-    "signature programs 2" => "Companies",
-    "signature programs 3" => "Companies",
-    "signature programs 4" => "Companies",
-    "signature programs 5" => "Companies",
-    "signature programs 6" => "Companies",
-    "signature programs 7" => "Companies",
-    "signature programs 8" => "Companies",
-    "signature programs 9" => "Companies",
+    "signature programs 1"  => `Our signature development programs are tailored to Vanward’s ("Vanward") unique culture, helping
+                                you as you progress in your career to grow as a leader, build long-term relationships, and
+                                navigate the global marketplace. Some programs are designed for specific points in your
+                                career, such as a promotion to management, while others employ a competitive selection
+                                process and are available throughout the year. Samplings of our offerings include:`,
+    "signature programs 2"  => "Development Assignment Program (DAP):",
+    "signature programs 3"  => "Highly motivated individuals have the
+                                opportunity to grow their skill set and advance their careers with a two-year assignment in
+                                one of our international locations. Those selected for DAP rotate through a number of roles,
+                                working to broaden their understanding of our business while building key relationships,
+                                gaining global exposure to senior leaders, learning new skills, immersing themselves in a
+                                new culture, and sharing their knowledge with local teams. The program includes a
+                                combination of on-the-job experiences and classroom training. Participants enroll in formal
+                                training classes and are assigned a mentor.",
+    "signature programs 4"  => "Foundations of Vanward Management:",
+    "signature programs 5"  => "This cohort-based program targets new and/or
+                                recently promoted managers, ensuring they are equipped to lead a global and diverse
+                                workforce. The curriculum engages a variety of learning styles by blending self-led,
+                                classroom, and e-Learning while ensuring application back on the job. This development
+                                approach embeds the participant’s manager throughout the program, ensuring alignment between
+                                the firm’s expectations and a new manager’s day-to-day responsibilities.",
+    "signature programs 6"  => "Leadership Education And Development:",
+    "signature programs 7"  => "This two-year leadership
+                                commitment starts with a nine-week intensive program designed to help participants map their
+                                leadership journey, deepen their financial acumen, and contribute to Vanward’s strategic
+                                objectives. Employees deepen their self-awareness; create a personal leadership brand;
+                                succeed in large, complex assignments; and develop a network within the firm and the
+                                industry.",
+    "signature programs 8"  => "Leadership Bridge:",
+    "signature programs 9"  => "This is a six-month program for longer-term
+                                managers who have had limited or no formal management training. Similar to our foundations
+                                program, participants will develop the skills to harness the full power of their teams,
+                                including the ability to leverage and manage interpersonal differences, guide and coach
+                                their subordinates, and successfully navigate performance conversations.",
     // thrive financially
-    "thrive financially 1" => "Companies",
-    "thrive financially 2" => "Companies",
-    "thrive financially 3" => "Companies",
-    "thrive financially 4" => "Companies",
-    "thrive financially 5" => "Companies",
-    "thrive financially 6" => "Companies",
-    "thrive financially 7" => "Companies",
-    "thrive financially 8" => "Companies",
-    "thrive financially 9" => "Companies",
-    "thrive financially 10" => "Companies",
-    "thrive financially 11" => "Companies",
-    "thrive financially 12" => "Companies",
-    "thrive financially 13" => "Companies",
-    "thrive financially 14" => "Companies",
-    "thrive financially 15" => "Companies",
-    "thrive financially 16" => "Companies",
-    "thrive financially 17" => "Companies",
-    "thrive financially 18" => "Companies",
+    "thrive financially 1"  => "Our people are the cornerstone of our long-term success and a key competitive advantage. We
+                                strive to ensure our compensation and financial benefit programs are competitive and
+                                appropriately align individual efforts to the overall values and performance of the Firm.",
+    "thrive financially 2"  => "<li>Competitive Salary</li>
+                                <li>Performance Bonus</li>
+                                <li>Retirement Plan</li>
+                                <li>Profit Sharing</li>",
+    "thrive financially 3"  => "Financial Well-being",
+    "thrive financially 4"  => "As part of our commitment to providing a comprehensive total rewards package, Vanward offers you
+                                access to financial education, resources and programs including:",
+    "thrive financially 5"  => "<li>Life and disability Insurance</li>
+                                <li>Before tax programs (FSAs and HSA)</li>
+                                <li>Commuter benefits</li>
+                                <li>Discount Programs</li>
+                                <li>Budget planning</li>
+                                <li>Adoption and Surrogacy reimbursement</li>
+                                <li>Financial and retirement planning</li>
+                                <li>Debt counseling</li>
+                                <li>Tax and home-buying advice</li>
+                                <li>Employee Relief Fund</li>
+                                <li>Undergraduate Scholarship Program</li>",
     // thrive personally
-    "thrive personally 1" => "Companies",
-    "thrive personally 2" => "Companies",
-    "thrive personally 3" => "Companies",
-    "thrive personally 4" => "Companies",
-    "thrive personally 5" => "Companies",
-    "thrive personally 6" => "Companies",
-    "thrive personally 7" => "Companies",
-    "thrive personally 8" => "Companies",
-    "thrive personally 9" => "Companies",
-    "thrive personally 10" => "Companies",
+    "thrive personally 1"   => "Vanward recognizes that each employee has different needs both inside and outside
+                                the workplace. Our goal is to ensure you have a rewarding and productive work experience
+                                with the flexibility and time to enjoy your personal and family life at every stage of your
+                                career. Offerings vary locally and include resources on:",
+    "thrive personally 2"   => "<li>Paid Time Off</li>
+                                <li>Flexible Work Arrangements</li>
+                                <li>Child Care Needs</li>
+                                <li>Time Off to Volunteer</li>
+                                <li>Social Activities and Clubs</li>
+                                <li>Adoption/Surrogacy Services</li>
+                                <li>Employee Assistance Programs</li>
+                                <li>Sleep Disorders</li>
+                                <li>Stress Management</li>",
     // thrive physically
-    "thrive physically 1" => "Companies",
-    "thrive physically 2" => "Companies",
-    "thrive physically 3" => "Companies",
-    "thrive physically 4" => "Companies",
-    "thrive physically 5" => "Companies",
-    "thrive physically 6" => "Companies",
-    "thrive physically 7" => "Companies",
-    "thrive physically 8" => "Companies",
-    "thrive physically 9" => "Companies",
-    "thrive physically 10" => "Companies",
-    "thrive physically 11" => "Companies",
+    "thrive physically 1"   => "<p>At Vanward, we prioritize the health and well-being of our employees and their
+                                    families. That's why we offer a comprehensive Benefits Program that provides extensive
+                                    healthcare coverage and additional benefits to support your overall well-being.</p>
+                                    <br>
+                                <p>Our Benefits Program includes a range of healthcare options that are tailored to meet the
+                                    needs of you and your family. Whether it's medical, dental, or vision coverage, we strive to
+                                    ensure that you have access to high-quality care when you need it most. We work with
+                                    reputable providers to deliver comprehensive coverage and help alleviate the financial
+                                    burden of healthcare expenses.</p>
+                                    <br>
+                                <p>In addition to healthcare coverage, we offer various programs and resources to promote
+                                    wellness and proactive health management. These may include health reviews, screenings, and
+                                    educational tools to help you make informed decisions about your health and take preventive
+                                    measures. We believe that by empowering you with the knowledge and resources needed to
+                                    maintain a healthy lifestyle, we can support your overall well-being.</p>
+                                    <br>
+                                <p>We are committed to delivering a Benefits Program that not only provides comprehensive
+                                    healthcare coverage but also supports your holistic well-being. Your health and the health
+                                    of your family are important to us, and we strive to offer programs and resources that
+                                    enable you to lead a healthy and fulfilling life.</p>",
+    "thrive physically 2"   => "<li>Medical, Dental and Vision</li>
+                                <li>Disease Prevention/Screenings</li>
+                                <li>Physical Activity</li>
+                                <li>Nutrition</li>
+                                <li>Tobacco Cessation</li>
+                                <li>Biometric Screenings</li>
+                                <li>Wellness Discounts</li>",
 
     // our firm
-    "our firm 1" => "Companies",
-    "our firm 2" => "Companies",
-    "our firm 3" => "Companies",
-    "our firm 4" => "Companies",
-    "our firm 5" => "Companies",
+    "our firm 1" => "Vanward Asset Management Limited is an independently owned and operated financial services firm.
+                    Our focus is on serving highly discerning individuals and institutions, offering specialized expertise
+                    in Private Banking, Investment Management, and Investor Services.
+                    <br><br>
+                    As we are not influenced by external shareholders, our interests are completely aligned with those of
+                    our clients. Our success is derived from the success of our clients. We prioritize a personalized
+                    approach to conducting business, placing emphasis on prudent risk management and always keeping our
+                    clients' reputation and best interests at the forefront of all our actions.",
+    "our firm 2" => "Our esteemed global leadership team",
+    "our firm 3" => "Enriching our clients, our people, and our communities through positive contributions",
+    "our firm 4" => "Demonstrating compassion for the community while fostering strong relationships with our colleagues.",
     // our mission and profile
-    "our mission and profile 1" => "Companies",
+    "our mission and profile 1" => "At Vanward, our purpose is clear and concise: to safeguard our clients' financial well-being and
+                                    foster the growth of their assets over extended periods. Placing our clients at the forefront of our
+                                    operations, we meticulously organize our firm, teams, and businesses accordingly. Upholding unwavering
+                                    integrity, we refuse to compromise on our principles.",
     // philanthropy
-    "philanthropy 1" => "Companies",
-    "philanthropy 2" => "Companies",
-    "philanthropy 3" => "Companies",
-    "philanthropy 4" => "Companies",
-    "philanthropy 5" => "Companies",
-    "philanthropy 6" => "Companies",
-    "philanthropy 7" => "Companies",
-    "philanthropy 8" => "Companies",
-    "philanthropy 9" => "Companies",
-    "philanthropy 10" => "Companies",
-    "philanthropy 11" => "Companies",
-    "philanthropy 12" => "Companies",
-    "philanthropy 13" => "Companies",
-    "philanthropy 14" => "Companies",
-    "philanthropy 15" => "Companies",
-    "philanthropy 16" => "Companies",
-    "philanthropy 17" => "Companies",
-    "philanthropy 18" => "Companies",
+    "philanthropy 1"    => `Companies`,
+    "philanthropy 2"    => `Companies`,
+    "philanthropy 3"    => `Companies`,
+    "philanthropy 4"    => `Companies`,
+    "philanthropy 5"    => `Companies`,
+    "philanthropy 6"    => `Companies`,
+    "philanthropy 7"    => `Companies`,
+    "philanthropy 8"    => `Companies`,
+    "philanthropy 9"    => `Companies`,
+    "philanthropy 10"   => `Companies`,
+    "philanthropy 11"   => `Companies`,
+    "philanthropy 12"   => `Companies`,
+    "philanthropy 13"   => `Companies`,
+    "philanthropy 14"   => `Companies`,
+    "philanthropy 15"   => `Companies`,
+    "philanthropy 16"   => `Companies`,
+    "philanthropy 17"   => `Companies`,
+    "philanthropy 18"   => `Companies`,
     // policies and disclosures
     "policies and disclosures 1" => "Companies",
+    // sustainability
+    "sustainability 1" => "Companies",
+    "sustainability 2" => "Companies",
+    "sustainability 3" => "Companies",
+    "sustainability 4" => "Companies",
+    "sustainability 5" => "Companies",
     // the partnership
     "the partnership 1" => "Our partnership is characterized by its flat hierarchy, collaboration, and transparency. It serves as an
                             organizational structure that fosters innovation and agility, ensuring that the best ideas swiftly emerge.
@@ -2624,5 +2820,57 @@ return [
                             As our Partners bear responsibility for the firm's obligations, we have cultivated a robust risk management
                             culture. Consequently, Vanward Partners are well-informed about the firm's operations and actively
                             participate in its daily management and decision-making processes.",
-
+    // legal
+    "legal 1"    => `Companies`,
+    "legal 2"    => `Companies`,
+    "legal 3"    => `Companies`,
+    "legal 4"    => `Companies`,
+    "legal 5"    => `Companies`,
+    "legal 6"    => `Companies`,
+    "legal 7"    => `Companies`,
+    "legal 8"    => `Companies`,
+    "legal 9"    => `Companies`,
+    "legal 10"   => `Companies`,
+    "legal 11"   => `Companies`,
+    "legal 12"   => `Companies`,
+    "legal 13"   => `Companies`,
+    "legal 14"   => `Companies`,
+    "legal 15"   => `Companies`,
+    "legal 16"   => `Companies`,
+    "legal 17"   => `Companies`,
+    "legal 18"   => `Companies`,
+    "legal 19"   => `Companies`,
+    "legal 20"   => `Companies`,
+    "legal 21"   => `Companies`,
+    "legal 22"   => `Companies`,
+    "legal 23"   => `Companies`,
+    "legal 24"   => `Companies`,
+    "legal 25"   => `Companies`,
+    "legal 26"   => `Companies`,
+    "legal 27"   => `Companies`,
+    "legal 28"   => `Companies`,
+    "legal 29"   => `Companies`,
+    "legal 30"   => `Companies`,
+    "legal 31"   => `Companies`,
+    "legal 32"   => `Companies`,
+    "legal 33"   => `Companies`,
+    "legal 34"   => `Companies`,
+    "legal 35"   => `Companies`,
+    "legal 36"   => `Companies`,
+    "legal 37"   => `Companies`,
+    "legal 38"   => `Companies`,
+    "legal 39"   => `Companies`,
+    "legal 40"   => `Companies`,
+    "legal 41"   => `Companies`,
+    "legal 42"   => `Companies`,
+    "legal 43"   => `Companies`,
+    "legal 44"   => `Companies`,
+    "legal 45"   => `Companies`,
+    "legal 46"   => `Companies`,
+    "legal 47"   => `Companies`,
+    // new account policy
+    "new account policy 1"  => `Companies`,
+    "new account policy 2"  => `Companies`,
+    "new account policy 3"  => `Companies`,
+    "new account policy 4"  => `Companies`,
 ];

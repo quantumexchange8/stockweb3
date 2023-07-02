@@ -14,7 +14,7 @@
             <ul>
                 <li><a href="javascript:goTo('benefitsWellnessAndCompensation')">@lang('public.benefits, wellness and compensation')</a></li>
                 <ul>
-                    <li><a href="javascript:goTo('thrivePhysically')">@lang('public.benefits, wellness and compensation')</a></li>
+                    <li><a href="javascript:goTo('thrivePhysically')">@lang('public.thrive physically')</a></li>
                     <li><a href="javascript:goTo('thriveFinancially')">@lang('public.thrive financially')</a></li>
                     <li><a href="javascript:goTo('thrivePersonally')">@lang('public.thrive personally')</a></li>
                 </ul>
