@@ -855,7 +855,7 @@ ul.slimmenu.collapsed li>ul {
     position: relative;
     margin: 0 auto;
     width: 40px;
-    border-top: 1px solid #000;
+    border-top: 1px solid gray;
     margin-bottom: 30px;
 }
 
@@ -863,7 +863,7 @@ ul.slimmenu.collapsed li>ul {
     position: relative;
     margin: 0 auto;
     width: 40px;
-    border-top: 1px solid #000;
+    border-top: 1px solid gray;
     margin-bottom: 10px;
 }
 
