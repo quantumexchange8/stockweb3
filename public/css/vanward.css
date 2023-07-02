@@ -14,6 +14,7 @@
     --vanward-blue-dark1: #0F1630;
     --vanward-blue-dark2: #081024;
     --vanward-blue-dark3: #040A1A;
+    --vanward-black: #000000;
 }
 
 
@@ -378,13 +379,13 @@ nav input {
 #sidebar {
     font-family: 'OpenSans-Light-webfont', sans-serif;
     /* background-image: linear-gradient(to bottom right, var(--vanward-blue-dark1), var(--vanward-blue-light3)); */
-    background-color: var(--vanward-blue-dark1);
+    background-color: var(--vanward-text-hover);
     padding: 8px;
 }
 
 #sidebar h5 {
     padding: 5px;
-    color: var(--vanward-text-bold1);
+    color: var(--vanward-black);
     /* White text color */
 }
 
@@ -408,7 +409,7 @@ nav input {
     width: 100%;
     font-size: 14px;
     font-weight: 500;
-    color: var(--vanward-text);
+    color: var(--vanward-black);
     /* White text color */
     text-decoration: none;
     background-color: transparent;
@@ -447,7 +448,7 @@ nav input {
     margin-top: 5px;
     margin-left: 5px;
     margin-right: 3px;
-    color: var(--vanward-text);
+    color: var(--vanward-black);
     /* White text color */
 }
 
@@ -456,7 +457,7 @@ nav input {
     margin-top: 7px;
     margin-left: 8px;
     margin-right: 3px;
-    color: var(--vanward-text);
+    color: var(--vanward-black);
     /* White text color */
 }
 
