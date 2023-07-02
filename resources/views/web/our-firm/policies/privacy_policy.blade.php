@@ -15,11 +15,12 @@
         <p style="padding-top: 10px;">
         <div>
             <div class="teaser-text">
-                <p><strong>Vanward Privacy Policy</strong></p>
-                <p><em>Last Updated: November 11 2022</em></p>
-                <p>Vanward and all other related affiliates and subsidiaries (collectively “Vanward”, “we” or “us”)
-                    respect your privacy and are committed to protecting it.&nbsp;</p>
-                <p><strong>Websites and Services Covered by This Privacy Policy</strong></p>
+                <p><strong>@lang('public.privacy policy 1')Vanward Privacy Policy</strong></p>
+                <p><em>@lang('public.privacy policy 2')Last Updated: November 11 2022</em></p>
+                <p>@lang('public.privacy policy 3')Vanward and all other related affiliates and subsidiaries (collectively “Vanward”, “we” or “us”)
+                    respect your privacy and are committed to protecting it. </p>
+                <p><strong>@lang('public.privacy policy 4')Websites and Services Covered by This Privacy Policy</strong></p>
+                @lang('public.privacy policy 5')
                 <p>This privacy policy applies to our privacy practices for handling information relating to
                     your use of wgaml.com and other websites operated by us from which you are accessing this
                     privacy policy (collectively referred to as the “Sites”), as well as our online services on
@@ -29,19 +30,20 @@
                     privacy policies or to websites of other companies or entities that are linked to this
                     website. To learn about the privacy policy of a linked site, please refer to the privacy
                     policy for that site.</p>
-                <p>Vanward is the data controller for personal information that we collect through the Sites.&nbsp;
-                    We are also the controller for personal data we collect for our key business contacts.&nbsp;
+                <p>Vanward is the data controller for personal information that we collect through the Sites.
+                    We are also the controller for personal data we collect for our key business contacts.
                     For personal data provided in relation to our business products there are times when we are
-                    a controller.&nbsp; If you have questions on when we are acting as a controller or questions
+                    a controller.  If you have questions on when we are acting as a controller or questions
                     related to our processing of your personal data (or about any content in this policy),
                     please find our contact details, including the contact details of our Data Protection
                     Officers in the <strong>How to Contact Us</strong> section at the end of this policy.</p>
-                <p>Please read this policy carefully.&nbsp; Your use of the Sites and/or the Services, including
+                <p>Please read this policy carefully.  Your use of the Sites and/or the Services, including
                     your disclosure of any personal information into the Sites and/or Services is subject to and
-                    governed by this policy.&nbsp;</p>
-                <p><strong>What this Privacy Policy covers</strong></p>
-                <p>This Privacy Policy covers:</p>
+                    governed by this policy. </p>
+                <p><strong>@lang('public.privacy policy 6')What this Privacy Policy covers</strong></p>
+                <p>@lang('public.privacy policy 7')This Privacy Policy covers:</p>
                 <div style="padding-left: 30px;">
+                    @lang('public.privacy policy ')
                     <li>Personal information we collect about you;</li>
                     <li>Sensitive data;</li>
                     <li>How we use and share personal information;</li>
@@ -52,11 +54,12 @@
                     <li>Effective date and policy changes; and</li>
                     <li>How to contact us.</li>
                 </div>
-                <p><strong>Personal information we collect about you</strong></p>
-                <p>We collect and store information that you voluntarily provide to us, information related to
+                <p><strong>@lang('public.privacy policy ')Personal information we collect about you</strong></p>
+                <p>@lang('public.privacy policy ')We collect and store information that you voluntarily provide to us, information related to
                     your Sites visit and usage, as well as information provided to us by or through our clients
-                    in connection with our Services.&nbsp; We also collect certain information when you:</p>
+                    in connection with our Services.  We also collect certain information when you:</p>
                 <div style="padding-left: 30px;">
+                    @lang('public.privacy policy ')
                     <li>submit inquiries via an online form;</li>
                     <li>sign up to Services offered by Vanward;</li>
                     <li>apply for jobs with Vanward via our online portal;</li>
@@ -64,10 +67,11 @@
                     <li>engage with our electronic marketing communications (also referred to below as emails).
                     </li>
                 </div>
-                <p><em>Information that you provide us</em></p>
-                <p>Personal information that you provide directly to us will be apparent from the context in
+                <p><em>@lang('public.privacy policy ')Information that you provide us</em></p>
+                <p>@lang('public.privacy policy ')Personal information that you provide directly to us will be apparent from the context in
                     which you provide it, for example:</p>
                 <div style="padding-left: 30px;">
+                    @lang('public.privacy policy ')
                     <li>if you fill out a form on our Sites, you will generally provide your name, contact
                         details and any other information required by the form, such as the content of your
                         inquiry;</li>
@@ -83,15 +87,15 @@
                         LinkedIn account.</li>
                     <li>If you are a key contact in a business that has a business account with Vanward, we
                         generally have your name, email address, phone number, title and other information
-                        relevant to your interaction with Vanward on behalf of your employer.&nbsp;</li>
+                        relevant to your interaction with Vanward on behalf of your employer. </li>
                     <li>if you are a person that we hold information on in relation to Services provided by us,
                         we generally have information you have provided to us in order to open and administer
                         your account and or the register of the Fund(s) you own shares of, which could include
                         data to detect and prevent fraud, anti-money laundering and terrorism financing as well
                         as to perform negative news and sanctions screening.</li>
                 </div>
-                <p><em>Information that we collect automatically</em></p>
-                <p>Our web servers may log information such as your device type, operating system type, browser
+                <p><em>@lang('public.privacy policy ')Information that we collect automatically</em></p>
+                <p>@lang('public.privacy policy ')Our web servers may log information such as your device type, operating system type, browser
                     type, domain, the website from which you were referred to our Sites (if any), and other
                     system settings, as well as the language your system uses and the country, city, and time
                     zone where your device is located. The web server logs may also record information such as
@@ -102,41 +106,45 @@
                     link web pages to particular web servers and their cookies. We may also collect information
                     from your browser, such as your browsing history on the Sites, and use it in conjunction
                     with data gathered from forms and emails to help understand and respond to your needs. See
-                    our <a href="privacy-policy/cookie-policy.html" target="_blank">@lang('public.cookie policy')</a> for more
+                    our <a href="privacy-policy/cookie-policy.html" target="_blank">@lang('public.cookie policy')</a>
+                    @lang('public.privacy policy ')for more
                     information.</p>
+                    @lang('public.privacy policy ')
                 <p><em>“Do Not Track” Signals</em></p>
                 <p>Your browser settings may allow you to transmit a “Do Not Track” signal to websites and
                     online services you visit. Like many other websites and online services, we do not currently
                     process or respond to “Do Not Track” signals from your browser or to other mechanisms that
-                    enable choice.&nbsp;</p>
+                    enable choice. </p>
                 <p>Both we and our service providers who provide the technology platforms which support elements
                     of the Services (e.g., video clips) may collect personal information about our visitors’ use
-                    of the Services online.&nbsp; Other than collection of information as described in this
+                    of the Services online.  Other than collection of information as described in this
                     Privacy Policy, we will not collect personal information about you when you use the Sites or
                     the Services, unless you choose to directly provide such information to us when contacting
-                    us via email or other method.&nbsp; We will use your personal information to process your
-                    request and, when applicable, respond to you.&nbsp;</p>
+                    us via email or other method.  We will use your personal information to process your
+                    request and, when applicable, respond to you. </p>
                 <p><em>If you are a client of Vanward</em></p>
                 <p>In addition to collecting information directly from you, we may collect information from
                     third- party sources to satisfy our due diligence obligations in connection with your new
-                    account opening.&nbsp; This third-party data allows us to verify the information you have
+                    account opening.  This third-party data allows us to verify the information you have
                     provided to us, for example, to comply with our legal obligations under “know your customer”
                     laws.</p>
-                <p><strong>Sensitive data</strong></p>
+                <p><strong>@lang('public.privacy policy ')Sensitive data</strong></p>
+                @lang('public.privacy policy ')
                 <p>We recognize that certain jurisdictions have enacted laws that require higher protection of
                     certain sensitive personally identifiable information, such as state or national ID numbers,
                     or other information regarding racial or ethnic origin, health or medical records
-                    (“Sensitive Data”).&nbsp; As a general rule, we do not collect Sensitive Data from you.</p>
+                    (“Sensitive Data”).  As a general rule, we do not collect Sensitive Data from you.</p>
                 <p>In the limited cases where we do seek to collect such information, we will seek to do so only
                     in accordance with applicable data privacy law requirements.</p>
-                <p><strong>How we use and share personal information</strong></p>
-                <p><em>Information that we collect from you</em></p>
-                <p>We may use the personal information you provide for a number of reasons, including, but not
+                <p><strong>@lang('public.privacy policy ')How we use and share personal information</strong></p>
+                <p><em>@lang('public.privacy policy ')Information that we collect from you</em></p>
+                <p>@lang('public.privacy policy ')We may use the personal information you provide for a number of reasons, including, but not
                     limited to:</p>
                 <div style="padding-left: 30px;">
+                    @lang('public.privacy policy ')
                     <li>To respond to inquiries or service requests and monitor such responses;</li>
                     <li>To provide information about and market our products or Services which we believe may be
-                        of interest.&nbsp; This includes tailored product, thought leadership, and event
+                        of interest.  This includes tailored product, thought leadership, and event
                         communications.</li>
                     <li>To manage and improve the Sites and assess their usage and effectiveness;</li>
                     <li>To develop our business and to inform our marketing strategy, in particular, by
@@ -148,9 +156,10 @@
                     <li>To administer client accounts, including anti-money laundering, sanctions and anti-fraud
                         checks.</li>
                 </div>
+                @lang('public.privacy policy ')
                 <p>We use the personal information for the purposes described above because we have a legitimate
                     interest in operating and improving our business that is not overridden by your interests,
-                    rights and freedoms to protect personal information about you.&nbsp; We will only send you
+                    rights and freedoms to protect personal information about you.  We will only send you
                     direct marketing materials if you have given consent for us to do so, unless such consent is
                     not required, in which case you will be provided the opportunity to opt-out of receipt of
                     direct marketing materials.</p>
@@ -166,26 +175,28 @@
                     Sites, and how we may tailor the Sites to better meet the needs of our visitors. We use the
                     personal information for the purposes described above because we have a legitimate interest
                     in operating and improving our Sites that is not overridden by your interests, rights and
-                    freedoms to protect personal information about you.&nbsp; See our <a
-                        href="privacy-policy/cookie-policy.html" target="_blank">@lang('public.cookie policy')</a> for more
-                    information.&nbsp;</p>
-                <p>We also collect personal information when you engage with our email communications.&nbsp;
+                    freedoms to protect personal information about you.  See our <a
+                        href="privacy-policy/cookie-policy.html" target="_blank">@lang('public.cookie policy')</a> @lang('public.privacy policy ')for more
+                    information. </p>
+                    @lang('public.privacy policy ')
+                <p>We also collect personal information when you engage with our email communications.
                     This includes email open and click information, and any responses submitted to our event
-                    communications.&nbsp; We use personal information for these purposes because we have a
+                    communications.  We use personal information for these purposes because we have a
                     legitimate interest in growing our business and developing our marketing strategy. See our
-                    <a href="privacy-policy/cookie-policy.html" target="_blank">@lang('public.cookie policy')</a> for more
+                    <a href="privacy-policy/cookie-policy.html" target="_blank">@lang('public.cookie policy')</a> @lang('public.privacy policy ')for more
                     information.
                 </p>
+                @lang('public.privacy policy ')
                 <p><em>Other uses of your personal information</em></p>
                 <p>We also may use the personal information that we collect to protect against and prevent
                     fraud, claims, and other liabilities and to comply with or enforce applicable legal
-                    requirements, industry standards, and our policies and terms.&nbsp; We use personal
+                    requirements, industry standards, and our policies and terms.  We use personal
                     information for these purposes when it is necessary to protect, exercise or defend our legal
                     rights, or when we are required to do so by law that applies to us.</p>
                 <p><em>Mobile Phone Information</em></p>
                 <p>In connection with certain of our products and services, we may authenticate instructions
                     which purport to come from you by calling back a telephone number which you have previously
-                    provided to us.&nbsp; By providing us with a mobile phone number for call back purposes, or
+                    provided to us.  By providing us with a mobile phone number for call back purposes, or
                     by submitting an instruction, you authorize (on behalf of yourself and any Authorized
                     Person) that the appropriate carrier (AT&T, Sprint, T-Mobile, U.S. Cellular, Verizon or
                     any other branded operator) may disclose to us and our third-party service providers the
@@ -193,32 +204,33 @@
                     identifiers (IMSI [International Mobile Subscriber Identity] and IMEI [International Mobile
                     Equipment Identifier]) and other subscriber status and device details, if available, solely
                     to verify the caller’s identity and prevent fraud for the duration of the relationship.
-                    &nbsp;Please note that this information is used only as part of the call back procedure to
+                     Please note that this information is used only as part of the call back procedure to
                     verify your instruction, and this information is not retained by us after completion of the
-                    verification.&nbsp;</p>
+                    verification. </p>
                 <p>In addition to the uses described above, we may use personal information that you provide to
                     us or that we collect for other purposes. Where this is the case, we will provide an
                     additional privacy notice to you that describes the purposes for which we will use the
-                    personal information and our legal basis for doing so.&nbsp;</p>
+                    personal information and our legal basis for doing so. </p>
                 <p><em>Sharing your personal information</em></p>
                 <p>We do not sell any personal information that we collect about you. We do not disclose any
                     personal information about our current or former clients to anyone, except as described in
                     this policy, as permitted by contract or law and subject to confidentiality obligations that
                     apply in certain jurisdictions.</p>
                 <p>We may disclose or share personal information about our customers to our affiliates, as
-                    permitted by law, for our affiliates to provide services.&nbsp; We also may share your
+                    permitted by law, for our affiliates to provide services.  We also may share your
                     personal information with service providers that perform services on our behalf, such as
-                    hosting providers and advisers.&nbsp; All service providers have entered into legally
+                    hosting providers and advisers.  All service providers have entered into legally
                     binding agreements requiring them to use or disclose personal information only as necessary
-                    to perform services on our behalf or comply with applicable legal requirements.&nbsp; We may
+                    to perform services on our behalf or comply with applicable legal requirements.  We may
                     share personal information with our affiliates and service providers for a number of
                     reasons, including:</p>
                 <div style="padding-left: 30px;">
+                    @lang('public.privacy policy ')
                     <li>You have requested information about our affiliates’ products and services;</li>
                     <li>We rely on services provided by our affiliates and service providers to provide you with
                         the services you require;</li>
                 </div>
-                <p>In addition, we may disclose your personal information (i) at the request of a bank or other
+                <p>@lang('public.privacy policy ')In addition, we may disclose your personal information (i) at the request of a bank or other
                     regulatory agency or in connection with an examination of us by bank or other examiners;
                     (ii) to our internal or external auditors or attorneys; (iii) when we believe disclosure is
                     necessary or appropriate to prevent physical harm or financial loss; (iv) if we are required
@@ -226,7 +238,8 @@
                     from a law enforcement agency; (v) if disclosure is necessary to protect the vital interests
                     of a person; or (vi) in the event we sell or transfer all or a portion of our business or
                     assets (including in the event of a reorganization, dissolution, or liquidation).</p>
-                <p><strong>How we transfer and store personal information</strong></p>
+                <p><strong>@lang('public.privacy policy ')How we transfer and store personal information</strong></p>
+                @lang('public.privacy policy ')
                 <p>Vanward is a global organization; personal information we collect may be transferred
                     internationally throughout the world to countries where we do business, which may not have
                     the same data protection laws as the country in which you reside. We have internal policies
@@ -239,33 +252,36 @@
                     personal information to recipients in countries outside of the EEA, the United Kingdom and
                     Switzerland. In all such cases, we will only transfer your personal information if:</p>
                 <div style="padding-left: 30px;">
-                    <li>The country to which the personal information will be transferred to has been granted a
+                    <li>@lang('public.privacy policy ')The country to which the personal information will be transferred to has been granted a
                         <a href="https://ec.europa.eu/info/law/law-topic/data-protection_en"
-                            class="disclaimer-toggle">European Commission adequacy decision</a>;
+                            class="disclaimer-toggle">@lang('public.privacy policy ')European Commission adequacy decision</a>;
                     </li>
-                    <li>The recipient of the personal information is located in the U.S. and has certified to
-                        the <a href="https://www.privacyshield.gov/welcome" class="disclaimer-toggle">EU-U.S.
+                    <li>@lang('public.privacy policy ')The recipient of the personal information is located in the U.S. and has certified to
+                        the <a href="https://www.privacyshield.gov/welcome" class="disclaimer-toggle">@lang('public.privacy policy ')EU-U.S.
                             Privacy Shield Framework</a>;</li>
-                    <li>We have put in place appropriate safeguards in respect of the transfer, for example the
+                    <li>@lang('public.privacy policy ')We have put in place appropriate safeguards in respect of the transfer, for example the
                         <a href="https://ec.europa.eu/info/law/law-topic/data-protection_en"
-                            class="disclaimer-toggle">EU Model Clauses</a>;&nbsp;
+                            class="disclaimer-toggle">@lang('public.privacy policy ')EU Model Clauses</a>;
                     </li>
+                    @lang('public.privacy policy ')
                     <li>The recipient of the personal information has adopted Binding Corporate Rules in
                         relation to the personal information transferred; or</li>
                     <li>The transfer is otherwise authorized by applicable legal requirements.</li>
                 </div>
-                <p>You may request a copy of the safeguards that we have put in place in respect of transfers of
+                <p>@lang('public.privacy policy ')You may request a copy of the safeguards that we have put in place in respect of transfers of
                     personal information by contacting us as described in the How to Contact Us section below.
                 </p>
-                <p><strong>How long we keep personal information</strong></p>
+                <p><strong>@lang('public.privacy policy ')How long we keep personal information</strong></p>
+                @lang('public.privacy policy ')
                 <p>The time period for which we keep personal information depends on the purpose for which we
-                    collect it.&nbsp; In all cases we keep it for as long as is necessary to fulfil the purposes
-                    for which we collected it.&nbsp; We will then delete or anonymize the personal information,
+                    collect it.  In all cases we keep it for as long as is necessary to fulfil the purposes
+                    for which we collected it.  We will then delete or anonymize the personal information,
                     unless we are legally required to retain it or if we need to retain it in order to comply
                     with our legal obligations (for example, for tax and accounting purposes).</p>
                 <p>Subject to any applicable legal requirements, we typically retain personal information as
                     follows:</p>
                 <div style="padding-left: 30px;">
+                    @lang('public.privacy policy ')
                     <li>Personal information you provide to us through our Sites: we keep this personal
                         information for as long as necessary to respond to your request, and for a short further
                         period in the event that you send us further requests.</li>
@@ -280,18 +296,19 @@
                         information, for several months. These logs include access logs (to monitor and maintain
                         the security of our Sites), error logs (to track and record errors), and security logs
                         (to track and record security related events, such as, unauthorized access attempts).
-                        &nbsp;</li>
+                         </li>
                 </div>
-                <p><strong>Your rights&nbsp;</strong></p>
-                <p>As a person who provides us with personal information, you may inquire as to the nature of
+                <p><strong>@lang('public.privacy policy ')Your rights </strong></p>
+                <p>@lang('public.privacy policy ')As a person who provides us with personal information, you may inquire as to the nature of
                     the personal information stored at and/or processed by us. You will be provided reasonable
                     access to your personal information held by us and, where appropriate, with the ability to
                     review and correct inaccuracies. We will cooperate in providing such access. All such
                     requests for access may be made by sending a request in writing to: <a href="mailto:dpo@wgaml.com"
                         target="_blank">dpo@wgaml.com</a>.</p>
-                <p>If you are in the EEA or Switzerland, you may have the following rights in relation to your
+                <p>@lang('public.privacy policy ')If you are in the EEA or Switzerland, you may have the following rights in relation to your
                     personal information that we hold about you:</p>
                 <div style="padding-left: 30px;">
+                    @lang('public.privacy policy ')
                     <li>To request confirmation of whether we process personal information relating to you and,
                         if so, to request a copy of that personal information;</li>
                     <li>To request that we rectify or update your personal information that is inaccurate,
@@ -305,19 +322,21 @@
                     <li>Where you have given us consent to process your personal information, to withdraw your
                         consent; and</li>
                     <li>To request that we provide a copy of your personal information to you in a structured,
-                        commonly used and machine-readable format in certain circumstances.&nbsp;</li>
+                        commonly used and machine-readable format in certain circumstances. </li>
                 </div>
+                @lang('public.privacy policy ')
                 <p>To help protect your privacy and provide security, we may take reasonable steps to verify
                     your identity before we satisfy your request. We shall respond to such reasonable request
                     made by you within such time period as required under applicable law after your identity has
                     been confirmed.</p>
                 <p>You also have the right to lodge a complaint with the data protection supervisory authority
                     in your country.</p>
-                <p><strong>Children’s privacy</strong></p>
-                <p>We recognize the need to provide particular privacy protections with respect to personal
-                    information that may be collected from children.&nbsp; Our Sites and Services are not aimed
-                    at or intended for children.&nbsp;</p>
-                <p><strong>Effective date and policy changes</strong></p>
+                <p><strong>@lang('public.privacy policy ')Children’s privacy</strong></p>
+                <p>@lang('public.privacy policy ')We recognize the need to provide particular privacy protections with respect to personal
+                    information that may be collected from children.  Our Sites and Services are not aimed
+                    at or intended for children. </p>
+                <p><strong>@lang('public.privacy policy ')Effective date and policy changes</strong></p>
+                @lang('public.privacy policy ')
                 <p>Each time you use our Sites, the current version of the Privacy Policy will apply. This
                     policy is subject to change from time to time. The ‘Last Updated’ section at the top of this
                     policy indicates when the policy was last updated. If we change it, we will post the current
@@ -327,20 +346,21 @@
                 <p>Unless stated otherwise, our current Privacy Policy applies to all information that we have
                     about you. We will not materially change our policies and practices to make them less
                     protective of your privacy without your consent.</p>
-                <p><strong>How to contact us</strong></p>
-                <p>If you have questions or comments about this Privacy Policy, or about how your personal
+                <p><strong>@lang('public.privacy policy ')How to contact us</strong></p>
+                <p>@lang('public.privacy policy ')If you have questions or comments about this Privacy Policy, or about how your personal
                     information is processed you may contact us:</p>
-                <p>By email at: <a href="mailto:GlobalPrivacy@wgaml.com" target="_blank">globalprivacy@wgaml.com</a>.
+                <p>@lang('public.privacy policy ')By email at: <a href="mailto:GlobalPrivacy@wgaml.com" target="_blank">globalprivacy@wgaml.com</a>.
                 </p>
-                <p>In writing at:</p>
-                <p><em>Attention: Privacy Officer</em></p>
-                <p><em>Unit 1 25/F Shanghai Commercial Bank Tower, 12 Queen's Road Central, Hong Kong </em></p>
-                <p>You may also contact our Data Protection Officers:</p>
-                <p>By email at: <a href="mailto:dpo@wgaml.com" target="_blank">dpo@wgaml.com</a></p>
-                <p>In writing at:</p>
-                <p><em>Attention: Data Protection Officer</em></p>
-                <p><em>Vanward</em></p>
-                <p><em>Unit 1 25/F Shanghai Commercial Bank Tower, 12 Queen's Road Central, Hong Kong </em></p>
+                @lang('public.privacy policy ')
+                <p>@lang('public.privacy policy ')In writing at:</p>
+                <p><em>@lang('public.privacy policy ')Attention: Privacy Officer</em></p>
+                <p><em>@lang('public.privacy policy ')Unit 1 25/F Shanghai Commercial Bank Tower, 12 Queen's Road Central, Hong Kong </em></p>
+                <p>@lang('public.privacy policy ')You may also contact our Data Protection Officers:</p>
+                <p>@lang('public.privacy policy ')By email at: <a href="mailto:dpo@wgaml.com" target="_blank">dpo@wgaml.com</a></p>
+                <p>@lang('public.privacy policy ')In writing at:</p>
+                <p><em>@lang('public.privacy policy ')Attention: Data Protection Officer</em></p>
+                <p><em>@lang('public.privacy policy ')Vanward</em></p>
+                <p><em>@lang('public.privacy policy ')Unit 1 25/F Shanghai Commercial Bank Tower, 12 Queen's Road Central, Hong Kong </em></p>
                 <p></p>
                 <p></p>
                 <p></p>
@@ -349,20 +369,23 @@
 
         <div>
             <div class="teaser-text">
-                <h2 style="padding-top: 30px">California Consumer Privacy Act Disclosures&nbsp;</h2>
-                <p><em>Last Updated: 21 May 2020</em></p>
-                <p>The California Consumer Privacy Act (“CCPA”) requires that we disclose certain information
+                <h2 style="padding-top: 30px">@lang('public.privacy policy ')California Consumer Privacy Act Disclosures </h2>
+                <p><em>@lang('public.privacy policy ')Last Updated: 21 May 2020</em></p>
+                <p>
+                    @lang('public.privacy policy ')
+                    The California Consumer Privacy Act (“CCPA”) requires that we disclose certain information
                     regarding our collection, use, and disclosure of personal information of California
-                    residents.&nbsp; These California Consumer Privacy Disclosures (“Disclosures”) supplement
+                    residents.  These California Consumer Privacy Disclosures (“Disclosures”) supplement
                     the Vanward Privacy Policy above and apply solely to California consumers. These Disclosures
                     do not apply to Vanward personnel. Sections 2-4 of these Disclosures do not apply to Vanward
                     job applicants.</p>
                 <p></p>
-                <p><strong>1. Notice of Collection and Use of Personal Information </strong></p>
-                <p>Depending on the nature of your relationship with us, we may collect (and may have collected
+                <p><strong>1. @lang('public.privacy policy ')Notice of Collection and Use of Personal Information </strong></p>
+                <p>@lang('public.privacy policy ')Depending on the nature of your relationship with us, we may collect (and may have collected
                     during the 12-month period prior to the effective date of these Disclosures) the following
                     categories of personal information about you:</p>
                 <div style="padding-left: 30px;">
+                    @lang('public.privacy policy ')
                     <li><strong>Identifiers:</strong> identifiers such as a real name, alias, postal address,
                         unique personal identifier (such as a device identifier; cookies, beacons, pixel tags,
                         mobile ad identifiers and similar technology; customer number, unique pseudonym, or user
@@ -414,7 +437,7 @@
                     <li>Undertaking internal research for technological development and demonstration</li>
                     <li>Undertaking activities to verify or maintain the quality or safety of a service or
                         device that is owned, manufactured, manufactured for, or controlled by us, and to
-                        improve, upgrade, or enhance the service&nbsp; that is owned, manufactured, manufactured
+                        improve, upgrade, or enhance the service  that is owned, manufactured, manufactured
                         for, or controlled by us.</li>
                     <li>Managing career opportunities with Vanward.</li>
                 </div>
@@ -443,7 +466,7 @@
                 <p>Depending on the nature of your relationship with us, during the 12-month period prior to the
                     effective date of these Disclosures, we may have disclosed the following categories of
                     personal information about you for a business purpose to the following categories of third
-                    parties:&nbsp;</p>
+                    parties: </p>
                 <table>
                     <tbody>
                         <tr>
@@ -534,14 +557,14 @@
                 <p></p>
                 <p><strong>4. Specific Rights under the CCPA</strong></p>
                 <p>Under the CCPA, California residents have certain specific rights with respect to their
-                    personal information.&nbsp; The following describes these rights:</p>
+                    personal information.  The following describes these rights:</p>
                 <p><em>Right to Request Information</em></p>
                 <p>You have the right to request, twice in a 12-month period, that we disclose to you the
                     personal information we have collected, used, disclosed and sold about you during the past
                     12 months.</p>
                 <p><em>Right to Request Deletion of Personal Information</em></p>
                 <p>You also have the right to request that we delete certain personal information that we have
-                    collected from you.&nbsp;</p>
+                    collected from you. </p>
                 <p><em>Opt-Out of Sale</em></p>
                 <p><em>You have the right to opt out of the sale of your personal information. </em>As noted in
                     our main Privacy Policy, we do not sell any personal information, including but not limited
@@ -561,21 +584,21 @@
                         Officer.</li>
                 </ol>
                 <p>Please note that for us to act on your request, we must verify that you are the individual to
-                    whom the request relates.&nbsp; The procedure for verifying your request will vary depending
+                    whom the request relates.  The procedure for verifying your request will vary depending
                     on the nature of your request and your relationship with us but will typically involve
                     requiring you to provide us with two or more pieces of identifying information matching your
                     personal information already in our records. In addition, if you ask us to provide you with
                     specific pieces of personal information, we may require you to sign a declaration under
                     penalty of perjury that you are the consumer whose personal information is the subject of
-                    the request.&nbsp; We will notify you if we are unable to verify your request as required by
-                    the CCPA.&nbsp;</p>
+                    the request.  We will notify you if we are unable to verify your request as required by
+                    the CCPA. </p>
                 <p>To submit a request as an authorized agent on behalf of an individual, you must provide us
                     with written and signed permission from the individual to submit requests on their behalf,
                     in addition to any other information which would be necessary if the individual were making
                     the request directly.</p>
                 <p><em>Right of Non-Discrimination</em></p>
                 <p>We will not discriminate against you because you have exercised any of your rights under the
-                    CCPA.&nbsp; This includes, but is not limited to, denying you goods or services, charging
+                    CCPA.  This includes, but is not limited to, denying you goods or services, charging
                     you different prices or rates for goods or services, providing you with a different level or
                     quality of goods or services, or suggesting that you will receive a different price or rate
                     for goods or services or a different level or quality of goods or services because you have

@@ -14,7 +14,7 @@
     <div class="eleven columns">
         <h2>@lang('public.USA patriot act')</h2>
         <p style="padding-top: 10px;">
-            The resource requested could not be found on this server.
+            @lang('public.content unavailable')
         </p>
     </div>
     <div class="five columns">
