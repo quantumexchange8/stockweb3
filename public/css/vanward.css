@@ -6,10 +6,7 @@
     --vanward-text-bold1: #e5e5e5;
     --vanward-text-hover: #ffffff;
     --vanward-text-hover-background: #F76F1F;
-
-
-
-    --vanward-blue-light4: #afc6e7;
+    --vanward-blue-light4: #1E2445;
     --vanward-blue-light3: #7AA0D7;
     --vanward-blue-light2: #53749E;
     --vanward-blue-light1: #304366;
@@ -19,7 +16,9 @@
     --vanward-blue-dark3: #040A1A;
 }
 
+
 /********************* navbar *********************/
+
 * {
     margin: 0;
     padding: 0;
@@ -225,7 +224,6 @@ nav .wrapper {
         display: block;
         color: var(--vanward-text-bold1);
     }
-
     .wrapper .nav-links {
         position: fixed;
         height: 100vh;
@@ -241,43 +239,34 @@ nav .wrapper {
         box-shadow: 0px 15px 15px rgba(0, 0, 0, 0.18);
         transition: all 0.3s ease;
     }
-
     /* custom scroll bar */
-    ::-webkit-scrollbar {
+     ::-webkit-scrollbar {
         width: 10px;
     }
-
-    ::-webkit-scrollbar-track {
+     ::-webkit-scrollbar-track {
         background: var(--vanward-background);
     }
-
-    ::-webkit-scrollbar-thumb {
+     ::-webkit-scrollbar-thumb {
         background: var(--vanward-dark-orange);
     }
-
     #menu-btn:checked~.nav-links {
         left: 0%;
     }
-
     #menu-btn:checked~.btn.menu-btn {
         display: none;
     }
-
     #close-btn:checked~.btn.menu-btn {
         display: block;
     }
-
     .nav-links li {
         margin: 15px 10px;
     }
-
     .nav-links li a {
         padding: 20px 20px;
         display: block;
         font-size: 20px;
         font-weight: 700;
     }
-
     .nav-links .drop-menu {
         position: static;
         opacity: 1;
@@ -290,26 +279,21 @@ nav .wrapper {
         box-shadow: none;
         transition: all 0.3s ease;
     }
-
     #showDrop:checked~.drop-menu,
     #showPrivateBanking:checked~.mega-box {
         max-height: 100%;
     }
-
     #showDrop:checked~.drop-menu,
     #showInvestmentManagement:checked~.mega-box {
         max-height: 100%;
     }
-
     #showDrop:checked~.drop-menu,
     #showInvestorServices:checked~.mega-box {
         max-height: 100%;
     }
-
     .nav-links .desktop-item {
         display: none;
     }
-
     .nav-links .mobile-item {
         display: block;
         color: var(--vanward-text-bold1);
@@ -320,20 +304,16 @@ nav .wrapper {
         border-radius: 5px;
         transition: all 0.3s ease;
     }
-
     .nav-links .mobile-item:hover {
         background: var(--vanward-dark-orange);
     }
-
     .drop-menu li {
         margin: 0;
     }
-
     .drop-menu li a {
         border-radius: 5px;
         font-size: 18px;
     }
-
     .mega-box {
         position: static;
         top: 65px;
@@ -344,43 +324,38 @@ nav .wrapper {
         overflow: hidden;
         transition: all 0.3s ease;
     }
-
     .mega-box .content {
         box-shadow: none;
         flex-direction: column;
         padding: 20px 20px 0 20px;
     }
-
     .mega-box .content .row {
         width: 100%;
         margin-bottom: 15px;
         border-top: 1px solid gray;
     }
-
     .mega-box .content .row:nth-child(1),
     .mega-box .content .row:nth-child(2) {
         border-top: 0px;
     }
-
     .content .row .mega-links {
         border-left: 0px;
         padding-left: 15px;
     }
-
     .row .mega-links li {
         margin: 0;
     }
-
     .content .row header {
         font-size: 18px;
     }
-
     .content:hover {
         visibility: visible;
     }
 }
 
+
 /********************* sidebar *********************/
+
 nav input {
     display: none;
 }
@@ -439,6 +414,7 @@ nav input {
     background-color: transparent;
     transition: background-color 0.3s ease;
 }
+
 #sidebar ul li a.title {
     font-weight: 700;
 }
@@ -462,7 +438,9 @@ nav input {
     display: inline-flex;
 }
 
+
 /* Nested list indicators */
+
 #sidebar ul ul li:before {
     content: "\203A";
     font-size: 25px;
@@ -472,6 +450,7 @@ nav input {
     color: var(--vanward-text);
     /* White text color */
 }
+
 #sidebar ul ul ul li:before {
     content: "\2212";
     margin-top: 7px;
@@ -481,31 +460,36 @@ nav input {
     /* White text color */
 }
 
+
 /********************* footer *********************/
-.footer{
-	position:relative;
-	display:block;
-	width:100%;
-	margin:0 auto;
-	text-align:center;
+
+.footer {
+    position: relative;
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
     font-weight: 400;
-	background:var(--vanward-dark-blue);
-	padding-top:20px;
-	padding-bottom:20px;
-}
-.footer img{
-	width:auto;
-	height:50px;
+    background: var(--vanward-dark-blue);
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
-.footer p{
-	font-size: 14px;
-	line-height:18px;
-	color: var(--vanward-text);
+.footer img {
+    width: auto;
+    height: 50px;
 }
-.footer p span{
-	color:var(--vanward-text);
+
+.footer p {
+    font-size: 14px;
+    line-height: 18px;
+    color: var(--vanward-text);
 }
+
+.footer p span {
+    color: var(--vanward-text);
+}
+
 .footer .warning {
     text-align: left !important;
     padding: 10px 5px;
@@ -522,14 +506,17 @@ nav input {
     padding: 5px 5px;
 }
 
+
 /********************* posts *********************/
-.post2{
-	background:var(--vanward-blue-light3);
-	padding-top:50px;
+
+.post2 {
+    background: var(--vanward-dark-blue);
+    padding-top: 50px;
 }
 
 
 /********************* card *********************/
+
 .card {
     /* background-image: linear-gradient(to bottom left, var(--vanward-blue-light2), var(--vanward-blue-light3)); */
     background-color: var(--vanward-blue-light3);
@@ -539,10 +526,12 @@ nav input {
     height: 270px;
     position: relative;
 }
+
 .card .card-title {
     text-align: left;
     padding-bottom: 10px;
 }
+
 .card .read-more {
     left: 0;
     bottom: 0 !important;
