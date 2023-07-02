@@ -18,112 +18,78 @@
 
         </p>
         <div class="five columns">
-            <div class="card" style="padding: 5px;">
-                <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;">
-                        <a href="javascript:goTo('crossBorderFunds')">@lang('public.cross-border funds')</a>
-                    </h6>
-                    <p>@lang('public.specialist expertise 2')
-                    </p>
-                    <div class="clear"></div>
-                    <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('crossBorderFunds')">@lang('public.read more')</a></div>
-                    </div>
+            <div class="card">
+                <h6 class="card-title"><a href="javascript:goTo('crossBorderFunds')">@lang('public.cross-border funds')</a>
+                </h6>
+                <p>@lang('public.specialist expertise 2')
+                </p>
+                <div class="link-blog read-more">
+                    <div class="cl-effect-14"><a href="javascript:goTo('crossBorderFunds')">@lang('public.read more')</a></div>
                 </div>
             </div>
-            <div class="card" style="padding: 5px;">
-                <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;">
-                        <a href="javascript:goTo('consultantsAndAdvisors')">@lang('public.consultants and advisors')</a>
-                    </h6>
-                    <p>@lang('public.specialist expertise 3')
-                    </p>
-                    <div class="clear"></div>
-                    <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('consultantsAndAdvisors')">@lang('public.read more')</a></div>
-                    </div>
+            <div class="card">
+                <h6 class="card-title"><a href="javascript:goTo('consultantsAndAdvisors')">@lang('public.consultants and advisors')</a>
+                </h6>
+                <p>@lang('public.specialist expertise 3')
+                </p>
+                <div class="link-blog read-more">
+                    <div class="cl-effect-14"><a href="javascript:goTo('consultantsAndAdvisors')">@lang('public.read more')</a></div>
                 </div>
             </div>
-            <div class="card" style="padding: 5px;">
-                <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;">
-                        <a href="javascript:goTo('alternativeFunds')">@lang('public.alternative funds')</a>
-                    </h6>
-                    <p>@lang('public.specialist expertise 4')
-                    </p>
-                    <div class="clear"></div>
-                    <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('alternativeFunds')">@lang('public.read more')</a></div>
-                    </div>
+            <div class="card">
+                <h6 class="card-title"><a href="javascript:goTo('alternativeFunds')">@lang('public.alternative funds')</a>
+                </h6>
+                <p>@lang('public.specialist expertise 4')
+                </p>
+                <div class="link-blog read-more">
+                    <div class="cl-effect-14"><a href="javascript:goTo('alternativeFunds')">@lang('public.read more')</a></div>
                 </div>
             </div>
-            <div class="card" style="padding: 5px;">
-                <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;">
-                        <a href="javascript:goTo('insurance')">@lang('public.insurance')</a>
-                    </h6>
-                    <p>@lang('public.specialist expertise 5')
-                    </p>
-                    <div class="clear"></div>
-                    <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('insurance')">@lang('public.read more')</a></div>
-                    </div>
+            <div class="card">
+                <h6 class="card-title"><a href="javascript:goTo('insurance')">@lang('public.insurance')</a>
+                </h6>
+                <p>@lang('public.specialist expertise 5')
+                </p>
+                <div class="link-blog read-more">
+                    <div class="cl-effect-14"><a href="javascript:goTo('insurance')">@lang('public.read more')</a></div>
                 </div>
             </div>
         </div>
         <div class="five columns">
-            <div class="card" style="padding: 5px;">
-                <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;">
-                        <a href="javascript:goTo('usFunds')">@lang('public.US funds')</a>
-                    </h6>
-                    <p>@lang('public.specialist expertise 6')
-                    </p>
-                    <div class="clear"></div>
-                    <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('usFunds')">@lang('public.read more')</a></div>
-                    </div>
+            <div class="card">
+                <h6 class="card-title"><a href="javascript:goTo('usFunds')">@lang('public.US funds')</a>
+                </h6>
+                <p>@lang('public.specialist expertise 6')
+                </p>
+                <div class="link-blog read-more">
+                    <div class="cl-effect-14"><a href="javascript:goTo('usFunds')">@lang('public.read more')</a></div>
                 </div>
             </div>
-            <div class="card" style="padding: 5px;">
-                <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;">
-                        <a href="javascript:goTo('distributionIntelligence')">@lang('public.distribution intelligence')</a>
-                    </h6>
-                    <p>@lang('public.specialist expertise 7')
-                    </p>
-                    <div class="clear"></div>
-                    <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('distributionIntelligence')">@lang('public.read more')</a></div>
-                    </div>
+            <div class="card">
+                <h6 class="card-title"><a href="javascript:goTo('distributionIntelligence')">@lang('public.distribution intelligence')</a>
+                </h6>
+                <p>@lang('public.specialist expertise 7')
+                </p>
+                <div class="link-blog read-more">
+                    <div class="cl-effect-14"><a href="javascript:goTo('distributionIntelligence')">@lang('public.read more')</a></div>
                 </div>
             </div>
-            <div class="card" style="padding: 5px;">
-                <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;">
-                        <a href="javascript:goTo('exchangeTradedFunds')">@lang('public.exchange traded funds')</a>
-                    </h6>
-                    <p>@lang('public.specialist expertise 8')
-                    </p>
-                    <div class="clear"></div>
-                    <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('exchangeTradedFunds')">@lang('public.read more')</a>
-                        </div>
-                    </div>
+            <div class="card">
+                <h6 class="card-title"><a href="javascript:goTo('exchangeTradedFunds')">@lang('public.exchange traded funds')</a>
+                </h6>
+                <p>@lang('public.specialist expertise 8')
+                </p>
+                <div class="link-blog read-more">
+                    <div class="cl-effect-14"><a href="javascript:goTo('exchangeTradedFunds')">@lang('public.read more')</a></div>
                 </div>
             </div>
-            <div class="card" style="padding: 5px;">
-                <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;">
-                        <a href="javascript:goTo('regulatoryIntelligence')">@lang('public.regulatory intelligence')</a>
-                    </h6>
-                    <p>@lang('public.specialist expertise 9')
-                    </p>
-                    <div class="clear"></div>
-                    <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('regulatoryIntelligence')">@lang('public.read more')</a>
-                        </div>
-                    </div>
+            <div class="card">
+                <h6 class="card-title"><a href="javascript:goTo('regulatoryIntelligence')">@lang('public.regulatory intelligence')</a>
+                </h6>
+                <p>@lang('public.specialist expertise 9')
+                </p>
+                <div class="link-blog read-more">
+                    <div class="cl-effect-14"><a href="javascript:goTo('regulatoryIntelligence')">@lang('public.read more')</a></div>
                 </div>
             </div>
         </div>

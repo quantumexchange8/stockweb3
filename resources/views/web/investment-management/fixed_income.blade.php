@@ -29,49 +29,46 @@
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.fixed income 12')<br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.fixed income 13')<br>
             &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.fixed income 14')<br><br>
-            @lang('public.fixed income 15') <a href="javascript:goTo('esgApproach')" style="text-decoration: underline;">@lang('public.fixed income 16')</a>
+            @lang('public.fixed income 15') <a href="javascript:goTo('esgApproach')"
+                style="text-decoration: underline;">@lang('public.fixed income 16')</a>
         </p>
         <div class="five columns">
-            <div class="card" style="padding: 5px;">
-                <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;">
-                        <a href="javascript:goTo('taxableFixedIncomeStrategies')">@lang('public.taxable fixed income strategies')</a>
-                    </h6>
-                    <p>@lang('public.fixed income 17')
-                    </p>
-                    <div class="clear"></div>
-                    <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('taxableFixedIncomeStrategies')">@lang('public.read more')</a></div>
-                    </div>
+            {{-- <div class="card">
+                <h6 class="card-title"><a href=""></a></h6>
+                <p>@lang('public.private equity caption 3')
+                </p>
+                <div class="link-blog read-more">
+                    <div class="cl-effect-14"><a href="">@lang('public.read more')</a></div>
+                </div>
+            </div> --}}
+            <div class="card">
+                <h6 class="card-title"><a href="javascript:goTo('taxableFixedIncomeStrategies')">@lang('public.taxable fixed income strategies')</a>
+                </h6>
+                <p>@lang('public.fixed income 17')
+                </p>
+                <div class="link-blog read-more">
+                    <div class="cl-effect-14"><a
+                            href="javascript:goTo('taxableFixedIncomeStrategies')">@lang('public.read more')</a></div>
                 </div>
             </div>
-            <div class="card" style="padding: 5px;">
-                <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;">
-                        <a href="javascript:goTo('usTipsStrategy')">@lang('public.US TIPS strategy')</a>
-                    </h6>
-                    <p>@lang('public.fixed income 18')
-                    </p>
-                    <div class="clear"></div>
-                    <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('usTipsStrategy')">@lang('public.read more')</a>
-                        </div>
-                    </div>
+            <div class="card">
+                <h6 class="card-title"><a href="javascript:goTo('usTipsStrategy')">@lang('public.US TIPS strategy')</a>
+                </h6>
+                <p>@lang('public.fixed income 18')
+                </p>
+                <div class="link-blog read-more">
+                    <div class="cl-effect-14"><a href="javascript:goTo('usTipsStrategy')">@lang('public.read more')</a></div>
                 </div>
             </div>
         </div>
         <div class="five columns">
-            <div class="card" style="padding: 5px;">
-                <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;">
-                        <a href="javascript:goTo('taxExemptFixedIncomeStrategy')">@lang('public.tax-exempt fixed income strategy')</a>
-                    </h6>
-                    <p>@lang('public.fixed income 19')
-                    </p>
-                    <div class="clear"></div>
-                    <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('taxExemptFixedIncomeStrategy')">@lang('public.read more')</a></div>
-                    </div>
+            <div class="card">
+                <h6 class="card-title"><a href="javascript:goTo('taxExemptFixedIncomeStrategy')">@lang('public.tax-exempt fixed income strategy')</a>
+                </h6>
+                <p>@lang('public.fixed income 19')
+                </p>
+                <div class="link-blog read-more">
+                    <div class="cl-effect-14"><a href="javascript:goTo('taxExemptFixedIncomeStrategy')">@lang('public.read more')</a></div>
                 </div>
             </div>
         </div>

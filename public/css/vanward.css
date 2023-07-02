@@ -518,7 +518,7 @@ nav input {
 
 .card {
     /* background-image: linear-gradient(to bottom left, var(--vanward-blue-light2), var(--vanward-blue-light3)); */
-    background-color: var(--vanward-blue-light3);
+    background-color: var(--vanward-blue-dark1);
     padding: 20px;
     margin: 15px;
     width: 290px;

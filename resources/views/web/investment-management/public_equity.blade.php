@@ -29,44 +29,32 @@
                 style="text-decoration: underline;">@lang('public.public equity 8')</a>
         </p>
         <div class="five columns">
-            <div class="card" style="padding: 5px;">
-                <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;"><a href="javascript:goTo('usLargeCapEquity')">@lang('public.US large cap equity')</a>
-                    </h6>
-                    <p>@lang('public.public equity 9')
-                    </p>
-                    <div class="clear"></div>
-                    <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('usLargeCapEquity')">@lang('public.read more')</a>
-                        </div>
-                    </div>
+            <div class="card">
+                <h6 class="card-title"><a href="javascript:goTo('usLargeCapEquity')">@lang('public.US large cap equity')</a>
+                </h6>
+                <p>@lang('public.public equity 9')
+                </p>
+                <div class="link-blog read-more">
+                    <div class="cl-effect-14"><a href="javascript:goTo('usLargeCapEquity')">@lang('public.read more')</a></div>
                 </div>
             </div>
-            <div class="card" style="padding: 5px;">
-                <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;"><a
-                            href="javascript:goTo('usSmallAndMidCapEquity')">@lang('public.US small & mid-cap equity')</a></h6>
-                    <p>@lang('public.public equity 10')
-                    </p>
-                    <div class="clear"></div>
-                    <div class="link-blog">
-                        <div class="cl-effect-14"><a
-                                href="javascript:goTo('usSmallAndMidCapEquity')">@lang('public.read more')</a>
-                        </div>
+            <div class="card">
+                <h6 class="card-title"><a href="javascript:goTo('usSmallAndMidCapEquity')">@lang('public.US small & mid-cap equity')</a></h6>
+                <p>@lang('public.public equity 10')
+                </p>
+                <div class="link-blog read-more">
+                    <div class="cl-effect-14"><a href="javascript:goTo('usSmallAndMidCapEquity')">@lang('public.read more')</a>
                     </div>
                 </div>
             </div>
         </div>
         <div class="five columns">
-            <div class="card" style="padding: 5px;">
-                <div style="background-color: #DEDEDE; padding: 20px; height: 250px;">
-                    <h6 style="text-align: left;"><a href="javascript:goTo('globalEquity')">@lang('public.global equity')</a></h6>
-                    <p>@lang('public.public equity 11')
-                    </p>
-                    <div class="clear"></div>
-                    <div class="link-blog">
-                        <div class="cl-effect-14"><a href="javascript:goTo('globalEquity')">@lang('public.read more')</a></div>
-                    </div>
+            <div class="card">
+                <h6 class="card-title"><a href="javascript:goTo('globalEquity')">@lang('public.global equity')</a></h6>
+                <p>@lang('public.public equity 11')
+                </p>
+                <div class="link-blog read-more">
+                    <div class="cl-effect-14"><a href="javascript:goTo('globalEquity')">@lang('public.read more')</a></div>
                 </div>
             </div>
         </div>
